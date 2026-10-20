@@ -1,0 +1,16 @@
+{
+  "winery": {
+    "name": "Uppa Winery",
+    "license_active": false,
+    "vineyard_ha": 12.5,
+    "website": "https://uppawinery.ru",
+    "phone": "+7 (499) 703 44 36",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Село Родное",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

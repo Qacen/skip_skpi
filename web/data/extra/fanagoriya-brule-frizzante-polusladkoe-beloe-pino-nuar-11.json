@@ -1,0 +1,29 @@
+{
+  "prices": {
+    "min": 250.0,
+    "max": 250.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 250.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/igristoe_vino_beloe_polusladkoe_zgu_kuban_fanagoriya_bryule_frizante_0_25_l.html"
+      }
+    ]
+  },
+  "winery": {
+    "name": "Фанагория",
+    "license_active": true,
+    "vineyard_ha": 3342.0,
+    "website": "https://www.fanagoria.ru",
+    "phone": "+7 86148 38747",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "2352002170"
+  }
+}

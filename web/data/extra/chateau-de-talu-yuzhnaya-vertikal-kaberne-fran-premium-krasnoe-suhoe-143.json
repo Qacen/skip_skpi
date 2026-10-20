@@ -1,0 +1,22 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "vintages": [
+    "2021"
+  ],
+  "winery": {
+    "name": "Chateau de Talu",
+    "license_active": true,
+    "vineyard_ha": 196.28,
+    "website": "https://chateaudetalu.ru",
+    "phone": "+7 (86141) 36330",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Краснодарский край / Геленджик",
+      "Кубань"
+    ],
+    "inn": "2308108667"
+  }
+}

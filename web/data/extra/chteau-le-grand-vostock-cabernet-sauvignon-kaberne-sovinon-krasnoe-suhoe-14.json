@@ -1,0 +1,22 @@
+{
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/vino/chateau_le_grand_vostock_cabernet_sauvignon/",
+    "n": 2,
+    "avg": 4.0,
+    "items": [
+      {
+        "author": "Андрей",
+        "date": "2024-02-15",
+        "rating": 5,
+        "text": "Отличное вино, как и все, что производит данная винодельня!)"
+      },
+      {
+        "author": "Антон",
+        "date": "2022-10-12",
+        "rating": 3,
+        "text": "Вино не понравилось. Аромата нет, На вкус не качественное, резкое, спиртуозное"
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "winery": {
+    "name": "Табия",
+    "license_active": false,
+    "vineyard_ha": 18.0,
+    "website": "https://t.me/tabiawine1",
+    "phone": "+7 (988) 351-03-30",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань"
+    ],
+    "inn": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1650.0,
+    "max": 1650.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1650.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/ay-danil-byanko-da-sole-beloe-polusladkoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "Шато Ай-Даниль",
+    "license_active": false,
+    "vineyard_ha": 20.5,
+    "website": "https://saintdaniel.wine",
+    "phone": "+7(499) 906-34-29",
+    "regions": [
+      "Крым",
+      "Республика Крым"
+    ],
+    "inn": null
+  }
+}

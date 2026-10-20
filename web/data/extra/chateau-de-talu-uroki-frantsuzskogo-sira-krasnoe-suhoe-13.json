@@ -1,0 +1,50 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 674.99,
+    "max": 674.99,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 674.99,
+        "url": "https://amwine.ru/catalog/vino/uroki_frantsuzskogo_sira/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/uroki_frantsuzskogo_sira/",
+      "text": "С оттенками сливы, черных ягод и специй в устойчивом послевкусии."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/uroki_frantsuzskogo_sira/",
+      "text": "Выразительные ароматы черных и красных ягод, молотого перца, маслин и эвкалипта."
+    }
+  ],
+  "vintages": [
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "winery": {
+    "name": "Chateau de Talu",
+    "license_active": true,
+    "vineyard_ha": 196.28,
+    "website": "https://chateaudetalu.ru",
+    "phone": "+7 (86141) 36330",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Краснодарский край / Геленджик",
+      "Кубань"
+    ],
+    "inn": "2308108667"
+  }
+}

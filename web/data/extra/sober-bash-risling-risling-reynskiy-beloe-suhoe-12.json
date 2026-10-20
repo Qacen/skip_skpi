@@ -1,0 +1,48 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 900.0,
+    "max": 1000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "RussianVine",
+        "price": 900.0,
+        "url": "https://russianvine.ru/vino-Soberbash-risling-2016"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 1000.0,
+        "url": "https://swn.ru/best-wines/2025-2026/risling-1412756029/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Soberbash-risling-2016",
+      "text": "Вино золотисто-соломенного цвета. В аромате легко играющие ноты имбиря, зелёного яблока, нектарина и свежескошенной травы. Вкус свежий, с бодрящей кислотностью и длительным послевкусием."
+    }
+  ],
+  "vintages": [
+    "2016",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "winery": {
+    "name": "Собер Баш",
+    "license_active": true,
+    "vineyard_ha": 61.21,
+    "website": "https://soberbashvino.ru/",
+    "phone": "+7 (988) 2420880",
+    "regions": [
+      "Долина реки Афипс",
+      "Краснодарский край"
+    ],
+    "inn": "2348032982"
+  }
+}

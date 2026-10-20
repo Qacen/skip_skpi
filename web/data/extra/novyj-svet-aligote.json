@@ -1,0 +1,23 @@
+{
+  "prices": {
+    "min": 1950.0,
+    "max": 1950.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1950.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/novyy-svet-aligote-vyderzhannoe-bryut-beloe-igristoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "winery": {
+    "name": "Новый Свет. Дом шампанских вин",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": null,
+    "phone": null,
+    "regions": [],
+    "inn": null
+  }
+}

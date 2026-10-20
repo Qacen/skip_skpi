@@ -1,0 +1,20 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 4150.0,
+    "max": 4150.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 4150.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_av_bogovich_klaret.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2023"
+  ]
+}

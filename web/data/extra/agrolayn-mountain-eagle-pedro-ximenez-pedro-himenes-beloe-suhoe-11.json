@@ -1,0 +1,41 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1400.0,
+    "max": 1400.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 1400.0,
+        "url": "https://swn.ru/best-wines/2025-2026/mountain-eagle-pedro-ximenez/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/2025-2026/mountain-eagle-pedro-ximenez/",
+      "text": "Вино очень бледного, почти прозрачного соломенного цвета. В сдержанном и элегантном аромате раскрываются свежие ноты лайма, лимона и хрустящих летних яблок. Вкус гладкий, чистый, с яркой, бодрящей кислотностью и тонами лайма, зеленого яблока и ананаса, которые переходят в свежее послевкусие."
+    }
+  ],
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "Агролайн",
+    "license_active": true,
+    "vineyard_ha": 102.09,
+    "website": "https://oooagrolain.ru",
+    "phone": "+7 (988) 293-88-89",
+    "regions": [
+      "Дагестан",
+      "Кавказ / Дагестан",
+      "Республика Дагестан"
+    ],
+    "inn": "0522013971"
+  }
+}

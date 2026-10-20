@@ -1,0 +1,14 @@
+{
+  "winery": {
+    "name": "Цимлянские вина",
+    "license_active": true,
+    "vineyard_ha": 885.0,
+    "website": "https://tsimlawines.com/",
+    "phone": "+78639156000",
+    "regions": [
+      "Долина Дона",
+      "Ростовская область"
+    ],
+    "inn": "6137007102"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1100.0,
+    "max": 1200.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1100.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/muskat-beliy-perfekt-klassik-beloe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1200.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino-gn-perfekt-klassikmuskat-belyy-beloe-sukhoe-125-075l.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2021"
+  ]
+}

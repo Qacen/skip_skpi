@@ -1,0 +1,49 @@
+{
+  "prices": {
+    "min": 2000.0,
+    "max": 3200.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "RussianVine",
+        "price": 2000.0,
+        "url": "https://russianvine.ru/vino-gusev-muscat-igristoe-polusuhoe--2017"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 2900.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/vino_igristoe_beloe_bryut_gusev_muskat_ottonel.html"
+      },
+      {
+        "label": "Красностоп",
+        "price": 3200.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/gusev-muskat-ottonel-bryut-beloe-igristoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-gusev-muscat-igristoe-polusuhoe--2017",
+      "text": "Вино золотисто-соломенного цвета. С ярким ароматом цветов акации, муската, личи, абрикоса, груши и персика. Вкус вина обладает восхитительной структурой и замечательной, яркой округлостью. Его сладкие ноты сбалансированы приятной свежестью."
+    }
+  ],
+  "vintages": [
+    "2020"
+  ],
+  "winery": {
+    "name": "Семейная винодельня \"Гусевъ\"",
+    "license_active": true,
+    "vineyard_ha": 15.81,
+    "website": "https://gusev-agro.ru",
+    "phone": "+7 499) 7034436",
+    "regions": [
+      "Волгоградская обл",
+      "Волгоградская область",
+      "Нижняя Волга",
+      "Нижняя Волга / Волгоградская область"
+    ],
+    "inn": "340500710676"
+  }
+}

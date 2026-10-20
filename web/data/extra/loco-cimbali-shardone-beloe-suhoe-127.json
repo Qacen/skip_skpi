@@ -1,0 +1,21 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2600.0,
+    "max": 2600.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 2600.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_sukhoe_beloe_loco_cimbali_chardonnay.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2021",
+    "2022"
+  ]
+}

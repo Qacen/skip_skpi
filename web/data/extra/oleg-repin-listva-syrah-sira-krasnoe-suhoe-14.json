@@ -1,0 +1,53 @@
+{
+  "awards": [
+    "TOP100 2022 #15, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2800.0,
+    "max": 6700.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 2800.0,
+        "url": "https://top100wines.ru/top100_22"
+      },
+      {
+        "label": "Каталог виноделен",
+        "price": 4500.0,
+        "url": "https://thewinery.ru/wine_listva_sira_oleg_repin_krasnoe_suhoe.php"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 6500.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/repin_oleg_sukhoe_krasnoe_sira.html"
+      },
+      {
+        "label": "Красностоп",
+        "price": 6700.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/oleg-repin-sira-listva-2023-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/vino/p/listva-syrah-3360/",
+      "text": "Во вкусе среднетелое, структурное, фруктовое: черешня, спелая сочная вишня, красная слива, специи. Послевкусие с мягкими танинами и оттенком лесных ягод."
+    },
+    {
+      "kind": "aroma",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/vino/p/listva-syrah-3360/",
+      "text": "Мощная интенсивная ароматика: яркие ноты черной смородины, ежевики, шелковицы, черничного конфитюра."
+    }
+  ],
+  "vintages": [
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ]
+}

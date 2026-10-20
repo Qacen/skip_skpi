@@ -1,0 +1,50 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 600.0,
+    "max": 600.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 600.0,
+        "url": "https://thewinery.ru/wine_merlo_rezerv_golubitskoe_estate_krasnoe_suhoe.php"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_merlo_rezerv_golubitskoe_estate_krasnoe_suhoe.php",
+      "text": "Сочный, сбалансированный.Гастрономические сочетания: Мясо, блюда под красным соусом, теплые салаты, печень."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_merlo_rezerv_golubitskoe_estate_krasnoe_suhoe.php",
+      "text": "В букете превалируют нотки пряностей на фоне красных фруктов."
+    }
+  ],
+  "vintages": [
+    "2020",
+    "2022"
+  ],
+  "winery": {
+    "name": "Golubitskoe Estate",
+    "license_active": true,
+    "vineyard_ha": 349.91,
+    "website": "https://golubitskoe-estate.ru",
+    "phone": "+7 861 204 08 50",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Тамань",
+      "Тамань"
+    ],
+    "inn": "2352029975"
+  }
+}

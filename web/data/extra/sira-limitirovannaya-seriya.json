@@ -1,0 +1,42 @@
+{
+  "awards": [
+    "TOP100 2025 #38, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2400.0,
+    "max": 2500.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 2400.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino-stolovoe-sira-limitirovannaya-seriya-tz-usadba-perovskikh-sukhoe-krasnoe-14-075l.html"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 2500.0,
+        "url": "https://top100wines.ru/2025"
+      }
+    ]
+  },
+  "vintages": [
+    "2020",
+    "2021",
+    "2026"
+  ],
+  "winery": {
+    "name": "Усадьба Перовских",
+    "license_active": false,
+    "vineyard_ha": 215.0,
+    "website": "https://perovskywinery.ru",
+    "phone": "+7 985 773 97 92",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Долина реки Бельбек",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

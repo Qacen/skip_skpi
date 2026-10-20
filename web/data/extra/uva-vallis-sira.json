@@ -1,0 +1,14 @@
+{
+  "winery": {
+    "name": "Uva Vallis",
+    "license_active": false,
+    "vineyard_ha": 20.0,
+    "website": null,
+    "phone": "+7 (342) 293-33-02",
+    "regions": [
+      "Крым",
+      "Республика Крым"
+    ],
+    "inn": null
+  }
+}

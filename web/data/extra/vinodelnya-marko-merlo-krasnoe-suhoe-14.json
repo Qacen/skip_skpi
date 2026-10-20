@@ -1,0 +1,50 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1950.0,
+    "max": 1950.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1950.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/marko-merlo-krasnoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "RussianVine",
+        "price": 1950.0,
+        "url": "https://russianvine.ru/vino-usadba-markoth-merlot-2017"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-usadba-markoth-merlot-2017",
+      "text": "Вино насыщенного рубинового цвета. В аромате вишня, смородина, клубничный джем и пряности. Во вкусе среднетелое, округлое, с зрелыми шелковистыми танинами, с оттенками ягод и специй в долгом послевкусии."
+    }
+  ],
+  "vintages": [
+    "2017",
+    "2023"
+  ],
+  "winery": {
+    "name": "Усадьба Маркотх",
+    "license_active": false,
+    "vineyard_ha": 8.2,
+    "website": "https://t.me/chateau_marko",
+    "phone": "+7 (962) 4280391",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Краснодарский край / Геленджик",
+      "Кубань",
+      "Ставрополь",
+      "Ставрополье"
+    ],
+    "inn": "233101832573"
+  }
+}

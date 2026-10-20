@@ -1,0 +1,45 @@
+{
+  "prices": {
+    "min": 800.0,
+    "max": 945.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 800.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/fanagoriya-brule-cuvee-bryut-rosovoe-igristoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 945.0,
+        "url": "https://fortwine.ru/product/igristoe-vino-fanagoria-brule-cuvee-brut-rose-0-75/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://fortwine.ru/product/igristoe-vino-fanagoria-brule-cuvee-brut-rose-0-75/",
+      "text": "Цвет светло-розовый. Игра мелкодисперсная, среднеинтенсивная, с выраженной насыщенностью. В аромате изысканного вина присутствуют ноты спелых сладких лесных ягод. Вкус свежий, элегантный, хорошо сбалансированный."
+    }
+  ],
+  "vintages": [
+    "2024"
+  ],
+  "winery": {
+    "name": "Фанагория",
+    "license_active": true,
+    "vineyard_ha": 3342.0,
+    "website": "https://www.fanagoria.ru",
+    "phone": "+7 86148 38747",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "2352002170"
+  }
+}

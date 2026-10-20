@@ -1,0 +1,88 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 500.0,
+    "max": 500.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 500.0,
+        "url": "https://amwine.ru/catalog/vino/merlo_zinfandel_kyuve/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/merlo_zinfandel_kyuve/",
+      "text": "Яркий вкус с фруктовыми нотками (яблоки, клюква) и умеренной кислотностью."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/merlo_zinfandel_kyuve/",
+      "text": "Аромат малины, клубники, красных яблок. Сливочно-ванильные и минеральные оттенки."
+    }
+  ],
+  "vintages": [
+    "2020",
+    "2021"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/vino/merlo_zinfandel_kyuve/",
+    "n": 6,
+    "avg": 5.0,
+    "items": [
+      {
+        "author": "Марина Александрова",
+        "date": "2024-02-22",
+        "rating": 5,
+        "text": "Прекрасное, вкусное вино!"
+      },
+      {
+        "author": "Екатерина Малёва",
+        "date": "2024-02-14",
+        "rating": 5,
+        "text": "Очень классное вино. Вкусное."
+      },
+      {
+        "author": "Татьяна",
+        "date": "2023-11-06",
+        "rating": 5,
+        "text": "Великолепный вкус! Прям лучшее в этом ценовом сегменте"
+      },
+      {
+        "author": "Дмитрий",
+        "date": "2023-09-27",
+        "rating": 5,
+        "text": "Отличное вино с прекрасным ароматом🙂"
+      },
+      {
+        "author": "Алексей Шишкин",
+        "date": "2023-08-07",
+        "rating": 5,
+        "text": "Отличное розе! Легкое и сбалансированное. Аромат красных ягод повторяется во вкусе. Отличный выбор за эти деньги."
+      }
+    ]
+  },
+  "winery": {
+    "name": "Винодельня Мысхако",
+    "license_active": true,
+    "vineyard_ha": 594.37,
+    "website": "https://myskhako.ru",
+    "phone": "+7 (8617) 72-98-00",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Новороссийск",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": "2315005310"
+  }
+}

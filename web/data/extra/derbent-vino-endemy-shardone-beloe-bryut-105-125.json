@@ -1,0 +1,78 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 599.0,
+    "max": 700.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 599.0,
+        "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zgu_dagestan_bryut_beloe_endemy_shardone/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 700.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/vino_igristoe_beloe_bryut_zgu_dagestan_endemy_shardone.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zgu_dagestan_bryut_beloe_endemy_shardone/",
+      "text": "Вкус полный, чистый, фруктовый, раскрывается тонами спелых летних фруктов и медовых оттенков."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zgu_dagestan_bryut_beloe_endemy_shardone/",
+      "text": "Аромат тонкий, развитый с выраженными нотами айвы, желтых яблок и ананаса."
+    }
+  ],
+  "vintages": [
+    "2023",
+    "2024"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zgu_dagestan_bryut_beloe_endemy_shardone/",
+    "n": 18,
+    "avg": 4.78,
+    "items": [
+      {
+        "author": "Мария Астахова",
+        "date": "2026-01-11",
+        "rating": 5,
+        "text": "Великолепное, легкое, питкое игристое. Нежный, но не слишком простецкий вкус. Перляж не слишком интенсивный, легкий. Обожаю всю линейку Эндемы и рекомендую к дегустации."
+      },
+      {
+        "author": "Ирина Валуева",
+        "date": "2025-09-04",
+        "rating": 3,
+        "text": "Горькие нотки . И охладив еще сильнее они не пропали. Не понравилось ."
+      },
+      {
+        "author": "Елена Илларионова",
+        "date": "2025-06-18",
+        "rating": 3,
+        "text": "Мне вообще не понравилось. При открытии бутылки половина улетела в воздух. Впервые такое. Стояло в холодильнике. В чем причина? Не трясла. Никаких нот не почувствовала. Купила первый раз. Очень любила Шардоне. Больше не куплю. Выпила бокал и голова поехала. Мне не понравилось. Такое впечатление что до конца не выдержали и разлили. Это мое мнение. Может кому и понравится. А игристые вина люблю и знакома со многими марками. Виноделам есть над чем работать и работать.... Желаю им удачи!"
+      },
+      {
+        "author": "Роман Романенко",
+        "date": "2025-06-18",
+        "rating": 5,
+        "text": "Сливочное масло, яблоко и немного цитрусовых в аромате. Нежное, совершенно не кислое вино. Очень достойное, для меня одно из лучших среди российских игристых."
+      },
+      {
+        "author": "Роман Романенко",
+        "date": "2025-06-18",
+        "rating": 5,
+        "text": "Очень понравилось. Тонкое, нежное, совершенно не кислит. Сливочно-ванильный аромат."
+      }
+    ]
+  }
+}

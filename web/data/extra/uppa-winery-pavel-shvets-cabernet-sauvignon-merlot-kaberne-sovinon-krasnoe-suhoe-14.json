@@ -1,0 +1,32 @@
+{
+  "prices": {
+    "min": 10000.0,
+    "max": 10300.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 10000.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_zgu_krym_pavel_shvets_cabernet_sauvignon_merlot.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2021",
+    "2022"
+  ],
+  "winery": {
+    "name": "Uppa Winery",
+    "license_active": false,
+    "vineyard_ha": 12.5,
+    "website": "https://uppawinery.ru",
+    "phone": "+7 (499) 703 44 36",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Село Родное",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

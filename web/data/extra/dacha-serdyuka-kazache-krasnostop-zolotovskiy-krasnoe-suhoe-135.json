@@ -1,0 +1,39 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1000.0,
+    "max": 3600.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 1000.0,
+        "url": "https://thewinery.ru/wine_kazachie_dacha_serduka_krasnoe_suhoe.php"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1050.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_dacha_serdyuka_kazache_krasnoe_sukhoe_stolovoe.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_kazachie_dacha_serduka_krasnoe_suhoe.php",
+      "text": "Во вкусе терпкое, танинное, с оттенками красных ягод, тутовника и шоколада."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_kazachie_dacha_serduka_krasnoe_suhoe.php",
+      "text": "В аромате чёрная смородина, фиалка, тёмный шоколад и кожа."
+    }
+  ],
+  "vintages": [
+    "2023"
+  ]
+}

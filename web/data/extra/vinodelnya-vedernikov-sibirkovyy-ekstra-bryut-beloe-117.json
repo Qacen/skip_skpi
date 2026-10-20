@@ -1,0 +1,40 @@
+{
+  "awards": [
+    "TOP100 2022 #63, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1400.0,
+    "max": 2150.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1400.0,
+        "url": "https://top100wines.ru/top100_22"
+      },
+      {
+        "label": "Красностоп",
+        "price": 2150.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/sibirkovyy-vedernikovskoe-ekstra-bryut-beloe-igristoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2017",
+    "2019",
+    "2021"
+  ],
+  "winery": {
+    "name": "Винодельня Ведерниковъ",
+    "license_active": false,
+    "vineyard_ha": 215.56,
+    "website": "https://vedernikovwine.ru",
+    "phone": "+78632504540",
+    "regions": [
+      "Долина Дона",
+      "Ростовская область"
+    ],
+    "inn": "6116008465"
+  }
+}

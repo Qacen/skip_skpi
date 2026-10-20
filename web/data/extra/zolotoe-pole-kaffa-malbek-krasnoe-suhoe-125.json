@@ -1,0 +1,15 @@
+{
+  "winery": {
+    "name": "Золотое Поле",
+    "license_active": true,
+    "vineyard_ha": 550.0,
+    "website": "http://www.zolotoe-pole.com",
+    "phone": "8 903 724-45-99",
+    "regions": [
+      "Крым",
+      "Крым / Феодосия",
+      "Республика Крым"
+    ],
+    "inn": "9108109017"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2150.0,
+    "max": 4800.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 2150.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_domaine_lipko_pinot_noir.html"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 3180.0,
+        "url": "https://swn.ru/best-wines/2025-2026/pinot-noir-1963660687/"
+      }
+    ]
+  },
+  "vintages": [
+    "2017",
+    "2022",
+    "2023"
+  ],
+  "winery": {
+    "name": "Domaine Lipko",
+    "license_active": false,
+    "vineyard_ha": 43.0,
+    "website": "https://domainelipko.com",
+    "phone": "+7 (978) 000-17-38",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Балаклава",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

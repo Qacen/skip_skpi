@@ -1,0 +1,44 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1600.0,
+    "max": 1600.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "RussianVine",
+        "price": 1600.0,
+        "url": "https://russianvine.ru/vino-Perovsky-Pino-Noir-Rezerv-2015"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Perovsky-Pino-Noir-Rezerv-2015",
+      "text": "Вино ярко рубинового цвета. Тонкий аромат, с нотками малины, клубничного джема, оттенками специй и пряностей. Во вкусе свежее, с мягкими танинами и минеральным послевкусием."
+    }
+  ],
+  "vintages": [
+    "2015",
+    "2021",
+    "2025"
+  ],
+  "winery": {
+    "name": "Усадьба Перовских",
+    "license_active": false,
+    "vineyard_ha": 215.0,
+    "website": "https://perovskywinery.ru",
+    "phone": "+7 985 773 97 92",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Долина реки Бельбек",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

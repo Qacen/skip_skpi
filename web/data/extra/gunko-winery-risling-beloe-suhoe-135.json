@@ -1,0 +1,36 @@
+{
+  "awards": [
+    "TOP100 2024 #39, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1100.0,
+    "max": 1600.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "RussianVine",
+        "price": 1100.0,
+        "url": "https://russianvine.ru/vino-gunko-vinodelnya-risling-2017"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1600.0,
+        "url": "https://top100wines.ru/2024"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-gunko-vinodelnya-risling-2017",
+      "text": "Вино светло-соломенного цвета. В аромате оттенки цветов, белых фруктов и цитрусовых. Во вкусе полнотелое, гармоничное, с приятной кислотностью и с длительным послевкусием."
+    }
+  ],
+  "vintages": [
+    "2017",
+    "2022",
+    "2024"
+  ]
+}

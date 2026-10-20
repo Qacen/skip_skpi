@@ -1,0 +1,21 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2600.0,
+    "max": 2600.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 2600.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/sukhoe_krasnoe_balaklava_merlot.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2020",
+    "2021"
+  ]
+}

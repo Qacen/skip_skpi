@@ -1,0 +1,39 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1000.0,
+    "max": 3050.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 1000.0,
+        "url": "https://thewinery.ru/wine_porechnoe_dacha_serduka_krasnoe_suhoe.php"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 3050.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_dacha_serdyuka_porechnoe_krasnoe_sukhoe_.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_porechnoe_dacha_serduka_krasnoe_suhoe.php",
+      "text": "Во вкусе сбалансированное с нотами тёрна и чёрной смородины."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_porechnoe_dacha_serduka_krasnoe_suhoe.php",
+      "text": "В аромате красные ягоды."
+    }
+  ],
+  "vintages": [
+    "2023"
+  ]
+}

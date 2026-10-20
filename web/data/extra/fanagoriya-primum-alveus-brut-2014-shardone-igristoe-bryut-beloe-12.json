@@ -1,0 +1,52 @@
+{
+  "awards": [
+    "TOP100 2023 #27, Золото",
+    "TOP100 2022 #53, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1100.0,
+    "max": 4900.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1100.0,
+        "url": "https://top100wines.ru/top100_22"
+      },
+      {
+        "label": "Красностоп",
+        "price": 1550.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/fanagoriya-primum-alveus-2017-bryut-beloe-igristoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/igristye-vina/fanagoriya-primum-alveus-3-2021-bryut-beloe-igristoe-vino-0-75-l/",
+      "text": "Вино структурированное, хорошо сбалансированное, во вкусе тона сдобы и халвы с продолжительным сливочным завершением"
+    }
+  ],
+  "vintages": [
+    "2014",
+    "2017",
+    "2021"
+  ],
+  "winery": {
+    "name": "Фанагория",
+    "license_active": true,
+    "vineyard_ha": 3342.0,
+    "website": "https://www.fanagoria.ru",
+    "phone": "+7 86148 38747",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "2352002170"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1000.0,
+    "max": 2200.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 1000.0,
+        "url": "https://swn.ru/best-wines/2025-2026/kaberne-fran-254836577/"
+      },
+      {
+        "label": "Красностоп",
+        "price": 1650.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/sober-bash-kaberne-fran-2020-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/sober-bash-kaberne-fran-2021-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Вино полнотелое, кислотность сбалансированная, танины сглаженные, вкус интенсивный наполнен тонами спелых черных ягод и фруктов."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/sober-bash-kaberne-fran-2021-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Букет мощный, многослойный, наполнен ароматами черных ягод с тонами пряностей, табака и зеленого перца."
+    }
+  ],
+  "vintages": [
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2024"
+  ],
+  "winery": {
+    "name": "Собер Баш",
+    "license_active": true,
+    "vineyard_ha": 61.21,
+    "website": "https://soberbashvino.ru/",
+    "phone": "+7 (988) 2420880",
+    "regions": [
+      "Долина реки Афипс",
+      "Краснодарский край"
+    ],
+    "inn": "2348032982"
+  }
+}

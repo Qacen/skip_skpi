@@ -1,0 +1,28 @@
+{
+  "prices": {
+    "min": 600.0,
+    "max": 600.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 600.0,
+        "url": "https://thewinery.ru/wine_muskatel_rozovij_massandra_rozovoe_sladkoe.php"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_muskatel_rozovij_massandra_rozovoe_sladkoe.php",
+      "text": "Мягкий, достаточно полный вкус десертного характера."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_muskatel_rozovij_massandra_rozovoe_sladkoe.php",
+      "text": "Мускатный тон в аромате."
+    }
+  ]
+}

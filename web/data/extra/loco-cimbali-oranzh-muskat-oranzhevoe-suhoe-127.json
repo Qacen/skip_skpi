@@ -1,0 +1,18 @@
+{
+  "prices": {
+    "min": 1900.0,
+    "max": 11400.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1900.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_beloe_sukhoe_loco_cimbali_orange_2023.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2024",
+    "2025"
+  ]
+}

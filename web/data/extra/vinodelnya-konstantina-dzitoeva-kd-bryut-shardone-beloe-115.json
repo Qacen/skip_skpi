@@ -1,0 +1,53 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 4500.0,
+    "max": 9750.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "RussianVine",
+        "price": 4500.0,
+        "url": "https://russianvine.ru/vino-dzitoev-brut-beloe-2019"
+      },
+      {
+        "label": "Красностоп",
+        "price": 9750.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/kd-bryut-beloe-igristoe-vino-1-5-l-magnum/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-dzitoev-brut-beloe-2019",
+      "text": "Цвет вина соломенно-золотистый. Тонкий букет с нотами цитрусовых фруктов, персика, тонами специй. Вкус полный, гармоничный, освежающий, с приятной сбалансированной кислотностью."
+    }
+  ],
+  "vintages": [
+    "2016",
+    "2017",
+    "2019",
+    "2020",
+    "2022"
+  ],
+  "winery": {
+    "name": "Константин Дзитоев",
+    "license_active": false,
+    "vineyard_ha": 2.0,
+    "website": "https://t.me/kdwinery",
+    "phone": "+7 (8672) 707295",
+    "regions": [
+      "Долина Терека",
+      "Кавказ / Северная Осетия",
+      "Республика Северная Осетия-Алания",
+      "Северная Осетия",
+      "Северная Осетия - Алания",
+      "Северная Осетия — Алания"
+    ],
+    "inn": null
+  }
+}

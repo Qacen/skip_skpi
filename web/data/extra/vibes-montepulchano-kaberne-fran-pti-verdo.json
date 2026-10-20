@@ -1,0 +1,34 @@
+{
+  "awards": [
+    "TOP100 2024 #44, Золото"
+  ],
+  "prices": {
+    "min": 2700.0,
+    "max": 2700.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 2700.0,
+        "url": "https://top100wines.ru/2024"
+      }
+    ]
+  },
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "Vibes",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": "https://vibes-wine.ru",
+    "phone": null,
+    "regions": [
+      "Крым",
+      "Крым / Севастополь",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

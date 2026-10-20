@@ -1,0 +1,88 @@
+{
+  "prices": {
+    "min": 801.0,
+    "max": 1050.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 801.0,
+        "url": "https://amwine.ru/catalog/vino/kagor_gurzuf/"
+      },
+      {
+        "label": "Красностоп",
+        "price": 900.0,
+        "url": "https://krasnostop.ru/katalog/likernye-vina/massandra-kagor-gurzuf-krasnoe-desertnoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1050.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_krasnoe_sladkoe_zgu_krym_massandra_kagor_gurzuf_2022.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/likernye-vina/massandra-kagor-gurzuf-krasnoe-desertnoe-vino-0-75-l/",
+      "text": "Вино тельное округлое, прекрасный баланс сладости и кислотности, во вкусе чёрные ягоды, которые также преобладают в продолжительном послевкусии."
+    },
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/kagor_gurzuf/",
+      "text": "Полный, бархатистый с ягодными тонами."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/kagor_gurzuf/",
+      "text": "Аромат с тонами вишнёвого и сливового варенья, засахаренной черной смородины и шоколада, с нотами молочных сливок."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/likernye-vina/massandra-kagor-gurzuf-krasnoe-desertnoe-vino-0-75-l/",
+      "text": "В букете спиртуозность не ощущается, доминируют ароматы черносмородинового джема и сливок."
+    }
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/vino/kagor_gurzuf/",
+    "n": 46,
+    "avg": 4.3,
+    "items": [
+      {
+        "author": "Григорий Кулагин",
+        "date": "2026-05-22",
+        "rating": 1,
+        "text": "Всем добрый день. Решил попробовать данное вино. Очень и очень сладкое. Пить невозможно. Такое ощущение, что ешь сахар. Возможно это на любителя. Кто не любит сладкое не рекомендую. Никому свое мнение не навязываю. Это мое субъективное оценочное суждение."
+      },
+      {
+        "author": "Pavel Anokhin",
+        "date": "2026-05-08",
+        "rating": 4,
+        "text": "Тирольский пирог, плотно. 88/100. Продегустировано вслепую для Осеннего гида."
+      },
+      {
+        "author": "Сергей",
+        "date": "2026-05-06",
+        "rating": 4,
+        "text": "Вполне хороший кагор. Для любителей сладкого думаю очень зайдет. Спирт не выпирает, но для своих градусов чувствуется. Хороший насыщенный ягодный вкус."
+      },
+      {
+        "author": "Tanya Platina",
+        "date": "2026-05-06",
+        "rating": 4,
+        "text": "К сожалению, сильго проигрывает Партениту: нет баланса сладости и терпкости, просто приторно сладкий. Ароматика тоже сильно беднее"
+      },
+      {
+        "author": "Rick Adoren",
+        "date": "2026-05-06",
+        "rating": 4,
+        "text": "В аромате сладкий чай, во вкусе снова чайно и сладкие сухофрукты, вяжет немного, сладенько, Южнобережный явно лучше, тут всё гораздо проще."
+      }
+    ]
+  }
+}

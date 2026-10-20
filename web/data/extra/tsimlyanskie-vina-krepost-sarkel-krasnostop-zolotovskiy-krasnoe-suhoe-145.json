@@ -1,0 +1,51 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1026.99,
+    "max": 1400.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 1026.99,
+        "url": "https://amwine.ru/catalog/vino/krepost_sarkel_krasnostop_zolotovskiy/"
+      },
+      {
+        "label": "Красностоп",
+        "price": 1400.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/krepost-sarkel-krasnostop-zolotovskiy-krasnoe-suho-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/krepost_sarkel_krasnostop_zolotovskiy/",
+      "text": "Вкус вина мягкий, гармоничный, приятный, элегантный, с доминирующими оттенками темной вишни и черной смородины, округлыми танинами, умеренной кислотностью и долгим, пряным послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/krepost_sarkel_krasnostop_zolotovskiy/",
+      "text": "Насыщенный аромат вина взрывается сочными оттенками спелой вишни, темной алычи и сливы в обрамлении пряных полутонов."
+    }
+  ],
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "Цимлянские вина",
+    "license_active": true,
+    "vineyard_ha": 885.0,
+    "website": "https://tsimlawines.com/",
+    "phone": "+78639156000",
+    "regions": [
+      "Долина Дона",
+      "Ростовская область"
+    ],
+    "inn": "6137007102"
+  }
+}

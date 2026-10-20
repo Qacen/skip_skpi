@@ -1,0 +1,20 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1950.0,
+    "max": 1950.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1950.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/batrak-kontadina-krasnoe-polusuhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2022"
+  ]
+}

@@ -1,0 +1,88 @@
+photo_id,file,subset,target_slug,target_title,target_category,alt_slugs,gt_color,gt_sweetness,gt_vintage,read_producer,read_wine_name,read_grapes,read_sweetness
+RP003,48.98_02-09-2026_18-34-15.webp,exact,denisov_rubin_klaret_krasnaya_strelka,Рубин кларет . Красная стрелка,Розовое сухое,,rose,dry,,DENISOV,КРАСНАЯ СТРЕЛКА,Рубин,
+RP004,68.81_05-09-2026_15-46-31.webp,probable,fanagoriya-velvet-season-muskat-ottonel-beloe-sladkoe-13,Velvet Season,Белое сладкое,,white,sweet,,FANAGORIA,VELVET SEASON,MUSCAT,Сладкое
+RP006,72.97_09-09-2026_19-38-57.webp,same_line,shato-pino-aligote-rkatsiteli-beloe-suhoe-12,Алиготе - Ркацители белое сухое,Белое сухое,,,,2025,CHÂTEAU PINOT,Беленькое,,
+RP007,82.33_27-08-2026_10-03-52.webp,exact,skalistyj-bereg-shepot-czvetov,Скалистый берег Шепот цветов,Белое сухое,skalistyy-bereg-shyopot-tsvetov-risling-beloe-suhoe-109,white,dry,,СКАЛИСТЫЙ БЕРЕГ,ШЁПО? / ЦВЕ? / ТОВ,,
+RP008,84.73_07-09-2026_11-07-51.webp,exact,zhemchuzhnaya-9-aligote-czitron,"Жемчужная 9 Алиготе, Цитрон",Белое сухое,,white,dry,2024,АРАТТИ,ЖЕМЧУЖНАЯ 9,АЛИГОТЕ,СУХОЕ
+RP009,87.09_22-08-2026_20-57-16.webp,exact,pobeda,Победа,Красное сухое,,red,dry,,ТАБИЯ,Победа,"КАБЕРНЕ СОВИНЬОН · МЕРЛО, РУБИН ГОЛОДРИГИ",
+RP010,87.54_03-09-2026_13-27-53.webp,exact,relikta-relikta-sira-kaberne-fran-krasnoe-suhoe-13,"Реликта Сира, Каберне Фран",Красное сухое,,red,dry,2024,РЕЛИКТА,,"Сира, Каберне Фран",Сухое
+RP011,87.6_20-08-2026_19-56-56.webp,same_line,leto-kaberne-fran-rezerv-2021-suhoe-krasnoe,LETO Каберне Фран Резерв 2021 сухое красное,Красное сухое,,,dry,2024,,Шардоне Резерв,Шардоне,Сухое
+RP012,87.81_09-09-2026_17-16-36.webp,same_line,aya-organic-wine-vineyards-purity-in-chenin-blanc-shenen-blan-beloe-suhoe-11,Purity in Chenin Blanc,Белое сухое,aya-organic-wine-vineyards-purity-in-chenin-blanc-shenen-blan-beloe-suhoe-11,,,2025,AYA,PURiTY In Balance,,
+RP013,87.88_28-08-2026_16-56-20.webp,exact,massandra-muskatel-belyy-belye-sorta-vinograda-beloe-sladkoe-16,Мускатель белый,Белое сладкое,,white,sweet,2023,Массандра (Производственно-аграрное объединение),Мускатель Массандра Белый,,
+RP014,88.2_05-09-2026_16-29-06.webp,same_line,inkerman-shato-ruzh,Inkerman Шато Руж,Красное полусухое,,,dry,,INKERMAN,Каберне,Каберне,Сухое
+RP015,88.38_20-08-2026_18-32-58.webp,exact,czitronnyj-magaracha-sovinon-blan,"Жемчужная 9 Цитрон, Совиньон блан",Белое полусухое,,white,semi_dry,2024,Аратти,Цитрон,Совиньон Блан,полусухое
+RP016,89.65_19-08-2026_19-48-39.webp,exact,rozovoe-zoloto,Розовое золото,Розовое полусухое,,rose,semi_dry,2024,Табия,Розовое золото,,полусухое
+RP017,90.5_02-09-2026_10-32-11.webp,same_line,inkerman-shato-ruzh,Inkerman Шато Руж,Красное полусухое,,,semi_sweet,,INKERMAN,Буссо,,полусладкое
+RP018,91.07_20-08-2026_18-37-46.webp,exact,aratti-kaberne-sovinon-2021-krasnoe-suhoe,АРАТТИ Каберне Совиньон 2021 красное сухое,Красное сухое,aratti-kaberne-sovinon-2020-krasnoe-suhoe,red,dry,2021,Аратти,,Каберне Совиньон,
+RP019,91.43_02-09-2026_12-08-50.webp,exact,merlo-2,Мерло,Красное сухое,,red,dry,,Семейная винодельня Литавщуков,Мерло,Мерло,сухое
+RP020,92.21_19-08-2026_18-57-31.webp,exact,belaya-lvicza,Белая Львица белое полусладкое,Белое полусладкое,,white,semi_sweet,,ARATTI,Белая Львица,,полусладкое
+RP021,92.6_07-09-2026_11-04-40.webp,exact,aratti-kaberne-sovinon-2020-krasnoe-suhoe,АРАТТИ Каберне Совиньон 2020 красное сухое,Красное сухое,aratti-kaberne-sovinon-2021-krasnoe-suhoe,red,dry,2020,Аратти,Каберне Совиньон,Каберне Совиньон,
+RP022,92.94_21-08-2026_19-37-08.webp,exact,denisov-winery-sovinon-blan-beloe-suhoe-115,Совиньон Блан,Белое сухое,,white,dry,,Денисов,Совиньон Блан,Совиньон Блан,
+RP023,92.96_19-08-2026_21-07-12.webp,exact,aratti-kaberne-sovinon-2020-krasnoe-suhoe,АРАТТИ Каберне Совиньон 2020 красное сухое,Красное сухое,aratti-kaberne-sovinon-2021-krasnoe-suhoe,red,dry,2020,Аратти,Каберне Совиньон,Каберне Совиньон,
+RP025,93.31_05-09-2026_13-39-37.webp,exact,golubitskoe-estate-noble-selection-red-blend-kaberne-sovinon-krasnoe-suhoe-136,Noble Selection Red Blend,Красное сухое,,red,dry,2019,GOLUBITSKOE ESTATE,NOBLE SELECTION,,
+RP026,93.43_05-09-2026_13-34-45.webp,exact,denisov_pet_nat_rubin,Пет-Нат Рубин,Розовое экстра брют,,rose,extra_brut,,DENISOV,Рубин,,
+RP027,93.68_19-08-2026_20-44-28.webp,exact,zakat-denisov-vajneri,Закат. Денисов Вайнери,Розовое сухое,,rose,dry,,ДЕНИСОВ,ЗАКАТ,,
+RP028,93.84_02-09-2026_17-13-04.webp,exact,zakat-denisov-vajneri,Закат. Денисов Вайнери,Розовое сухое,,rose,dry,,ДЕНИСОВ,ЗАКАТ,,
+RP029,93.95_05-09-2026_15-29-36.webp,same_line,fanagoriya-alveus-ultra-cuvee-brut-shardone-beloe-bryut-12,Alveus Ultra Cuvee Brut,Белое брют,,,brut,,ALVEUS,Ультра Кюве,,БРЮТ
+RP030,93.97_28-08-2026_16-02-48.webp,exact,golubitskoe-estate-chardonnay,Golubitskoe Estate Chardonnay,Белое сухое,,white,dry,2024,GOLUBITSKOE ESTATE,CHARDONNAY,CHARDONNAY,
+RP031,94.02_24-08-2026_17-46-57.webp,exact,rubin-golodrigi,Рубин Голодриги ,Красное сухое,,red,dry,2023,ТАБИЯ,РУБИН ГОЛОДРИГИ,,СУХОЕ
+RP032,94.43_05-09-2026_15-29-25.webp,same_line,fanagoriya-alveus-ultra-cuvee-brut-shardone-beloe-bryut-12,Alveus Ultra Cuvee Brut,Белое брют,,,brut,,ALVEUS,УЛЬТРА КЮВЕ,,БРЮТ
+RP033,94.55_02-09-2026_16-53-08.webp,exact,denisov_pazori_risling,Пазори Рислинг,Белое брют,,white,brut,2022,DENISOV,Па?ори,,БРЮТ
+RP034,94.72_21-08-2026_15-41-48.webp,exact,derbent-vino-desono-kaberne-sovinon-krasnoe-suhoe-125,Дэсоно Каберне Совиньон,Красное сухое,,red,dry,2022,DESONO,,CABERNET SAUVIGNON,СУХОЕ
+RP035,94.7_25-08-2026_15-52-07.webp,exact,czitronnyj-magaracha-sovinon-blan,"Жемчужная 9 Цитрон, Совиньон блан",Белое полусухое,,white,semi_dry,2024,Аратти,Жемчужная 9 Цитрон,Совиньон Блан,полусухое
+RP036,94.83_27-08-2026_14-29-28.webp,same_line,shato-pino-aligote-rkatsiteli-beloe-suhoe-12,Алиготе - Ркацители белое сухое,Белое сухое,,,,2025,Château Pinot,Беленькое,,
+RP038,94.94_05-09-2026_15-04-50.webp,probable,denisov-winery-sovinon-blan-beloe-suhoe-115,Совиньон Блан,Белое сухое,,white,dry,,Денисов,,Совиньон Блан,
+RP039,94.97_02-09-2026_19-01-48.webp,exact,zhemchuzhnaya-9-pino-nuar-muskat-rozovyj-2,"Жемчужная 9 Пино нуар, Мускат Розовый",Розовое полусладкое,,rose,semi_sweet,2024,Аратти,Жемчужная 9 Пино Нуар,Мускат Розовый,полусладкое
+RP040,95.03_04-09-2026_11-39-35.webp,exact,fanagoriya-zelyonoe-vino-risling-tsitronnyy-magaracha-beloe-polusuhoe-11,Зелёное вино. Рислинг - Цитронный Магарача,Белое полусухое,,white,semi_dry,,FANAGORIA,Зеленое вино,Рислинг Цитронный Магарача,Полусухое
+RP041,95.07_01-09-2026_16-15-35.webp,same_line,khrustaleva-76-muscat-bryut-beloe,"Khrustaleva 76 muscat, брют, белое",Белое брют,,,,2025,Khrustaleva76,AVA,PINOT GRIS,EXTRA BRUT
+RP042,95.17_29-08-2026_11-06-42.webp,same_line,golubitskoe-estate-merlo-krasnoe-suhoe-135,Мерло,Красное сухое,,,,2023,GOLUBITSKOE ESTATE,,PINOT NOIR,
+RP043,95.19_05-09-2026_15-32-06.webp,same_line,fanagoriya-alveus-ultra-cuvee-brut-shardone-beloe-bryut-12,Alveus Ultra Cuvee Brut,Белое брют,,,brut,,ALVEUS,Ультра Кюве,,БРЮТ
+RP044,95.24_19-08-2026_20-00-22.webp,exact,zhemchuzhnaya-9-czitron-shardone-1,"Жемчужная 9 Цитрон, Шардоне",Белое полусладкое,,white,semi_sweet,2024,АРАТТИ,Жемчужная 9,Цитрон Шардоне,Белое полусладкое
+RP046,95.2_05-09-2026_13-54-13.webp,exact,aratti-kaberne-po-belomu-1,АРАТТИ Каберне по-белому,Розовое полусухое,aratti-kaberne-po-belomu,rose,semi_dry,2024,Аратти,Каберне по-белому,Каберне,полусухое
+RP047,95.32_02-09-2026_12-09-23.webp,exact,sovinon-blan,Совиньон Блан,Белое полусладкое,,white,semi_sweet,,Семейная винодельня Литавщуков,Совиньон Блан,Совиньон Блан,полусладкое
+RP048,95.35_05-09-2026_15-29-53.webp,same_line,fanagoriya-alveus-ultra-cuvee-brut-shardone-beloe-bryut-12,Alveus Ultra Cuvee Brut,Белое брют,,,brut,,ALVEUS,Ультра Кюве,,брют
+RP050,95.49_05-09-2026_15-34-51.webp,exact,zhemchuzhnaya-9-pino-nuar-muskat-rozovyj-2,"Жемчужная 9 Пино нуар, Мускат Розовый",Розовое полусладкое,,rose,semi_sweet,2024,Аратти,Жемчужная 9,"Пино Нуар, Мускат Розовый",полусладкое
+RP051,95.63_24-08-2026_17-47-43.webp,exact,rubin-golodrigi,Рубин Голодриги ,Красное сухое,,red,dry,2023,Табия,Рубин Голодриги,,сухое
+RP052,95.75_02-09-2026_14-47-49.webp,exact,uva-vallis-risling,Uva Vallis Рислинг,Красное сухое,,red,dry,2023,Uva Vallis,Levitas,Riesling,
+RP053,95.76_23-08-2026_18-19-43.webp,exact,denisov_barynya_kurmyshi,Барыня. Курмыши,Розовое сухое,,rose,dry,,DENISOV,КУ??ЫШИ,,
+RP054,95.88_02-09-2026_14-41-59.webp,exact,fanagoriya-zelyonoe-vino-risling-tsitronnyy-magaracha-beloe-polusuhoe-11,Зелёное вино. Рислинг - Цитронный Магарача,Белое полусухое,,white,semi_dry,,Fanagoria,Зеленое вино,"Рислинг, Цитронный Магарача",полусухое
+RP055,95.8_19-08-2026_19-33-23.webp,exact,roze-2,Розе,Розовое сухое,,rose,dry,2024,ТАБИЯ,Розе,,сухое
+RP057,96.05_28-08-2026_09-14-57.webp,same_line,usadba-divnomorskoe-yuzhnyy-les-merlo-krasnoe-suhoe-137,Южный Лес,Красное сухое,,,,,УСАДЬБА ДИВНОМОРСКОЕ,Вечерница,,
+RP058,96.07_28-08-2026_16-10-06.webp,exact,golubitskoe-estate-kaberne-sovinon-krasnoe-suhoe-137,Каберне Совиньон,Красное сухое,,red,dry,2023,GOLUBITSKOE ESTATE,,Cabernet Sauvignon,
+RP059,96.08_22-08-2026_15-12-27.webp,exact,zhemchuzhnaya-9-czitron-shardone-1,"Жемчужная 9 Цитрон, Шардоне",Белое полусладкое,,white,semi_sweet,2024,АРАТТИ,Цитрон,Шардоне,полусладкое
+RP060,96.08_28-08-2026_16-29-50.webp,exact,golubitskoe-estate-merlo-krasnoe-suhoe-135,Мерло,Красное сухое,,red,dry,2022,GOLUBITSKOE ESTATE,,MERLOT,
+RP061,96.11_22-08-2026_21-29-20.webp,same_line,aristov-anima-millesimato-beloe-bryut,Аристов ANIMA Millesimato белое брют,Белое брют,,,brut,2023,ARISTOV,DONUM XXIV,,БРЮТ
+RP062,96.13_19-08-2026_19-33-10.webp,exact,roze-2,Розе,Розовое сухое,,rose,dry,2024,ТАБИЯ,,,СУХОЕ
+RP063,96.15_22-08-2026_20-56-09.webp,exact,roze-2,Розе,Розовое сухое,,rose,dry,2024,ТАБИЯ,,,СУХОЕ
+RP064,96.27_20-08-2026_16-26-30.webp,exact,zhemchuzhnaya-9-pino-nuar-muskat-rozovyj-1,"Жемчужная 9 Пино Нуар, Мускат розовый",Розовое полусухое,,rose,semi_dry,2024,АРАТТИ,ЖЕМЧУЖНАЯ 9,ПИНО НУАР МУСКАТ РОЗОВЫЙ,ПОЛУСУХОЕ
+RP065,96.29_21-08-2026_19-39-02.webp,probable,denisov-winery-sovinon-blan-beloe-suhoe-115,Совиньон Блан,Белое сухое,,white,dry,,Денисов,Совиньон Блан,Совиньон Блан,
+RP066,96.2_28-08-2026_09-13-27.webp,same_line,usadba-divnomorskoe-yuzhnyy-les-merlo-krasnoe-suhoe-137,Южный Лес,Красное сухое,,,,,Усадьба Дивноморское,Вечерница,,
+RP068,96.31_09-09-2026_19-29-01.webp,exact,aratti-kaberne-po-belomu-1,АРАТТИ Каберне по-белому,Розовое полусухое,aratti-kaberne-po-belomu,rose,semi_dry,2024,Аратти,Каберне по-белому,Каберне,
+RP069,96.31_21-08-2026_17-24-55.webp,probable,bukovinka,Буковинка,Белое полусухое,,white,semi_dry,2025,Табия,Буковинка,Буковинка,Сухое
+RP070,96.3_08-09-2026_10-53-14.webp,same_line,fanagoriya-sur-lie-chardonnay-shardone-beloe-suhoe-135,Sur Lie Chardonnay,Белое сухое,,,,,FANAGORIA,Пино Гр?джио Сюр Ли,,
+RP071,96.3_28-08-2026_09-12-56.webp,same_line,usadba-divnomorskoe-yuzhnyy-les-merlo-krasnoe-suhoe-137,Южный Лес,Красное сухое,,,,,Усадьба Дивноморское,Вечерница,,
+RP073,96.44_05-09-2026_15-33-59.webp,same_line,sovinon-blan,Совиньон Блан,Белое полусладкое,sovinon-blan,,semi_dry,,Семейная винодельня Литавщуков,Совиньон Блан,Совиньон Блан,полусухое
+RP074,96.45_02-09-2026_14-19-06.webp,same_line,abrau-dyurso-russkoe-igristoe-polusuhoe-shardone-beloe-12,Русское Игристое полусухое,Белое полусухое,,,semi_dry,,АБРАУ-ДЮРСО,,,ПОЛУСУХОЕ
+RP075,96.45_19-08-2026_19-35-28.webp,probable,czitronnyj-magaracha,Цитрон,Белое сухое,,white,dry,2024,Табия,Цитрон,,Полусухое
+RP076,96.53_03-09-2026_16-39-17.webp,same_line,fanagoriya-rs-noir-saperavi-krasnoe-polusladkoe-125,RS. Noir,Красное полусладкое,,,,,Fanagoria,RS,,
+RP077,96.54_04-09-2026_19-30-52.webp,exact,denisov-winery-risling-beloe-suhoe-115,Рислинг,Белое сухое,,white,dry,,Denisov,Рислинг,Рислинг,
+RP078,96.55_30-08-2026_19-34-31.webp,probable,novyy-svet-dom-shampanskih-vin-novyy-svet-polusladkoe-roze-shardone-rozovoe-115,Новый Свет полусладкое розе,Розовое полусладкое,novyy-svet-dom-shampanskih-vin-rossiyskoe-shampanskoe-vyderzhannoe-polusladkoe-rozovoe-novyy-svet-shardone-125,rose,semi_sweet,2023,Новый Свѣтъ,,,Полусладкое
+RP079,96.58_05-09-2026_16-05-04.webp,exact,fanagoriya-zelyonoe-vino-risling-tsitronnyy-magaracha-beloe-polusuhoe-11,Зелёное вино. Рислинг - Цитронный Магарача,Белое полусухое,,white,semi_dry,,Fanagoria,Зеленое вино,Рислинг Цитронный Магарача,Полусухое
+RP080,96.61_28-08-2026_09-16-27.webp,exact,balaklava-muskat-beloe-polusladkoe,Балаклава Мускат белое полусладкое,Белое полусладкое,,white,semi_sweet,,Золотая Балка,Балаклава,Мускат / Muscat,полусладкое
+RP081,96.62_07-09-2026_18-12-27.webp,exact,fanagoriya-zelyonoe-vino-risling-tsitronnyy-magaracha-beloe-polusuhoe-11,Зелёное вино. Рислинг - Цитронный Магарача,Белое полусухое,,white,semi_dry,,FANAGORIA,Зеленое вино,РИСЛИНГ ЦИТРОННЫЙ МАГАРАЧА,полусухое
+RP082,96.64_26-08-2026_16-52-37.webp,same_line,valeriy-zaharin-avtorskoe-vino-ot-valeriya-zaharina-krasnoe-pino-nuar-suhoe-125,Авторское вино от Валерия Захарьина. Красное,Красное сухое,,,,2024,Валерий Захарьин,,Каберне Совиньон,
+RP083,96.65_02-09-2026_12-08-51.webp,exact,kaberne-sovinon-3,Каберне Совиньон,Красное полусухое,,red,semi_dry,,Семейная винодельня Литавщуков,Каберне Совиньон,Каберне Совиньон,полусухое
+RP084,96.66_22-08-2026_20-44-40.webp,exact,perovskih_polusuhoe_krasnoe,Полусухое Красное,Красное полусухое,,red,semi_dry,2024,Усадьба Перовских,Красное,,
+RP086,96.74_28-08-2026_13-52-26.webp,exact,usadba-mezyb-shishka-kupazh-5-kaberne-sovinon-rozovoe-suhoe-133,Шишка. Купаж №5,Розовое сухое,,rose,dry,2023,Усадьба Мезыбь,Купаж №5,,
+RP087,96.76_07-09-2026_14-57-04.webp,exact,pozdnij-sbor-krasnoe,"Поздний сбор, Красное",Красное сладкое,,red,sweet,2023,Litavshchuk Vineyards & Winery,Поздний сбор,,сладкое
+RP088,96.77_24-08-2026_14-10-46.webp,probable,golubitskoe-estate-red-blend-kaberne-sovinon-krasnoe-suhoe-136,Red Blend,Красное сухое,golubitskoe-estate-noble-selection-red-blend-kaberne-sovinon-krasnoe-suhoe-136,red,dry,,Golubitskoe Estate,Winery Series Red Blend,,
+RP089,96.78_25-08-2026_18-04-42.webp,same_line,czitronnyj-magaracha,Цитрон,Белое сухое,,white,dry,2024,Табия / Винодельня,Цитронный Магарача,Цитронный Магарача,сухое
+RP090,96.79_20-08-2026_17-48-31.webp,exact,oleg,Олег,Белое сухое,,white,dry,2025,Табия,Олег,,сухое
+RP091,96.79_28-08-2026_22-05-22.webp,exact,vinodelnya-vedernikov-vedernikov-dolina-dona-beloe-suhoe-aligote-12,Ведерниковъ Долина Дона Белое Сухое,Белое сухое,,white,dry,,Ведерниковъ,,Рислинг · Ркацители · Сибирьковый,
+RP092,96.7_28-08-2026_13-50-21.webp,same_line,usadba-divnomorskoe-yuzhnyy-les-merlo-krasnoe-suhoe-137,Южный Лес,Красное сухое,,,,,Усадьба Дивноморское,Вечерница,,
+RP093,96.83_20-08-2026_17-48-13.webp,exact,oleg,Олег,Белое сухое,,white,dry,2025,Табия,Олег,,сухое
+RP095,96.96_05-09-2026_19-02-01.webp,exact,denisov_rubin_klaret_krasnaya_strelka,Рубин кларет . Красная стрелка,Розовое сухое,,rose,dry,,DENISOV,Красная стрелка,,
+RP096,96.98_19-08-2026_19-05-06.webp,probable,czitronnyj-magaracha,Цитрон,Белое сухое,,white,dry,2024,Табия,Цитрон,,ПОЛУСУХОЕ
+RP097,97.02_29-08-2026_18-49-02.webp,same_line,massandra-kagor-gurzuf-saperavi-krasnoe-sladkoe-16,Кагор Гурзуф,Красное сладкое,,,dry,2025,Массандра,Саперави,Саперави,СУХОЕ
+RP098,97.08_05-09-2026_15-30-50.webp,same_line,fanagoriya-alveus-ultra-cuvee-brut-shardone-beloe-bryut-12,Alveus Ultra Cuvee Brut,Белое брют,,,brut,,ALVEUS,Ультра Кюве,,БРЮТ
+RP099,97.23_05-09-2026_15-34-36.webp,same_line,sovinon-blan,Совиньон Блан,Белое полусладкое,"sovinon-blan,sovinon-blan-2",,semi_dry,,Семейная винодельня Литавщуков,Совиньон Блан,Совиньон Блан,полусухое

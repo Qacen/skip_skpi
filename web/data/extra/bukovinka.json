@@ -1,0 +1,27 @@
+{
+  "prices": {
+    "min": 1550.0,
+    "max": 1550.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1550.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_beloe_polusukhoe_tabiya_bukovinka_2020.html"
+      }
+    ]
+  },
+  "winery": {
+    "name": "Табия",
+    "license_active": false,
+    "vineyard_ha": 18.0,
+    "website": "https://t.me/tabiawine1",
+    "phone": "+7 (988) 351-03-30",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань"
+    ],
+    "inn": null
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "vintages": [
+    "2024"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/vino/shato_de_talyu_roze/",
+    "n": 1,
+    "avg": 5.0,
+    "items": [
+      {
+        "author": "Ирина",
+        "date": "2026-06-28",
+        "rating": 5,
+        "text": "Вино понравилось, летнее и легкое. Сложность в том что нет в наличии во многих магазинах, а там где есть то по 1 бутылке. Пришлось делать онлайн заказ и ждать пока привезут."
+      }
+    ]
+  },
+  "winery": {
+    "name": "Chateau de Talu",
+    "license_active": true,
+    "vineyard_ha": 196.28,
+    "website": "https://chateaudetalu.ru",
+    "phone": "+7 (86141) 36330",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Краснодарский край / Геленджик",
+      "Кубань"
+    ],
+    "inn": "2308108667"
+  }
+}

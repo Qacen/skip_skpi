@@ -1,0 +1,104 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 500.0,
+    "max": 650.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 500.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/fanagoriya-bryut-rozovoe-igristoe-vino-0-75-l/"
+      },
+      {
+        "label": "AMWINE",
+        "price": 579.99,
+        "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/fanagoriya_beloe_bryut/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 650.0,
+        "url": "https://fortwine.ru/product/igristoe-vino-fanagoria-brut-rose-2024-0-75/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/fanagoriya_beloe_bryut/",
+      "text": "Свежий и легкий вкус складывается из ярких земляничных нот и свежих цитрусовых оттенков. Послевкусие продолжительное, прохладное и сладковатое."
+    },
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://fortwine.ru/product/igristoe-vino-fanagoria-brut-rose-2024-0-75/",
+      "text": "Цвет – светло-розовый. Отличается тонким, нежным ароматом с нотами земляники, багульника и цветущей вербы. Вкус – свежий, гармоничный."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/fanagoriya_beloe_bryut/",
+      "text": "Легкий и свежий аромат с нежными нотками садовых ягод и весенних цветов."
+    }
+  ],
+  "vintages": [
+    "2014",
+    "2024"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/fanagoriya_beloe_bryut/",
+    "n": 125,
+    "avg": 4.24,
+    "items": [
+      {
+        "author": "Виктория Виктория",
+        "date": "2026-08-11",
+        "rating": 5,
+        "text": "Попробовала на курорте, в фирменном магазине \"Фанагория\", увидела тут , и, конечно, не удержалась."
+      },
+      {
+        "author": "Павел Акинин SWC",
+        "date": "2026-08-10",
+        "rating": 5,
+        "text": "Очень приятный, питкий, сбалансированный брют! Рекомендую."
+      },
+      {
+        "author": "Max Semenov",
+        "date": "2026-08-10",
+        "rating": 4,
+        "text": "Недорогое и приятное. Полусладкое гадость сахарная. А это ничего, приятное."
+      },
+      {
+        "author": "Nikolay KHlebnikov",
+        "date": "2026-08-10",
+        "rating": 4,
+        "text": "Легкий, чистый, свежий брют с аппетитным ягодно земляничным ароматом. Вкус ягодный, умеренно кислотный. Удачное игристое фанагорийских виноделов."
+      },
+      {
+        "author": "Anatoly K RWC",
+        "date": "2026-08-10",
+        "rating": 4,
+        "text": "*3,7 Простое хорошо сделанное игристое. Чистый вкус, красивый перляж. Питкое летнее!"
+      }
+    ]
+  },
+  "winery": {
+    "name": "Фанагория",
+    "license_active": true,
+    "vineyard_ha": 3342.0,
+    "website": "https://www.fanagoria.ru",
+    "phone": "+7 86148 38747",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "2352002170"
+  }
+}

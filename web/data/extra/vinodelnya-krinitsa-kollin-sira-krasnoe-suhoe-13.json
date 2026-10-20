@@ -1,0 +1,40 @@
+{
+  "awards": [
+    "TOP100 2022 #56, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 3400.0,
+    "max": 3750.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 3400.0,
+        "url": "https://top100wines.ru/top100_22"
+      },
+      {
+        "label": "Красностоп",
+        "price": 3750.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/vinodelnya-krinica-colline-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2020",
+    "2022"
+  ],
+  "winery": {
+    "name": "Винодельня Криница",
+    "license_active": false,
+    "vineyard_ha": 84.8,
+    "website": "https://krinitsa.wine",
+    "phone": "+7 (499) 7034436",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Кубань"
+    ],
+    "inn": null
+  }
+}

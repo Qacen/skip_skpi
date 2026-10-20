@@ -1,0 +1,16 @@
+{
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "Cellar Master",
+    "license_active": false,
+    "vineyard_ha": 16.0,
+    "website": "https://cellarmaster.ru/",
+    "phone": null,
+    "regions": [
+      "Крым"
+    ],
+    "inn": null
+  }
+}

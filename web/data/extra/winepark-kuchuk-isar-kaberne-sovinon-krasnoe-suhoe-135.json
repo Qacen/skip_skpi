@@ -1,0 +1,48 @@
+{
+  "awards": [
+    "Золото"
+  ],
+  "prices": {
+    "min": 4500.0,
+    "max": 4500.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 4500.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_zgu_krym_winepark_kuchuk_isar.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/vino/p/kuchuk-isar-229/",
+      "text": "Черешня, вишня, красная слива, кизил, чернослив, свежий красный инжир. Травянистые нотки, легкий тон мха. Во вкусе среднетелое, с яркой доминантой вишни. Красная черешня, ежевика, черная смородина, черника. Приятное мягкое длительное фруктовое послевкусие с оттенком вишни в горьком шоколаде."
+    },
+    {
+      "kind": "aroma",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/vino/p/kuchuk-isar-229/",
+      "text": "Аромат обволакивающий, яркий, фруктово-ягодный."
+    }
+  ],
+  "vintages": [
+    "2021"
+  ],
+  "winery": {
+    "name": "WINEPARK",
+    "license_active": false,
+    "vineyard_ha": 23.0,
+    "website": "https://winepark.ru",
+    "phone": "+78005002357",
+    "regions": [
+      "Крым",
+      "Крым / Южный берег Крыма",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

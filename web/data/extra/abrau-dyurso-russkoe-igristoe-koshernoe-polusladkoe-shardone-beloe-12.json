@@ -1,0 +1,37 @@
+{
+  "prices": {
+    "min": 350.0,
+    "max": 350.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 350.0,
+        "url": "https://thewinery.ru/wine_russkoe_shampanskoe_abrau_durso_beloe_polusladkoe.php"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_russkoe_shampanskoe_abrau_durso_beloe_polusladkoe.php",
+      "text": "Отлично сбалансированный полусладкий вкус продолжает свежую плодовую линию аромата и завершается долгим ароматическим послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_russkoe_shampanskoe_abrau_durso_beloe_polusladkoe.php",
+      "text": "Аромат яркий, свежий и чистый, с приятными тонами цитрусовых плодов, желтых яблок и груш."
+    }
+  ],
+  "winery": {
+    "name": "Абрау-Дюрсо",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": null,
+    "phone": null,
+    "regions": [],
+    "inn": null
+  }
+}

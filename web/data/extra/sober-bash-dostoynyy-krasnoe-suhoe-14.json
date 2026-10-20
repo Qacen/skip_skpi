@@ -1,0 +1,46 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1750.0,
+    "max": 1850.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1750.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_zgu_kuban_sober_bash_grani_dostoynyy.html"
+      },
+      {
+        "label": "Красностоп",
+        "price": 1850.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/sober-bash-grani-dostoynyy-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/sober-bash-grani-dostoynyy-krasnoe-suhoe-vino-0-75-l/",
+      "text": "В букете доминируют ароматы черных лесных и садовых ягод."
+    }
+  ],
+  "vintages": [
+    "2021",
+    "2023"
+  ],
+  "winery": {
+    "name": "Собер Баш",
+    "license_active": true,
+    "vineyard_ha": 61.21,
+    "website": "https://soberbashvino.ru/",
+    "phone": "+7 (988) 2420880",
+    "regions": [
+      "Долина реки Афипс",
+      "Краснодарский край"
+    ],
+    "inn": "2348032982"
+  }
+}

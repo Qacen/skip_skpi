@@ -1,0 +1,85 @@
+{
+  "awards": [
+    "TOP100 2022 #57, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 500.0,
+    "max": 950.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 500.0,
+        "url": "https://top100wines.ru/top100_22"
+      },
+      {
+        "label": "AMWINE",
+        "price": 629.99,
+        "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zgu_dagestan_bryut_beloe_endemy_risling/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 950.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/vino_igristoe_beloe_bryut_zgu_dagestan_endemy_risling.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zgu_dagestan_bryut_beloe_endemy_risling/",
+      "text": "Вкус чистый, освежающий с нотами цитрусовых и зеленого яблока."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zgu_dagestan_bryut_beloe_endemy_risling/",
+      "text": "Аромат тонкий, развитый, с оттенками лайма и зеленого яблока."
+    }
+  ],
+  "vintages": [
+    "2021",
+    "2022",
+    "2024"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zgu_dagestan_bryut_beloe_endemy_risling/",
+    "n": 924,
+    "avg": 4.12,
+    "items": [
+      {
+        "author": "Елена Ермоченко",
+        "date": "2026-09-22",
+        "rating": 4,
+        "text": "Очень понравилось’ отличная альтернатива Prosecco. Единственный бренд, который мне подошел идеально. Рекомендую."
+      },
+      {
+        "author": "Алексей Моисеенко",
+        "date": "2026-09-18",
+        "rating": 4,
+        "text": "В аромате груша, стирка, минералы, яблоко белый налив. Во вкусе жёлтое яблоко и абрикос. В послевкусии лимонные цукаты, персик, нектарин. Средняя кислотность, фруктовое, немного сладковато, гастрономично."
+      },
+      {
+        "author": "Еиардрима Электролобзик",
+        "date": "2026-09-08",
+        "rating": 3,
+        "text": "Ну вполне, вполне. Зелёное яблокоя прослеживается явно. Все остальное - не поняла. Но вполне приятное, питкое."
+      },
+      {
+        "author": "Dmitriy Ivanov",
+        "date": "2026-09-08",
+        "rating": 3,
+        "text": "Какое-то оно бледное, невыразительное. Сложности никакой нет. Есть яблоки, груши, сладость медовая."
+      },
+      {
+        "author": "Евгений Ч.",
+        "date": "2026-09-07",
+        "rating": 4,
+        "text": "Свежее. 2025 год Простовато. При этом аккуратное, питкое. Для баланса не хватает кислотности. На рислинг не похоже. Выраженная цитрусовая горчинка."
+      }
+    ]
+  }
+}

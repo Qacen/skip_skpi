@@ -1,0 +1,36 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1200.0,
+    "max": 1200.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1200.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/alma-valley-rislaner-beloe-polusladkoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2021",
+    "2022"
+  ],
+  "winery": {
+    "name": "Alma Valley",
+    "license_active": false,
+    "vineyard_ha": 405.0,
+    "website": "https://alma-valley.ru",
+    "phone": "+7 (36554) 9–19–79",
+    "regions": [
+      "Западно-Предгорный Крым",
+      "Крым",
+      "Крым / Бахчисарайский район / Долина реки Альма",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1200.0,
+    "max": 1200.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1200.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/zhakov-rozeo-rozovoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/zhakov-rozeo-rozovoe-suhoe-vino-0-75-l/",
+      "text": "Тело вина легкое, кислотность сбалансированная, во вкусе доминируют фруктово-ягодные тона с долгим сливочным завершением."
+    }
+  ],
+  "vintages": [
+    "2022"
+  ]
+}

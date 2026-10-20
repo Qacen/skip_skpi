@@ -1,0 +1,49 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1550.0,
+    "max": 1550.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1550.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/fanagoriya-primum-alveus-2019-bryut-vyderzhannoe-rozovoe-igristoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/igristye-vina/fanagoriya-primum-alveus-2019-bryut-vyderzhannoe-rozovoe-igristoe-vino-0-75-l/",
+      "text": "Вино наполнено достаточно интенсивным перляжем, кислотность яркая, вкус хрустящий ягодно-цитрусовый."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/igristye-vina/fanagoriya-primum-alveus-2019-bryut-vyderzhannoe-rozovoe-igristoe-vino-0-75-l/",
+      "text": "Букет ненавязчивый, собран из приятных сглаженных ароматов северных ягод, цитрусовых с минеральными нотками."
+    }
+  ],
+  "vintages": [
+    "2019"
+  ],
+  "winery": {
+    "name": "Фанагория",
+    "license_active": true,
+    "vineyard_ha": 3342.0,
+    "website": "https://www.fanagoria.ru",
+    "phone": "+7 86148 38747",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "2352002170"
+  }
+}

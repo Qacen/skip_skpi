@@ -1,0 +1,55 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1000.0,
+    "max": 5100.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 1000.0,
+        "url": "https://thewinery.ru/wine_dom_zaharijnih_beloe_suhoe.php"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 5100.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_stolovoe_dom_zakharinykh_beloe_sukhoe.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_dom_zaharijnih_beloe_suhoe.php",
+      "text": "Шелковистый, с хорошо структурированной кислотностью. Присутствуют оттенки ванили, тостов, имбиря, кураги. Послевкусие долгое."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_dom_zaharijnih_beloe_suhoe.php",
+      "text": "Масло, сыр, ваниль, гвоздика, грушевые леденцы, карамель, крем-брюле, курага."
+    }
+  ],
+  "vintages": [
+    "2020"
+  ],
+  "winery": {
+    "name": "Валерий Захарьин",
+    "license_active": true,
+    "vineyard_ha": 1.62,
+    "website": "https://akchurinwinery.ru",
+    "phone": "+ 7 (499) 703-44-36",
+    "regions": [
+      "Анапа",
+      "Волгоградская область",
+      "Город федерального значения Севастополь",
+      "Дагестан",
+      "Долина Дона",
+      "Кавказ / Дагестан"
+    ],
+    "inn": "0000000"
+  }
+}

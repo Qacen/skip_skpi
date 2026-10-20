@@ -1,0 +1,55 @@
+{
+  "awards": [
+    "TOP100 2023 #88, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2990.0,
+    "max": 4640.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 2990.0,
+        "url": "https://top100wines.ru/2023"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 4600.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_beloe_sukhoe_zgu_semigore_imenie_sikory_semeynyy_rezerv_shardone.html"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 4640.0,
+        "url": "https://swn.ru/best-wines/2025-2026/shardone-semeynyy-rezerv/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/2025-2026/shardone-semeynyy-rezerv/",
+      "text": "Вино светло-соломенного цвета. В аромате раскрываются тона спелой груши и персика, с медово-цветочными нотами и ярким ванильным акцентом. Плотное, хорошо сбалансированное вино со свежим послевкусием."
+    }
+  ],
+  "vintages": [
+    "2020",
+    "2022",
+    "2023"
+  ],
+  "winery": {
+    "name": "Имение Сикоры",
+    "license_active": true,
+    "vineyard_ha": 47.2,
+    "website": "https://sikory.ru",
+    "phone": "8 (8617) 301-956",
+    "regions": [
+      "Краснодарский край",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": "2315167328"
+  }
+}

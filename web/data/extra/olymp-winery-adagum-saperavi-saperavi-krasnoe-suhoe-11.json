@@ -1,0 +1,16 @@
+{
+  "winery": {
+    "name": "Olymp Winery",
+    "license_active": true,
+    "vineyard_ha": 1134.0,
+    "website": "https://olympwine.ru",
+    "phone": "+7 (861) 317-92-03",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Крымск",
+      "Крымск",
+      "г. Москва"
+    ],
+    "inn": "0408007845"
+  }
+}

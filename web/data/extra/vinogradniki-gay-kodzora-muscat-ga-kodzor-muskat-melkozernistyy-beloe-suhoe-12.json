@@ -1,0 +1,68 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 850.0,
+    "max": 1550.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 850.0,
+        "url": "https://thewinery.ru/wine_muskat_gai_kodzor_beloe_suhoe.php"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1050.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_stolovoe_sukhoe_beloe_muskat_gay_kodzor_muscat_gai_kodzor.html"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 1480.0,
+        "url": "https://swn.ru/best-wines/2025-2026/muscat-gai-kodzor/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://krymwine.ru/catalog/vino/tikhie-vina/gay_kodzor_muskat_de_gay_kodzor_gai_kodzor_muscat_de_gai_kodzor.html",
+      "text": "Цвет - золотистый. Аромат - яркий, мощный, с характерными, легкоузнаваемыми мускатными тонами, оттенками апельсиновых цукатов и тропических цветов. Вкус - насыщенный, плотный, c тонами цитрусовых, апельсиновой цедры и красного грейпфрута, цветов жасмина и акации, долгим очаровательным послевкусием."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_muskat_gai_kodzor_beloe_suhoe.php",
+      "text": "Вкус сбалансированный с освежающей кислотностью и минеральным послевкусием. Почувствуйте и ощутите вкус свободы, яркие краски лета и свежесть лёгкого морского бриза."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_muskat_gai_kodzor_beloe_suhoe.php",
+      "text": "С изящной ароматикой муската и легкими тонами цитрусовых фруктов."
+    }
+  ],
+  "vintages": [
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "winery": {
+    "name": "Виноградники Гай-Кодзора",
+    "license_active": true,
+    "vineyard_ha": 78.63,
+    "website": "https://gai-kodzor.ru",
+    "phone": "+ 7 (981) 814-88-30",
+    "regions": [
+      "Анапа",
+      "Волгоградская обл.",
+      "Волгоградская область",
+      "Город федерального значения Севастополь",
+      "Кабардино-Балкарская Республика",
+      "Чеченская Республика"
+    ],
+    "inn": "0000412754"
+  }
+}

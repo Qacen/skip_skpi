@@ -1,0 +1,85 @@
+{
+  "awards": [
+    "TOP100 2023 #2, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1000.0,
+    "max": 2490.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1000.0,
+        "url": "https://online.metro-cc.ru/products/saperavi-100-ottenkov-fanagoriya-krasnoe-suhoe-075-l?utm_source=top100&amp"
+      },
+      {
+        "label": "Каталог виноделен",
+        "price": 1300.0,
+        "url": "https://thewinery.ru/wine_100_ottenkov_krasnogo_saperavi_fanagoria_krasnoe_suhoe.php"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1350.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_zgu_kuban_fanagoriya_100_ottenkov_krasnogo_saperavi.html"
+      },
+      {
+        "label": "AMWINE",
+        "price": 1400.0,
+        "url": "https://amwine.ru/catalog/vino/100_ottenkov_krasnogo_saperavi/"
+      },
+      {
+        "label": "RussianVine",
+        "price": 1700.0,
+        "url": "https://russianvine.ru/vino-fanagoria-100-ottenkov-krasnogo-saperavi-2018"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/2025-2026/100-ottenkov-krasnogo-saperavi/",
+      "text": "Вино глубокого, темного-рубинового цвета. В сложном, многогранном аромате переплетаются характерные для выдержанного саперави сливочно-сырные и шоколадные ноты, оттенки вишневой косточки, чернослива, шелковицы и нежный тон фиалки. Вкус бархатистый, сочный и плотный, с хорошо интегрированной, приятной терпкостью. Он раскрывается оттенками ванили и темных ягод, переходя в долгое, обволакивающее шоколадное послевкусие."
+    },
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-fanagoria-100-ottenkov-krasnogo-saperavi-2018",
+      "text": "Цвет вина тёмно-рубиновый. В аромате переливаются сырно-молочные и шоколадные оттенки с нюансами вишнёвой косточки, чернослива, шелковицы и фиалки. Вкус - бархатистый, экстрактивный, плотный с приятной терпкостью, ванильными и ягодными оттенками, шоколадным послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/100_ottenkov_krasnogo_saperavi/",
+      "text": "В аромате которых переливаются сырно-молочные и шоколадные оттенки с нюансами вишневой косточки, чернослива, шелковицы и фиалки."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_100_ottenkov_krasnogo_saperavi_fanagoria_krasnoe_suhoe.php",
+      "text": "В аромате переливаются сырно-молочные и шоколадные оттенки с нюансами вишневой косточки, чернослива, шелковицы и фиалки."
+    }
+  ],
+  "vintages": [
+    "2013",
+    "2020",
+    "2022",
+    "2024"
+  ],
+  "winery": {
+    "name": "Фанагория",
+    "license_active": true,
+    "vineyard_ha": 3342.0,
+    "website": "https://www.fanagoria.ru",
+    "phone": "+7 86148 38747",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "2352002170"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "awards": [
+    "TOP100 2025 #22, Золото",
+    "TOP100 2024 #36, Золото",
+    "TOP100 2023 #14, Золото",
+    "TOP100 2022 #6, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 960.0,
+    "max": 1900.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 960.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_zgu_kuban_fanagoriya_100_ottenkov_belogo_shardone.html"
+      },
+      {
+        "label": "Каталог виноделен",
+        "price": 1300.0,
+        "url": "https://thewinery.ru/wine_100_ottenkov_belogo_shardone_fanagoria_beloe_suhoe.php"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1350.0,
+        "url": "https://top100wines.ru/2023"
+      },
+      {
+        "label": "RussianVine",
+        "price": 1500.0,
+        "url": "https://russianvine.ru/vino-fanagoria-100-ottenkov-belogo-shardone-2018"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 1890.0,
+        "url": "https://swn.ru/best-wines/2025-2026/100-ottenkov-belogo-shardone/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/2025-2026/100-ottenkov-belogo-shardone/",
+      "text": "Вино соломенного цвета. В аромате гармонично сочетаются тона белых фруктов (яблоко, груша) и цветочные ноты, элегантно подчеркнутые оттенками дубовой выдержки. Вкус полный, округлый и прекрасно сбалансированный. В нем раскрываются цветочно-цитрусовые оттенки, которые переходят в долгое, обволакивающее послевкусие с минеральными и сливочными нюансами."
+    },
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-fanagoria-100-ottenkov-belogo-shardone-2018",
+      "text": "Вино соломенного цвета. В букете гармонично сочетаются тона спелых фруктов, цитрусов и цветов с благородными сливочными оттенками. Вкус полный, гармоничный, с хорошим уровнем кислотности, минеральными, фруктово-цитрусовыми оттенками и лёгкими древесными нюансами. Послевкусие длительное, сливочно-фруктовое с переливами цветочных и цитрусовых нот."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_100_ottenkov_belogo_shardone_fanagoria_beloe_suhoe.php",
+      "text": "В букете гармонично сочетаются тона белых фруктов и цветов с благородными оттенками древесины дуба."
+    }
+  ],
+  "vintages": [
+    "2011",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "winery": {
+    "name": "Фанагория",
+    "license_active": true,
+    "vineyard_ha": 3342.0,
+    "website": "https://www.fanagoria.ru",
+    "phone": "+7 86148 38747",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "2352002170"
+  }
+}

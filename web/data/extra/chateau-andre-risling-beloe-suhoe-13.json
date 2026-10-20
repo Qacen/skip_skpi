@@ -1,0 +1,20 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "vintages": [
+    "2023",
+    "2024"
+  ],
+  "winery": {
+    "name": "Chateau Andre",
+    "license_active": false,
+    "vineyard_ha": 8.0,
+    "website": null,
+    "phone": "+79283344482",
+    "regions": [
+      "Кубань"
+    ],
+    "inn": null
+  }
+}

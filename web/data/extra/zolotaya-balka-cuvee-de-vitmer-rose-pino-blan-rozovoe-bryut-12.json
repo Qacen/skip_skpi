@@ -1,0 +1,77 @@
+{
+  "awards": [
+    "TOP100 2022 #75, Золото",
+    "Серебро",
+    "Лучшее розе"
+  ],
+  "prices": {
+    "min": 1890.0,
+    "max": 25000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1890.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/cuvee_de_vitmer_rose_brut.html"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1940.0,
+        "url": "https://top100wines.ru/top100_22"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 2690.0,
+        "url": "https://swn.ru/best-wines/sparkling-2025-2026/cuvee-de-vitmer-brut-rose/"
+      },
+      {
+        "label": "Красностоп",
+        "price": 7250.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/zolotaya-balka-kyuve-de-vitmer-roze-magnum-bryut-rozovoe-igristoe-vino-1-5-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/sparkling-2025-2026/cuvee-de-vitmer-brut-rose/",
+      "text": "Вино нежно-розового цвета. В изысканном аромате переплетаются тона красных ягод (малина, клюква) и цитрусовых (сицилийский апельсин, мандарин), дополненные легкими нотами сливочной бриоши и крекера. Вкус обладает нежной текстурой и продолжительным грейпфрутово-ягодным послевкусием."
+    },
+    {
+      "kind": "taste",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/igristoe-vino/p/cuvee-de-vitmer-roze-495/",
+      "text": "Мягкие пряные нотки с деликатным оттенком дрожжей, сладкой выпечки. Во вкусе среднетелое, сочное. Нежное наполнение красных фруктов: вишня, розовая черешня, терн, красная слива, брусника, красная смородина. В долгом послевкусии пикантная кислотность и приятная свежесть."
+    },
+    {
+      "kind": "aroma",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/igristoe-vino/p/cuvee-de-vitmer-roze-495/",
+      "text": "Аромат комплексный, ягодный: клубника, земляника, немного вишни, розовая черешня."
+    }
+  ],
+  "vintages": [
+    "2017",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2025"
+  ],
+  "winery": {
+    "name": "Золотая Балка",
+    "license_active": false,
+    "vineyard_ha": 1400.0,
+    "website": "https://zolotaiabalka.ru",
+    "phone": "+7 (8692) 45-52-72",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Балаклава",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "prices": {
+    "min": 539.99,
+    "max": 550.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 539.99,
+        "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/myskhakobb/"
+      },
+      {
+        "label": "Красностоп",
+        "price": 550.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/myshako-bruyt-beloe-igristoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Myshako-brut-2017",
+      "text": "Цвет светло-соломенный. В аромате сложный развитый букет, с цветочными тонами. Вкус полный, гармоничный, с нежным приятным послевкусием."
+    },
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/myskhakobb/",
+      "text": "Полный, гармоничный, с нежным приятным послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/myskhakobb/",
+      "text": "Развитый, тонкий, с легкими цветочными тонами."
+    }
+  ],
+  "vintages": [
+    "2017"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/myskhakobb/",
+    "n": 316,
+    "avg": 4.15,
+    "items": [
+      {
+        "author": "Vadim K",
+        "date": "2026-09-01",
+        "rating": 4,
+        "text": "Одно из самых бюджетных игристых на рынке с весьма питейным содержимым. Хрустящее зелёное яблочко, чутка персика и цветочков + лимонная звонкая кислотность"
+      },
+      {
+        "author": "Fishhanter",
+        "date": "2026-07-01",
+        "rating": 4,
+        "text": "Вполне приятное и понятное игристое. Легкое сопровождение дружеской незамысловатой беседы под фрукты и веселое щебетание наших любимых половинок. Получаешь то , что вправе ожидать , без снобизма , миллезимности и ароматов свежеиспеченного лаваша , сорри, бриоши."
+      },
+      {
+        "author": "Наталия Полякова",
+        "date": "2026-06-29",
+        "rating": 4,
+        "text": "В пару к запеченному камамберу с клубникой и черешней."
+      },
+      {
+        "author": "Veronika Misty",
+        "date": "2026-06-26",
+        "rating": 5,
+        "text": "Нос: крыжовник, леденец дюшес, яблоко, цитрусовые нотки и на финише даже сдоба и булочка пекан Вкус: недоспелые ягоды, кисла-сладкое яблоко"
+      },
+      {
+        "author": "Владислав Михеев",
+        "date": "2026-06-26",
+        "rating": 4,
+        "text": "Чувствуется отчётливая шардонешка, печёная груша, горечь цедры"
+      }
+    ]
+  },
+  "winery": {
+    "name": "Винодельня Мысхако",
+    "license_active": true,
+    "vineyard_ha": 594.37,
+    "website": "https://myskhako.ru",
+    "phone": "+7 (8617) 72-98-00",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Новороссийск",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": "2315005310"
+  }
+}

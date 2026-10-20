@@ -1,0 +1,14 @@
+{
+  "winery": {
+    "name": "Два Петра",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": "https://two-peters.ru/",
+    "phone": "+7(978) 896-61-88",
+    "regions": [
+      "Крым",
+      "Республика Крым"
+    ],
+    "inn": "9108126020"
+  }
+}

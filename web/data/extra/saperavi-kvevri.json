@@ -1,0 +1,41 @@
+{
+  "awards": [
+    "TOP100 2022 #76, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1100.0,
+    "max": 1550.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1100.0,
+        "url": "https://top100wines.ru/top100_22"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1550.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_krasnoe_polusukhoe_stolovoe_usadba_perovskikh_saperavi_kvevri.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2021",
+    "2022"
+  ],
+  "winery": {
+    "name": "Усадьба Перовских",
+    "license_active": false,
+    "vineyard_ha": 215.0,
+    "website": "https://perovskywinery.ru",
+    "phone": "+7 985 773 97 92",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Долина реки Бельбек",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

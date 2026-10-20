@@ -1,0 +1,34 @@
+{
+  "awards": [
+    "Серебро",
+    "Золото"
+  ],
+  "prices": {
+    "min": 1350.0,
+    "max": 1350.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1350.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/cimlyanskiy-chernyy-vedernikovskoe-bryut-beloe-igristoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2020",
+    "2022"
+  ],
+  "winery": {
+    "name": "Винодельня Ведерниковъ",
+    "license_active": false,
+    "vineyard_ha": 215.56,
+    "website": "https://vedernikovwine.ru",
+    "phone": "+78632504540",
+    "regions": [
+      "Долина Дона",
+      "Ростовская область"
+    ],
+    "inn": "6116008465"
+  }
+}

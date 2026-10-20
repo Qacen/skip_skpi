@@ -1,0 +1,20 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1100.0,
+    "max": 1100.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1100.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/pino-nuar-perfekt-klassik-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2022"
+  ]
+}

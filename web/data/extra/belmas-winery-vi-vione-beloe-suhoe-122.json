@@ -1,0 +1,32 @@
+{
+  "prices": {
+    "min": 5900.0,
+    "max": 5900.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 5900.0,
+        "url": "https://swn.ru/best-wines/2025-2026/vi/"
+      }
+    ]
+  },
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "Belmas Winery",
+    "license_active": false,
+    "vineyard_ha": 7.04,
+    "website": "https://belmaswinery.com",
+    "phone": "+7(499) 703-44-36",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Село Родное",
+      "Республика Крым",
+      "Севастополь",
+      "город федерального значения Севастополь"
+    ],
+    "inn": "9200006976"
+  }
+}

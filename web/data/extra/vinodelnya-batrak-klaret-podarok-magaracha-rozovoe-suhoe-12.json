@@ -1,0 +1,22 @@
+{
+  "prices": {
+    "min": 1100.0,
+    "max": 1400.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1100.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/batrak-klaret-rozovoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1400.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_rozovoe_sukhoe_gn_prikumskoe_batrak_klaret.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2021"
+  ]
+}

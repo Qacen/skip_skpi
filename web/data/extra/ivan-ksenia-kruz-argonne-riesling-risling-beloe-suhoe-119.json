@@ -1,0 +1,19 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "Ivan & Ksenia Kruz",
+    "license_active": false,
+    "vineyard_ha": 14.5,
+    "website": null,
+    "phone": null,
+    "regions": [
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

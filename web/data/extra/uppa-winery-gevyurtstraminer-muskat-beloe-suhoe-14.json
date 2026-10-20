@@ -1,0 +1,31 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-muskat-gevyurctraminer",
+      "text": "Вино жёлто-янтарного цвета с розовым оттенком. В аромате яркое, парфюмированное. Оттенки личи, розы, мёда, прополиса и персика. Во вкусе мягкое, пряное, с лёгкой танинностью, с продолжительным послевкусием."
+    }
+  ],
+  "vintages": [
+    "2017",
+    "2018"
+  ],
+  "winery": {
+    "name": "Uppa Winery",
+    "license_active": false,
+    "vineyard_ha": 12.5,
+    "website": "https://uppawinery.ru",
+    "phone": "+7 (499) 703 44 36",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Село Родное",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

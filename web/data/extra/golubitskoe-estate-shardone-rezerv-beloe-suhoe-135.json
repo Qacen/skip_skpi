@@ -1,0 +1,56 @@
+{
+  "awards": [
+    "TOP100 2022 #11, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 600.0,
+    "max": 1000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 600.0,
+        "url": "https://thewinery.ru/wine_shardone_rezerv_golubitskoe_estate_beloe_suhoe.php"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1000.0,
+        "url": "https://top100wines.ru/top100_22"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_shardone_rezerv_golubitskoe_estate_beloe_suhoe.php",
+      "text": "Мягкий, округлый с долгим послевкусием.Гастрономическое сочетание: Рыба и паста под белым соусом, сливочные сыры, теплые салаты."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_shardone_rezerv_golubitskoe_estate_beloe_suhoe.php",
+      "text": "В букете сладкие нотки тропических фруктов, цветов и ванили."
+    }
+  ],
+  "vintages": [
+    "2020",
+    "2024"
+  ],
+  "winery": {
+    "name": "Golubitskoe Estate",
+    "license_active": true,
+    "vineyard_ha": 349.91,
+    "website": "https://golubitskoe-estate.ru",
+    "phone": "+7 861 204 08 50",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Тамань",
+      "Тамань"
+    ],
+    "inn": "2352029975"
+  }
+}

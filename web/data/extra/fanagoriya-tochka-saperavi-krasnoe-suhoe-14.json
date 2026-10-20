@@ -1,0 +1,43 @@
+{
+  "prices": {
+    "min": 9999.99,
+    "max": 9999.99,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 9999.99,
+        "url": "https://amwine.ru/catalog/vino/fanagoria_tochka/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/fanagoria_tochka/",
+      "text": "Вкус насыщенный, гармоничный с мягкими бархатистыми танинами с длительным послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/fanagoria_tochka/",
+      "text": "В аромате преобладают тона увяленных, засахаренных красных ягод, черники, тёрна, чернослива, шоколада, пряностей, которые прекрасно сочетаются с нотками эвкалипта."
+    }
+  ],
+  "winery": {
+    "name": "Фанагория",
+    "license_active": true,
+    "vineyard_ha": 3342.0,
+    "website": "https://www.fanagoria.ru",
+    "phone": "+7 86148 38747",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "2352002170"
+  }
+}

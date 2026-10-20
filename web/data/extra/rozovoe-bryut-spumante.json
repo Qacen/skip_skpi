@@ -1,0 +1,80 @@
+{
+  "prices": {
+    "min": 450.0,
+    "max": 750.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 450.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/zb-wine-spumante-bryut-rozovoe-igristoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 625.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/zb_spumante_brut_rose.html"
+      },
+      {
+        "label": "AMWINE",
+        "price": 750.0,
+        "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zb_wine_spumante_rose_brut/"
+      }
+    ]
+  },
+  "vintages": [
+    "2022",
+    "2025"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zb_wine_spumante_rose_brut/",
+    "n": 41,
+    "avg": 3.98,
+    "items": [
+      {
+        "author": "Александр ***",
+        "date": "2026-08-17",
+        "rating": 3,
+        "text": "Главвино. Сет 1. Золотая балка Розе 3.5 Аромат - клубничка, чуть вишни, малина, цитрус Во вкусе легкое, больше клубники, немного малины и спелого яблока"
+      },
+      {
+        "author": "Вячеслав Скворцов",
+        "date": "2026-08-17",
+        "rating": 3,
+        "text": "Ни выраженного аромата, ни вкуса. Легкое, простое."
+      },
+      {
+        "author": "Viktor Endaltsev",
+        "date": "2026-08-15",
+        "rating": 3,
+        "text": "Богатый приятный аромат, но слишком резковатый вкус, слишком чувствуется алкогольная терпкость во вкусе"
+      },
+      {
+        "author": "Wine Fables",
+        "date": "2026-08-15",
+        "rating": 3,
+        "text": "Фуршетный бюджетный вариант. В коктейли сгодится. Ну или запить канапе. Очень просто. Впрочем, ожидать чего-то тут сложно."
+      },
+      {
+        "author": "Сергеи Б",
+        "date": "2026-08-15",
+        "rating": 3,
+        "text": "В запахе мыльные ноты, красная смородина, газировка Буратино. В бокале быстро запах исчезает. Вкус невнятный, такое ощущение как-будто вино не дошло до своей кондиции."
+      }
+    ]
+  },
+  "winery": {
+    "name": "Золотая Балка",
+    "license_active": false,
+    "vineyard_ha": 1400.0,
+    "website": "https://zolotaiabalka.ru",
+    "phone": "+7 (8692) 45-52-72",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Балаклава",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

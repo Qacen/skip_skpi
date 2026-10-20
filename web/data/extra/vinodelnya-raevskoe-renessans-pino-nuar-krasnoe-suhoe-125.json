@@ -1,0 +1,47 @@
+{
+  "awards": [
+    "TOP100 2024 #64, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1300.0,
+    "max": 1700.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1300.0,
+        "url": "https://top100wines.ru/2024"
+      },
+      {
+        "label": "Красностоп",
+        "price": 1600.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/raevskoe-renessans-pino-nuar-krasnoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1700.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_zgu_kuban_raevskoe_renessans_pino_nuar.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2022",
+    "2023"
+  ],
+  "winery": {
+    "name": "Винодельня Раевское",
+    "license_active": true,
+    "vineyard_ha": 94.57,
+    "website": "https://raevskoe.com",
+    "phone": "+7 (8617) 300370",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": "2312303156"
+  }
+}

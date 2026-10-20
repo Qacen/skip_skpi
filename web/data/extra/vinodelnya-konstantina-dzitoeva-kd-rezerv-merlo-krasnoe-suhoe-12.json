@@ -1,0 +1,36 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 3250.0,
+    "max": 3250.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 3250.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/konstantin-dzitoev-kd-rezerv-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2020"
+  ],
+  "winery": {
+    "name": "Константин Дзитоев",
+    "license_active": false,
+    "vineyard_ha": 2.0,
+    "website": "https://t.me/kdwinery",
+    "phone": "+7 (8672) 707295",
+    "regions": [
+      "Долина Терека",
+      "Кавказ / Северная Осетия",
+      "Республика Северная Осетия-Алания",
+      "Северная Осетия",
+      "Северная Осетия - Алания",
+      "Северная Осетия — Алания"
+    ],
+    "inn": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "prices": {
+    "min": 3400.0,
+    "max": 4677.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 3400.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/repin-oleg-saperavi-karbonika-krasnoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 3650.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_oleg_repin_saperavi_carbonica.html"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 4677.0,
+        "url": "https://swn.ru/best-wines/2025-2026/sc-saperavi-karbonika/"
+      }
+    ]
+  },
+  "vintages": [
+    "2023",
+    "2024"
+  ]
+}

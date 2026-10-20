@@ -1,0 +1,71 @@
+{
+  "awards": [
+    "Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1900.0,
+    "max": 4500.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 1900.0,
+        "url": "https://thewinery.ru/wine_igristoe_viderzhannoe_temelion_lefkadia_beloe_brut.php"
+      },
+      {
+        "label": "RussianVine",
+        "price": 4500.0,
+        "url": "https://russianvine.ru/vino-Lefkadia-temelion-beloe-2012"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/igristoe-vino/p/temelion-briut-874/",
+      "text": "На первом плане спелое яблоко, груша, переходящие в нотки цветов-медоносов, луговых трав, осенней листвы на солнце. Дрожжевые тона, спелые фрукты: желтая слива, черешня, шелковица. Во вкусе экстрактивное, интенсивное, с яркой ягодной атакой: черешня, слива, зеленая алыча. Цитрусовые нотки, легкий тон лимонника. Послевкусие спокойное, игривое, с приятной улыбкой."
+    },
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Lefkadia-temelion-beloe-2012",
+      "text": "Вино золотистого цвета. Глубокий, насыщенный аромат, дополненный оттенками цитрусовых и тонами выдержки. Вкус свежий, гармоничный, фруктовый, с приятным и долгим минеральным послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/igristoe-vino/p/temelion-briut-874/",
+      "text": "В аромате комплексное, хорошо структурированное."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_igristoe_viderzhannoe_temelion_lefkadia_beloe_brut.php",
+      "text": "Ой! А на бутылке не написано!"
+    }
+  ],
+  "vintages": [
+    "2013",
+    "2019",
+    "2020",
+    "2021"
+  ],
+  "winery": {
+    "name": "Лефкадия",
+    "license_active": true,
+    "vineyard_ha": 79.0,
+    "website": "https://lefkadia.ru",
+    "phone": "8 (800) 200-30-33",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Крымск",
+      "Крымск",
+      "Кубань",
+      "Кубань. Крымск",
+      "г. Краснодар"
+    ],
+    "inn": "2311252325"
+  }
+}

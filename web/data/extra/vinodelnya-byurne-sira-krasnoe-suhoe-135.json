@@ -1,0 +1,35 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 5250.0,
+    "max": 5250.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 5250.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/byurne-sira-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2017"
+  ],
+  "winery": {
+    "name": "Винодельня Бюрнье",
+    "license_active": false,
+    "vineyard_ha": 48.0,
+    "website": "https://burnier.vin/",
+    "phone": "+7 (86133) 2-89-57",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": null
+  }
+}

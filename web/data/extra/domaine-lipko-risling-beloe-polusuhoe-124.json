@@ -1,0 +1,16 @@
+{
+  "winery": {
+    "name": "Domaine Lipko",
+    "license_active": false,
+    "vineyard_ha": 43.0,
+    "website": "https://domainelipko.com",
+    "phone": "+7 (978) 000-17-38",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Балаклава",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

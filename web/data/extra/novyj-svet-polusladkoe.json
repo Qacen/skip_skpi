@@ -1,0 +1,37 @@
+{
+  "prices": {
+    "min": 529.0,
+    "max": 529.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 529.0,
+        "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/artemovskoe/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/artemovskoe/",
+      "text": "Вино с насыщенным, гармоничным вкусом с нежной прохладой, в котором легкие фруктовые ноты изящно оттенены шлейфом из нюансов акации."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/artemovskoe/",
+      "text": "Аромат вина — нежный, с нюансами белых цветов."
+    }
+  ],
+  "winery": {
+    "name": "Новый Свет. Дом шампанских вин",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": null,
+    "phone": null,
+    "regions": [],
+    "inn": null
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1250.0,
+    "max": 1400.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1250.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_krasnoe_sukhoe_zgu_kuban_shato_pino_koldun_krasnyy_2020.html"
+      },
+      {
+        "label": "AMWINE",
+        "price": 1400.0,
+        "url": "https://amwine.ru/catalog/vino/shato_pino_koldun_krasnyy/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/shato_pino_koldun_krasnyy/",
+      "text": "Вино прекрасно в своем текущем возрасте, и обладает хорошим потенциалом к длительному хранению и развитию."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/shato_pino_koldun_krasnyy/",
+      "text": "Это фруктовое, насыщенное вино с сильными выразительными ягодными ароматами и нотами лакрицы и черного перца."
+    }
+  ],
+  "vintages": [
+    "2023"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/vino/shato_pino_koldun_krasnyy/",
+    "n": 1,
+    "avg": 5.0,
+    "items": [
+      {
+        "author": "Алексей",
+        "date": "2023-07-27",
+        "rating": 5,
+        "text": "Соотношение цена-качество очень приличное. Бутылка ещё со старой этикеткой. Сейчас уже прошёл ребрендинг."
+      }
+    ]
+  },
+  "winery": {
+    "name": "Шато Пино",
+    "license_active": true,
+    "vineyard_ha": 95.0,
+    "website": "https://chateau-pinot.ru/",
+    "phone": "+7 499 7034436",
+    "regions": [
+      "Краснодарский Край",
+      "Кубань",
+      "Новороссийск"
+    ],
+    "inn": "2315211390"
+  }
+}

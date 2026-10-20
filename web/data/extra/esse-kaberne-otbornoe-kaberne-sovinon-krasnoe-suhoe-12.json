@@ -1,0 +1,71 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1200.0,
+    "max": 1200.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 1200.0,
+        "url": "https://swn.ru/best-wines/2025-2026/kaberne-otbornoe/"
+      }
+    ]
+  },
+  "vintages": [
+    "2021",
+    "2022"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/vino/kaberne_otbornoe_esse/",
+    "n": 314,
+    "avg": 4.08,
+    "items": [
+      {
+        "author": "An Red",
+        "date": "2026-09-24",
+        "rating": 4,
+        "text": "Анализ дан год назад, ничего не поменялось. Вино живое. Отлично, полный баланс во всем."
+      },
+      {
+        "author": "Valeriy Kolchanov",
+        "date": "2026-09-12",
+        "rating": 4,
+        "text": "Прекрасное русское вино из Российского Крыма, на Украине такое делать не умеют"
+      },
+      {
+        "author": "Александр Д",
+        "date": "2026-09-08",
+        "rating": 4,
+        "text": "Отличное, легкое и сочное вино!! Такое же хорошее как и 2020 года! 👍"
+      },
+      {
+        "author": "Александр Лемякин",
+        "date": "2026-09-08",
+        "rating": 4,
+        "text": "Интересное Российское Каберне .. ягоды .. древесные тона очень аккуратные.. баланс просто 👍🏻"
+      },
+      {
+        "author": "felix_vent",
+        "date": "2026-09-08",
+        "rating": 4,
+        "text": "Черника, черешня и красные ягоды; голубика, лавровый лист и кожаные ноты."
+      }
+    ]
+  },
+  "winery": {
+    "name": "Винодельня Esse",
+    "license_active": false,
+    "vineyard_ha": 164.0,
+    "website": "https://essewine.com",
+    "phone": "+79780001921",
+    "regions": [
+      "Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

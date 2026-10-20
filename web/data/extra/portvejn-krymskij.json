@@ -1,0 +1,121 @@
+{
+  "awards": [
+    "TOP100 2023 #77, Золото"
+  ],
+  "prices": {
+    "min": 565.0,
+    "max": 15150.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 565.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/napitok-vinnyy-solnechnaya-dolina-belyy-portveyn-krymskiy-075.html"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 599.0,
+        "url": "https://top100wines.ru/2023"
+      },
+      {
+        "label": "Каталог виноделен",
+        "price": 600.0,
+        "url": "https://thewinery.ru/wine_portvein_krimskij_sundolina_beloe_sladkoe.php"
+      },
+      {
+        "label": "AMWINE",
+        "price": 799.0,
+        "url": "https://amwine.ru/catalog/vino/portveyn/portveyn_krymskiy_solnechnaya_dolina/"
+      },
+      {
+        "label": "Красностоп",
+        "price": 15150.0,
+        "url": "https://krasnostop.ru/katalog/likernye-vina/solnechnaya-dolina-portveyn-belyy-krymskiy-1990-beloe-kreplenoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Solnechnay-dolina-portwein-2010",
+      "text": "Вино янтарно-золотистого цвета. Имеет соблазнительный букет с тонами кайсы, цукатов, ванили, орехов и нотками рансьо. Вкус насыщенный, полный, с пряно-медовыми тонами, оттенками сухофруктов и ржаной корочки. Послевкусие длительное с хорошо выраженными тонами выдержки."
+    },
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://krymwine.ru/catalog/vino/tikhie-vina/portveyn_belyy_krymskiy_solnechnoy_doliny.html",
+      "text": "Этот великолепный напиток обладает темно золотистым, янтарным цветом и тонким ароматом с оттенками ванили и засахаренных фруктов. Вкус насыщенный, полный, с пряно-медовыми тонами, сухофруктов и ржаной корочки."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/portveyn/portveyn_krymskiy_solnechnaya_dolina/",
+      "text": "Портвейн демонстрирует утонченный, плодово-фруктовый аромат с нотами меда и коньяка, которые гармонично дополняются нюансами изюма, ванили, инжира, кураги, муската и миндаля."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_portvein_krimskij_sundolina_beloe_sladkoe.php",
+      "text": "Оно имеет соблазнительный букет с тонами кайсы, цукатов, ванили, орехов и нотками рансьо."
+    }
+  ],
+  "vintages": [
+    "1990",
+    "1991",
+    "1997",
+    "2010",
+    "2015"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/vino/portveyn/portveyn_krymskiy_solnechnaya_dolina/",
+    "n": 6,
+    "avg": 4.83,
+    "items": [
+      {
+        "author": "Александр Хохряков",
+        "date": "2026-08-25",
+        "rating": 5,
+        "text": "Очень похож на тот советский. Мне очень нравится. Ностальгия…"
+      },
+      {
+        "author": "Сергей Яворский",
+        "date": "2026-06-26",
+        "rating": 5,
+        "text": "Будем сравнивать с Португалией"
+      },
+      {
+        "author": "Николай Брызгов",
+        "date": "2026-05-14",
+        "rating": 5,
+        "text": "Очень вкусное и ароматное вино. Лучше Португальских портвейнов. Однозначно рекомендую!"
+      },
+      {
+        "author": "Анатолий Дорофеев",
+        "date": "2026-04-13",
+        "rating": 5,
+        "text": "Не буду писать много умных слов, скажу что в этой ценовой категории, сложно найти достойный аналог. Приятный, насыщенный, многогранный напиток, рекомендую 👍"
+      },
+      {
+        "author": "Сергей Блюм",
+        "date": "2026-04-02",
+        "rating": 4,
+        "text": "Очень приятный , хорошее послевкусие , чувствоеться многообразие различных сортов винограда."
+      }
+    ]
+  },
+  "winery": {
+    "name": "Солнечная Долина",
+    "license_active": true,
+    "vineyard_ha": 555.0,
+    "website": "https://sunvalley1888.ru",
+    "phone": "+7(36566)3-53-30",
+    "regions": [
+      "Крым",
+      "Крым / Судак",
+      "Республика Крым"
+    ],
+    "inn": "0031173285"
+  }
+}

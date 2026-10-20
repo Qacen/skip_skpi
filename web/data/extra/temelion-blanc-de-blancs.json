@@ -1,0 +1,62 @@
+{
+  "awards": [
+    "Платина"
+  ],
+  "prices": {
+    "min": 3000.0,
+    "max": 3000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 3000.0,
+        "url": "https://thewinery.ru/wine_igristoe_viderzhannoe_temelion_blan_de_blanc_lefkadia_beloe_brut.php"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/igristoe-vino/p/temelion-blanc-de-blancs-1541/",
+      "text": "Красивая игра мелких пузырьков средней интенсивности. Во вкусе аристо кратичное, элегантное, с ярко выраженными тонами желтых фруктов: черешня, алыча, желтая слива. Минеральное, цитрусовое. В длительном послевкусии пикантная кислинка цедры."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_igristoe_viderzhannoe_temelion_blan_de_blanc_lefkadia_beloe_brut.php",
+      "text": "Вкус — полный, сбалансированный, с приятной кислотностью и оттенками ванили, цитрусов и яблок."
+    },
+    {
+      "kind": "aroma",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/igristoe-vino/p/temelion-blanc-de-blancs-1541/",
+      "text": "Аромат сложный, комплексный, с отттенками свежей выпечки с маслом, теста, цитрусов, цветов."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_igristoe_viderzhannoe_temelion_blan_de_blanc_lefkadia_beloe_brut.php",
+      "text": "Игристое вино со свежим, соответствующему сорту ароматом."
+    }
+  ],
+  "vintages": [
+    "2017"
+  ],
+  "winery": {
+    "name": "Лефкадия",
+    "license_active": true,
+    "vineyard_ha": 79.0,
+    "website": "https://lefkadia.ru",
+    "phone": "8 (800) 200-30-33",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Крымск",
+      "Крымск",
+      "Кубань",
+      "Кубань. Крымск",
+      "г. Краснодар"
+    ],
+    "inn": "2311252325"
+  }
+}

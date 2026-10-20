@@ -1,0 +1,31 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Myshako-merlo-grand-rezerv-suhoe-2013",
+      "text": "Вино рубинового цвета. В аромате сложное, с ванильно-цветочными оттенками. Вкус полный, бархатистый."
+    }
+  ],
+  "vintages": [
+    "2013"
+  ],
+  "winery": {
+    "name": "Винодельня Мысхако",
+    "license_active": true,
+    "vineyard_ha": 594.37,
+    "website": "https://myskhako.ru",
+    "phone": "+7 (8617) 72-98-00",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Новороссийск",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": "2315005310"
+  }
+}

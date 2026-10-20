@@ -1,0 +1,45 @@
+{
+  "prices": {
+    "min": 2000.0,
+    "max": 2750.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 2000.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/seneth-dva-dubka-krasnostop-krasnoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 2100.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_krasnoe_sukhoe_senetkh_dva_dubka_krasnostop.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/seneth-dva-dubka-krasnostop-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Букет мощный, раскрывающийся ароматами, терна, чернослива, с тонами горького шоколада и специй. Тело вина среднее, танины суховатые, вкус прекрасно дополняет букет."
+    }
+  ],
+  "vintages": [
+    "2021",
+    "2022"
+  ],
+  "winery": {
+    "name": "Сенетх",
+    "license_active": true,
+    "vineyard_ha": 19.6,
+    "website": "https://senetkh.ru/",
+    "phone": "+7 (499) 7034436",
+    "regions": [
+      "Анапа",
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань"
+    ],
+    "inn": "2376003736"
+  }
+}

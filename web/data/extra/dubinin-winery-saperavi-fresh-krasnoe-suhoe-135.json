@@ -1,0 +1,40 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1890.0,
+    "max": 2000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1890.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_krasnoe_sukhoe_tm_dubinin_saperavi_fresh_2021.html"
+      },
+      {
+        "label": "Красностоп",
+        "price": 2000.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/dubinin-vayneri-saperavi-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/dubinin-vayneri-saperavi-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Тело вина среднее, структурированное, кислотность хорошая, во вкусе красные ягоды."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/dubinin-vayneri-saperavi-fresh-beloe-suhoe-vino-0-75-l/",
+      "text": "Яркий букет наполнен свежими ягодными ароматами лесных ягод, доминирую тона малины, сливы, земляничного джема. Тело вина среднее, кислотность гармоничная, танины аккуратные, вкус прекрасно дополняет букет ягодным взрывом с легкой пикантной горчинкой в завершении."
+    }
+  ],
+  "vintages": [
+    "2022",
+    "2023"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "prices": {
+    "min": 239.0,
+    "max": 239.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 239.0,
+        "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/lavetti_isabella/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/lavetti_isabella/",
+      "text": "Приятный фруктовый вкус с нотами красных ягод."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/lavetti_isabella/",
+      "text": "Сбалансированный аромат с тонами лесных ягод."
+    }
+  ],
+  "winery": {
+    "name": "Союз-Вино",
+    "license_active": true,
+    "vineyard_ha": null,
+    "website": "https://soyuz-vino.ru/",
+    "phone": null,
+    "regions": [],
+    "inn": "2337028367"
+  }
+}

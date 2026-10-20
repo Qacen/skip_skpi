@@ -1,0 +1,36 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1160.0,
+    "max": 1160.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 1160.0,
+        "url": "https://swn.ru/best-wines/2025-2026/aligote-855538/"
+      }
+    ]
+  },
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "Валерий Захарьин",
+    "license_active": true,
+    "vineyard_ha": 1.62,
+    "website": "https://akchurinwinery.ru",
+    "phone": "+ 7 (499) 703-44-36",
+    "regions": [
+      "Анапа",
+      "Волгоградская область",
+      "Город федерального значения Севастополь",
+      "Дагестан",
+      "Долина Дона",
+      "Кавказ / Дагестан"
+    ],
+    "inn": "0000000"
+  }
+}

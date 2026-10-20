@@ -1,0 +1,50 @@
+{
+  "awards": [
+    "Золото"
+  ],
+  "prices": {
+    "min": 5300.0,
+    "max": 5300.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 5300.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/temelion-vintazh-roze-2019-bryut-rozovoe-igristoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/igristoe-vino/p/temelion-briut-roze-875/",
+      "text": "Красивый переход к оттенкам клубники со сливками. Среднее послевкусие с приятной и игривой кислинкой."
+    },
+    {
+      "kind": "aroma",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/igristoe-vino/p/temelion-briut-roze-875/",
+      "text": "Яркая искрящаяся ароматика с богатой ягодной палитрой: земляника, вишня, брусника, красная смородина. Во вкусе яркая вкусовая атака, повторяющая ягодный профиль аромата с аккуратным финишем вишни в шоколаде."
+    }
+  ],
+  "vintages": [
+    "2019"
+  ],
+  "winery": {
+    "name": "Лефкадия",
+    "license_active": true,
+    "vineyard_ha": 79.0,
+    "website": "https://lefkadia.ru",
+    "phone": "8 (800) 200-30-33",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Крымск",
+      "Крымск",
+      "Кубань",
+      "Кубань. Крымск",
+      "г. Краснодар"
+    ],
+    "inn": "2311252325"
+  }
+}

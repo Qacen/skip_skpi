@@ -1,0 +1,43 @@
+{
+  "prices": {
+    "min": 2000.0,
+    "max": 2000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 2000.0,
+        "url": "https://thewinery.ru/wine_101_ottenok_krasnogo_kaberne_fanagoria_krasnoe_suhoe.php"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_101_ottenok_krasnogo_kaberne_fanagoria_krasnoe_suhoe.php",
+      "text": "Вкус вина сочный, объемный, комплексный с разнообразными оттенками спелых ягод и сухофруктов, приятным фруктовым послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_101_ottenok_krasnogo_kaberne_fanagoria_krasnoe_suhoe.php",
+      "text": "В сложном букете переплетены тона красных ягод, темных фруктов с оттенками ванили в обрамлении благородных тонов древесины дуба."
+    }
+  ],
+  "winery": {
+    "name": "Фанагория",
+    "license_active": true,
+    "vineyard_ha": 3342.0,
+    "website": "https://www.fanagoria.ru",
+    "phone": "+7 86148 38747",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "2352002170"
+  }
+}

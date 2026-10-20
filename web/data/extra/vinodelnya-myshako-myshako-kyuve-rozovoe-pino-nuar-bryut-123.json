@@ -1,0 +1,44 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 900.0,
+    "max": 900.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 900.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/myshako-kyuve-vyderzhannoe-bruyt-rozovoe-igristoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Myshako-kuve-rose-rut-2017",
+      "text": "Цвет нежно розовый. В аромате сложный развитый букет. Вкус мягкий, обволакивающий, с лёгкими вишнёво-шоколадными тонами. Послевкусие долгое, запоминающееся."
+    }
+  ],
+  "vintages": [
+    "2017",
+    "2019"
+  ],
+  "winery": {
+    "name": "Винодельня Мысхако",
+    "license_active": true,
+    "vineyard_ha": 594.37,
+    "website": "https://myskhako.ru",
+    "phone": "+7 (8617) 72-98-00",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Новороссийск",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": "2315005310"
+  }
+}

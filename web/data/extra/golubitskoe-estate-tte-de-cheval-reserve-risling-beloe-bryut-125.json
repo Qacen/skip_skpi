@@ -1,0 +1,37 @@
+{
+  "awards": [
+    "TOP100 2024 #6, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1100.0,
+    "max": 1100.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1100.0,
+        "url": "https://top100wines.ru/2024"
+      }
+    ]
+  },
+  "vintages": [
+    "2018",
+    "2019"
+  ],
+  "winery": {
+    "name": "Golubitskoe Estate",
+    "license_active": true,
+    "vineyard_ha": 349.91,
+    "website": "https://golubitskoe-estate.ru",
+    "phone": "+7 861 204 08 50",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Тамань",
+      "Тамань"
+    ],
+    "inn": "2352029975"
+  }
+}

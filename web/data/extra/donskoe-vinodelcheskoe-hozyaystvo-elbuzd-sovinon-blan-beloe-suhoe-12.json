@@ -1,0 +1,46 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 650.0,
+    "max": 650.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 650.0,
+        "url": "https://thewinery.ru/wine_sovinon_blan_elbuzd_beloe_suhoe.php"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_sovinon_blan_elbuzd_beloe_suhoe.php",
+      "text": "Нежное, сбалансированное и гармоничное."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_sovinon_blan_elbuzd_beloe_suhoe.php",
+      "text": "Аромат яркий, интенсивный и фруктовый."
+    }
+  ],
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "Эльбузд",
+    "license_active": true,
+    "vineyard_ha": 25.0,
+    "website": "https://elbuzd-wine.ru",
+    "phone": "+7 988 565 38 65",
+    "regions": [
+      "Долина Дона",
+      "Ростовская область"
+    ],
+    "inn": "6140030493"
+  }
+}

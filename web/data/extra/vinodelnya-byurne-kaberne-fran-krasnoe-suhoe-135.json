@@ -1,0 +1,44 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1600.0,
+    "max": 1600.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "RussianVine",
+        "price": 1600.0,
+        "url": "https://russianvine.ru/vino-burnie-fran-2016"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-burnie-fran-2016",
+      "text": "Красивый цвет тёмной черешни. Мягкое, бархатистое вино с хорошей полнотой и средней терпкостью. Фруктовый букет с деликатными тонами красной сливы, малины, фиалки, листьев чёрной смородины."
+    }
+  ],
+  "vintages": [
+    "2018",
+    "2020"
+  ],
+  "winery": {
+    "name": "Винодельня Бюрнье",
+    "license_active": false,
+    "vineyard_ha": 48.0,
+    "website": "https://burnier.vin/",
+    "phone": "+7 (86133) 2-89-57",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": null
+  }
+}

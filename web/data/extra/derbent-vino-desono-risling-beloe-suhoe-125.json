@@ -1,0 +1,21 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 900.0,
+    "max": 900.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 900.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_zgu_dagestan_derbent_desono_risling.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2023",
+    "2024"
+  ]
+}

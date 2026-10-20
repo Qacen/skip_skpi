@@ -1,0 +1,44 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1600.0,
+    "max": 1600.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "RussianVine",
+        "price": 1600.0,
+        "url": "https://russianvine.ru/vino-burnie-vionier-2017"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-burnie-vionier-2017",
+      "text": "Цвет глубокий, золотисто-жёлтый. Полное, богатое вино с уникальным ароматом сухофруктов, нежными тонами абрикосов, мёда, белой акации."
+    }
+  ],
+  "vintages": [
+    "2019",
+    "2023"
+  ],
+  "winery": {
+    "name": "Винодельня Бюрнье",
+    "license_active": false,
+    "vineyard_ha": 48.0,
+    "website": "https://burnier.vin/",
+    "phone": "+7 (86133) 2-89-57",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": null
+  }
+}

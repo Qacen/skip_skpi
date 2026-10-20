@@ -1,0 +1,33 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1800.0,
+    "max": 1800.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1800.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/vivander-vn-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2021"
+  ],
+  "winery": {
+    "name": "Domaine de la Vivandiere",
+    "license_active": false,
+    "vineyard_ha": 78.0,
+    "website": "https://t.me/s/domainedelavivandiere",
+    "phone": "+7 (499) 7034436",
+    "regions": [
+      "Крым",
+      "Крым / Бахчисарайский район",
+      "Республика Крым"
+    ],
+    "inn": "9104030856"
+  }
+}

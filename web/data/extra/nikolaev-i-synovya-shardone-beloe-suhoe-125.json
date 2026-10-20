@@ -1,0 +1,20 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 3800.0,
+    "max": 3800.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 3800.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_nikolaev_i_synovya_shardone.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2023"
+  ]
+}

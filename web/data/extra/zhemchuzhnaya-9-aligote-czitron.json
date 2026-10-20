@@ -1,0 +1,21 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "vintages": [
+    "2024"
+  ],
+  "winery": {
+    "name": "Семейная винодельня Аратти",
+    "license_active": false,
+    "vineyard_ha": 11.5,
+    "website": "https://aratti.clients.site",
+    "phone": "+7 (861) 217-68-78",
+    "regions": [
+      "Анапа",
+      "Краснодарский край",
+      "Кубань"
+    ],
+    "inn": null
+  }
+}

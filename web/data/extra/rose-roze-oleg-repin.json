@@ -1,0 +1,23 @@
+{
+  "prices": {
+    "min": 3200.0,
+    "max": 3900.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 3200.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/oleg-repin-roze-rozovoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 3900.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_rozovoe_sukhoe_oleg_repin_rose.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2023",
+    "2025"
+  ]
+}

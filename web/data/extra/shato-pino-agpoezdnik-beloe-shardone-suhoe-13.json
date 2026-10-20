@@ -1,0 +1,23 @@
+{
+  "awards": [
+    "Серебро",
+    "Бронза"
+  ],
+  "vintages": [
+    "2021",
+    "2022"
+  ],
+  "winery": {
+    "name": "Шато Пино",
+    "license_active": true,
+    "vineyard_ha": 95.0,
+    "website": "https://chateau-pinot.ru/",
+    "phone": "+7 499 7034436",
+    "regions": [
+      "Краснодарский Край",
+      "Кубань",
+      "Новороссийск"
+    ],
+    "inn": "2315211390"
+  }
+}

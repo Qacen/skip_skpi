@@ -1,0 +1,49 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1100.0,
+    "max": 1100.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 1100.0,
+        "url": "https://thewinery.ru/wine_kaberne_savinon_reserve_alma_valley_krasnoe_suhoe.php"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_kaberne_savinon_reserve_alma_valley_krasnoe_suhoe.php",
+      "text": "Вкус насыщенный, плодовый, свежий, с бархатистой терпкостью. Послевкусие запоминается типичным для альминского терруара легким оттенком свежемолотого черного перца."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_kaberne_savinon_reserve_alma_valley_krasnoe_suhoe.php",
+      "text": "Яркий сортовой аромат с тонами спелой черной смородины, черники, сафьяновой кожи, благородной ванили и легких специй, а также присущими для вин степной зоны Западного Крыма оттенками сушеных трав."
+    }
+  ],
+  "vintages": [
+    "2019"
+  ],
+  "winery": {
+    "name": "Alma Valley",
+    "license_active": false,
+    "vineyard_ha": 405.0,
+    "website": "https://alma-valley.ru",
+    "phone": "+7 (36554) 9–19–79",
+    "regions": [
+      "Западно-Предгорный Крым",
+      "Крым",
+      "Крым / Бахчисарайский район / Долина реки Альма",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

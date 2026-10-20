@@ -1,0 +1,36 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2100.0,
+    "max": 2100.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 2100.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/villa-sofiya-merlo-kaberne-sovinon-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "winery": {
+    "name": "Вилла София",
+    "license_active": true,
+    "vineyard_ha": 8.5,
+    "website": "https://villasofiavlz.ru",
+    "phone": "+7 (8447) 95-60-60",
+    "regions": [
+      "Волгоградская обл.",
+      "Волгоградская область",
+      "Нижняя Волга",
+      "Нижняя Волга / Волгоградская область"
+    ],
+    "inn": "3454006168"
+  }
+}

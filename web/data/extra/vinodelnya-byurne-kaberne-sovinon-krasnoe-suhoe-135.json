@@ -1,0 +1,61 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1000.0,
+    "max": 1300.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 1000.0,
+        "url": "https://thewinery.ru/wine_kaberne_burnie_krasnoe_suhoe.php"
+      },
+      {
+        "label": "RussianVine",
+        "price": 1300.0,
+        "url": "https://russianvine.ru/vino-burnie-cabernet-2018"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-burnie-cabernet-2018",
+      "text": "Цвет глубокий, тёмно-рубиновый. Полное, сложное вино с ароматами специй и чёрного перца. Ярко выраженный сортовой вкус. Терпкое вино с танинами и долгим послевкусием."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_kaberne_burnie_krasnoe_suhoe.php",
+      "text": "Ярко выраженный сортовой вкус. Терпкое вино с танинами и долгим послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_kaberne_burnie_krasnoe_suhoe.php",
+      "text": "Полное, сложное вино с ароматами специй и черного перца."
+    }
+  ],
+  "vintages": [
+    "2017",
+    "2018"
+  ],
+  "winery": {
+    "name": "Винодельня Бюрнье",
+    "license_active": false,
+    "vineyard_ha": 48.0,
+    "website": "https://burnier.vin/",
+    "phone": "+7 (86133) 2-89-57",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": null
+  }
+}

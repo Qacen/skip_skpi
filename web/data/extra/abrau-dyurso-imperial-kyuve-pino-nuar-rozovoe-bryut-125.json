@@ -1,0 +1,29 @@
+{
+  "awards": [
+    "TOP100 2023 #51, Золото"
+  ],
+  "prices": {
+    "min": 1740.0,
+    "max": 1740.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1740.0,
+        "url": "https://top100wines.ru/2023"
+      }
+    ]
+  },
+  "vintages": [
+    "2018"
+  ],
+  "winery": {
+    "name": "Абрау-Дюрсо",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": null,
+    "phone": null,
+    "regions": [],
+    "inn": null
+  }
+}

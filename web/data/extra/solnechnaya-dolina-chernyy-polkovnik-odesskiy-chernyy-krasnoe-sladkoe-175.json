@@ -1,0 +1,98 @@
+{
+  "prices": {
+    "min": 400.0,
+    "max": 2950.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 400.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/napitok-vinnyy-solnechnaya-dolina-krasnyy-chernyy-polkovnik-025-l.html"
+      },
+      {
+        "label": "Каталог виноделен",
+        "price": 500.0,
+        "url": "https://thewinery.ru/wine_chernij_polkovnik_sundolina_krasnoe_sladkoe.php"
+      },
+      {
+        "label": "Глобус Винофан",
+        "price": 649.0,
+        "url": "https://www.vinofan.ru/winecatalogue/region_crimea/wine_cherniy-polkovnik/"
+      },
+      {
+        "label": "RussianVine",
+        "price": 1000.0,
+        "url": "https://russianvine.ru/vino-Solnechnay-dolina-black-polkovnik-2007"
+      },
+      {
+        "label": "AMWINE",
+        "price": 1599.99,
+        "url": "https://amwine.ru/catalog/vino/chernyy_polkovnik/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Solnechnay-dolina-black-polkovnik-2007",
+      "text": "Вино густого тёмно-рубинового цвета. Букет сложный с тонами молочного ириса, шоколада, чернослива и кофе мокко. Вкус экстрактивный, насыщенный, полный, с тонами молочного шоколада. Интенсивное, приятное, очень долгое тёплое послевкусие."
+    },
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/chernyy_polkovnik/",
+      "text": "Ощутимая терпкость вина создаётся аккуратными бархатистыми танинами. Вкус достаточно свежей кислотности с долгим теплым, приятным послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/chernyy_polkovnik/",
+      "text": "Сложный букет с тонами молочного ириса, шоколада, чернослива, пряностей. После непродолжительной аэрации вина в бокале на передний план выходят сливочно-кофейные тона, а также ванили и кожи."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_chernij_polkovnik_sundolina_krasnoe_sladkoe.php",
+      "text": "Оно имеет сложный букет с тонами молочного ириса, шоколада, чернослива и кофе мокко."
+    }
+  ],
+  "vintages": [
+    "2007",
+    "2018",
+    "2022"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/vino/chernyy_polkovnik/",
+    "n": 2,
+    "avg": 5.0,
+    "items": [
+      {
+        "author": "Людмила",
+        "date": "2026-06-29",
+        "rating": 5,
+        "text": "В 2014 г в Крыму я узнала историю этого вина и влюбилась в него. Мои друзья, находясь там в отпуске, покупали и привозили мне. В Петербурге редко можно его встретить. Мне повезло!"
+      },
+      {
+        "author": "Георгий Клубков",
+        "date": "2026-04-20",
+        "rating": 5,
+        "text": "Тот самый вкус как 20 лет назад на дегустации в солнечный долина"
+      }
+    ]
+  },
+  "winery": {
+    "name": "Солнечная Долина",
+    "license_active": true,
+    "vineyard_ha": 555.0,
+    "website": "https://sunvalley1888.ru",
+    "phone": "+7(36566)3-53-30",
+    "regions": [
+      "Крым",
+      "Крым / Судак",
+      "Республика Крым"
+    ],
+    "inn": "0031173285"
+  }
+}

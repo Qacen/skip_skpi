@@ -1,0 +1,34 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1800.0,
+    "max": 1800.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 1800.0,
+        "url": "https://swn.ru/best-wines/2025-2026/mountain-eagle-cabernet-sauvignon/"
+      }
+    ]
+  },
+  "vintages": [
+    "2021",
+    "2022"
+  ],
+  "winery": {
+    "name": "Агролайн",
+    "license_active": true,
+    "vineyard_ha": 102.09,
+    "website": "https://oooagrolain.ru",
+    "phone": "+7 (988) 293-88-89",
+    "regions": [
+      "Дагестан",
+      "Кавказ / Дагестан",
+      "Республика Дагестан"
+    ],
+    "inn": "0522013971"
+  }
+}

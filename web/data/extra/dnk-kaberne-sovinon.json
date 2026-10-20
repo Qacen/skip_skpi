@@ -1,0 +1,20 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "Усадьба Меркотан",
+    "license_active": false,
+    "vineyard_ha": 10.5,
+    "website": null,
+    "phone": "+79648984754",
+    "regions": [
+      "Анапа",
+      "Кубань"
+    ],
+    "inn": null
+  }
+}

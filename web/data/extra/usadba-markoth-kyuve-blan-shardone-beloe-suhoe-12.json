@@ -1,0 +1,36 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2400.0,
+    "max": 2400.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 2400.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_beloe_sukhoe_usadba_markotkh_kyuve_blan_2019.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2024"
+  ],
+  "winery": {
+    "name": "Усадьба Маркотх",
+    "license_active": false,
+    "vineyard_ha": 8.2,
+    "website": "https://t.me/chateau_marko",
+    "phone": "+7 (962) 4280391",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Краснодарский край / Геленджик",
+      "Кубань",
+      "Ставрополь",
+      "Ставрополье"
+    ],
+    "inn": "233101832573"
+  }
+}

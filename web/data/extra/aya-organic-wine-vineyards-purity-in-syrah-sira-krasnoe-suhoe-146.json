@@ -1,0 +1,39 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1300.0,
+    "max": 1400.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1300.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/ayya-pyuriti-in-sira-krasnoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1400.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_aya_organic_wine_purity_in_syrah.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/ayya-pyuriti-in-sira-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Тело вина среднее, кислотность осмысленно яркая, во вкусе вино сочное освежающее легкое."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/ayya-pyuriti-in-sira-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Букет экспрессивный с богатой ягодной ароматикой."
+    }
+  ],
+  "vintages": [
+    "2023"
+  ]
+}

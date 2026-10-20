@@ -1,0 +1,36 @@
+{
+  "awards": [
+    "Золото"
+  ],
+  "prices": {
+    "min": 3400.0,
+    "max": 3400.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 3400.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/skalistyy-bereg-blan-de-nuar-ekstra-bryut-beloe-igristoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2021",
+    "2023"
+  ],
+  "winery": {
+    "name": "Скалистый Берег",
+    "license_active": true,
+    "vineyard_ha": 36.0,
+    "website": "https://skbereg.ru",
+    "phone": "+7 (86133) 27131",
+    "regions": [
+      "Анапа",
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Республика Крым"
+    ],
+    "inn": "7709858507"
+  }
+}

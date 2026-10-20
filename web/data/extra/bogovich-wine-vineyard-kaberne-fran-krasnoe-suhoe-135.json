@@ -1,0 +1,20 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 4200.0,
+    "max": 4200.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 4200.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/bogovich-wine-kaberne-fran-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2021"
+  ]
+}

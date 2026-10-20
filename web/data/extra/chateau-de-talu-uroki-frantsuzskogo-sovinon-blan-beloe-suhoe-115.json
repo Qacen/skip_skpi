@@ -1,0 +1,36 @@
+{
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/vino/uroki_frantsuzskogo_sovinon_blank/",
+    "n": 2,
+    "avg": 5.0,
+    "items": [
+      {
+        "author": "Анастасия Слободчук",
+        "date": "2026-09-19",
+        "rating": 5,
+        "text": "Вкусное, легкое и нежное. Лучше пить очень охлажденным"
+      },
+      {
+        "author": "Андрей",
+        "date": "2026-08-14",
+        "rating": 5,
+        "text": "Очень хорошее вино от отечественного производителя, которое напоминает французские вина"
+      }
+    ]
+  },
+  "winery": {
+    "name": "Chateau de Talu",
+    "license_active": true,
+    "vineyard_ha": 196.28,
+    "website": "https://chateaudetalu.ru",
+    "phone": "+7 (86141) 36330",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Краснодарский край / Геленджик",
+      "Кубань"
+    ],
+    "inn": "2308108667"
+  }
+}

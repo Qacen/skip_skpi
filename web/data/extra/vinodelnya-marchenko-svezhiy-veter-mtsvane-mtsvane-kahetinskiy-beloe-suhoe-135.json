@@ -1,0 +1,20 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1300.0,
+    "max": 1300.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1300.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/marchenko-svezhiy-veter-mcvane-beloe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2023"
+  ]
+}

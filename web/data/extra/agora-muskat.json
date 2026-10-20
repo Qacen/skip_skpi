@@ -1,0 +1,71 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 700.0,
+    "max": 700.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 700.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_beloe_polusladkoe_zgu_krym_fotisal_agora_muskat.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2024"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/vino/agora_muskat/",
+    "n": 246,
+    "avg": 4.42,
+    "items": [
+      {
+        "author": "Alexander Ge",
+        "date": "2026-09-24",
+        "rating": 4,
+        "text": "Легкое, немного пустое вино. Но... обладает выраженным вкусом ореха (миндаля). И черносливом."
+      },
+      {
+        "author": "Альберт Хорн",
+        "date": "2026-09-12",
+        "rating": 4,
+        "text": "А вот это странно почему это Крымская такая хорошая у него оценка но я всё-таки не стал брать"
+      },
+      {
+        "author": "Kate Vilod",
+        "date": "2026-09-08",
+        "rating": 4,
+        "text": "Чувсвуется аромат яблока и абрикоса, нежное, кисленькое в меру, есть сладость"
+      },
+      {
+        "author": "Mikle Swan",
+        "date": "2026-09-08",
+        "rating": 5,
+        "text": "Необычно приятный вкус. Особенно с учётом цены. Одобрямс"
+      },
+      {
+        "author": "T S",
+        "date": "2026-07-29",
+        "rating": 3,
+        "text": "Спокойное вино, со льдом вполне нормально."
+      }
+    ]
+  },
+  "winery": {
+    "name": "Agora Winery",
+    "license_active": false,
+    "vineyard_ha": 1550.0,
+    "website": "https://www.agora-group.ru",
+    "phone": "+74997829489",
+    "regions": [
+      "Крым",
+      "Крым / Бахчисарайский район",
+      "Республика Крым"
+    ],
+    "inn": null
+  }
+}

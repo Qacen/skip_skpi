@@ -1,0 +1,20 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1400.0,
+    "max": 1400.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1400.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_aya_organic_wine_purity_in_merlot.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2023"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "awards": [
+    "Серебро",
+    "Золото"
+  ],
+  "prices": {
+    "min": 1100.0,
+    "max": 1100.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "RussianVine",
+        "price": 1100.0,
+        "url": "https://russianvine.ru/vino-gunko-vinodelnya-malbek-2019"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-gunko-vinodelnya-malbek-2019",
+      "text": "Вино тёмно-бордового цвета с фиолетовым оттенком. В аромате оттенки чернослива, специй, топлёного масла. Во вкусе яркое, структурное, полнотелое, с тонами ежевики, чернослива, кизила, с длительным фруктовым послевкусием."
+    }
+  ],
+  "vintages": [
+    "2019",
+    "2022",
+    "2024"
+  ]
+}

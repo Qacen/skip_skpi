@@ -1,0 +1,91 @@
+{
+  "prices": {
+    "min": 400.0,
+    "max": 850.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 400.0,
+        "url": "https://thewinery.ru/wine_portvein_belij_krimskij_massandra_beloe_sladkoe.php"
+      },
+      {
+        "label": "AMWINE",
+        "price": 569.0,
+        "url": "https://amwine.ru/catalog/vino/portveyn/portveyn-belyy-krymskiy-massandra/"
+      },
+      {
+        "label": "Красностоп",
+        "price": 850.0,
+        "url": "https://krasnostop.ru/katalog/likernye-vina/massandra-portveyn-belyy-krymskiy-kreplenoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_portvein_belij_krimskij_massandra_beloe_sladkoe.php",
+      "text": "Вино имеет гармоничный, бархатистый вкус с плодовыми и фруктовыми оттенками, плавно переходящими в долгое, округлое послевкусие."
+    },
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/likernye-vina/massandra-portveyn-belyy-krymskiy-kreplenoe-vino-0-75-l/",
+      "text": "Вино тельное, вкус классических выдержанных вин Массандры выделяются тона абрикоса, инжира, прополиса, выдержки в бочке."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/likernye-vina/massandra-portveyn-belyy-krymskiy-kreplenoe-vino-0-75-l/",
+      "text": "В букете доминируют ароматы сухофруктов и меда с легкими спиртуозными нотами."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_portvein_belij_krimskij_massandra_beloe_sladkoe.php",
+      "text": "Яркий, выразительный аромат с фруктовыми и мускатными нотками."
+    }
+  ],
+  "vintages": [
+    "2019"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/vino/portveyn/portveyn_belyy_krymskiy/",
+    "n": 470,
+    "avg": 4.22,
+    "items": [
+      {
+        "author": "Влад Кувшинов",
+        "date": "2026-09-19",
+        "rating": 4,
+        "text": "Несмотря на комплексный ассамбляж портвейн получился, год урожая 2019. Сегодня предпростудное состояние, так что вино оказалось очень в тему. Выпил соло."
+      },
+      {
+        "author": "Vyacheslav Philippov",
+        "date": "2026-09-12",
+        "rating": 4,
+        "text": "Нос - изюм, орехи, мокрая тряпка, абрикос, ваниль, сухофрукты. Полнотелое, танины средние, кислотность повышенная, сладость высокая. Вкус - абрикос, изюм, чернослив. Послевкусие - дуб, курага, карамель, орехи. Тест на алкоголь не проводил."
+      },
+      {
+        "author": "G K",
+        "date": "2026-09-12",
+        "rating": 4,
+        "text": "Далеко не португальльский. Не хватает насыщенности и глубины. На мой взгляд цена завышена."
+      },
+      {
+        "author": "Konstantin Foteev",
+        "date": "2026-09-02",
+        "rating": 3,
+        "text": "Из известных крымских портвейнов самый слабый, и по ароматике, и по вкусу"
+      },
+      {
+        "author": "Алексей Артёмов",
+        "date": "2026-09-01",
+        "rating": 4,
+        "text": "Добротный портвейн со вкусом чернослива, кураги, миндаля. Немного сладковат. С приятным послевкусием."
+      }
+    ]
+  }
+}

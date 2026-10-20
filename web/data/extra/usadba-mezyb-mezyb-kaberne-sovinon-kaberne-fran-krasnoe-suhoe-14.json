@@ -1,0 +1,40 @@
+{
+  "awards": [
+    "TOP100 2023 #37, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1250.0,
+    "max": 1470.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1250.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/mezyb-kaberne-sovinon-kaberne-fran-krasnoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1470.0,
+        "url": "https://top100wines.ru/2023"
+      }
+    ]
+  },
+  "vintages": [
+    "2019",
+    "2021"
+  ],
+  "winery": {
+    "name": "Усадьба Мезыбь",
+    "license_active": true,
+    "vineyard_ha": 58.12,
+    "website": "http://www.mezyb.ru/",
+    "phone": "+7 (499) 703-44-36",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Краснодарский край / Геленджик"
+    ],
+    "inn": "2304067346"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1350.0,
+    "max": 1350.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1350.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_krasnoe_sukhoe_zgu_dagestan_agrolayn_heritage_dg_skin_kontakt.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2022",
+    "2024"
+  ],
+  "winery": {
+    "name": "Агролайн",
+    "license_active": true,
+    "vineyard_ha": 102.09,
+    "website": "https://oooagrolain.ru",
+    "phone": "+7 (988) 293-88-89",
+    "regions": [
+      "Дагестан",
+      "Кавказ / Дагестан",
+      "Республика Дагестан"
+    ],
+    "inn": "0522013971"
+  }
+}

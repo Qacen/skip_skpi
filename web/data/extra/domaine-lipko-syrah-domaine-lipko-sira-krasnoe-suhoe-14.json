@@ -1,0 +1,45 @@
+{
+  "prices": {
+    "min": 3000.0,
+    "max": 4250.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 3000.0,
+        "url": "https://swn.ru/best-wines/2025-2026/syrah-1621735386/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 3100.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_krasnoe_sukhoe_domaine_lipko_sira.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/2025-2026/syrah-1621735386/",
+      "text": "Вино насыщенного рубинового цвета с фиолетовым отливом. В сложном, классическом для сорта аромате раскрываются ноты черного перца, кожи, фиалки и тапенады (пасты из маслин). Вкус яркий, мощный и пряный, изобилующий тонами черного перца, дыма от костра, горького шоколада, вишневого ликера и обжаренного бекона."
+    }
+  ],
+  "vintages": [
+    "2017",
+    "2023"
+  ],
+  "winery": {
+    "name": "Domaine Lipko",
+    "license_active": false,
+    "vineyard_ha": 43.0,
+    "website": "https://domainelipko.com",
+    "phone": "+7 (978) 000-17-38",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Балаклава",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

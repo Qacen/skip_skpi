@@ -1,0 +1,51 @@
+{
+  "awards": [
+    "Бронза",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2100.0,
+    "max": 2300.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 2100.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/villa-sofiya-trio-rozovoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 2300.0,
+        "url": "https://fortwine.ru/product/vino-villa-sofia-trio-rose-2023-0-75/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://fortwine.ru/product/vino-villa-sofia-trio-rose-2023-0-75/",
+      "text": "Цвет нежно-розовый. Аромат с тонами груши, малины, клубники, дополненных оттенками персика и цветков розы. Вкус мягкий с гармоничной кислотностью и легким ягодным послевкусием."
+    }
+  ],
+  "vintages": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "winery": {
+    "name": "Вилла София",
+    "license_active": true,
+    "vineyard_ha": 8.5,
+    "website": "https://villasofiavlz.ru",
+    "phone": "+7 (8447) 95-60-60",
+    "regions": [
+      "Волгоградская обл.",
+      "Волгоградская область",
+      "Нижняя Волга",
+      "Нижняя Волга / Волгоградская область"
+    ],
+    "inn": "3454006168"
+  }
+}

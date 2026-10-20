@@ -1,0 +1,29 @@
+{
+  "prices": {
+    "min": 400.0,
+    "max": 400.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 400.0,
+        "url": "https://swn.ru/best-wines/2025-2026/cantiani-saperavi-merlot/"
+      }
+    ]
+  },
+  "vintages": [
+    "2024"
+  ],
+  "winery": {
+    "name": "Шато АЛВИСА",
+    "license_active": true,
+    "vineyard_ha": null,
+    "website": "https://www.alvisa.ru/",
+    "phone": "+74957999700",
+    "regions": [
+      "Дагестан",
+      "Республика Дагестан"
+    ],
+    "inn": "7730614662"
+  }
+}

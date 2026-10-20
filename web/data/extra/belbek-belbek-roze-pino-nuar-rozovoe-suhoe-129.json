@@ -1,0 +1,76 @@
+{
+  "prices": {
+    "min": 829.0,
+    "max": 1600.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 829.0,
+        "url": "https://amwine.ru/catalog/vino/belbek_roze_rozovoe_sukhoe/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1050.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/roze_2017.html"
+      },
+      {
+        "label": "Каталог виноделен",
+        "price": 1300.0,
+        "url": "https://thewinery.ru/wine_roze_belbek_rozovoe_suhoe.php"
+      },
+      {
+        "label": "RussianVine",
+        "price": 1600.0,
+        "url": "https://russianvine.ru/vino-Belbek-rose-2019"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Belbek-rose-2019",
+      "text": "Вино сочного розового цвета с клубнично-малиновым оттенком. Не сложный, но интересный ярко-ягодный аромат. Вкус освежающий с шелковистой текстурой, приятной кислотностью и элегантным и приятным послевкусием с фруктово-ягодными нюансами."
+    },
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://krymwine.ru/catalog/vino/tikhie-vina/roze_2017.html",
+      "text": "Вино насыщенного розового цвета с уникальным сочетанием ароматов клубники, сливочных леденцов и барбариса. Вкус освежающий с шелковистой текстурой, приятной кислотностью и фруктовым послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_roze_belbek_rozovoe_suhoe.php",
+      "text": "В аромате превалирует цветочность, тона леденцов «Барбарис» и сливочность."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/belbek_roze_rozovoe_sukhoe/",
+      "text": "Свежий ягодный аромат с тонами клубники и барбарисовых леденцов."
+    }
+  ],
+  "vintages": [
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "winery": {
+    "name": "Бельбек",
+    "license_active": true,
+    "vineyard_ha": 16.75,
+    "website": "https://belbekwine.com",
+    "phone": "+7 978 769 62 27",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Долина реки Бельбек",
+      "Республика Крым",
+      "Севастополь",
+      "г. Севастополь",
+      "город федерального значения Севастополь"
+    ],
+    "inn": "9203545623"
+  }
+}

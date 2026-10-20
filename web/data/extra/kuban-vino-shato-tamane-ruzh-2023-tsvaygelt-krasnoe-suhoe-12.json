@@ -1,0 +1,27 @@
+{
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/vino/chateau_tamagne_rouge/",
+    "n": 1,
+    "avg": 4.0,
+    "items": [
+      {
+        "author": "Мария",
+        "date": "2026-09-04",
+        "rating": 4,
+        "text": "Брала бутылочку 0,375 красного. Чуть разбавляла водой."
+      }
+    ]
+  },
+  "winery": {
+    "name": "Кубань-Вино Chateau Tamagne",
+    "license_active": false,
+    "vineyard_ha": 7750.0,
+    "website": null,
+    "phone": null,
+    "regions": [
+      "Кубань. Темрюк"
+    ],
+    "inn": null
+  }
+}

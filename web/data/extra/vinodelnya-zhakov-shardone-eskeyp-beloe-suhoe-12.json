@@ -1,0 +1,34 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1700.0,
+    "max": 1700.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1700.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/zhakov-shardone-eskeyp-beloe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/zhakov-shardone-eskeyp-beloe-suhoe-vino-0-75-l/",
+      "text": "Вино среднетельное, округлое, кислотность, средняя, вкус фруктово-сливочно-ванильный аккуратный."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/zhakov-shardone-eskeyp-beloe-suhoe-vino-0-75-l/",
+      "text": "Букет яркий, собран из фруктовых ароматов с тонами выпечки."
+    }
+  ],
+  "vintages": [
+    "2023"
+  ]
+}

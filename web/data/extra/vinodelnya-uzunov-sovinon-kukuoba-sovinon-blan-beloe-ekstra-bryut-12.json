@@ -1,0 +1,54 @@
+{
+  "awards": [
+    "Лучший белый"
+  ],
+  "prices": {
+    "min": 2000.0,
+    "max": 2550.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 2000.0,
+        "url": "https://swn.ru/best-wines/sparkling-2025-2026/sovinon-kukuoba-ekstra-bryut/"
+      },
+      {
+        "label": "Красностоп",
+        "price": 2550.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/vinodelnya-uzunov-sovinon-kukuoba-ekstra-bryut-beloe-igristoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/sparkling-2025-2026/sovinon-kukuoba-ekstra-bryut/",
+      "text": "Вино светло-соломенного цвета, с тонкой, среднеинтенсивной игрой пузырьков. Аромат яркий и гармоничный, с выраженными цитрусовыми и тропическими оттенками. Вкус свежий, сочный, «хрустящий», с длительным послевкусием."
+    },
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/igristye-vina/vinodelnya-uzunov-sovinon-kukuoba-ekstra-bryut-beloe-igristoe-vino-0-75-l/",
+      "text": "Вино приятное, игра тактильно мягкая, текстура кремовая, кислотность яркая, во вкусе зеленое яблоко, белая черешня, завершение длительное."
+    }
+  ],
+  "vintages": [
+    "2024"
+  ],
+  "winery": {
+    "name": "Винодельня Узунов",
+    "license_active": true,
+    "vineyard_ha": 7.75,
+    "website": "https://uzunov.ru",
+    "phone": "+7 (918)260-92-01",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "235210004630"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 700.0,
+    "max": 2000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 700.0,
+        "url": "https://thewinery.ru/wine_sovinon_blan_gunko_winery_beloe_suhoe.php"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1050.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino-zgu-kuban-sovinon-blan-gunko-winery-sukhoe-beloe-2018.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2023"
+  ]
+}

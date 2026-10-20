@@ -1,0 +1,43 @@
+{
+  "awards": [
+    "Бронза",
+    "Золото"
+  ],
+  "prices": {
+    "min": 1400.0,
+    "max": 1700.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 1400.0,
+        "url": "https://swn.ru/best-wines/2025-2026/renessans-tempranillo/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1700.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_zgu_kuban_raevskoe_renessans_tempranilo.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2021",
+    "2023",
+    "2024"
+  ],
+  "winery": {
+    "name": "Винодельня Раевское",
+    "license_active": true,
+    "vineyard_ha": 94.57,
+    "website": "https://raevskoe.com",
+    "phone": "+7 (8617) 300370",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": "2312303156"
+  }
+}

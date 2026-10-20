@@ -1,0 +1,23 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "vintages": [
+    "2021"
+  ],
+  "winery": {
+    "name": "Alma Valley",
+    "license_active": false,
+    "vineyard_ha": 405.0,
+    "website": "https://alma-valley.ru",
+    "phone": "+7 (36554) 9–19–79",
+    "regions": [
+      "Западно-Предгорный Крым",
+      "Крым",
+      "Крым / Бахчисарайский район / Долина реки Альма",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

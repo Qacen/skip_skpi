@@ -1,0 +1,58 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1640.0,
+    "max": 5000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 1640.0,
+        "url": "https://thewinery.ru/wine_cimljanskij_chernij_vina_arpachina_igristoe_extra_brut.php"
+      },
+      {
+        "label": "RussianVine",
+        "price": 5000.0,
+        "url": "https://russianvine.ru/vino-arpachin-igristoe-rose-2017"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-arpachin-igristoe-rose-2017",
+      "text": "Вино светло-розового цвета. В аромате клубника, малина, грейпфрут и яркие цветочные ноты и сливочные тона. Вкус яркий, насыщенный, с оттенками розового грейпфрута и миндаля, с лёгкой приятной горчикой в послевкусии."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_cimljanskij_chernij_vina_arpachina_igristoe_extra_brut.php",
+      "text": "Вкус яркий, насыщенный, с оттенками розового грейпфрута и миндаля, с лёгкой приятной горчинкой в послевкусии."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_cimljanskij_chernij_vina_arpachina_igristoe_extra_brut.php",
+      "text": "В аромате клубника, малина, грейпфрут и яркие цветочные ноты и сливочные тона."
+    }
+  ],
+  "vintages": [
+    "2019",
+    "2022"
+  ],
+  "winery": {
+    "name": "Вина Арпачина",
+    "license_active": false,
+    "vineyard_ha": 30.0,
+    "website": "https://vinaarpachina.ru",
+    "phone": "+7 499 7034436",
+    "regions": [
+      "Долина Дона",
+      "Ростовская область"
+    ],
+    "inn": null
+  }
+}

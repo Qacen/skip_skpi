@@ -1,0 +1,57 @@
+{
+  "prices": {
+    "min": 2450.0,
+    "max": 2720.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 2450.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/fanagoriya-alta-kortis-krasnoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 2720.0,
+        "url": "https://fortwine.ru/product/vino-fanagoria-alta-qortis-2020-0-75/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://fortwine.ru/product/vino-fanagoria-alta-qortis-2020-0-75/",
+      "text": "Беспрецедентная степень свободы в выборе исходных материалов позволяет нашим виноделам добиться по-настоящему полифонического соединения ароматических и вкусовых оттенков. В характере вина, который, при всей своей сложности, воспринимается как единый и органичный, узнаются и свежие первичные оттенки и тона выдержки. В аромате молодого Alta Qortis читаются ноты кизила, граната, тёрна, мягкой сафьяновой кожи и легких свежеперемолотых специй, а долгий вкус запоминается ощущением объема и бархатистыми танинами."
+    },
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/fanagoriya-alta-kortis-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Вино полнотелое, танины бархатистые, вкус мощный ягодно-плодовый с перечными нотками"
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/fanagoriya-alta-kortis-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Букет сложный, собран из ароматов кизила, граната, терна с тонами сафьяна, специй и выдержки."
+    }
+  ],
+  "vintages": [
+    "2020"
+  ],
+  "winery": {
+    "name": "Фанагория",
+    "license_active": true,
+    "vineyard_ha": 3342.0,
+    "website": "https://www.fanagoria.ru",
+    "phone": "+7 86148 38747",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "2352002170"
+  }
+}

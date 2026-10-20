@@ -1,0 +1,38 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1000.0,
+    "max": 1250.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1000.0,
+        "url": "https://online.metro-cc.ru/products/vino-shato-pino-shary-kolduna-blash-rozovoe-suhoe-075l?utm_source=top100&amp"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1250.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_zgu_kuban_novorossiysk_shato_pino_shary_kolduna_blash_rozovoe_sukhoe.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2021"
+  ],
+  "winery": {
+    "name": "Шато Пино",
+    "license_active": true,
+    "vineyard_ha": 95.0,
+    "website": "https://chateau-pinot.ru/",
+    "phone": "+7 499 7034436",
+    "regions": [
+      "Краснодарский Край",
+      "Кубань",
+      "Новороссийск"
+    ],
+    "inn": "2315211390"
+  }
+}

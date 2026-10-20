@@ -1,0 +1,63 @@
+{
+  "awards": [
+    "Серебро",
+    "Бронза"
+  ],
+  "prices": {
+    "min": 300.0,
+    "max": 560.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 300.0,
+        "url": "https://thewinery.ru/wine_zolotaya_balka_krasnoe_polusladkoe.php"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 560.0,
+        "url": "https://krymwine.ru/catalog/vino/polusladkoe/polusladkoe_krasnoe.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Zolotay-balka-polusladkoe-krasnoe-2016",
+      "text": "Цвет вина нежно-розовый. Бархатистое, полное, округлое, но тем не менее очень нежное вино, обладающее неповторимым ароматом красных ягод и сладких фруктов, слегка оттенённых специями. Вкусовая палитра, многогранная, с очень ярким фруктовым послевкусием."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_zolotaya_balka_krasnoe_polusladkoe.php",
+      "text": "Вкусовая палитра сложная, многогранная, с очень ярким фруктовым послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_zolotaya_balka_krasnoe_polusladkoe.php",
+      "text": "Бархатистое, полное, округлое, но тем не менее очень нежное игристое вино, обладающее неповторимым ароматом красных ягод и сладких фруктов, слегка оттененных специями."
+    }
+  ],
+  "vintages": [
+    "2015",
+    "2016",
+    "2019",
+    "2022"
+  ],
+  "winery": {
+    "name": "Золотая Балка",
+    "license_active": false,
+    "vineyard_ha": 1400.0,
+    "website": "https://zolotaiabalka.ru",
+    "phone": "+7 (8692) 45-52-72",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Балаклава",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "prices": {
+    "min": 1950.0,
+    "max": 1950.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1950.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/novyy-svet-kyuve-ekstra-bryut-beloe-igristoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/igristye-vina/novyy-svet-kyuve-ekstra-bryut-beloe-igristoe-vino-0-75-l/",
+      "text": "Вкус яркий, сложный, с пикантной горчинкой и долгим минеральным послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/igristye-vina/novyy-svet-kyuve-ekstra-bryut-beloe-igristoe-vino-0-75-l/",
+      "text": "Букет освежающий свежий, наполнен яркими цветочными ароматами, дополненный тонами выдержанного игристого вина."
+    }
+  ],
+  "vintages": [
+    "2018"
+  ],
+  "winery": {
+    "name": "Новый Свет. Дом шампанских вин",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": null,
+    "phone": null,
+    "regions": [],
+    "inn": null
+  }
+}

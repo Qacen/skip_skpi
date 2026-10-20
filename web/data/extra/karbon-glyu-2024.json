@@ -1,0 +1,15 @@
+{
+  "winery": {
+    "name": "Коммуналка Wine",
+    "license_active": false,
+    "vineyard_ha": 10.0,
+    "website": "https://t.me/comm_wine",
+    "phone": "+79169893628",
+    "regions": [
+      "Крым",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

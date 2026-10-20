@@ -1,0 +1,11 @@
+{
+  "winery": {
+    "name": "Союз-Вино",
+    "license_active": true,
+    "vineyard_ha": null,
+    "website": "https://soyuz-vino.ru/",
+    "phone": null,
+    "regions": [],
+    "inn": "2337028367"
+  }
+}

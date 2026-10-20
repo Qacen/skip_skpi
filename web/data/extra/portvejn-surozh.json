@@ -1,0 +1,49 @@
+{
+  "prices": {
+    "min": 400.0,
+    "max": 750.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 400.0,
+        "url": "https://thewinery.ru/wine_portvein_belij_surozh_massandra_beloe_sladkoe.php"
+      },
+      {
+        "label": "Красностоп",
+        "price": 750.0,
+        "url": "https://krasnostop.ru/katalog/likernye-vina/massandra-portveyn-belyy-surozh-kreplenoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Massandra-portvein-beloe-surog-2011",
+      "text": "Вино золотисто-янтарного цвета. Букет сортовой с токайским оттенком в сочетании с плодово-медовыми тонами. Вкус полный, гармоничный, запоминающийся."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_portvein_belij_surozh_massandra_beloe_sladkoe.php",
+      "text": "Вино демонстрирует мягкий, округлый вкус с маслянистой текстурой, приятной сладостью и продолжительным послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_portvein_belij_surozh_massandra_beloe_sladkoe.php",
+      "text": "Интригует выразительным, сортовым ароматом с медово-плодовыми тонами."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/likernye-vina/massandra-portveyn-belyy-surozh-kreplenoe-vino-0-75-l/",
+      "text": "Букет яркий плодово-медовый."
+    }
+  ],
+  "vintages": [
+    "2011",
+    "2014"
+  ]
+}

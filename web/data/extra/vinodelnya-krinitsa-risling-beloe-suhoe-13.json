@@ -1,0 +1,35 @@
+{
+  "awards": [
+    "TOP100 2022 #96, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2970.0,
+    "max": 2970.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 2970.0,
+        "url": "https://top100wines.ru/top100_22"
+      }
+    ]
+  },
+  "vintages": [
+    "2020",
+    "2022"
+  ],
+  "winery": {
+    "name": "Винодельня Криница",
+    "license_active": false,
+    "vineyard_ha": 84.8,
+    "website": "https://krinitsa.wine",
+    "phone": "+7 (499) 7034436",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Кубань"
+    ],
+    "inn": null
+  }
+}

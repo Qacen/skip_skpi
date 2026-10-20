@@ -1,0 +1,48 @@
+{
+  "awards": [
+    "TOP100 2025 #57, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 300.0,
+    "max": 600.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 300.0,
+        "url": "https://thewinery.ru/wine_saperavi_vinabani_krasnoe_suhoe.php"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 600.0,
+        "url": "https://top100wines.ru/2025"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_saperavi_vinabani_krasnoe_suhoe.php",
+      "text": "Любителям грузинской классики с хорошей танинностью и характерной ароматикой."
+    }
+  ],
+  "vintages": [
+    "2022",
+    "2023",
+    "2025"
+  ],
+  "winery": {
+    "name": "VinaBani",
+    "license_active": false,
+    "vineyard_ha": 136.5,
+    "website": "https://vinabani.ru",
+    "phone": "+7 (999) 9778060",
+    "regions": [
+      "Долина Дона",
+      "Ростовская область"
+    ],
+    "inn": null
+  }
+}

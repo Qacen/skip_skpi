@@ -1,0 +1,53 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 650.0,
+    "max": 650.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 650.0,
+        "url": "https://thewinery.ru/wine_shardone_elbuzd_beloe_suhoe.php"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_shardone_elbuzd_beloe_suhoe.php",
+      "text": "Мягкий, гармоничный вкус вина обладает маслянистой текстурой и выразительными оттенками груши, яблока, цитрусовых фруктов и белого перца. Долгое послевкусие оставляет после себя тягучую сладковатую медовую нотку."
+    },
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-elbuzd-chardonnay-2015",
+      "text": "Вино светло-соломенного цвета. В аромате миндаль, каштан, цитрусовые и белые цветы. Вкус комплексный, свежий, с хорошим балансом."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_shardone_elbuzd_beloe_suhoe.php",
+      "text": "Яркий, чистый, сортовой аромат вина раскрывается оттенками белых цветов, цитрусовых и спелых белых фруктов, миндаля, каштана и цветочного меда."
+    }
+  ],
+  "vintages": [
+    "2015",
+    "2022"
+  ],
+  "winery": {
+    "name": "Эльбузд",
+    "license_active": true,
+    "vineyard_ha": 25.0,
+    "website": "https://elbuzd-wine.ru",
+    "phone": "+7 988 565 38 65",
+    "regions": [
+      "Долина Дона",
+      "Ростовская область"
+    ],
+    "inn": "6140030493"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "prices": {
+    "min": 6100.0,
+    "max": 6100.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 6100.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/obdm-kaberne-sovinon-2022-krasnoe-suhoe-vino-0-75-l-clone/"
+      }
+    ]
+  },
+  "vintages": [
+    "2024"
+  ],
+  "winery": {
+    "name": "One Barrel By Dmitry Maslov",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": "https://mancopia.ru",
+    "phone": "+7 (499) 703-44-36",
+    "regions": [
+      "Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

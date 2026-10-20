@@ -1,0 +1,57 @@
+{
+  "prices": {
+    "min": 1000.0,
+    "max": 2600.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "RussianVine",
+        "price": 1000.0,
+        "url": "https://russianvine.ru/vino-perovskih-blan-de-blan-2020"
+      },
+      {
+        "label": "Красностоп",
+        "price": 1850.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/usadba-perovskih-blan-de-blan-ekstra-bryut-beloe-igristoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1950.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/vino_igristoe_beloe_ekstra_bryut_usadba_perovskikh_blan_de_blan_bryut.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-perovskih-blan-de-blan-2020",
+      "text": "Вино золотистого цвета с зеленоватым отблеском. В аромате тона белых фруктов: яблоко, груша, персик. Раскрывается оттенками свежей сдобы и нюансами ванили. Во вкусе лёгкое, живое, со сбалансированной кислотностью. Чувствуются ноты яблок, лёгкий косточковый тон и минеральные оттенки. Вино со свежим и длительным послевкусием."
+    },
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/igristye-vina/usadba-perovskih-blan-de-blan-ekstra-bryut-beloe-igristoe-vino-0-75-l/",
+      "text": "Игристое вино яркое, с освежающей кислотностью, яблочно-цитрусовым вкусом, легкой минеральностью и тонами цукатов в завершении."
+    }
+  ],
+  "vintages": [
+    "2016",
+    "2021",
+    "2023"
+  ],
+  "winery": {
+    "name": "Усадьба Перовских",
+    "license_active": false,
+    "vineyard_ha": 215.0,
+    "website": "https://perovskywinery.ru",
+    "phone": "+7 985 773 97 92",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Долина реки Бельбек",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

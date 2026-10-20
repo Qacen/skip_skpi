@@ -1,0 +1,86 @@
+{
+  "awards": [
+    "Серебро",
+    "Бронза"
+  ],
+  "prices": {
+    "min": 300.0,
+    "max": 559.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 300.0,
+        "url": "https://thewinery.ru/wine_cimljanskoe_igristoe_beloe_brut.php"
+      },
+      {
+        "label": "AMWINE",
+        "price": 559.0,
+        "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/tsimlyanskoe_beloe_bryut/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/shampanskoe_tsimlyanskoe_51280091/",
+      "text": "Свежий, гармоничный, с приятными фруктовыми нотами, легкими оттенками сдобы и сливок в послевкусии."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/tsimlyanskoe_beloe_bryut/",
+      "text": "Развитый, тонкий, наполнен фруктовыми нотами с цветочными оттенками."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_cimljanskoe_igristoe_beloe_brut.php",
+      "text": "С тонким цветочным ароматом."
+    }
+  ],
+  "vintages": [
+    "2020",
+    "2022",
+    "2023"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/tsimlyanskoe_beloe_bryut/",
+    "n": 3,
+    "avg": 5.0,
+    "items": [
+      {
+        "author": "Мария",
+        "date": "2024-12-12",
+        "rating": 5,
+        "text": "Неплохой вариант сухого игристого. Вкус сбалансированный и нежный, в конце чувствуется цитрусовая кислинка."
+      },
+      {
+        "author": "Александра",
+        "date": "2024-12-12",
+        "rating": 5,
+        "text": "Мне понравилось это вино. Однозначно, буду покупать еще."
+      },
+      {
+        "author": "Сергей",
+        "date": "2024-12-12",
+        "rating": 5,
+        "text": "Хороший простой вариант, чтобы отметить праздник. Нет посторонних привкусов, чувствуется, что сделано из натурального винограда."
+      }
+    ]
+  },
+  "winery": {
+    "name": "Цимлянские вина",
+    "license_active": true,
+    "vineyard_ha": 885.0,
+    "website": "https://tsimlawines.com/",
+    "phone": "+78639156000",
+    "regions": [
+      "Долина Дона",
+      "Ростовская область"
+    ],
+    "inn": "6137007102"
+  }
+}

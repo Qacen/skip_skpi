@@ -1,0 +1,65 @@
+{
+  "awards": [
+    "Серебро",
+    "Золото"
+  ],
+  "prices": {
+    "min": 3500.0,
+    "max": 3950.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 3500.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/legato-merlo-krasnoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 3950.0,
+        "url": "https://fortwine.ru/product/vino-legato-merlo-2021-0-75/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://fortwine.ru/product/vino-legato-merlo-2021-0-75-1/",
+      "text": "Пряный профиль в аромате: ноты хвои, кедровых шишек, тимьяна, дым и тона копчения. Во вкусе экспрессия и глубина, оттенки чернослива, шоколада, миндаля, ноты красной смородины, кизила, сливы, гармонично выступающие на фоне сочных красных ягод и хорошей танинной структуры."
+    },
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/legato-merlo-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Тело вина среднее, кислотность сбалансированная, вкус глубокий раскрывается тонами чернослива, шоколада, миндаля, завершение длительное фруктовое"
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/legato-merlo-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Букет сложный, собран из пряных ароматов, дополнен тонами хвои, кедровых шишек, тимьяна, дымно-копчеными нюансами."
+    }
+  ],
+  "vintages": [
+    "2017",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "winery": {
+    "name": "LeGato",
+    "license_active": false,
+    "vineyard_ha": 10.5,
+    "website": "https://legatowine.ru/",
+    "phone": "+7(985) 193-31-10",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Крымск",
+      "Крымск",
+      "Кубань"
+    ],
+    "inn": null
+  }
+}

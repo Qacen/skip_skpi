@@ -1,0 +1,75 @@
+{
+  "prices": {
+    "min": 350.0,
+    "max": 350.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 350.0,
+        "url": "https://thewinery.ru/wine_russkoe_shampanskoe_abrau_durso_beloe_polusladkoe.php"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_russkoe_shampanskoe_abrau_durso_beloe_polusladkoe.php",
+      "text": "Отлично сбалансированный полусладкий вкус продолжает свежую плодовую линию аромата и завершается долгим ароматическим послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_russkoe_shampanskoe_abrau_durso_beloe_polusladkoe.php",
+      "text": "Аромат яркий, свежий и чистый, с приятными тонами цитрусовых плодов, желтых яблок и груш."
+    }
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/abrau_dyurso_polusladkoe_0_375l/",
+    "n": 282,
+    "avg": 4.19,
+    "items": [
+      {
+        "author": "Stan Leo Vart",
+        "date": "2026-09-28",
+        "rating": 4,
+        "text": "#️⃣9️⃣ - Russian Sparkling. Вкусно и свежо, без привкуса винограда . Приятное"
+      },
+      {
+        "author": "Fedor P.",
+        "date": "2026-09-28",
+        "rating": 4,
+        "text": "Неплохое игристое вино, приятный вкус, советую при отсутствии выбора."
+      },
+      {
+        "author": "Alexandra Illogical",
+        "date": "2026-09-28",
+        "rating": 4,
+        "text": "Интересно.. идеально со льдом или хорошо охлаждённое. Густое, плотное терпкое. Ноты чернослива,яблоко, эдакое новогоднее, как глинтвейн)) рекомендую. Зимнее!"
+      },
+      {
+        "author": "Vitalii Zakharchenko",
+        "date": "2026-09-28",
+        "rating": 4,
+        "text": "Хороший напиток, приятный, недорогой! Хорошо сочетается как с фруктами так и с сырами!"
+      },
+      {
+        "author": "Павел Рогалев",
+        "date": "2026-09-28",
+        "rating": 4,
+        "text": "Кардиохирургам, врачам УЗИ и кардиологам понравилось!"
+      }
+    ]
+  },
+  "winery": {
+    "name": "Абрау-Дюрсо",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": null,
+    "phone": null,
+    "regions": [],
+    "inn": null
+  }
+}

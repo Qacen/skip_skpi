@@ -1,0 +1,42 @@
+{
+  "awards": [
+    "TOP100 2025 #73, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2800.0,
+    "max": 3200.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 2800.0,
+        "url": "https://top100wines.ru/2025"
+      },
+      {
+        "label": "Красностоп",
+        "price": 3200.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/legato-shardone-beloe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "winery": {
+    "name": "LeGato",
+    "license_active": false,
+    "vineyard_ha": 10.5,
+    "website": "https://legatowine.ru/",
+    "phone": "+7(985) 193-31-10",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Крымск",
+      "Крымск",
+      "Кубань"
+    ],
+    "inn": null
+  }
+}

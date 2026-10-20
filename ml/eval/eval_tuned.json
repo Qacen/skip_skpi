@@ -1,0 +1,1290 @@
+{
+ "rows": {
+  "exact": {
+   "n": 53,
+   "R@1": 0.9622641509433962,
+   "R@5": 1.0,
+   "F1": 0.9435897435897436,
+   "cos1_med": 0.7909155488014221,
+   "margin_med": 0.16385531425476074
+  },
+  "probable": {
+   "n": 8,
+   "R@1": 0.875,
+   "R@5": 0.875,
+   "F1": 0.8333333333333334,
+   "cos1_med": 0.6897605657577515,
+   "margin_med": 0.17074453830718994
+  },
+  "exact+probable": {
+   "n": 61,
+   "R@1": 0.9508196721311475,
+   "R@5": 0.9836065573770492,
+   "F1": 0.9272727272727272,
+   "cos1_med": 0.7793503999710083,
+   "margin_med": 0.16385531425476074
+  },
+  "same_line": {
+   "n": 26,
+   "R@1": 0.34615384615384615,
+   "R@5": 0.6923076923076923,
+   "F1": 0.25,
+   "cos1_med": 0.48419225215911865,
+   "margin_med": 0.03142461180686951
+  },
+  "all": {
+   "n": 87,
+   "R@1": 0.7701149425287356,
+   "R@5": 0.896551724137931,
+   "F1": 0.7555555555555555,
+   "cos1_med": 0.7326472997665405,
+   "margin_med": 0.1467488408088684
+  }
+ },
+ "threshold_scan": [
+  {
+   "t": 0.5,
+   "found_correct": 0.9508196721311475,
+   "found_on_not_in_catalog": 0.5
+  },
+  {
+   "t": 0.505,
+   "found_correct": 0.9508196721311475,
+   "found_on_not_in_catalog": 0.5
+  },
+  {
+   "t": 0.51,
+   "found_correct": 0.9508196721311475,
+   "found_on_not_in_catalog": 0.5
+  },
+  {
+   "t": 0.515,
+   "found_correct": 0.9508196721311475,
+   "found_on_not_in_catalog": 0.5
+  },
+  {
+   "t": 0.52,
+   "found_correct": 0.9508196721311475,
+   "found_on_not_in_catalog": 0.4230769230769231
+  },
+  {
+   "t": 0.525,
+   "found_correct": 0.9508196721311475,
+   "found_on_not_in_catalog": 0.38461538461538464
+  },
+  {
+   "t": 0.53,
+   "found_correct": 0.9508196721311475,
+   "found_on_not_in_catalog": 0.38461538461538464
+  },
+  {
+   "t": 0.535,
+   "found_correct": 0.9508196721311475,
+   "found_on_not_in_catalog": 0.38461538461538464
+  },
+  {
+   "t": 0.54,
+   "found_correct": 0.9344262295081968,
+   "found_on_not_in_catalog": 0.38461538461538464
+  },
+  {
+   "t": 0.545,
+   "found_correct": 0.9344262295081968,
+   "found_on_not_in_catalog": 0.34615384615384615
+  },
+  {
+   "t": 0.55,
+   "found_correct": 0.9344262295081968,
+   "found_on_not_in_catalog": 0.34615384615384615
+  },
+  {
+   "t": 0.555,
+   "found_correct": 0.9344262295081968,
+   "found_on_not_in_catalog": 0.34615384615384615
+  },
+  {
+   "t": 0.56,
+   "found_correct": 0.9344262295081968,
+   "found_on_not_in_catalog": 0.34615384615384615
+  },
+  {
+   "t": 0.565,
+   "found_correct": 0.9344262295081968,
+   "found_on_not_in_catalog": 0.34615384615384615
+  },
+  {
+   "t": 0.57,
+   "found_correct": 0.9344262295081968,
+   "found_on_not_in_catalog": 0.34615384615384615
+  },
+  {
+   "t": 0.575,
+   "found_correct": 0.9180327868852459,
+   "found_on_not_in_catalog": 0.34615384615384615
+  },
+  {
+   "t": 0.58,
+   "found_correct": 0.9180327868852459,
+   "found_on_not_in_catalog": 0.34615384615384615
+  },
+  {
+   "t": 0.585,
+   "found_correct": 0.9180327868852459,
+   "found_on_not_in_catalog": 0.34615384615384615
+  },
+  {
+   "t": 0.59,
+   "found_correct": 0.9180327868852459,
+   "found_on_not_in_catalog": 0.34615384615384615
+  },
+  {
+   "t": 0.595,
+   "found_correct": 0.9180327868852459,
+   "found_on_not_in_catalog": 0.34615384615384615
+  },
+  {
+   "t": 0.6,
+   "found_correct": 0.9180327868852459,
+   "found_on_not_in_catalog": 0.34615384615384615
+  },
+  {
+   "t": 0.605,
+   "found_correct": 0.9180327868852459,
+   "found_on_not_in_catalog": 0.34615384615384615
+  },
+  {
+   "t": 0.61,
+   "found_correct": 0.9180327868852459,
+   "found_on_not_in_catalog": 0.3076923076923077
+  },
+  {
+   "t": 0.615,
+   "found_correct": 0.9180327868852459,
+   "found_on_not_in_catalog": 0.2692307692307692
+  },
+  {
+   "t": 0.62,
+   "found_correct": 0.9180327868852459,
+   "found_on_not_in_catalog": 0.2692307692307692
+  },
+  {
+   "t": 0.625,
+   "found_correct": 0.9180327868852459,
+   "found_on_not_in_catalog": 0.2692307692307692
+  },
+  {
+   "t": 0.63,
+   "found_correct": 0.9016393442622951,
+   "found_on_not_in_catalog": 0.2692307692307692
+  },
+  {
+   "t": 0.635,
+   "found_correct": 0.9016393442622951,
+   "found_on_not_in_catalog": 0.2692307692307692
+  },
+  {
+   "t": 0.64,
+   "found_correct": 0.9016393442622951,
+   "found_on_not_in_catalog": 0.2692307692307692
+  },
+  {
+   "t": 0.645,
+   "found_correct": 0.8852459016393442,
+   "found_on_not_in_catalog": 0.2692307692307692
+  },
+  {
+   "t": 0.65,
+   "found_correct": 0.8688524590163934,
+   "found_on_not_in_catalog": 0.2692307692307692
+  },
+  {
+   "t": 0.655,
+   "found_correct": 0.8688524590163934,
+   "found_on_not_in_catalog": 0.2692307692307692
+  },
+  {
+   "t": 0.66,
+   "found_correct": 0.8688524590163934,
+   "found_on_not_in_catalog": 0.2692307692307692
+  },
+  {
+   "t": 0.665,
+   "found_correct": 0.8524590163934426,
+   "found_on_not_in_catalog": 0.2692307692307692
+  },
+  {
+   "t": 0.67,
+   "found_correct": 0.8360655737704918,
+   "found_on_not_in_catalog": 0.2692307692307692
+  },
+  {
+   "t": 0.675,
+   "found_correct": 0.819672131147541,
+   "found_on_not_in_catalog": 0.2692307692307692
+  },
+  {
+   "t": 0.68,
+   "found_correct": 0.819672131147541,
+   "found_on_not_in_catalog": 0.2692307692307692
+  },
+  {
+   "t": 0.685,
+   "found_correct": 0.8032786885245902,
+   "found_on_not_in_catalog": 0.2692307692307692
+  },
+  {
+   "t": 0.69,
+   "found_correct": 0.7868852459016393,
+   "found_on_not_in_catalog": 0.2692307692307692
+  },
+  {
+   "t": 0.695,
+   "found_correct": 0.7868852459016393,
+   "found_on_not_in_catalog": 0.2692307692307692
+  },
+  {
+   "t": 0.7,
+   "found_correct": 0.7868852459016393,
+   "found_on_not_in_catalog": 0.2692307692307692
+  },
+  {
+   "t": 0.705,
+   "found_correct": 0.7704918032786885,
+   "found_on_not_in_catalog": 0.2692307692307692
+  },
+  {
+   "t": 0.71,
+   "found_correct": 0.7540983606557377,
+   "found_on_not_in_catalog": 0.23076923076923078
+  },
+  {
+   "t": 0.715,
+   "found_correct": 0.7213114754098361,
+   "found_on_not_in_catalog": 0.19230769230769232
+  },
+  {
+   "t": 0.72,
+   "found_correct": 0.7049180327868853,
+   "found_on_not_in_catalog": 0.15384615384615385
+  },
+  {
+   "t": 0.725,
+   "found_correct": 0.7049180327868853,
+   "found_on_not_in_catalog": 0.11538461538461539
+  },
+  {
+   "t": 0.73,
+   "found_correct": 0.6885245901639344,
+   "found_on_not_in_catalog": 0.07692307692307693
+  },
+  {
+   "t": 0.735,
+   "found_correct": 0.639344262295082,
+   "found_on_not_in_catalog": 0.07692307692307693
+  },
+  {
+   "t": 0.74,
+   "found_correct": 0.6065573770491803,
+   "found_on_not_in_catalog": 0.07692307692307693
+  },
+  {
+   "t": 0.745,
+   "found_correct": 0.6065573770491803,
+   "found_on_not_in_catalog": 0.07692307692307693
+  },
+  {
+   "t": 0.75,
+   "found_correct": 0.6065573770491803,
+   "found_on_not_in_catalog": 0.07692307692307693
+  },
+  {
+   "t": 0.755,
+   "found_correct": 0.6065573770491803,
+   "found_on_not_in_catalog": 0.07692307692307693
+  },
+  {
+   "t": 0.76,
+   "found_correct": 0.5573770491803278,
+   "found_on_not_in_catalog": 0.07692307692307693
+  },
+  {
+   "t": 0.765,
+   "found_correct": 0.5245901639344263,
+   "found_on_not_in_catalog": 0.07692307692307693
+  },
+  {
+   "t": 0.77,
+   "found_correct": 0.5081967213114754,
+   "found_on_not_in_catalog": 0.07692307692307693
+  },
+  {
+   "t": 0.775,
+   "found_correct": 0.5081967213114754,
+   "found_on_not_in_catalog": 0.07692307692307693
+  },
+  {
+   "t": 0.78,
+   "found_correct": 0.45901639344262296,
+   "found_on_not_in_catalog": 0.07692307692307693
+  },
+  {
+   "t": 0.785,
+   "found_correct": 0.4098360655737705,
+   "found_on_not_in_catalog": 0.07692307692307693
+  },
+  {
+   "t": 0.79,
+   "found_correct": 0.4098360655737705,
+   "found_on_not_in_catalog": 0.07692307692307693
+  },
+  {
+   "t": 0.795,
+   "found_correct": 0.39344262295081966,
+   "found_on_not_in_catalog": 0.07692307692307693
+  },
+  {
+   "t": 0.8,
+   "found_correct": 0.39344262295081966,
+   "found_on_not_in_catalog": 0.07692307692307693
+  },
+  {
+   "t": 0.805,
+   "found_correct": 0.36065573770491804,
+   "found_on_not_in_catalog": 0.07692307692307693
+  },
+  {
+   "t": 0.81,
+   "found_correct": 0.3114754098360656,
+   "found_on_not_in_catalog": 0.07692307692307693
+  },
+  {
+   "t": 0.815,
+   "found_correct": 0.3114754098360656,
+   "found_on_not_in_catalog": 0.07692307692307693
+  },
+  {
+   "t": 0.82,
+   "found_correct": 0.3114754098360656,
+   "found_on_not_in_catalog": 0.07692307692307693
+  },
+  {
+   "t": 0.825,
+   "found_correct": 0.26229508196721313,
+   "found_on_not_in_catalog": 0.07692307692307693
+  },
+  {
+   "t": 0.83,
+   "found_correct": 0.22950819672131148,
+   "found_on_not_in_catalog": 0.07692307692307693
+  },
+  {
+   "t": 0.835,
+   "found_correct": 0.21311475409836064,
+   "found_on_not_in_catalog": 0.07692307692307693
+  },
+  {
+   "t": 0.84,
+   "found_correct": 0.16393442622950818,
+   "found_on_not_in_catalog": 0.07692307692307693
+  },
+  {
+   "t": 0.845,
+   "found_correct": 0.14754098360655737,
+   "found_on_not_in_catalog": 0.07692307692307693
+  },
+  {
+   "t": 0.85,
+   "found_correct": 0.13114754098360656,
+   "found_on_not_in_catalog": 0.07692307692307693
+  },
+  {
+   "t": 0.855,
+   "found_correct": 0.11475409836065574,
+   "found_on_not_in_catalog": 0.07692307692307693
+  },
+  {
+   "t": 0.86,
+   "found_correct": 0.11475409836065574,
+   "found_on_not_in_catalog": 0.038461538461538464
+  },
+  {
+   "t": 0.865,
+   "found_correct": 0.11475409836065574,
+   "found_on_not_in_catalog": 0.038461538461538464
+  },
+  {
+   "t": 0.87,
+   "found_correct": 0.09836065573770492,
+   "found_on_not_in_catalog": 0.0
+  },
+  {
+   "t": 0.875,
+   "found_correct": 0.04918032786885246,
+   "found_on_not_in_catalog": 0.0
+  },
+  {
+   "t": 0.88,
+   "found_correct": 0.04918032786885246,
+   "found_on_not_in_catalog": 0.0
+  },
+  {
+   "t": 0.885,
+   "found_correct": 0.04918032786885246,
+   "found_on_not_in_catalog": 0.0
+  },
+  {
+   "t": 0.89,
+   "found_correct": 0.04918032786885246,
+   "found_on_not_in_catalog": 0.0
+  },
+  {
+   "t": 0.895,
+   "found_correct": 0.03278688524590164,
+   "found_on_not_in_catalog": 0.0
+  },
+  {
+   "t": 0.9,
+   "found_correct": 0.03278688524590164,
+   "found_on_not_in_catalog": 0.0
+  },
+  {
+   "t": 0.905,
+   "found_correct": 0.01639344262295082,
+   "found_on_not_in_catalog": 0.0
+  },
+  {
+   "t": 0.91,
+   "found_correct": 0.0,
+   "found_on_not_in_catalog": 0.0
+  },
+  {
+   "t": 0.915,
+   "found_correct": 0.0,
+   "found_on_not_in_catalog": 0.0
+  },
+  {
+   "t": 0.92,
+   "found_correct": 0.0,
+   "found_on_not_in_catalog": 0.0
+  },
+  {
+   "t": 0.925,
+   "found_correct": 0.0,
+   "found_on_not_in_catalog": 0.0
+  },
+  {
+   "t": 0.93,
+   "found_correct": 0.0,
+   "found_on_not_in_catalog": 0.0
+  },
+  {
+   "t": 0.935,
+   "found_correct": 0.0,
+   "found_on_not_in_catalog": 0.0
+  },
+  {
+   "t": 0.94,
+   "found_correct": 0.0,
+   "found_on_not_in_catalog": 0.0
+  },
+  {
+   "t": 0.945,
+   "found_correct": 0.0,
+   "found_on_not_in_catalog": 0.0
+  }
+ ],
+ "suggest_found_min_cos": [
+  {
+   "t": 0.71,
+   "found_correct": 0.7540983606557377,
+   "found_on_not_in_catalog": 0.23076923076923078
+  }
+ ],
+ "per_photo": [
+  {
+   "photo": "RP003",
+   "subset": "exact",
+   "target": "denisov_rubin_klaret_krasnaya_strelka",
+   "pred": "denisov_rubin_klaret_krasnaya_strelka",
+   "rank": 1,
+   "cos1": 0.7793503999710083,
+   "margin": 0.19091403484344482
+  },
+  {
+   "photo": "RP004",
+   "subset": "probable",
+   "target": "fanagoriya-velvet-season-muskat-ottonel-beloe-sladkoe-13",
+   "pred": "massandra-muskat-belyy-pozdnego-sbora-beloe-sladkoe-10",
+   "rank": 156,
+   "cos1": 0.6335023641586304,
+   "margin": 0.04346287250518799
+  },
+  {
+   "photo": "RP006",
+   "subset": "same_line",
+   "target": "shato-pino-aligote-rkatsiteli-beloe-suhoe-12",
+   "pred": "shato-pino-aligote-rkatsiteli-beloe-suhoe-12",
+   "rank": 1,
+   "cos1": 0.42638251185417175,
+   "margin": 0.024621516466140747
+  },
+  {
+   "photo": "RP007",
+   "subset": "exact",
+   "target": "skalistyj-bereg-shepot-czvetov",
+   "pred": "skalistyj-bereg-shepot-czvetov",
+   "rank": 1,
+   "cos1": 0.7569063901901245,
+   "margin": 0.28978171944618225
+  },
+  {
+   "photo": "RP008",
+   "subset": "exact",
+   "target": "zhemchuzhnaya-9-aligote-czitron",
+   "pred": "zhemchuzhnaya-9-aligote-czitron",
+   "rank": 1,
+   "cos1": 0.7134178876876831,
+   "margin": 0.0024343132972717285
+  },
+  {
+   "photo": "RP009",
+   "subset": "exact",
+   "target": "pobeda",
+   "pred": "pobeda",
+   "rank": 1,
+   "cos1": 0.7326472997665405,
+   "margin": 0.43071287870407104
+  },
+  {
+   "photo": "RP010",
+   "subset": "exact",
+   "target": "relikta-relikta-sira-kaberne-fran-krasnoe-suhoe-13",
+   "pred": "relikta-relikta-sira-kaberne-fran-krasnoe-suhoe-13",
+   "rank": 1,
+   "cos1": 0.8096874356269836,
+   "margin": 0.274432897567749
+  },
+  {
+   "photo": "RP011",
+   "subset": "same_line",
+   "target": "leto-kaberne-fran-rezerv-2021-suhoe-krasnoe",
+   "pred": "leto-shardone-2023-suhoe-beloe",
+   "rank": 3,
+   "cos1": 0.4095293879508972,
+   "margin": 0.0015867650508880615
+  },
+  {
+   "photo": "RP012",
+   "subset": "same_line",
+   "target": "aya-organic-wine-vineyards-purity-in-chenin-blanc-shenen-blan-beloe-suhoe-11",
+   "pred": "aya-organic-wine-vineyards-purity-in-chenin-blanc-shenen-blan-beloe-suhoe-11",
+   "rank": 1,
+   "cos1": 0.6074455976486206,
+   "margin": 0.07182025909423828
+  },
+  {
+   "photo": "RP013",
+   "subset": "exact",
+   "target": "massandra-muskatel-belyy-belye-sorta-vinograda-beloe-sladkoe-16",
+   "pred": "massandra-muskatel-belyy-belye-sorta-vinograda-beloe-sladkoe-16",
+   "rank": 1,
+   "cos1": 0.7045190334320068,
+   "margin": 0.2024480104446411
+  },
+  {
+   "photo": "RP014",
+   "subset": "same_line",
+   "target": "inkerman-shato-ruzh",
+   "pred": "olymp-winery-shato-belbek-kaberne-kaberne-sovinon-krasnoe-suhoe-11",
+   "rank": 3,
+   "cos1": 0.5169088244438171,
+   "margin": 0.07589060068130493
+  },
+  {
+   "photo": "RP015",
+   "subset": "exact",
+   "target": "czitronnyj-magaracha-sovinon-blan",
+   "pred": "czitronnyj-magaracha-sovinon-blan",
+   "rank": 1,
+   "cos1": 0.7841401100158691,
+   "margin": 0.12881338596343994
+  },
+  {
+   "photo": "RP016",
+   "subset": "exact",
+   "target": "rozovoe-zoloto",
+   "pred": "rozovoe-zoloto",
+   "rank": 1,
+   "cos1": 0.7556112408638,
+   "margin": 0.19456928968429565
+  },
+  {
+   "photo": "RP017",
+   "subset": "same_line",
+   "target": "inkerman-shato-ruzh",
+   "pred": "kuban-vino-aristov-amata-rosso-kaberne-sovinon-krasnoe-suhoe-145",
+   "rank": 19,
+   "cos1": 0.4200202226638794,
+   "margin": 0.01363307237625122
+  },
+  {
+   "photo": "RP018",
+   "subset": "exact",
+   "target": "aratti-kaberne-sovinon-2021-krasnoe-suhoe",
+   "pred": "aratti-kaberne-sovinon-2021-krasnoe-suhoe",
+   "rank": 1,
+   "cos1": 0.7909155488014221,
+   "margin": 0.15809237957000732
+  },
+  {
+   "photo": "RP019",
+   "subset": "exact",
+   "target": "merlo-2",
+   "pred": "merlo-2",
+   "rank": 1,
+   "cos1": 0.8074119091033936,
+   "margin": 0.30476969480514526
+  },
+  {
+   "photo": "RP020",
+   "subset": "exact",
+   "target": "belaya-lvicza",
+   "pred": "belaya-lvicza",
+   "rank": 1,
+   "cos1": 0.9065243005752563,
+   "margin": 0.21369057893753052
+  },
+  {
+   "photo": "RP021",
+   "subset": "exact",
+   "target": "aratti-kaberne-sovinon-2020-krasnoe-suhoe",
+   "pred": "aratti-kaberne-sovinon-2020-krasnoe-suhoe",
+   "rank": 1,
+   "cos1": 0.801983118057251,
+   "margin": 0.21051889657974243
+  },
+  {
+   "photo": "RP022",
+   "subset": "exact",
+   "target": "denisov-winery-sovinon-blan-beloe-suhoe-115",
+   "pred": "denisov-winery-sovinon-blan-beloe-suhoe-115",
+   "rank": 1,
+   "cos1": 0.6703372001647949,
+   "margin": 0.08528530597686768
+  },
+  {
+   "photo": "RP023",
+   "subset": "exact",
+   "target": "aratti-kaberne-sovinon-2020-krasnoe-suhoe",
+   "pred": "aratti-kaberne-sovinon-2020-krasnoe-suhoe",
+   "rank": 1,
+   "cos1": 0.8264714479446411,
+   "margin": 0.21421390771865845
+  },
+  {
+   "photo": "RP025",
+   "subset": "exact",
+   "target": "golubitskoe-estate-noble-selection-red-blend-kaberne-sovinon-krasnoe-suhoe-136",
+   "pred": "golubitskoe-estate-noble-selection-red-blend-kaberne-sovinon-krasnoe-suhoe-136",
+   "rank": 1,
+   "cos1": 0.8343057036399841,
+   "margin": 0.2501180171966553
+  },
+  {
+   "photo": "RP026",
+   "subset": "exact",
+   "target": "denisov_pet_nat_rubin",
+   "pred": "denisov_pet_nat_rubin",
+   "rank": 1,
+   "cos1": 0.8741003274917603,
+   "margin": 0.4406488239765167
+  },
+  {
+   "photo": "RP027",
+   "subset": "exact",
+   "target": "zakat-denisov-vajneri",
+   "pred": "zakat-denisov-vajneri",
+   "rank": 1,
+   "cos1": 0.7791244387626648,
+   "margin": 0.28340020775794983
+  },
+  {
+   "photo": "RP028",
+   "subset": "exact",
+   "target": "zakat-denisov-vajneri",
+   "pred": "zakat-denisov-vajneri",
+   "rank": 1,
+   "cos1": 0.8248828649520874,
+   "margin": 0.2946980595588684
+  },
+  {
+   "photo": "RP029",
+   "subset": "same_line",
+   "target": "fanagoriya-alveus-ultra-cuvee-brut-shardone-beloe-bryut-12",
+   "pred": "novyy-svet-dom-shampanskih-vin-rossiyskoe-shampanskoe-kollektsionnoe-bryut-rozovoe-novyy-svet-pino-nuar-135",
+   "rank": 4,
+   "cos1": 0.38678476214408875,
+   "margin": 0.005632489919662476
+  },
+  {
+   "photo": "RP030",
+   "subset": "exact",
+   "target": "golubitskoe-estate-chardonnay",
+   "pred": "golubitskoe-estate-chardonnay",
+   "rank": 1,
+   "cos1": 0.6453515291213989,
+   "margin": 0.06933820247650146
+  },
+  {
+   "photo": "RP031",
+   "subset": "exact",
+   "target": "rubin-golodrigi",
+   "pred": "rubin-golodrigi",
+   "rank": 1,
+   "cos1": 0.7320227026939392,
+   "margin": 0.2727145850658417
+  },
+  {
+   "photo": "RP032",
+   "subset": "same_line",
+   "target": "fanagoriya-alveus-ultra-cuvee-brut-shardone-beloe-bryut-12",
+   "pred": "shato-pino-petnat-oranzh-vione-beloe-ekstra-bryut-11",
+   "rank": 5,
+   "cos1": 0.39518260955810547,
+   "margin": 0.015404850244522095
+  },
+  {
+   "photo": "RP033",
+   "subset": "exact",
+   "target": "denisov_pazori_risling",
+   "pred": "denisov_pazori_risling",
+   "rank": 1,
+   "cos1": 0.6418659687042236,
+   "margin": 0.09869641065597534
+  },
+  {
+   "photo": "RP034",
+   "subset": "exact",
+   "target": "derbent-vino-desono-kaberne-sovinon-krasnoe-suhoe-125",
+   "pred": "derbent-vino-desono-kaberne-sovinon-krasnoe-suhoe-125",
+   "rank": 1,
+   "cos1": 0.6822888851165771,
+   "margin": 0.02079486846923828
+  },
+  {
+   "photo": "RP035",
+   "subset": "exact",
+   "target": "czitronnyj-magaracha-sovinon-blan",
+   "pred": "czitronnyj-magaracha-sovinon-blan",
+   "rank": 1,
+   "cos1": 0.783997654914856,
+   "margin": 0.11589312553405762
+  },
+  {
+   "photo": "RP036",
+   "subset": "same_line",
+   "target": "shato-pino-aligote-rkatsiteli-beloe-suhoe-12",
+   "pred": "shato-pino-aligote-rkatsiteli-beloe-suhoe-12",
+   "rank": 1,
+   "cos1": 0.5187268853187561,
+   "margin": 0.08803525567054749
+  },
+  {
+   "photo": "RP038",
+   "subset": "probable",
+   "target": "denisov-winery-sovinon-blan-beloe-suhoe-115",
+   "pred": "denisov-winery-sovinon-blan-beloe-suhoe-115",
+   "rank": 1,
+   "cos1": 0.6656489968299866,
+   "margin": 0.12978672981262207
+  },
+  {
+   "photo": "RP039",
+   "subset": "exact",
+   "target": "zhemchuzhnaya-9-pino-nuar-muskat-rozovyj-2",
+   "pred": "zhemchuzhnaya-9-pino-nuar-muskat-rozovyj-2",
+   "rank": 1,
+   "cos1": 0.8925797939300537,
+   "margin": 0.01221156120300293
+  },
+  {
+   "photo": "RP040",
+   "subset": "exact",
+   "target": "fanagoriya-zelyonoe-vino-risling-tsitronnyy-magaracha-beloe-polusuhoe-11",
+   "pred": "fanagoriya-zelyonoe-vino-risling-tsitronnyy-magaracha-beloe-polusuhoe-11",
+   "rank": 1,
+   "cos1": 0.8447967767715454,
+   "margin": 0.1491091251373291
+  },
+  {
+   "photo": "RP041",
+   "subset": "same_line",
+   "target": "khrustaleva-76-muscat-bryut-beloe",
+   "pred": "novyy-svet-dom-shampanskih-vin-rossiyskoe-shampanskoe-kollektsionnoe-bryut-beloe-novyy-svet-kyuve-de-prestizh-pino-gri-millezim-rozovoe-125",
+   "rank": 8,
+   "cos1": 0.3351544439792633,
+   "margin": 0.007833093404769897
+  },
+  {
+   "photo": "RP042",
+   "subset": "same_line",
+   "target": "golubitskoe-estate-merlo-krasnoe-suhoe-135",
+   "pred": "golubitskoe-estate-pino-nuar-rezerv-krasnoe-suhoe-132",
+   "rank": 17,
+   "cos1": 0.4473381042480469,
+   "margin": 0.027803897857666016
+  },
+  {
+   "photo": "RP043",
+   "subset": "same_line",
+   "target": "fanagoriya-alveus-ultra-cuvee-brut-shardone-beloe-bryut-12",
+   "pred": "novyy-svet-dom-shampanskih-vin-rossiyskoe-shampanskoe-kollektsionnoe-bryut-rozovoe-novyy-svet-pino-nuar-135",
+   "rank": 18,
+   "cos1": 0.4039148688316345,
+   "margin": 0.035045325756073
+  },
+  {
+   "photo": "RP044",
+   "subset": "exact",
+   "target": "zhemchuzhnaya-9-czitron-shardone-1",
+   "pred": "zhemchuzhnaya-9-czitron-shardone-1",
+   "rank": 1,
+   "cos1": 0.838334321975708,
+   "margin": 0.22728651762008667
+  },
+  {
+   "photo": "RP046",
+   "subset": "exact",
+   "target": "aratti-kaberne-po-belomu-1",
+   "pred": "aratti-kaberne-po-belomu-1",
+   "rank": 1,
+   "cos1": 0.8078767657279968,
+   "margin": 0.08541345596313477
+  },
+  {
+   "photo": "RP047",
+   "subset": "exact",
+   "target": "sovinon-blan",
+   "pred": "sovinon-blan",
+   "rank": 1,
+   "cos1": 0.820982813835144,
+   "margin": 0.24730360507965088
+  },
+  {
+   "photo": "RP048",
+   "subset": "same_line",
+   "target": "fanagoriya-alveus-ultra-cuvee-brut-shardone-beloe-bryut-12",
+   "pred": "novyy-svet-dom-shampanskih-vin-rossiyskoe-shampanskoe-kollektsionnoe-bryut-rozovoe-novyy-svet-pino-nuar-135",
+   "rank": 2,
+   "cos1": 0.39521124958992004,
+   "margin": 0.008528977632522583
+  },
+  {
+   "photo": "RP050",
+   "subset": "exact",
+   "target": "zhemchuzhnaya-9-pino-nuar-muskat-rozovyj-2",
+   "pred": "zhemchuzhnaya-9-pino-nuar-muskat-rozovyj-2",
+   "rank": 1,
+   "cos1": 0.8516865968704224,
+   "margin": 0.0033246874809265137
+  },
+  {
+   "photo": "RP051",
+   "subset": "exact",
+   "target": "rubin-golodrigi",
+   "pred": "rubin-golodrigi",
+   "rank": 1,
+   "cos1": 0.7157666683197021,
+   "margin": 0.2695014774799347
+  },
+  {
+   "photo": "RP052",
+   "subset": "exact",
+   "target": "uva-vallis-risling",
+   "pred": "uva-vallis-risling",
+   "rank": 1,
+   "cos1": 0.8291761875152588,
+   "margin": 0.1597312092781067
+  },
+  {
+   "photo": "RP053",
+   "subset": "exact",
+   "target": "denisov_barynya_kurmyshi",
+   "pred": "denisov_barynya_kurmyshi",
+   "rank": 1,
+   "cos1": 0.7289090156555176,
+   "margin": 0.15468895435333252
+  },
+  {
+   "photo": "RP054",
+   "subset": "exact",
+   "target": "fanagoriya-zelyonoe-vino-risling-tsitronnyy-magaracha-beloe-polusuhoe-11",
+   "pred": "fanagoriya-zelyonoe-vino-risling-tsitronnyy-magaracha-beloe-polusuhoe-11",
+   "rank": 1,
+   "cos1": 0.836342453956604,
+   "margin": 0.14496612548828125
+  },
+  {
+   "photo": "RP055",
+   "subset": "exact",
+   "target": "roze-2",
+   "pred": "roze-2",
+   "rank": 1,
+   "cos1": 0.7820865511894226,
+   "margin": 0.1467488408088684
+  },
+  {
+   "photo": "RP057",
+   "subset": "same_line",
+   "target": "usadba-divnomorskoe-yuzhnyy-les-merlo-krasnoe-suhoe-137",
+   "pred": "usadba-divnomorskoe-yuzhnyy-les-merlo-krasnoe-suhoe-137",
+   "rank": 1,
+   "cos1": 0.7082679271697998,
+   "margin": 0.16178911924362183
+  },
+  {
+   "photo": "RP058",
+   "subset": "exact",
+   "target": "golubitskoe-estate-kaberne-sovinon-krasnoe-suhoe-137",
+   "pred": "golubitskoe-estate-kaberne-sovinon-krasnoe-suhoe-137",
+   "rank": 1,
+   "cos1": 0.7371181845664978,
+   "margin": 0.12062901258468628
+  },
+  {
+   "photo": "RP059",
+   "subset": "exact",
+   "target": "zhemchuzhnaya-9-czitron-shardone-1",
+   "pred": "zhemchuzhnaya-9-czitron-shardone-1",
+   "rank": 1,
+   "cos1": 0.7611420154571533,
+   "margin": 0.22293716669082642
+  },
+  {
+   "photo": "RP060",
+   "subset": "exact",
+   "target": "golubitskoe-estate-merlo-krasnoe-suhoe-135",
+   "pred": "golubitskoe-estate-merlo-krasnoe-suhoe-135",
+   "rank": 1,
+   "cos1": 0.778691291809082,
+   "margin": 0.2540243864059448
+  },
+  {
+   "photo": "RP061",
+   "subset": "same_line",
+   "target": "aristov-anima-millesimato-beloe-bryut",
+   "pred": "solnechnaya-dolina-meganom-kyuve-shardone-beloe-bryut-11",
+   "rank": 50,
+   "cos1": 0.38092947006225586,
+   "margin": 0.0022345781326293945
+  },
+  {
+   "photo": "RP062",
+   "subset": "exact",
+   "target": "roze-2",
+   "pred": "roze-2",
+   "rank": 1,
+   "cos1": 0.8215898275375366,
+   "margin": 0.16385531425476074
+  },
+  {
+   "photo": "RP063",
+   "subset": "exact",
+   "target": "roze-2",
+   "pred": "roze-2",
+   "rank": 1,
+   "cos1": 0.8355836868286133,
+   "margin": 0.15909194946289062
+  },
+  {
+   "photo": "RP064",
+   "subset": "exact",
+   "target": "zhemchuzhnaya-9-pino-nuar-muskat-rozovyj-1",
+   "pred": "zhemchuzhnaya-9-pino-nuar-muskat-rozovyj-2",
+   "rank": 2,
+   "cos1": 0.8916312456130981,
+   "margin": 0.003047943115234375
+  },
+  {
+   "photo": "RP065",
+   "subset": "probable",
+   "target": "denisov-winery-sovinon-blan-beloe-suhoe-115",
+   "pred": "denisov-winery-sovinon-blan-beloe-suhoe-115",
+   "rank": 1,
+   "cos1": 0.6625242829322815,
+   "margin": 0.13313454389572144
+  },
+  {
+   "photo": "RP066",
+   "subset": "same_line",
+   "target": "usadba-divnomorskoe-yuzhnyy-les-merlo-krasnoe-suhoe-137",
+   "pred": "usadba-divnomorskoe-yuzhnyy-les-merlo-krasnoe-suhoe-137",
+   "rank": 1,
+   "cos1": 0.7197641730308533,
+   "margin": 0.24905234575271606
+  },
+  {
+   "photo": "RP068",
+   "subset": "exact",
+   "target": "aratti-kaberne-po-belomu-1",
+   "pred": "aratti-kaberne-po-belomu-1",
+   "rank": 1,
+   "cos1": 0.8702208995819092,
+   "margin": 0.06389474868774414
+  },
+  {
+   "photo": "RP069",
+   "subset": "probable",
+   "target": "bukovinka",
+   "pred": "bukovinka",
+   "rank": 1,
+   "cos1": 0.766778826713562,
+   "margin": 0.36406588554382324
+  },
+  {
+   "photo": "RP070",
+   "subset": "same_line",
+   "target": "fanagoriya-sur-lie-chardonnay-shardone-beloe-suhoe-135",
+   "pred": "fanagoriya-sur-lie-vi-vi-aligote-beloe-suhoe-125",
+   "rank": 2,
+   "cos1": 0.6103639602661133,
+   "margin": 0.0500485897064209
+  },
+  {
+   "photo": "RP071",
+   "subset": "same_line",
+   "target": "usadba-divnomorskoe-yuzhnyy-les-merlo-krasnoe-suhoe-137",
+   "pred": "usadba-divnomorskoe-yuzhnyy-les-merlo-krasnoe-suhoe-137",
+   "rank": 1,
+   "cos1": 0.7137140035629272,
+   "margin": 0.2509663701057434
+  },
+  {
+   "photo": "RP073",
+   "subset": "same_line",
+   "target": "sovinon-blan",
+   "pred": "sovinon-blan",
+   "rank": 1,
+   "cos1": 0.8598178625106812,
+   "margin": 0.2615228295326233
+  },
+  {
+   "photo": "RP074",
+   "subset": "same_line",
+   "target": "abrau-dyurso-russkoe-igristoe-polusuhoe-shardone-beloe-12",
+   "pred": "rozovoe-polusladkoe-1",
+   "rank": 4,
+   "cos1": 0.5225173830986023,
+   "margin": 0.011009633541107178
+  },
+  {
+   "photo": "RP075",
+   "subset": "probable",
+   "target": "czitronnyj-magaracha",
+   "pred": "czitronnyj-magaracha",
+   "rank": 1,
+   "cos1": 0.7551422715187073,
+   "margin": 0.346582293510437
+  },
+  {
+   "photo": "RP076",
+   "subset": "same_line",
+   "target": "fanagoriya-rs-noir-saperavi-krasnoe-polusladkoe-125",
+   "pred": "cantiani-semisweet",
+   "rank": 2,
+   "cos1": 0.37249210476875305,
+   "margin": 0.010545909404754639
+  },
+  {
+   "photo": "RP077",
+   "subset": "exact",
+   "target": "denisov-winery-risling-beloe-suhoe-115",
+   "pred": "denisov-winery-risling-beloe-suhoe-115",
+   "rank": 1,
+   "cos1": 0.7077110409736633,
+   "margin": 0.2369101643562317
+  },
+  {
+   "photo": "RP078",
+   "subset": "probable",
+   "target": "novyy-svet-dom-shampanskih-vin-novyy-svet-polusladkoe-roze-shardone-rozovoe-115",
+   "pred": "novyy-svet-dom-shampanskih-vin-novyy-svet-polusladkoe-roze-shardone-rozovoe-115",
+   "rank": 1,
+   "cos1": 0.7138721346855164,
+   "margin": 0.20835453271865845
+  },
+  {
+   "photo": "RP079",
+   "subset": "exact",
+   "target": "fanagoriya-zelyonoe-vino-risling-tsitronnyy-magaracha-beloe-polusuhoe-11",
+   "pred": "fanagoriya-zelyonoe-vino-risling-tsitronnyy-magaracha-beloe-polusuhoe-11",
+   "rank": 1,
+   "cos1": 0.8720808625221252,
+   "margin": 0.14278554916381836
+  },
+  {
+   "photo": "RP080",
+   "subset": "exact",
+   "target": "balaklava-muskat-beloe-polusladkoe",
+   "pred": "balaklava-muskat-beloe-polusladkoe",
+   "rank": 1,
+   "cos1": 0.801453709602356,
+   "margin": 0.02610301971435547
+  },
+  {
+   "photo": "RP081",
+   "subset": "exact",
+   "target": "fanagoriya-zelyonoe-vino-risling-tsitronnyy-magaracha-beloe-polusuhoe-11",
+   "pred": "fanagoriya-zelyonoe-vino-risling-tsitronnyy-magaracha-beloe-polusuhoe-11",
+   "rank": 1,
+   "cos1": 0.8661091327667236,
+   "margin": 0.1558845043182373
+  },
+  {
+   "photo": "RP082",
+   "subset": "same_line",
+   "target": "valeriy-zaharin-avtorskoe-vino-ot-valeriya-zaharina-krasnoe-pino-nuar-suhoe-125",
+   "pred": "valeriy-zaharin-bastardo-kefesiya-avtohtonnoe-vino-kryma-bastardo-magarachskiy-krasnoe-suhoe-115",
+   "rank": 148,
+   "cos1": 0.7283182144165039,
+   "margin": 0.13843560218811035
+  },
+  {
+   "photo": "RP083",
+   "subset": "exact",
+   "target": "kaberne-sovinon-3",
+   "pred": "kaberne-sovinon-3",
+   "rank": 1,
+   "cos1": 0.7380845546722412,
+   "margin": 0.1796736717224121
+  },
+  {
+   "photo": "RP084",
+   "subset": "exact",
+   "target": "perovskih_polusuhoe_krasnoe",
+   "pred": "perovskih_polusladkoe_krasnoe",
+   "rank": 2,
+   "cos1": 0.7976235151290894,
+   "margin": 0.0224306583404541
+  },
+  {
+   "photo": "RP086",
+   "subset": "exact",
+   "target": "usadba-mezyb-shishka-kupazh-5-kaberne-sovinon-rozovoe-suhoe-133",
+   "pred": "usadba-mezyb-shishka-kupazh-5-kaberne-sovinon-rozovoe-suhoe-133",
+   "rank": 1,
+   "cos1": 0.9041876792907715,
+   "margin": 0.2615429162979126
+  },
+  {
+   "photo": "RP087",
+   "subset": "exact",
+   "target": "pozdnij-sbor-krasnoe",
+   "pred": "pozdnij-sbor-krasnoe",
+   "rank": 1,
+   "cos1": 0.6871770024299622,
+   "margin": 0.08322387933731079
+  },
+  {
+   "photo": "RP088",
+   "subset": "probable",
+   "target": "golubitskoe-estate-red-blend-kaberne-sovinon-krasnoe-suhoe-136",
+   "pred": "golubitskoe-estate-red-blend-kaberne-sovinon-krasnoe-suhoe-136",
+   "rank": 1,
+   "cos1": 0.5383285284042358,
+   "margin": 0.030825674533843994
+  },
+  {
+   "photo": "RP089",
+   "subset": "same_line",
+   "target": "czitronnyj-magaracha",
+   "pred": "rubin-golodrigi",
+   "rank": 3,
+   "cos1": 0.45147567987442017,
+   "margin": 0.06156390905380249
+  },
+  {
+   "photo": "RP090",
+   "subset": "exact",
+   "target": "oleg",
+   "pred": "oleg",
+   "rank": 1,
+   "cos1": 0.6299824714660645,
+   "margin": 0.24722924828529358
+  },
+  {
+   "photo": "RP091",
+   "subset": "exact",
+   "target": "vinodelnya-vedernikov-vedernikov-dolina-dona-beloe-suhoe-aligote-12",
+   "pred": "vinodelnya-vedernikov-vedernikov-dolina-dona-beloe-suhoe-aligote-12",
+   "rank": 1,
+   "cos1": 0.7641355991363525,
+   "margin": 0.10578322410583496
+  },
+  {
+   "photo": "RP092",
+   "subset": "same_line",
+   "target": "usadba-divnomorskoe-yuzhnyy-les-merlo-krasnoe-suhoe-137",
+   "pred": "usadba-divnomorskoe-yuzhnyy-les-merlo-krasnoe-suhoe-137",
+   "rank": 1,
+   "cos1": 0.7231952548027039,
+   "margin": 0.22766530513763428
+  },
+  {
+   "photo": "RP093",
+   "subset": "exact",
+   "target": "oleg",
+   "pred": "oleg",
+   "rank": 1,
+   "cos1": 0.572350025177002,
+   "margin": 0.20378872752189636
+  },
+  {
+   "photo": "RP095",
+   "subset": "exact",
+   "target": "denisov_rubin_klaret_krasnaya_strelka",
+   "pred": "denisov_rubin_klaret_krasnaya_strelka",
+   "rank": 1,
+   "cos1": 0.8451235294342041,
+   "margin": 0.20264506340026855
+  },
+  {
+   "photo": "RP096",
+   "subset": "probable",
+   "target": "czitronnyj-magaracha",
+   "pred": "czitronnyj-magaracha",
+   "rank": 1,
+   "cos1": 0.7300828695297241,
+   "margin": 0.2662597596645355
+  },
+  {
+   "photo": "RP097",
+   "subset": "same_line",
+   "target": "massandra-kagor-gurzuf-saperavi-krasnoe-sladkoe-16",
+   "pred": "caperavi-avtorskoe-vino",
+   "rank": 17,
+   "cos1": 0.5402007102966309,
+   "margin": 0.00731581449508667
+  },
+  {
+   "photo": "RP098",
+   "subset": "same_line",
+   "target": "fanagoriya-alveus-ultra-cuvee-brut-shardone-beloe-bryut-12",
+   "pred": "novyy-svet-dom-shampanskih-vin-rossiyskoe-shampanskoe-kollektsionnoe-bryut-rozovoe-novyy-svet-pino-nuar-135",
+   "rank": 9,
+   "cos1": 0.40837544202804565,
+   "margin": 0.025811880826950073
+  },
+  {
+   "photo": "RP099",
+   "subset": "same_line",
+   "target": "sovinon-blan",
+   "pred": "sovinon-blan",
+   "rank": 1,
+   "cos1": 0.868831992149353,
+   "margin": 0.23927652835845947
+  }
+ ],
+ "catalog_bottle_found": 2018,
+ "catalog": 2105
+}

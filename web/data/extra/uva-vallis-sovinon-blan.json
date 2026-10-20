@@ -1,0 +1,40 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1500.0,
+    "max": 1500.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1500.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/uva-vallis-sovinon-blan-beloe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/uva-vallis-sovinon-blan-beloe-suhoe-vino-0-75-l/",
+      "text": "Вино легкое, кислотность яркая, во вкусе белые фрукты и аккуратная минеральность в завершении."
+    }
+  ],
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "Uva Vallis",
+    "license_active": false,
+    "vineyard_ha": 20.0,
+    "website": null,
+    "phone": "+7 (342) 293-33-02",
+    "regions": [
+      "Крым",
+      "Республика Крым"
+    ],
+    "inn": null
+  }
+}

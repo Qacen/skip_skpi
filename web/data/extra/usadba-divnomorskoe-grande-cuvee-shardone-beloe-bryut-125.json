@@ -1,0 +1,49 @@
+{
+  "awards": [
+    "Золото"
+  ],
+  "prices": {
+    "min": 5250.0,
+    "max": 5250.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 5250.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/vino_igristoe_beloe_bryut_vyderzhannoe_znmp_divnomorskoe_grande_cuvee.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/igristoe-vino/p/grande-cuvee-803/",
+      "text": "Каштан, луговые травы, черешня, ананас, желтая слива, шелковица. Оттенок лимонного кекса с цедрой. Во вкусе среднетелое, минеральное, сочное. Желтые фрукты с доминантой белой черешни, зеленого абрикоса и желтой сливы. Послевкусие сочное, длительное, минеральное."
+    },
+    {
+      "kind": "aroma",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/igristoe-vino/p/grande-cuvee-803/",
+      "text": "Аромат яркий, комплексный: акация, бриошь, маслянистые нотки."
+    }
+  ],
+  "vintages": [
+    "2021"
+  ],
+  "winery": {
+    "name": "Усадьба Дивноморское",
+    "license_active": true,
+    "vineyard_ha": 83.94,
+    "website": "https://usadbadivnomorskoe.ru",
+    "phone": "+7 (86141) 3-55-18",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Краснодарский край / Геленджик",
+      "Кубань",
+      "Кубань. Геленджик"
+    ],
+    "inn": "2304072064"
+  }
+}

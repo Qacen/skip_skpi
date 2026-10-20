@@ -1,0 +1,17 @@
+{
+  "winery": {
+    "name": "Галицкий и Галицкий",
+    "license_active": false,
+    "vineyard_ha": 68.0,
+    "website": "https://galitskiy-galitskiy.ru",
+    "phone": "+74957773883",
+    "regions": [
+      "Анапа",
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Кубань. Анапа"
+    ],
+    "inn": null
+  }
+}

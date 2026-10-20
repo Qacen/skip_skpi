@@ -1,0 +1,27 @@
+{
+  "awards": [
+    "TOP100 2024 #19, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1670.0,
+    "max": 2300.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1670.0,
+        "url": "https://top100wines.ru/2024"
+      },
+      {
+        "label": "Красностоп",
+        "price": 2300.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/gunko-vayneri-krasnye-gliny-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2022",
+    "2023"
+  ]
+}

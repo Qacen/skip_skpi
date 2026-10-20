@@ -1,0 +1,28 @@
+{
+  "prices": {
+    "min": 200.0,
+    "max": 200.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 200.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_krasnoe_sukhoe_zgu_kuban_olimp_adagum_krasnostop_0_187_l.html"
+      }
+    ]
+  },
+  "winery": {
+    "name": "Olymp Winery",
+    "license_active": true,
+    "vineyard_ha": 1134.0,
+    "website": "https://olympwine.ru",
+    "phone": "+7 (861) 317-92-03",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Крымск",
+      "Крымск",
+      "г. Москва"
+    ],
+    "inn": "0408007845"
+  }
+}

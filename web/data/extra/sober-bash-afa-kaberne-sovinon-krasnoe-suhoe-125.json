@@ -1,0 +1,71 @@
+{
+  "awards": [
+    "TOP100 2023 #61, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2200.0,
+    "max": 7200.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 2200.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_krasnoe_sukhoe_zgu_kuban_sober_bash_afa_2018.html"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 2200.0,
+        "url": "https://top100wines.ru/2023"
+      },
+      {
+        "label": "Красностоп",
+        "price": 2400.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/sober-bash-afa-2020-krasnoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 2540.0,
+        "url": "https://swn.ru/best-wines/2025-2026/afa-2021/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/2025-2026/afa-2021/",
+      "text": "Вино темно-рубинового цвета. В богатом аромате раскрываются ноты спелых черных ягод, вишни и пряностей. Вкус объемный и многогранный, с выразительными танинами, сбалансированной кислотностью и продолжительным послевкусием, в котором угадываются оттенки черной смородины, спелой вишни и шоколада."
+    },
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/sober-bash-afa-2020-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Вино тельное, кислотность и танины правильные, во вкусе черные ягоды, немного горького шоколада и ванили с тонами выдержки."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/sober-bash-afa-2019-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Букет сложный, доминирую ароматы черных лесных ягод с тонами специй."
+    }
+  ],
+  "vintages": [
+    "2018",
+    "2019",
+    "2020",
+    "2021"
+  ],
+  "winery": {
+    "name": "Собер Баш",
+    "license_active": true,
+    "vineyard_ha": 61.21,
+    "website": "https://soberbashvino.ru/",
+    "phone": "+7 (988) 2420880",
+    "regions": [
+      "Долина реки Афипс",
+      "Краснодарский край"
+    ],
+    "inn": "2348032982"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "Radio Wine",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": null,
+    "phone": null,
+    "regions": [
+      "Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

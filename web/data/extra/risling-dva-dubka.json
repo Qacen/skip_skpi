@@ -1,0 +1,54 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2000.0,
+    "max": 3000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 2000.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/seneth-dva-dubka-risling-beloe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 3000.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_beloe_sukhoe_senetkh_dva_dubka_risling.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/seneth-dva-dubka-risling-beloe-suhoe-vino-0-75-l/",
+      "text": "Тело вина среднее, кислотность правильная, во вкусе груша-дюшес, цедра лимона в завершении."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/seneth-dva-dubka-risling-beloe-suhoe-vino-0-75-l/",
+      "text": "Букет классический, доминируют ароматы флёрдоранжа и зеленого яблока."
+    }
+  ],
+  "vintages": [
+    "2022",
+    "2023"
+  ],
+  "winery": {
+    "name": "Сенетх",
+    "license_active": true,
+    "vineyard_ha": 19.6,
+    "website": "https://senetkh.ru/",
+    "phone": "+7 (499) 7034436",
+    "regions": [
+      "Анапа",
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань"
+    ],
+    "inn": "2376003736"
+  }
+}

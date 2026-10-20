@@ -1,0 +1,20 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "Винодельня Esse",
+    "license_active": false,
+    "vineyard_ha": 164.0,
+    "website": "https://essewine.com",
+    "phone": "+79780001921",
+    "regions": [
+      "Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

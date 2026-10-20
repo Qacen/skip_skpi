@@ -1,0 +1,15 @@
+{
+  "winery": {
+    "name": "Villa di Alma",
+    "license_active": false,
+    "vineyard_ha": 35.0,
+    "website": "https://villadialma.com",
+    "phone": "+7 (978) 747-29-89",
+    "regions": [
+      "Крым",
+      "Крым / Бахчисарайский район",
+      "Республика Крым"
+    ],
+    "inn": null
+  }
+}

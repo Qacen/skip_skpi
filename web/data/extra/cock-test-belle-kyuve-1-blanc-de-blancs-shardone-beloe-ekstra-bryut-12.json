@@ -1,0 +1,34 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 4700.0,
+    "max": 4700.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 4700.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/vino_igristoe_beloe_ekstra_bryut_kok_t_e_bel_blanc_de_blancs_cuvee_1.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2018",
+    "2019"
+  ],
+  "winery": {
+    "name": "Cock t'est belle",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": null,
+    "phone": null,
+    "regions": [
+      "Крым",
+      "Крым / Коктебель",
+      "Республика Крым"
+    ],
+    "inn": null
+  }
+}

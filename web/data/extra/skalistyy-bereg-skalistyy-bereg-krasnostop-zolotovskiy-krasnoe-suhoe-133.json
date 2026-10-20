@@ -1,0 +1,57 @@
+{
+  "awards": [
+    "TOP100 2025 #70, Золото",
+    "TOP100 2024 #71, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2850.0,
+    "max": 8850.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 2850.0,
+        "url": "https://top100wines.ru/2024"
+      },
+      {
+        "label": "Красностоп",
+        "price": 3650.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/skalistyy-bereg-krasnostop-zolotovskiy-krasnoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 3690.0,
+        "url": "https://swn.ru/best-wines/2025-2026/krasnostop-zolotovskiy-538761597/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/2025-2026/krasnostop-zolotovskiy-538761597/",
+      "text": "Вино темно-гранатового цвета. Аромат концентрированный, с преобладающими тонами ягод, шоколада и сдобной выпечки. Вкус плотный и обволакивающий, со строгими, спелыми танинами и яркой кислотностью. Послевкусие долгое, пряно-кофейное, с ягодными оттенками и легкой солоноватостью."
+    }
+  ],
+  "vintages": [
+    "2020",
+    "2021",
+    "2022"
+  ],
+  "winery": {
+    "name": "Скалистый Берег",
+    "license_active": true,
+    "vineyard_ha": 36.0,
+    "website": "https://skbereg.ru",
+    "phone": "+7 (86133) 27131",
+    "regions": [
+      "Анапа",
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Республика Крым"
+    ],
+    "inn": "7709858507"
+  }
+}

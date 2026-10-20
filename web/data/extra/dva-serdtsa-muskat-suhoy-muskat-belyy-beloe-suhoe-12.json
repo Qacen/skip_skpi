@@ -1,0 +1,16 @@
+{
+  "winery": {
+    "name": "Два Сердца",
+    "license_active": false,
+    "vineyard_ha": 10.0,
+    "website": "https://twohearts.wine",
+    "phone": null,
+    "regions": [
+      "Крым",
+      "Крым / Сакский район",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": "9200008518"
+  }
+}

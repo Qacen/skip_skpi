@@ -1,0 +1,25 @@
+{
+  "prices": {
+    "min": 600.0,
+    "max": 600.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 600.0,
+        "url": "https://fortwine.ru/product/igristoe-vino-di-caspico-yukio-white-brut-2025-0-75/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://fortwine.ru/product/igristoe-vino-di-caspico-yukio-white-brut-2025-0-75/",
+      "text": "В аромате тонкое и свежее, с изысканными нотами весенних цветов и белых фруктов. Вкус чистый, с нотами фруктов и приятной кислинкой в послевкусии."
+    }
+  ],
+  "vintages": [
+    "2025"
+  ]
+}

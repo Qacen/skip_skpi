@@ -1,0 +1,40 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 450.0,
+    "max": 1000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 450.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_krasnoe_sukhoe_zgu_krym_massandra_kaberne_.html"
+      },
+      {
+        "label": "Красностоп",
+        "price": 1000.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/massandra-avtorskoe-kaberne-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/massandra-avtorskoe-kaberne-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Тело вина среднее, округлое, танины мягкие во вкусе черные ягоды с тонами черноплодной рябины и вишневой косточки."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/massandra-avtorskoe-kaberne-krasnoe-suhoe-vino-0-75-l/",
+      "text": "В букете доминирую ароматы красных ягод, шелковицы, смородины, чернослива."
+    }
+  ],
+  "vintages": [
+    "2021",
+    "2024"
+  ]
+}

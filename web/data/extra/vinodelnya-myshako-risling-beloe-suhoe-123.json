@@ -1,0 +1,29 @@
+{
+  "prices": {
+    "min": 650.0,
+    "max": 650.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 650.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/myshako-risling-suhoe-beloe-vino-0-75/"
+      }
+    ]
+  },
+  "winery": {
+    "name": "Винодельня Мысхако",
+    "license_active": true,
+    "vineyard_ha": 594.37,
+    "website": "https://myskhako.ru",
+    "phone": "+7 (8617) 72-98-00",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Новороссийск",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": "2315005310"
+  }
+}

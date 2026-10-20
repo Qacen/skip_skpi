@@ -1,0 +1,20 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2000.0,
+    "max": 2000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 2000.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_berdyaev_kaberne.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2022"
+  ]
+}

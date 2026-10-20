@@ -1,0 +1,50 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2650.0,
+    "max": 2650.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 2650.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/gay-kodzor-malbek-red-klen-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/gay-kodzor-malbek-red-klen-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Тело вина выше среднего, кислотность яркая, танины сглаженные, бархатистые, во вкусе черная смородина, вишня дополненная тонами шоколада."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/gay-kodzor-malbek-red-klen-krasnoe-suhoe-vino-0-75-l/",
+      "text": "В букете доминируют ароматы черносмородинового джема, с тонами ванили, дуба."
+    }
+  ],
+  "vintages": [
+    "2020"
+  ],
+  "winery": {
+    "name": "Виноградники Гай-Кодзора",
+    "license_active": true,
+    "vineyard_ha": 78.63,
+    "website": "https://gai-kodzor.ru",
+    "phone": "+ 7 (981) 814-88-30",
+    "regions": [
+      "Анапа",
+      "Волгоградская обл.",
+      "Волгоградская область",
+      "Город федерального значения Севастополь",
+      "Кабардино-Балкарская Республика",
+      "Чеченская Республика"
+    ],
+    "inn": "0000412754"
+  }
+}

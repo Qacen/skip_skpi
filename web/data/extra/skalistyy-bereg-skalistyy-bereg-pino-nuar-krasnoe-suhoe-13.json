@@ -1,0 +1,69 @@
+{
+  "awards": [
+    "Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 3690.0,
+    "max": 3900.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 3690.0,
+        "url": "https://swn.ru/best-wines/2025-2026/pino-nuar/"
+      },
+      {
+        "label": "Красностоп",
+        "price": 3900.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/skalistyy-bereg-pino-nuar-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/skalistyy-bereg-pino-nuar-krasnoe-suhoe-vino-0-75-l/",
+      "text": "клюквы, брусники, рябины, кизила, с тонами осеннего леса и бочковой выдержки. Тело вино выше среднего, вино округлое, кислотность сбалансированная, танины гладкие, во вкусе преобладают ягодно-плодовые тона, различима ежевика, ежевика, голубика, слива, завершение продолжительное."
+    },
+    {
+      "kind": "taste",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/vino/p/skalistyi-bereg-pino-nuar-704/",
+      "text": "Палитра ягод разной степени спелости: вишня, клубника, кизил, красная слива, немного земляники. Во вкусе среднетелое, с продолжением красного ягодного микса и мягкими танинами. Послевкусие долгое, запоминающееся, с оттенком вишни в молочном шоколаде."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/skalistyy-bereg-pino-nuar-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Букет сложный, многогранный, собран из деликатных ароматов голубики."
+    },
+    {
+      "kind": "aroma",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/vino/p/skalistyi-bereg-pino-nuar-704/",
+      "text": "Аромат ровный, структурный, ягодный."
+    }
+  ],
+  "vintages": [
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "winery": {
+    "name": "Скалистый Берег",
+    "license_active": true,
+    "vineyard_ha": 36.0,
+    "website": "https://skbereg.ru",
+    "phone": "+7 (86133) 27131",
+    "regions": [
+      "Анапа",
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Республика Крым"
+    ],
+    "inn": "7709858507"
+  }
+}

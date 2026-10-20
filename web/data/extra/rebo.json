@@ -1,0 +1,28 @@
+{
+  "prices": {
+    "min": 2400.0,
+    "max": 2400.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 2400.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_zgu_krym_cellar_master_rebo.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "Cellar Master",
+    "license_active": false,
+    "vineyard_ha": 16.0,
+    "website": "https://cellarmaster.ru/",
+    "phone": null,
+    "regions": [
+      "Крым"
+    ],
+    "inn": null
+  }
+}

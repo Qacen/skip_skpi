@@ -1,0 +1,21 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2100.0,
+    "max": 2100.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 2100.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/andryus-yucis-vione-beloe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2022",
+    "2023"
+  ]
+}

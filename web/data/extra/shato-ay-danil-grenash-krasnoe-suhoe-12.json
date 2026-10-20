@@ -1,0 +1,33 @@
+{
+  "awards": [
+    "TOP100 2025 #74, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 3500.0,
+    "max": 3500.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 3500.0,
+        "url": "https://top100wines.ru/2025"
+      }
+    ]
+  },
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "Шато Ай-Даниль",
+    "license_active": false,
+    "vineyard_ha": 20.5,
+    "website": "https://saintdaniel.wine",
+    "phone": "+7(499) 906-34-29",
+    "regions": [
+      "Крым",
+      "Республика Крым"
+    ],
+    "inn": null
+  }
+}

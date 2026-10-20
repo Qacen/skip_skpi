@@ -1,0 +1,44 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1090.0,
+    "max": 1090.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1090.0,
+        "url": "https://fortwine.ru/product/vino-fanagoria-sur-lie-clairet-2025-0-75/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://fortwine.ru/product/vino-fanagoria-sur-lie-clairet-2025-0-75/",
+      "text": "Вино красивого светло-рубинового цвета. Аромат яркий, ягодный, с тонами малины, вишни, смородины. Вкус сбалансированный, с лёгкими танинами и мягкой, освежающей кислотностью."
+    }
+  ],
+  "vintages": [
+    "2023",
+    "2025"
+  ],
+  "winery": {
+    "name": "Фанагория",
+    "license_active": true,
+    "vineyard_ha": 3342.0,
+    "website": "https://www.fanagoria.ru",
+    "phone": "+7 86148 38747",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "2352002170"
+  }
+}

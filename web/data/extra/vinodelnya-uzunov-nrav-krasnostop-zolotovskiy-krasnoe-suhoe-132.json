@@ -1,0 +1,67 @@
+{
+  "awards": [
+    "TOP100 2024 #35, Золото",
+    "TOP100 2023 #69, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1500.0,
+    "max": 2500.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1500.0,
+        "url": "https://top100wines.ru/2023"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 1865.0,
+        "url": "https://swn.ru/best-wines/2025-2026/nrav/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 2000.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_krasnoe_sukhoe_uzunov_nrav.html"
+      },
+      {
+        "label": "Красностоп",
+        "price": 2500.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/vinodelnya-uzunov-nrav-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/2025-2026/nrav/",
+      "text": "Вино глубокого темно-рубинового цвета. Интенсивный аромат раскрывается богатыми тонами спелой вишни, чернослива и темного шоколада, которые дополняются оттенками черной смородины, пряностей и легкими дымными нотами от выдержки в дубе. Вкус сочный, полнотелый и отлично сбалансированный. В его палитре доминируют терновые и пряные ноты, которые гармонично сочетаются с оттенками спелых темных ягод. Структурные, но бархатистые танины ведут к долгому, согревающему ягодному послевкусию."
+    },
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/vinodelnya-uzunov-nrav-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Тело вина среднее, кислотность сбалансированная, вкус структурированный, терновый пряный с длительным ягодным послевкусием."
+    }
+  ],
+  "vintages": [
+    "2021",
+    "2022"
+  ],
+  "winery": {
+    "name": "Винодельня Узунов",
+    "license_active": true,
+    "vineyard_ha": 7.75,
+    "website": "https://uzunov.ru",
+    "phone": "+7 (918)260-92-01",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "235210004630"
+  }
+}

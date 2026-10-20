@@ -1,0 +1,38 @@
+{
+  "prices": {
+    "min": 2200.0,
+    "max": 2200.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 2200.0,
+        "url": "https://swn.ru/best-wines/summer-2026-2027/sosedi-aligote-shardone-kommunalka/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/summer-2026-2027/sosedi-aligote-shardone-kommunalka/",
+      "text": "Аромат свежий и приятный, раскрывается оттенками спелого персика, садового яблока, груши дюшес и полевых цветов. Питкое, задорное вино с выраженным фруктово-цветочным профилем. Во вкусе выделяется пикантная живая кислотность, переходящая в сдержанное послевкусие."
+    }
+  ],
+  "vintages": [
+    "2025"
+  ],
+  "winery": {
+    "name": "Коммуналка Wine",
+    "license_active": false,
+    "vineyard_ha": 10.0,
+    "website": "https://t.me/comm_wine",
+    "phone": "+79169893628",
+    "regions": [
+      "Крым",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

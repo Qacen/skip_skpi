@@ -1,0 +1,61 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1100.0,
+    "max": 3000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 1100.0,
+        "url": "https://thewinery.ru/wine_pino_nuar_reserve_alma_valley_krasnoe_suhoe.php"
+      },
+      {
+        "label": "RussianVine",
+        "price": 3000.0,
+        "url": "https://russianvine.ru/vino-alma-valley-pino-noir-reserv-2013"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-alma-valley-pino-noir-reserv-2013",
+      "text": "Рубиновый цвет. Элегантный сортовой аромат с тонами фиалки, спелой вишни, вишнёвого варенья, бальзамических трав, шоколада, сафьяновой кожи и лёгких специй. Вкус насыщенный, плодово-пряный, с бархатистыми танинами. В послевкусии угадывается лёгкая терруарная \"перчинка\". Вино готово к потреблению, но рекомендуется для дальнейшей выдержки в течение 5 и более лет."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_pino_nuar_reserve_alma_valley_krasnoe_suhoe.php",
+      "text": "Вкус насыщенный, плодово-пряный, с бархатистыми танинами. В послевкусии угадывается легкая терруарная «перчинка»."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_pino_nuar_reserve_alma_valley_krasnoe_suhoe.php",
+      "text": "Элегантный сортовой аромат с тонами фиалки, спелой вишни, вишневого варенья, бальзамических трав, шоколада, сафьяновой кожи и легких специй."
+    }
+  ],
+  "vintages": [
+    "2013",
+    "2019"
+  ],
+  "winery": {
+    "name": "Alma Valley",
+    "license_active": false,
+    "vineyard_ha": 405.0,
+    "website": "https://alma-valley.ru",
+    "phone": "+7 (36554) 9–19–79",
+    "regions": [
+      "Западно-Предгорный Крым",
+      "Крым",
+      "Крым / Бахчисарайский район / Долина реки Альма",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

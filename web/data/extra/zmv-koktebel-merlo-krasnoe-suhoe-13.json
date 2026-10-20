@@ -1,0 +1,18 @@
+{
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "Коктебель",
+    "license_active": true,
+    "vineyard_ha": 1100.0,
+    "website": "https://kd-koktebel.ru/",
+    "phone": "+7 (36562) 38-280",
+    "regions": [
+      "Крым",
+      "Крым / Коктебель",
+      "Республика Крым"
+    ],
+    "inn": "9108002169"
+  }
+}

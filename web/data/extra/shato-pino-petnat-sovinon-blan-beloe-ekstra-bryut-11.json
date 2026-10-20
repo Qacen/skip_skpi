@@ -1,0 +1,39 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1400.0,
+    "max": 1500.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1400.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/vino_igristoe_beloe_ekstra_bryut_zgu_kuban_shato_pino_petnat_sovinon_blan.html"
+      },
+      {
+        "label": "Красностоп",
+        "price": 1500.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/shary-kolduna-petnat-sovinon-blan-ekstra-bryut-beloe-igristoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2022",
+    "2024"
+  ],
+  "winery": {
+    "name": "Шато Пино",
+    "license_active": true,
+    "vineyard_ha": 95.0,
+    "website": "https://chateau-pinot.ru/",
+    "phone": "+7 499 7034436",
+    "regions": [
+      "Краснодарский Край",
+      "Кубань",
+      "Новороссийск"
+    ],
+    "inn": "2315211390"
+  }
+}

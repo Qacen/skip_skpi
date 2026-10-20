@@ -1,0 +1,85 @@
+{
+  "prices": {
+    "min": 300.0,
+    "max": 750.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 300.0,
+        "url": "https://thewinery.ru/wine_inkerman_beloe_brut.php"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 750.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/igristoe_vino_beloe_bryut_inkerman_1961.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_inkerman_beloe_brut.php",
+      "text": "Информация на бутылке отсутствует."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_inkerman_beloe_brut.php",
+      "text": "Информация на бутылке отсутствует."
+    }
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/inkerman_brut/",
+    "n": 164,
+    "avg": 4.11,
+    "items": [
+      {
+        "author": "Сергей Сергеев",
+        "date": "2026-09-01",
+        "rating": 4,
+        "text": "Урожай 2025 года, дата розлива 2026 год. Цвет светло жёлтый прозрачный солнечный. Перляж мелкожемчужный тонкими нитями. Аромат груша дюшес с нотами спелого персика. Вкус зелёного яблока гренни и терпкость минералов."
+      },
+      {
+        "author": "Vera Vi",
+        "date": "2026-07-28",
+        "rating": 4,
+        "text": "Все в балансе, все в гармонии, яблоки, немного цветочности, среднее тело, оно есть. Базовый такой брют, почему бы и нет"
+      },
+      {
+        "author": "Veronika Misty",
+        "date": "2026-07-28",
+        "rating": 3,
+        "text": "Нос: фруктовый, зеленое яблоко, цветочные ноты. Вкус: фруктовый, яблочно-цитрусовая кислотность За свою цену вполне"
+      },
+      {
+        "author": "Anna Krotova",
+        "date": "2026-07-28",
+        "rating": 4,
+        "text": "Дюшес, лимоны, без горечи. Без посторонних ароматов. Сладковато, но вполне неплохо, особенно за свою цену."
+      },
+      {
+        "author": "Юрий Егоров",
+        "date": "2025-10-01",
+        "rating": 4,
+        "text": "А кто у нас может делать лучше крымчан?цена соответствующая"
+      }
+    ]
+  },
+  "winery": {
+    "name": "Инкерман",
+    "license_active": false,
+    "vineyard_ha": 3250.0,
+    "website": "https://inkerman.ru",
+    "phone": "+7 8692 722282",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

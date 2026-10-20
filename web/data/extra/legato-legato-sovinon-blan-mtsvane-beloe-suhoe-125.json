@@ -1,0 +1,43 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2200.0,
+    "max": 2200.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 2200.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/legato-sovinon-blan-mcvane-beloe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/legato-sovinon-blan-mcvane-beloe-suhoe-vino-0-75-l/",
+      "text": "Тело вина среднее, структурированное, кислотность яркая, во вкусе спелое яблоко, крыжовник, белая смородина, послевкусие продолжительное фруктовое."
+    }
+  ],
+  "vintages": [
+    "2020",
+    "2022"
+  ],
+  "winery": {
+    "name": "LeGato",
+    "license_active": false,
+    "vineyard_ha": 10.5,
+    "website": "https://legatowine.ru/",
+    "phone": "+7(985) 193-31-10",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Крымск",
+      "Крымск",
+      "Кубань"
+    ],
+    "inn": null
+  }
+}

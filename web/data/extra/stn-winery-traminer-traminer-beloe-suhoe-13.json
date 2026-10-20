@@ -1,0 +1,21 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "vintages": [
+    "2024"
+  ],
+  "winery": {
+    "name": "STN Winery",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": "https://stn-winery.ru",
+    "phone": "+7 978 969 84 64",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

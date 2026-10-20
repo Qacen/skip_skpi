@@ -1,0 +1,63 @@
+{
+  "awards": [
+    "Серебро",
+    "Золото"
+  ],
+  "prices": {
+    "min": 1100.0,
+    "max": 2900.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 1100.0,
+        "url": "https://thewinery.ru/wine_tempranillo_reserve_alma_valley_krasnoe_suhoe.php"
+      },
+      {
+        "label": "RussianVine",
+        "price": 2900.0,
+        "url": "https://russianvine.ru/vino-alma-tempranillo-reserv-2013"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-alma-tempranillo-reserv-2013",
+      "text": "Насыщенный рубиновый цвет. Богатый сортовой аромат с тонами чёрных ягод, ежевики, сливы, бальзамических трав и ванили. Вкус насыщенный, плодовый, с бархатистой танинной текстурой и долгим послевкусием. Вино готово к потреблению, но рекомендуется для дальнейшей выдержки в течение 5 и более лет."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_tempranillo_reserve_alma_valley_krasnoe_suhoe.php",
+      "text": "Вкус насыщенный, плодово-пряный, с бархатистой танинной текстурой и долгим послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_tempranillo_reserve_alma_valley_krasnoe_suhoe.php",
+      "text": "Богатый и гармоничный сортовой аромат с тонами черных ягод, ежевики, сливы, бальзамических трав и ванили."
+    }
+  ],
+  "vintages": [
+    "2013",
+    "2016",
+    "2021"
+  ],
+  "winery": {
+    "name": "Alma Valley",
+    "license_active": false,
+    "vineyard_ha": 405.0,
+    "website": "https://alma-valley.ru",
+    "phone": "+7 (36554) 9–19–79",
+    "regions": [
+      "Западно-Предгорный Крым",
+      "Крым",
+      "Крым / Бахчисарайский район / Долина реки Альма",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

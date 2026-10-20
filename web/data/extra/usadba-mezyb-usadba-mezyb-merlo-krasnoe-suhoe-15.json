@@ -1,0 +1,41 @@
+{
+  "prices": {
+    "min": 1390.0,
+    "max": 2290.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 1390.0,
+        "url": "https://swn.ru/best-wines/2025-2026/mezyb-merlo/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1900.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_usadba_mezyb_merlo.html"
+      },
+      {
+        "label": "Красностоп",
+        "price": 2100.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/usadba-mezyb-merlo-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2019",
+    "2021"
+  ],
+  "winery": {
+    "name": "Усадьба Мезыбь",
+    "license_active": true,
+    "vineyard_ha": 58.12,
+    "website": "http://www.mezyb.ru/",
+    "phone": "+7 (499) 703-44-36",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Краснодарский край / Геленджик"
+    ],
+    "inn": "2304067346"
+  }
+}

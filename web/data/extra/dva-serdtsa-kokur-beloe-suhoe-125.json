@@ -1,0 +1,35 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 2150.0,
+    "max": 2150.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 2150.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_beloe_sukhoe_dva_serdtsa_kokur.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2022",
+    "2024"
+  ],
+  "winery": {
+    "name": "Два Сердца",
+    "license_active": false,
+    "vineyard_ha": 10.0,
+    "website": "https://twohearts.wine",
+    "phone": null,
+    "regions": [
+      "Крым",
+      "Крым / Сакский район",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": "9200008518"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1400.0,
+    "max": 1400.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "RussianVine",
+        "price": 1400.0,
+        "url": "https://russianvine.ru/vino-zaharin-kefesia-2019"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-zaharin-kefesia-2019",
+      "text": "Цвет вина рубиновый. Аромат ежевики, шелковицы, сливы. Вкус приятный с оттенками чёрных ягод, тостов, специй."
+    }
+  ],
+  "vintages": [
+    "2014",
+    "2022",
+    "2023"
+  ],
+  "winery": {
+    "name": "Валерий Захарьин",
+    "license_active": true,
+    "vineyard_ha": 1.62,
+    "website": "https://akchurinwinery.ru",
+    "phone": "+ 7 (499) 703-44-36",
+    "regions": [
+      "Анапа",
+      "Волгоградская область",
+      "Город федерального значения Севастополь",
+      "Дагестан",
+      "Долина Дона",
+      "Кавказ / Дагестан"
+    ],
+    "inn": "0000000"
+  }
+}

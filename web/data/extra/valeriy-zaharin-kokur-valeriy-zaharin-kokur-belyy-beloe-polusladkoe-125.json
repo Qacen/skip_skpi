@@ -1,0 +1,50 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 500.0,
+    "max": 500.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 500.0,
+        "url": "https://thewinery.ru/wine_igristoe_kokur_valerija_zaharina_beloe_polusladkoe.php"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_igristoe_kokur_valerija_zaharina_beloe_polusladkoe.php",
+      "text": "Вино обладает приятным, сладким вкусом с фруктово-цветочными тонами, шелковистой текстурой и долгим послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_igristoe_kokur_valerija_zaharina_beloe_polusladkoe.php",
+      "text": "Фруктовый, выразительный аромат с доминирующими тонами груши, яблока и весенних цветов."
+    }
+  ],
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "Валерий Захарьин",
+    "license_active": true,
+    "vineyard_ha": 1.62,
+    "website": "https://akchurinwinery.ru",
+    "phone": "+ 7 (499) 703-44-36",
+    "regions": [
+      "Анапа",
+      "Волгоградская область",
+      "Город федерального значения Севастополь",
+      "Дагестан",
+      "Долина Дона",
+      "Кавказ / Дагестан"
+    ],
+    "inn": "0000000"
+  }
+}

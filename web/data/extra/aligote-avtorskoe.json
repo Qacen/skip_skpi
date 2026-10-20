@@ -1,0 +1,36 @@
+{
+  "awards": [
+    "Бронза",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 400.0,
+    "max": 950.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 400.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_beloe_sukhoe_ordinarnoe_zgu_krym_massandra_aligote.html"
+      },
+      {
+        "label": "Красностоп",
+        "price": 650.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/massandra-avtorskoe-aligote-beloe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/massandra-avtorskoe-aligote-beloe-suhoe-vino-0-75-l/",
+      "text": "Тело вина среднее, кислотность сбалансированная, вкус полный, фруктовый, пряный с пикантной горчинкой в послевкусии."
+    }
+  ],
+  "vintages": [
+    "2022",
+    "2023",
+    "2024"
+  ]
+}

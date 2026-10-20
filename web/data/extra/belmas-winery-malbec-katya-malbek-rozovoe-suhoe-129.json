@@ -1,0 +1,33 @@
+{
+  "prices": {
+    "min": 2200.0,
+    "max": 2200.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 2200.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_rozovoe_sukhoe_belmas_katya_malbek.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2022",
+    "2024"
+  ],
+  "winery": {
+    "name": "Belmas Winery",
+    "license_active": false,
+    "vineyard_ha": 7.04,
+    "website": "https://belmaswinery.com",
+    "phone": "+7(499) 703-44-36",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Село Родное",
+      "Республика Крым",
+      "Севастополь",
+      "город федерального значения Севастополь"
+    ],
+    "inn": "9200006976"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 300.0,
+    "max": 560.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 300.0,
+        "url": "https://thewinery.ru/wine_zolotaya_balka_beloe_brut.php"
+      },
+      {
+        "label": "AMWINE",
+        "price": 549.99,
+        "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zolotaya_balka_beloe_bryut/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 560.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/zolotaya_balka_bryut__beloe.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Zolotay-balka-beloe-brut-2016",
+      "text": "Цвет вина соломенный. Тонкое, освежающее, ажурное игристое вино с изысканным букетом цитрусовых, лёгким оттенком аромата весенних цветов, белых фруктов. Обладает элегантным, деликатным, утончённым вкусом и сбалансированной кислотностью."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_zolotaya_balka_beloe_brut.php",
+      "text": "Обладает элегантным, деликатным, утонченным вкусом и хорошо сбалансированной кислотностью."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_zolotaya_balka_beloe_brut.php",
+      "text": "Тонкое, освежающее, ажурное игристое вино с изысканным букетом цитрусовых, легким оттенком аромата весенних цветов, белых фруктов."
+    }
+  ],
+  "vintages": [
+    "2016",
+    "2022",
+    "2024"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zolotaya_balka_beloe_bryut/",
+    "n": 234,
+    "avg": 4.09,
+    "items": [
+      {
+        "author": "Oleg Khabibulin RWC",
+        "date": "2026-08-21",
+        "rating": 3,
+        "text": "Свежескошенная трава, грейпфрут, цедра лимона."
+      },
+      {
+        "author": "Irina Leshchenko",
+        "date": "2026-08-21",
+        "rating": 3,
+        "text": "Газированное вино, но не шампанское. Ароматика ну очень легкая, даже сказала бы, что она ее особо нет. Не ощутила ни сливочности, ни хлебной корочки, как обычно бывает в шампанском. Во вкусе - больше яблоко, отголоски лимона. Не особо кислотное. Не заметила спиртуозности, перляж слабый и быстро сходит на нет. В общем, довольно простое игристое, как простое столовое вино."
+      },
+      {
+        "author": "Anatoliy Tikhonov",
+        "date": "2026-08-21",
+        "rating": 3,
+        "text": "А аромате сладкие цветы, сладкие яблоки, прелое яблоко, сухая трава. Не плотное. Газация мягкая, долгая. Кислотность средняя. Белые ягоды, яблоко, чуть прелого яблока."
+      },
+      {
+        "author": "Vla Vol",
+        "date": "2026-08-21",
+        "rating": 3,
+        "text": "А вот по мне, слишком уж сладкое для боюта. Не хватило кислотности"
+      },
+      {
+        "author": "Анна Хромова",
+        "date": "2026-08-21",
+        "rating": 3,
+        "text": "Светло-соломенный.Лимон,лайм ,кислое зелёное яблоко, леденцы \"дюшес\",ваниль.Кислотное.Цитрусовое послевкусие."
+      }
+    ]
+  },
+  "winery": {
+    "name": "Золотая Балка",
+    "license_active": false,
+    "vineyard_ha": 1400.0,
+    "website": "https://zolotaiabalka.ru",
+    "phone": "+7 (8692) 45-52-72",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Балаклава",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

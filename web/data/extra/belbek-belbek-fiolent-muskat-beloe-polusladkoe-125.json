@@ -1,0 +1,39 @@
+{
+  "prices": {
+    "min": 1350.0,
+    "max": 1450.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1350.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/fiolent-muskat-beloe-polusladkoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1450.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino-rossiskoe-zgu-krym-tz-belbek-fiolent-muskat-beloe-polusladkoe-113-075l.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2023",
+    "2024"
+  ],
+  "winery": {
+    "name": "Бельбек",
+    "license_active": true,
+    "vineyard_ha": 16.75,
+    "website": "https://belbekwine.com",
+    "phone": "+7 978 769 62 27",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Долина реки Бельбек",
+      "Республика Крым",
+      "Севастополь",
+      "г. Севастополь",
+      "город федерального значения Севастополь"
+    ],
+    "inn": "9203545623"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1000.0,
+    "max": 1000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 1000.0,
+        "url": "https://thewinery.ru/wine_rkaciteli_belbek_beloe_suhoe.php"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_rkaciteli_belbek_beloe_suhoe.php",
+      "text": "Текстура насыщенная и маслянистая. Поскольку мацерация была непродолжительная, терпкости не наблюдается."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_rkaciteli_belbek_beloe_suhoe.php",
+      "text": "Аромат печёного яблока, интенсивная пряность и легкая цедра лайма."
+    }
+  ],
+  "vintages": [
+    "2020",
+    "2021"
+  ],
+  "winery": {
+    "name": "Бельбек",
+    "license_active": true,
+    "vineyard_ha": 16.75,
+    "website": "https://belbekwine.com",
+    "phone": "+7 978 769 62 27",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Долина реки Бельбек",
+      "Республика Крым",
+      "Севастополь",
+      "г. Севастополь",
+      "город федерального значения Севастополь"
+    ],
+    "inn": "9203545623"
+  }
+}

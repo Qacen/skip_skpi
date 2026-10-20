@@ -1,0 +1,20 @@
+# Recognition service with the fine-tuned model on an NVIDIA GPU (build context = repo root):
+#   docker compose up --build        (see docker-compose.yml; CPU: add -f docker-compose.cpu.yml)
+# The two SigLIP2 vision towers are built on first start from public Hugging Face repos into the ml-weights volume
+# (deploy/vast/build_models.py: google/siglip2-so400m-patch16-naflex + dobermanjohn/secret_a, ~5 GB once).
+FROM pytorch/pytorch:2.5.1-cuda12.4-cudnn9-runtime
+WORKDIR /srv/ml
+COPY ml/requirements.txt ml/requirements-matcher.txt ./
+RUN pip install --no-cache-dir -r requirements.txt -r requirements-matcher.txt "rfdetr>=1.11.0" "transformers==5.17.0"
+COPY ml/app ./app
+COPY ml/index ./index
+COPY deploy/vast/build_models.py /srv/deploy/vast/build_models.py
+ENV MATCHER=siglip READER=siglip DETECTOR=rfdetr DEVICE=cuda \
+    WEIGHTS_DIR=/srv/ml/weights CATALOG_PATH=/data/catalog.json \
+    EMBEDDER_PATH=/srv/ml/weights/siglip2-naflex-vision-tuned-fp16 READER_EMBEDDER_PATH=/srv/ml/weights/siglip2-naflex-vision-fp16 \
+    INDEX_PATH=/srv/ml/index/index_tuned_naflex1024.npz READER_TEXT_PATH=/srv/ml/index/reader_text.npz \
+    CROP_PAD=0.10 CROP_MAX_SIDE=1152 ALLOW_FORCE=false HF_HOME=/srv/hf
+EXPOSE 8000
+HEALTHCHECK --interval=30s --timeout=5s --start-period=900s --retries=3 \
+    CMD python -c "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health', timeout=4)" || exit 1
+CMD ["sh", "-c", "python /srv/deploy/vast/build_models.py /srv && exec uvicorn app.main:app --host 0.0.0.0 --port 8000"]

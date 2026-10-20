@@ -1,0 +1,55 @@
+{
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/vino/alma_graviti_pino_nuar_merlo_kaberne_sovinon/",
+    "n": 89,
+    "avg": 4.1,
+    "items": [
+      {
+        "author": "Mariya Dubinina",
+        "date": "2026-09-07",
+        "rating": 5,
+        "text": "Питкое, не кислое, черешня - спелая черная и правда очень ощущается"
+      },
+      {
+        "author": "Vladimir Yudin",
+        "date": "2026-08-31",
+        "rating": 4,
+        "text": "Как только что писал о Кринице Арена, вино приличное, но в этом ценнике есть более интересные Франция и Испания."
+      },
+      {
+        "author": "Roman Ovesik",
+        "date": "2026-07-01",
+        "rating": 4,
+        "text": "Очень хороший интересный бленд, со своей самобыдностей и интересной харизмой. Точно рекомендую к покупке!"
+      },
+      {
+        "author": "Nikita Sukhorukov",
+        "date": "2026-07-01",
+        "rating": 4,
+        "text": "cherry plum redcurrant кислотность живая, танины мягкие...не хуже многих, но сам по себе бленд странный..."
+      },
+      {
+        "author": "Vladislav Martyanov",
+        "date": "2026-06-27",
+        "rating": 4,
+        "text": "Вот очень хорошо. До этого пил только моносортовые вина от Алмы. Этот релиз даже поинтереснее ."
+      }
+    ]
+  },
+  "winery": {
+    "name": "Alma Valley",
+    "license_active": false,
+    "vineyard_ha": 405.0,
+    "website": "https://alma-valley.ru",
+    "phone": "+7 (36554) 9–19–79",
+    "regions": [
+      "Западно-Предгорный Крым",
+      "Крым",
+      "Крым / Бахчисарайский район / Долина реки Альма",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "prices": {
+    "min": 750.0,
+    "max": 750.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 750.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/vino_igristoe_zgu_dagestan_derbent_vino_kavkazian.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2024"
+  ]
+}

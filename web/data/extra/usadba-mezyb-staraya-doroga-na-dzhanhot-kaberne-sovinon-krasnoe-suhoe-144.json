@@ -1,0 +1,57 @@
+{
+  "prices": {
+    "min": 3900.0,
+    "max": 4050.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 3900.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/usadba-mezyb-staraya-doroga-na-dzhanhot-2022-krasnoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 3990.0,
+        "url": "https://swn.ru/best-wines/2025-2026/staraya-doroga-na-dzhankhot-krasnoe-2022/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/2025-2026/staraya-doroga-na-dzhankhot-krasnoe-2022/",
+      "text": "Вино темно-бордового цвета. В аромате раскрываются тона черных ягод, сливы, шелковицы и табачного листа. Вкус сбалансированный, с ярким фруктовым профилем, умеренными танинами и гармоничной кислотностью. Послевкусие продолжительное, с оттенками ягод, шоколада и специй."
+    },
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/usadba-mezyb-staraya-doroga-na-dzhanhot-2023-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Вино тельное, сбалансированное, танины мягкие, вкус фруктово-ягодный с тонами специй и тёмного шоколада."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/usadba-mezyb-staraya-doroga-na-dzhanhot-2023-krasnoe-suhoe-vino-0-75-l/",
+      "text": "В букете доминируют ароматы черных ягод, чернослива, шелковицы с тонами табачного листа."
+    }
+  ],
+  "vintages": [
+    "2017",
+    "2022",
+    "2023"
+  ],
+  "winery": {
+    "name": "Усадьба Мезыбь",
+    "license_active": true,
+    "vineyard_ha": 58.12,
+    "website": "http://www.mezyb.ru/",
+    "phone": "+7 (499) 703-44-36",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Краснодарский край / Геленджик"
+    ],
+    "inn": "2304067346"
+  }
+}

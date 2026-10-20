@@ -1,0 +1,27 @@
+{
+  "prices": {
+    "min": 1950.0,
+    "max": 1950.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1950.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_krasnoe_sukhoe_tabiya_kaberne_sovinon_2020.html"
+      }
+    ]
+  },
+  "winery": {
+    "name": "Табия",
+    "license_active": false,
+    "vineyard_ha": 18.0,
+    "website": "https://t.me/tabiawine1",
+    "phone": "+7 (988) 351-03-30",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань"
+    ],
+    "inn": null
+  }
+}

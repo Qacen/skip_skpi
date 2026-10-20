@@ -1,0 +1,48 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 3300.0,
+    "max": 4200.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "RussianVine",
+        "price": 3300.0,
+        "url": "https://russianvine.ru/vino-vibes-silvaner"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 4200.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_beloe_sukhoe_vibes_silvaner_2021.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-vibes-silvaner",
+      "text": "Запах цветущей яблони и альпийского луга сплетается с ароматом холодного зеленого чая с липой, мятой, гречишным медом и лаймовой цедрой. Этот Сильванер еще и про мел мел, и морские ракушки, и озон, и йодовый аромат свежей устрицы. У вина мягкая кислотность и лаймово-грушевый вкус, приправленный легчайшей горчинкой от мякоти грейпфрута и белого персика."
+    }
+  ],
+  "vintages": [
+    "2021",
+    "2022"
+  ],
+  "winery": {
+    "name": "Vibes",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": "https://vibes-wine.ru",
+    "phone": null,
+    "regions": [
+      "Крым",
+      "Крым / Севастополь",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

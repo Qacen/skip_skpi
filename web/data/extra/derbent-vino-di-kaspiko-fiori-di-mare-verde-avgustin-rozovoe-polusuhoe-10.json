@@ -1,0 +1,72 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 475.99,
+    "max": 475.99,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 475.99,
+        "url": "https://amwine.ru/catalog/vino/vino_polusukhoe_rozovoe_di_kaspiko_fiori_di_mare_verde_di_caspico_fiori_di_mare_verde/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/vino_polusukhoe_rozovoe_di_kaspiko_fiori_di_mare_verde_di_caspico_fiori_di_mare_verde/",
+      "text": "Свежий, яркий, с нотами карамели \"монпансье\" и приятным ягодным послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/vino_polusukhoe_rozovoe_di_kaspiko_fiori_di_mare_verde_di_caspico_fiori_di_mare_verde/",
+      "text": "Свежий, с нотами зимних ягод."
+    }
+  ],
+  "vintages": [
+    "2023"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/vino/vino_polusukhoe_rozovoe_di_kaspiko_fiori_di_mare_verde_di_caspico_fiori_di_mare_verde/",
+    "n": 109,
+    "avg": 4.12,
+    "items": [
+      {
+        "author": "Тихон Мальцев",
+        "date": "2026-09-07",
+        "rating": 4,
+        "text": "Приятное розе, раскрывается глубокий вкус клюквы. Ближе к осени такое вино."
+      },
+      {
+        "author": "Karina Viskhadzhieva",
+        "date": "2026-08-23",
+        "rating": 3,
+        "text": "В аромате лёгкая ягодная карамель, немного клубники, черешни. Типичное виньо Верде: слега газированное, с ощутимой кислотой, сладкие ягооные нотки в конце и очень слабые. В качестве вина, чтобы пить в жаркую погоду в очень охлажденном виде или со льдом в бокале - то, что надо э."
+      },
+      {
+        "author": "Nikita Kornilov",
+        "date": "2026-08-23",
+        "rating": 3,
+        "text": "Российский виньо верде. Практически нет аромата, минеральность, небольшая газация. Во вкусе практически не заметная ягодная карамель, большая кислотность. Для любителей Португалии со льдом и в жаркую погоду сойдёт."
+      },
+      {
+        "author": "Alexander St",
+        "date": "2026-08-23",
+        "rating": 3,
+        "text": "Цена-качество. Остаточная газация, я бы это даже назвал перляжем. Кислотность выше среднего, тело плосковато. Земляника, белая смородина, грейпфрут, цедра лимона."
+      },
+      {
+        "author": "Всеволод Титов",
+        "date": "2026-08-19",
+        "rating": 3,
+        "text": "Нос мед цветы, трава Вкус непримечальный вообще"
+      }
+    ]
+  }
+}

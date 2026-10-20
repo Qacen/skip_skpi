@@ -1,0 +1,38 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1400.0,
+    "max": 1650.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 1400.0,
+        "url": "https://swn.ru/best-wines/2025-2026/mountain-eagle-traminer/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1650.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_beloe_sukhoe_zgu_dagestan_mountain_eagle_traminer_2021.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "Агролайн",
+    "license_active": true,
+    "vineyard_ha": 102.09,
+    "website": "https://oooagrolain.ru",
+    "phone": "+7 (988) 293-88-89",
+    "regions": [
+      "Дагестан",
+      "Кавказ / Дагестан",
+      "Республика Дагестан"
+    ],
+    "inn": "0522013971"
+  }
+}

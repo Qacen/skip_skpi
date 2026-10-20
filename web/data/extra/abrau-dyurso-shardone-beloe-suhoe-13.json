@@ -1,0 +1,70 @@
+{
+  "awards": [
+    "TOP100 2022 #24, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 270.0,
+    "max": 1600.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 270.0,
+        "url": "https://thewinery.ru/wine_shardone_abrau_durso_beloe_suhoe.php"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1100.0,
+        "url": "https://top100wines.ru/top100_22"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1600.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_beloe_sukhoe_znmp_abrau_dyurso_shardone_2018.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/abrau_shardone/",
+      "text": "Вино демонстрирует округлый, свежий вкус с нотами цветов акации, ванили и сливочного масла, с приятной кислинкой и долгим послевкусием."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_shardone_abrau_durso_beloe_suhoe.php",
+      "text": "Объемный вкус с тонкой, элегантно выраженной кислотностью и длительным фруктовым послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_shardone_abrau_durso_beloe_suhoe.php",
+      "text": "Сдержанный комплексный аромат с доминирующими нотами белых цветов и изящным сопровождением персиков и дюшеса."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/abrau_shardone/",
+      "text": "Вино соблазняет выразительным ароматом, сотканным из нот экзотических фруктов и легкими нюансами цитрусов."
+    }
+  ],
+  "vintages": [
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "winery": {
+    "name": "Абрау-Дюрсо",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": null,
+    "phone": null,
+    "regions": [],
+    "inn": null
+  }
+}

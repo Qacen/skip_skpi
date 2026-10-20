@@ -1,0 +1,14 @@
+{
+  "winery": {
+    "name": "Шато АЛВИСА",
+    "license_active": true,
+    "vineyard_ha": null,
+    "website": "https://www.alvisa.ru/",
+    "phone": "+74957999700",
+    "regions": [
+      "Дагестан",
+      "Республика Дагестан"
+    ],
+    "inn": "7730614662"
+  }
+}

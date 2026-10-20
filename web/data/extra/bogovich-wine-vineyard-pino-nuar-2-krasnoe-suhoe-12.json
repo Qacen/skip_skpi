@@ -1,0 +1,22 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 3900.0,
+    "max": 3900.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 3900.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/bogovich-wine-pino-nuar-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2020",
+    "2021",
+    "2022"
+  ]
+}

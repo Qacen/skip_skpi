@@ -1,0 +1,34 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2300.0,
+    "max": 2300.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 2300.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/seneth-shu-shu-rozovoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "Сенетх",
+    "license_active": true,
+    "vineyard_ha": 19.6,
+    "website": "https://senetkh.ru/",
+    "phone": "+7 (499) 7034436",
+    "regions": [
+      "Анапа",
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань"
+    ],
+    "inn": "2376003736"
+  }
+}

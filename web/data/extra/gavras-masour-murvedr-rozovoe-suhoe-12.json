@@ -1,0 +1,22 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "vintages": [
+    "2021"
+  ],
+  "winery": {
+    "name": "GAVRAS",
+    "license_active": false,
+    "vineyard_ha": 19.0,
+    "website": null,
+    "phone": "+7 (499) 7034436",
+    "regions": [
+      "Крым",
+      "Крым / Бахчисарайский район / Долина реки Кача",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

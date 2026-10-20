@@ -1,0 +1,49 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 689.0,
+    "max": 689.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 689.0,
+        "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/fanagoriya_blanc_de_blancs/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/fanagoriya_blanc_de_blancs/",
+      "text": "Вкус - мягкий, свежий с нюансами спелых летних фруктов, сдобной булки в обрамлении пряных и медовых оттенков."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/fanagoriya_blanc_de_blancs/",
+      "text": "Аромат - интенсивный с нотами экзотических фруктов, цветов крокуса и медовыми оттенками."
+    }
+  ],
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "Фанагория",
+    "license_active": true,
+    "vineyard_ha": 3342.0,
+    "website": "https://www.fanagoria.ru",
+    "phone": "+7 86148 38747",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "2352002170"
+  }
+}

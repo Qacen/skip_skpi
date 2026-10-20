@@ -1,0 +1,81 @@
+{
+  "awards": [
+    "Золото",
+    "Серебро",
+    "Лучшее красное сухое",
+    "Лучший каберне совиньон"
+  ],
+  "prices": {
+    "min": 1000.0,
+    "max": 5690.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 1000.0,
+        "url": "https://thewinery.ru/wine_kaberne_sovinon_semejnij_rezerv_sikory_krasnoe_suhoe.php"
+      },
+      {
+        "label": "AMWINE",
+        "price": 2499.0,
+        "url": "https://amwine.ru/catalog/vino/sikory_kaberne_sovinon_semeynyy_rezerv/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 4150.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_krasnoe_sukhoe_zgu_semigore_imenie_sikory_semeynyy_rezerv_kaberne_sovinon.html"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 5690.0,
+        "url": "https://swn.ru/best-wines/2025-2026/kaberne-sovinon-semeynyy-rezerv/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/vino/p/kaberne-sovinon-semeinyi-rezerv-974/",
+      "text": "Сладкие ноты переспелой вишни, ежевичное и черносмородиновое варенье. Землистые ноты, пряности. Во вкусе полнотелое, объемное, сложное, с целым набором спелых красных и черных ягод и фруктов. Лакричный тон. Послевкусие длительное, танинное, с приятными тонами выдержки в дубе."
+    },
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/2025-2026/kaberne-sovinon-semeynyy-rezerv/",
+      "text": "Вино насыщенного рубинового цвета. В аромате раскрываются тона черной смородины, ежевики и чернослива, дополненные нотками лакрицы, черного перца и нюансами кофе с легким дымком. Вкус отличается бархатными танинами и долгим послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_kaberne_sovinon_semejnij_rezerv_2_sikory_krasnoe_suhoe.php",
+      "text": "В богатый букет чёрной смородины, спелой ежевики, молотых специй, лакрицы, корочки свежего хлеба и шоколада вплетаются древесные тона."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/sikory_kaberne_sovinon_semeynyy_rezerv/",
+      "text": "С благородной ароматикой чёрной смородины, ежевики и чернослива, дополненных нюансами лакрицы и чёрного перца."
+    }
+  ],
+  "vintages": [
+    "2015",
+    "2018",
+    "2019",
+    "2020"
+  ],
+  "winery": {
+    "name": "Имение Сикоры",
+    "license_active": true,
+    "vineyard_ha": 47.2,
+    "website": "https://sikory.ru",
+    "phone": "8 (8617) 301-956",
+    "regions": [
+      "Краснодарский край",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": "2315167328"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "prices": {
+    "min": 880.0,
+    "max": 880.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 880.0,
+        "url": "https://swn.ru/best-wines/summer-2026-2027/vinisazh-rozovoe-vinodelnya-byurne/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/summer-2026-2027/vinisazh-rozovoe-vinodelnya-byurne/",
+      "text": "Цвет светло-лососевый с пурпурным оттенком. В аромате присутствуют ноты абрикоса, желтой груши, красной вишни и заварного крема. Вкус сбалансированный, с выраженной кислотностью и длительным ягодным послевкусием."
+    }
+  ],
+  "vintages": [
+    "2025"
+  ],
+  "winery": {
+    "name": "Винодельня Бюрнье",
+    "license_active": false,
+    "vineyard_ha": 48.0,
+    "website": "https://burnier.vin/",
+    "phone": "+7 (86133) 2-89-57",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "awards": [
+    "TOP100 2022 #32, Золото",
+    "Бронза"
+  ],
+  "prices": {
+    "min": 450.0,
+    "max": 550.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 450.0,
+        "url": "https://top100wines.ru/top100_22"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 550.0,
+        "url": "https://swn.ru/best-wines/2025-2026/di-caspico-merlo/"
+      }
+    ]
+  },
+  "vintages": [
+    "2021",
+    "2023",
+    "2024"
+  ]
+}

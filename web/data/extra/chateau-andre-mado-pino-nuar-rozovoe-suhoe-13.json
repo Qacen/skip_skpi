@@ -1,0 +1,43 @@
+{
+  "awards": [
+    "Серебро",
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1190.0,
+    "max": 1350.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 1190.0,
+        "url": "https://swn.ru/best-wines/2025-2026/mado-rose/"
+      },
+      {
+        "label": "Красностоп",
+        "price": 1250.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/shato-andre-mado-rozovoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1350.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_shato_andre_mado.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2023",
+    "2024"
+  ],
+  "winery": {
+    "name": "Chateau Andre",
+    "license_active": false,
+    "vineyard_ha": 8.0,
+    "website": null,
+    "phone": "+79283344482",
+    "regions": [
+      "Кубань"
+    ],
+    "inn": null
+  }
+}

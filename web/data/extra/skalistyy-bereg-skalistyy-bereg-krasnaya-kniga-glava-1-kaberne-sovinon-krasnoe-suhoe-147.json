@@ -1,0 +1,82 @@
+{
+  "awards": [
+    "TOP100 2024 #5, Золото",
+    "TOP100 2024 #41, Золото",
+    "TOP100 2022 #72, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2000.0,
+    "max": 8400.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 2000.0,
+        "url": "https://top100wines.ru/top100_22"
+      },
+      {
+        "label": "Красностоп",
+        "price": 2250.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/skalistyy-bereg-krasnaya-kniga-glava-2-krasnoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "AMWINE",
+        "price": 3249.0,
+        "url": "https://amwine.ru/catalog/vino/skalistyy_bereg_krasnaya_kniga_glava_2/"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 3990.0,
+        "url": "https://swn.ru/best-wines/2025-2026/krasnaya-kniga-glava-2/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/2025-2026/krasnaya-kniga-glava-2/",
+      "text": "Вино гранатового цвета. В аромате раскрываются тона подвяленной вишни, чернослива и шоколада, дополненные необычными нотами антикварной мебели. Вкус – объемный и сочный, со зрелыми, хорошо структурированными танинами и долгим послевкусием с оттенками черных ягод."
+    },
+    {
+      "kind": "taste",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/vino/p/krasnaia-kniga-glava-1-2700/",
+      "text": "Микс садовых и лесных ягод: черешня, спелая вишня, красная слива, ежевика. В отдалении легкий оттенок эвкалипта. Во вкусе комплексное, теплое, сочное, обволакивающе, с богатой гаммой ягодных нот. Длительное ягодное послевкусие с легкими пряными оттенками."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/skalistyy_bereg_krasnaya_kniga_glava_2/",
+      "text": "В первом носе вино раскрывается яркими фруктово-ягодными нотками ежевики, сливы, вишни, чёрной черешни, во втором носе проявляются ароматы пастилы, ванили, шоколада и белого перца, плавно переходящие в оттенки специй и пряных трав, чёрного перца и олифы."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/skalistyy-bereg-krasnaya-kniga-2020-glava-1-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Букет яркий, концентрированный, собран из ароматов спелых черных ягод смородины, с тонами дыма, лакрицы, древесной смолы и миндаля."
+    }
+  ],
+  "vintages": [
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "winery": {
+    "name": "Скалистый Берег",
+    "license_active": true,
+    "vineyard_ha": 36.0,
+    "website": "https://skbereg.ru",
+    "phone": "+7 (86133) 27131",
+    "regions": [
+      "Анапа",
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Республика Крым"
+    ],
+    "inn": "7709858507"
+  }
+}

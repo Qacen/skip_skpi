@@ -1,0 +1,20 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1450.0,
+    "max": 2150.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1450.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_krasnoe_sukhoe_stolovoe_marchenko_krasnostop_zolotovskiy.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2022"
+  ]
+}

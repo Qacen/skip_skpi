@@ -1,0 +1,34 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1250.0,
+    "max": 1250.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1250.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/mezyb-kaberne-sovinon-krasnoe-polusuhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2019",
+    "2021"
+  ],
+  "winery": {
+    "name": "Усадьба Мезыбь",
+    "license_active": true,
+    "vineyard_ha": 58.12,
+    "website": "http://www.mezyb.ru/",
+    "phone": "+7 (499) 703-44-36",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Краснодарский край / Геленджик"
+    ],
+    "inn": "2304067346"
+  }
+}

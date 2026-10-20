@@ -1,0 +1,46 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1300.0,
+    "max": 1750.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1300.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_zhakov_fresherst.html"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 1500.0,
+        "url": "https://swn.ru/best-wines/2025-2026/fresherst/"
+      },
+      {
+        "label": "Красностоп",
+        "price": 1600.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/zhakov-fresherst-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/zhakov-fresherst-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Тело вина среднее, кислотность сбалансированная, танины округлые бархатистые, во вкусе тона тёмных фруктов с пряными нюансами в продолжительном заврешении."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/zhakov-fresherst-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Букет насыщенный, комплексный, собран с ароматов спелой вишни, ежевики, черной шелковицы с тонами специй."
+    }
+  ],
+  "vintages": [
+    "2022",
+    "2023",
+    "2024"
+  ]
+}

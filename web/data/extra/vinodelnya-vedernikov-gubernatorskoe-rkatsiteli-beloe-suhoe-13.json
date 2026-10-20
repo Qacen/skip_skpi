@@ -1,0 +1,53 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 600.0,
+    "max": 600.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 600.0,
+        "url": "https://thewinery.ru/wine_rkaciteli_vedernikov_beloe_suhoe.php"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-vedernikov-rcatsiteli-2015",
+      "text": "Букет вина сильно интенсивный, комплексный, с яркими ароматами абрикоса, цитрусовых, дыни и минеральными тонами. Во вкусе вино полнотелое, округлое, очень свежее с нотами цитрусов, миндаля, зелёного яблока и лёгкой минеральностью."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_rkaciteli_vedernikov_beloe_suhoe.php",
+      "text": "Во вкусе полнотелое, округлое, очень свежее с нотками лайма, тропических фруктов, миндаля, минеральными тонами. Послевкусие умеренно-долгое с кисло-сладкими цитрусовыми нотами в финале."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_rkaciteli_vedernikov_beloe_suhoe.php",
+      "text": "Букет вина очень интенсивный, умеренно-комплексный, с нюансами абрикоса, цитруса, айвы, скошенной травы, майского мёда."
+    }
+  ],
+  "vintages": [
+    "2014",
+    "2015"
+  ],
+  "winery": {
+    "name": "Винодельня Ведерниковъ",
+    "license_active": false,
+    "vineyard_ha": 215.56,
+    "website": "https://vedernikovwine.ru",
+    "phone": "+78632504540",
+    "regions": [
+      "Долина Дона",
+      "Ростовская область"
+    ],
+    "inn": "6116008465"
+  }
+}

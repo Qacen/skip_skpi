@@ -1,0 +1,56 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1115.0,
+    "max": 1650.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1115.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/sary_pandas.html"
+      },
+      {
+        "label": "RussianVine",
+        "price": 1650.0,
+        "url": "https://russianvine.ru/vino-zaharin-sary-pandas-2014"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-zaharin-sary-pandas-2014",
+      "text": "Цвет светло-соломенный. В аромате хлебный мякиш, жёлтое яблоко. Вкус фруктовый, плотной текстуры с хорошим балансом кислотности, с оттенками кураги и сухофруктов."
+    },
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://krymwine.ru/catalog/vino/tikhie-vina/sary_pandas.html",
+      "text": "Вино обладает ароматом хлебного мякиша и желтого яблока. Вкус плотный, с хорошим балансом кислотности, с тонами свежего хлеба в послевкусии."
+    }
+  ],
+  "vintages": [
+    "2014",
+    "2023"
+  ],
+  "winery": {
+    "name": "Валерий Захарьин",
+    "license_active": true,
+    "vineyard_ha": 1.62,
+    "website": "https://akchurinwinery.ru",
+    "phone": "+ 7 (499) 703-44-36",
+    "regions": [
+      "Анапа",
+      "Волгоградская область",
+      "Город федерального значения Севастополь",
+      "Дагестан",
+      "Долина Дона",
+      "Кавказ / Дагестан"
+    ],
+    "inn": "0000000"
+  }
+}

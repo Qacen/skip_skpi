@@ -1,0 +1,63 @@
+{
+  "prices": {
+    "min": 1200.0,
+    "max": 2350.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "RussianVine",
+        "price": 1200.0,
+        "url": "https://russianvine.ru/vino-dva-serdsca-cabernet-fran-2019"
+      },
+      {
+        "label": "Каталог виноделен",
+        "price": 1200.0,
+        "url": "https://thewinery.ru/wine_kaberne_fran_dva_serdca_krasnoe_suhoe.php"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 2350.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/kaberne_fran_dva_serdtsa.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-dva-serdsca-cabernet-fran-2019",
+      "text": "Вино тёмно-бордового цвета с фиолетовым оттенком. Аромат, яркий, с нотами корицы, перца и сладких фруктов. Во вкусе округлое, сбалансированное, с мягкими танинами, с нотами выдержки. В послевкусии оттенки ванили и табака."
+    },
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://krymwine.ru/catalog/vino/tikhie-vina/kaberne_fran_dva_serdtsa.html",
+      "text": "Яркое, насыщенное вино с характерным ароматом красных фруктов, специй и нотками корицы. Вкус сбалансированный с мягкими танинами."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_kaberne_fran_dva_serdca_krasnoe_suhoe.php",
+      "text": "Аромат, яркий, с нотами корицы, перца и сладких фруктов."
+    }
+  ],
+  "vintages": [
+    "2017",
+    "2020",
+    "2021"
+  ],
+  "winery": {
+    "name": "Два Сердца",
+    "license_active": false,
+    "vineyard_ha": 10.0,
+    "website": "https://twohearts.wine",
+    "phone": null,
+    "regions": [
+      "Крым",
+      "Крым / Сакский район",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": "9200008518"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 650.0,
+    "max": 650.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 650.0,
+        "url": "https://thewinery.ru/wine_risling_elbuzd_beloe_suhoe.php"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-elbuzd-risling-2015",
+      "text": "Вино золотисто-соломенного цвета. Аромат яркий, интенсивный и фруктовый. Во вкусе сбалансированное и гармоничное, плотное, с долгим приятным послевкусием."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_risling_elbuzd_beloe_suhoe.php",
+      "text": "Во вкусе нежное, сбалансированное и гармоничное. Плотное с долгим приятным послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_risling_elbuzd_beloe_suhoe.php",
+      "text": "Аромат: яркий, интенсивный и фруктовый. Ноты белых цветов и луговых трав, яркая минеральность."
+    }
+  ],
+  "vintages": [
+    "2015",
+    "2022"
+  ],
+  "winery": {
+    "name": "Эльбузд",
+    "license_active": true,
+    "vineyard_ha": 25.0,
+    "website": "https://elbuzd-wine.ru",
+    "phone": "+7 988 565 38 65",
+    "regions": [
+      "Долина Дона",
+      "Ростовская область"
+    ],
+    "inn": "6140030493"
+  }
+}

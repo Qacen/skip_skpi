@@ -1,0 +1,72 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 629.99,
+    "max": 629.99,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 629.99,
+        "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/endemy_pino_nuar/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/endemy_pino_nuar/",
+      "text": "Вкус полный, развитый, свежий, с хорошо сбалансированной кислотностью, приятной бархатистостью, нотами спелых ягод."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/endemy_pino_nuar/",
+      "text": "Аромат тонкий, развитый, чистый, фруктовый с характерными сортовыми признаками винограда Пино Нуар."
+    }
+  ],
+  "vintages": [
+    "2023"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/endemy_pino_nuar/",
+    "n": 408,
+    "avg": 4.07,
+    "items": [
+      {
+        "author": "Vadim Sinichenko",
+        "date": "2026-09-14",
+        "rating": 4,
+        "text": "Далекая клубника, малина, немного барбариса и цветочная нота. Во вкусе свежо и легко: красные ягоды, бодрая кислотность, чуть конфетности, без ухода в лимонад. Пузырёк простой, зато вино живое и отлично пьётся"
+      },
+      {
+        "author": "Denis Panchenko",
+        "date": "2026-09-11",
+        "rating": 4,
+        "text": "Насыщенный розовый цвет. Бурные мелкие пузырьки. Ягодно-леденцовое игристое. Земляника, вишня, барбарис. Чуть сладковатое для брюта, но, в целом, бодрое и приятное."
+      },
+      {
+        "author": "Tati Ineshina",
+        "date": "2026-09-07",
+        "rating": 4,
+        "text": "Поткачеству не плохой совсем, но оч сладкий для брюта) больше не возьму"
+      },
+      {
+        "author": "Денис Гамеза",
+        "date": "2026-08-31",
+        "rating": 4,
+        "text": "Барбарис, малиновый лимонад, клубничный йогурт, дрожжевые ноты"
+      },
+      {
+        "author": "Slava Avals",
+        "date": "2026-08-14",
+        "rating": 3,
+        "text": "Кроме этикетки, других отличий с 23-м годом не заметил. Такое же ярко-клюквенное и колючее."
+      }
+    ]
+  }
+}

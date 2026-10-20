@@ -1,0 +1,115 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 999.99,
+    "max": 1200.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 999.99,
+        "url": "https://amwine.ru/catalog/vino/shyepot_tsvetov/"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 1000.0,
+        "url": "https://swn.ru/best-wines/2025-2026/shepot-tsvetov/"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1000.0,
+        "url": "https://online.metro-cc.ru/products/vino-skalistyy-bereg-shepot-tsvetov-beloe-suhoe-075l-230284?utm_source=top100&amp"
+      },
+      {
+        "label": "Красностоп",
+        "price": 1100.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/skalistyy-bereg-shepot-cvetov-beloe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1200.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_beloe_sukhoe_zgu_kuban_skalistyy_bereg_shyepot_tsvetov.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/shyepot_tsvetov/",
+      "text": "Вкус соответствует аромату и раскрывается яркой минеральностью, тонами сочного белого персика и лимона с приятным, освежающим цитрусово-минеральным послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/shyepot_tsvetov/",
+      "text": "Вино свежее, звонкое, с оттенками лайма, роматами весенних цветов и морской свежести в первом носе, а также нотками личи, дюшеса и алоэ во втором."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/skalistyy-bereg-shepot-cvetov-beloe-suhoe-vino-0-75-l/",
+      "text": "Тело вина среднее, кислотность яркая, вкус не отстаёт от букета, в завершении тона лайма, киви, пикантная горечь абрикосовой косточки"
+    }
+  ],
+  "vintages": [
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/vino/shyepot_tsvetov/",
+    "n": 207,
+    "avg": 4.07,
+    "items": [
+      {
+        "author": "Alexander Shutenko",
+        "date": "2026-08-31",
+        "rating": 4,
+        "text": "Яркое, сверх кислотное, с цветочным носом."
+      },
+      {
+        "author": "Julia Glebova",
+        "date": "2026-08-31",
+        "rating": 4,
+        "text": "Цитрусовое, с приятной кислинкой и минеральной свежестью"
+      },
+      {
+        "author": "Владимир Коструб",
+        "date": "2026-08-05",
+        "rating": 4,
+        "text": "Цвет бледно-соломенный. Первый нос - запеченные яблоки. В целом вкус и ароматика больше от рислинга: яблоки, цитрусовые, но без петрольных нот. Высокая кислотность, легкое в теле. Из-за выраженной кислотности требует сопровождения."
+      },
+      {
+        "author": "pc1973",
+        "date": "2026-07-26",
+        "rating": 4,
+        "text": "Поначалу показалось попроще, чем Дыхание волн. В первый день солировали цитрусы, да и кислотность была чуть излишней. Но на второй день вино нашло баланс. К цитрусам добавилось зелёное яблоко, косточковые фрукты и минеральность. Хороший вариант в жару. 85-86/100."
+      },
+      {
+        "author": "Sergei Bo",
+        "date": "2026-07-08",
+        "rating": 4,
+        "text": "Невнятный кислотный набор отечественного виноматериала. Носа почти нет - луговые травы. На языке много лимона, травяной горечи, воды, железа. Напомнило советские ркацетели/совиньоны очень похожые друг на друга - вкус детства ). + 0,1 маркетологам за название и этикетку )"
+      }
+    ]
+  },
+  "winery": {
+    "name": "Скалистый Берег",
+    "license_active": true,
+    "vineyard_ha": 36.0,
+    "website": "https://skbereg.ru",
+    "phone": "+7 (86133) 27131",
+    "regions": [
+      "Анапа",
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Республика Крым"
+    ],
+    "inn": "7709858507"
+  }
+}

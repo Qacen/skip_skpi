@@ -1,0 +1,77 @@
+{
+  "awards": [
+    "TOP100 2025 #91, Золото",
+    "TOP100 2024 #99, Золото",
+    "TOP100 2023 #93, Золото",
+    "TOP100 2021 #85, Золото",
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1200.0,
+    "max": 1500.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "RussianVine",
+        "price": 1200.0,
+        "url": "https://russianvine.ru/vino-dva-serdsca-viogner-2019"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1200.0,
+        "url": "https://top100wines.ru/top100"
+      },
+      {
+        "label": "Каталог виноделен",
+        "price": 1200.0,
+        "url": "https://thewinery.ru/wine_vionie_dva_serdca_beloe_suhoe.php"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1450.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vione_dva_serdtsa.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-dva-serdsca-viogner-2019",
+      "text": "Вино светло-жёлтого цвета с золотистыми отблесками. Аромат яркий, насыщенный, с оттенками личи, ананаса, ванили и цветущего персика. Во вкусе яркое, округлое, с нотами цветов, черешни и леденцов, с приятным сладковатым послевкусием."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_vionie_dva_serdca_beloe_suhoe.php",
+      "text": "Во вкусе яркое, округлое, с нотами цветов, черешни и леденцов, с приятным сладковатым послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_vionie_dva_serdca_beloe_suhoe.php",
+      "text": "Аромат яркий, насыщенный, с оттенками личи, ананаса, ванили и цветущего персика."
+    }
+  ],
+  "vintages": [
+    "2018",
+    "2020",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "winery": {
+    "name": "Два Сердца",
+    "license_active": false,
+    "vineyard_ha": 10.0,
+    "website": "https://twohearts.wine",
+    "phone": null,
+    "regions": [
+      "Крым",
+      "Крым / Сакский район",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": "9200008518"
+  }
+}

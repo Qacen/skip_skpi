@@ -1,0 +1,22 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "vintages": [
+    "2022",
+    "2023"
+  ],
+  "winery": {
+    "name": "Bakla Vines",
+    "license_active": false,
+    "vineyard_ha": 9.0,
+    "website": "https://t.me/s/BaklaVines",
+    "phone": "+7 (499) 7034436",
+    "regions": [
+      "Крым",
+      "Крым / Бахчисарайский район",
+      "Республика Крым"
+    ],
+    "inn": null
+  }
+}

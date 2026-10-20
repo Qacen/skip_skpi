@@ -1,0 +1,44 @@
+{
+  "awards": [
+    "Серебро",
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1775.0,
+    "max": 2150.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 1775.0,
+        "url": "https://swn.ru/best-wines/2025-2026/avtokhtonnoe-vino-kryma-valeriya-zakharina-aleatiko-kefesiya/"
+      },
+      {
+        "label": "Красностоп",
+        "price": 2150.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/avtohtonnoe-vino-kryma-ot-valeriya-zaharina-aleatiko-kefesiya-rozovoe-suhoe-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2021",
+    "2023",
+    "2024"
+  ],
+  "winery": {
+    "name": "Валерий Захарьин",
+    "license_active": true,
+    "vineyard_ha": 1.62,
+    "website": "https://akchurinwinery.ru",
+    "phone": "+ 7 (499) 703-44-36",
+    "regions": [
+      "Анапа",
+      "Волгоградская область",
+      "Город федерального значения Севастополь",
+      "Дагестан",
+      "Долина Дона",
+      "Кавказ / Дагестан"
+    ],
+    "inn": "0000000"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 559.0,
+    "max": 559.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 559.0,
+        "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zinfandel_mode_/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zinfandel_mode_/",
+      "text": "Нежный, тонкий, минеральный."
+    }
+  ],
+  "vintages": [
+    "2022"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zinfandel_mode_/",
+    "n": 5,
+    "avg": 4.6,
+    "items": [
+      {
+        "author": "Ирина Ирина",
+        "date": "2024-05-05",
+        "rating": 3,
+        "text": "Мне вообще не понравилось. Букета и аромата не чувствуется."
+      },
+      {
+        "author": "Василий",
+        "date": "2024-03-04",
+        "rating": 5,
+        "text": "Хорошее игристое. Аромат барбариса и яблока. Вкус ягодный, земляника."
+      },
+      {
+        "author": "Ирина",
+        "date": "2023-12-24",
+        "rating": 5,
+        "text": "Отлично!"
+      },
+      {
+        "author": "Надежда Самар",
+        "date": "2023-11-19",
+        "rating": 5,
+        "text": "Вкусное, нет кислотности, приятное"
+      },
+      {
+        "author": "Евгения",
+        "date": "2023-11-04",
+        "rating": 5,
+        "text": "Интересный ягодный вкус (ну кто любит такие), не слишком кислый, и не слишком сладкий."
+      }
+    ]
+  },
+  "winery": {
+    "name": "Винодельня Мысхако",
+    "license_active": true,
+    "vineyard_ha": 594.37,
+    "website": "https://myskhako.ru",
+    "phone": "+7 (8617) 72-98-00",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Новороссийск",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": "2315005310"
+  }
+}

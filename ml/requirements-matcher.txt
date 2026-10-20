@@ -1,0 +1,8 @@
+# Real matcher / label reader (SigLIP2 so400m naflex, vision tower only). Also needs requirements-detector.txt (torch).
+#   pip install -r requirements-detector.txt -r requirements-matcher.txt
+transformers>=4.53
+safetensors>=0.4
+numpy>=1.26
+pillow-heif>=0.18
+requests>=2.31
+opencv-python-headless>=4.8

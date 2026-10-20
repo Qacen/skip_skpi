@@ -1,0 +1,20 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "vintages": [
+    "2024"
+  ],
+  "winery": {
+    "name": "Собер Баш",
+    "license_active": true,
+    "vineyard_ha": 61.21,
+    "website": "https://soberbashvino.ru/",
+    "phone": "+7 (988) 2420880",
+    "regions": [
+      "Долина реки Афипс",
+      "Краснодарский край"
+    ],
+    "inn": "2348032982"
+  }
+}

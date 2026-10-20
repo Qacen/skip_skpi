@@ -1,0 +1,44 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1350.0,
+    "max": 1350.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "RussianVine",
+        "price": 1350.0,
+        "url": "https://russianvine.ru/vino-sikory-fran-rose-2018"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-sikory-fran-rose-2018",
+      "text": "Пышное вино, с богатым букетом всевозможных красных ягод на фоне сладких пряностей в аромате. Хорошо сбалансированный, сочный, освежающий вкус с длительным фруктовым послевкусием и элегантной кислотностью."
+    }
+  ],
+  "vintages": [
+    "2018",
+    "2021",
+    "2024"
+  ],
+  "winery": {
+    "name": "Имение Сикоры",
+    "license_active": true,
+    "vineyard_ha": 47.2,
+    "website": "https://sikory.ru",
+    "phone": "8 (8617) 301-956",
+    "regions": [
+      "Краснодарский край",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": "2315167328"
+  }
+}

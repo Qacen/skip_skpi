@@ -1,0 +1,39 @@
+{
+  "prices": {
+    "min": 2900.0,
+    "max": 2900.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 2900.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/seneth-sueta-hihvi-beloe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/seneth-sueta-hihvi-beloe-suhoe-vino-0-75-l/",
+      "text": "Вино тельное, структурированное, сложное, кислотность сбалансированная, вкус плодовый продолжительный с солоноватый компонентой и пикантной цитрусовой горчинкой, в завершении легкая минеральность."
+    }
+  ],
+  "vintages": [
+    "2024"
+  ],
+  "winery": {
+    "name": "Сенетх",
+    "license_active": true,
+    "vineyard_ha": 19.6,
+    "website": "https://senetkh.ru/",
+    "phone": "+7 (499) 7034436",
+    "regions": [
+      "Анапа",
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань"
+    ],
+    "inn": "2376003736"
+  }
+}

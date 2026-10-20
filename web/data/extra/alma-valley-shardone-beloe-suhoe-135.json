@@ -1,0 +1,100 @@
+{
+  "prices": {
+    "min": 550.0,
+    "max": 1100.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 550.0,
+        "url": "https://thewinery.ru/wine_shardone_alma_valley_beloe_suhoe.php"
+      },
+      {
+        "label": "RussianVine",
+        "price": 1100.0,
+        "url": "https://russianvine.ru/vino-alma-valley-chardone-2014"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1100.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_beloe_sukhoe_alma_valley_shardone.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-alma-valley-chardone-2014",
+      "text": "Светло-золотистый цвет с зеленоватым оттенком. Свежий аромат белых семечковых плодов (зелёных и жёлтых яблок). Вкус лёгкий, чистый, плодовый, с умеренной кислотностью."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_shardone_alma_valley_beloe_suhoe.php",
+      "text": "Гармоничный, освежающий плодовый вкус с умеренной кислотностью."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_shardone_alma_valley_beloe_suhoe.php",
+      "text": "Характерный для Шардоне свежий сортовой аромат с доминирующими оттенками белых семечковых плодов."
+    }
+  ],
+  "vintages": [
+    "2014"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/vino/rossiyskoe_vino_zgu_shardone_0_75l/",
+    "n": 32,
+    "avg": 4.38,
+    "items": [
+      {
+        "author": "davai_lama",
+        "date": "2026-07-01",
+        "rating": 4,
+        "text": "Цвет Чистый, глубокий лимонный Тихое Вязкость медиум плюс Аромат Чистый Интенсивность высокая В аромате ваниль, дуб, сливочное масло, лимон, сухофрукты Развивающееся Вкус Чистый Сухое Кислотность средняя Алкоголь высокий Тело среднее Интенсивность средняя Во вкусе масло сливочное, грейпфрут, лимон Финиш средний Гуд Пить сейчас, но есть небольшой потенциал"
+      },
+      {
+        "author": "Kolbaso Diablo",
+        "date": "2026-05-22",
+        "rating": 4,
+        "text": "Масло масляное, грецкий орех, сладкая кукуруза, засахаренное персиковое варенье. Если бы это вино было архитектурным стилем, это был бы рококо"
+      },
+      {
+        "author": "Назар Гончаров",
+        "date": "2026-02-01",
+        "rating": 5,
+        "text": "Шикарное вино, постоянно покупаю! В целом отличный производитель, рекомендую!"
+      },
+      {
+        "author": "Олег С",
+        "date": "2024-11-30",
+        "rating": 5,
+        "text": "Отличное вино, освежающее, но плотное и обволакивающее."
+      },
+      {
+        "author": "Михаил Осташев",
+        "date": "2024-10-22",
+        "rating": 5,
+        "text": "Вино хорошее, мягкое, вкусное рекомендую брать к фруктам и сырам."
+      }
+    ]
+  },
+  "winery": {
+    "name": "Alma Valley",
+    "license_active": false,
+    "vineyard_ha": 405.0,
+    "website": "https://alma-valley.ru",
+    "phone": "+7 (36554) 9–19–79",
+    "regions": [
+      "Западно-Предгорный Крым",
+      "Крым",
+      "Крым / Бахчисарайский район / Долина реки Альма",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

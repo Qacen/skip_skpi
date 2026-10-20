@@ -1,0 +1,22 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "Oxana Istratova Wine",
+    "license_active": false,
+    "vineyard_ha": 1.0,
+    "website": null,
+    "phone": "+7 (499) 7034436",
+    "regions": [
+      "Крым",
+      "Крым / Бахчисарайский район",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

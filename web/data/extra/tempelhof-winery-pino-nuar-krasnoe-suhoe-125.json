@@ -1,0 +1,20 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2650.0,
+    "max": 2650.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 2650.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/tempelhof-pino-nuar-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2023"
+  ]
+}

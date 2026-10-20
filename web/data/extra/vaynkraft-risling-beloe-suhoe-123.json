@@ -1,0 +1,20 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "ВайнКрафт",
+    "license_active": true,
+    "vineyard_ha": 22.0,
+    "website": null,
+    "phone": "8 978 725-22-27",
+    "regions": [
+      "Крым",
+      "Республика Крым"
+    ],
+    "inn": "9102246553"
+  }
+}

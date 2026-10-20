@@ -1,0 +1,56 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1250.0,
+    "max": 2100.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Сайт винодельни",
+        "price": 1250.0,
+        "url": "https://two-peters.ru/collection/1/%D0%A2%D0%B0%D0%BD%D0%B4%D0%B5%D0%BC"
+      },
+      {
+        "label": "Красностоп",
+        "price": 1600.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/dva-petra-tandem-krasnoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 2100.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_dva_petra_tandem.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/dva-petra-tandem-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Вино полнотелое вино, кислотность сбалансированная, вкус магкий, фруктовый с умеренными танинами."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/dva-petra-tandem-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Букет богатый, ароматы черносмородинового и вишнёвого конфитюра дополняются тонами шоколада, табака, лакрицы и подлеска."
+    }
+  ],
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "Два Петра",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": "https://two-peters.ru/",
+    "phone": "+7(978) 896-61-88",
+    "regions": [
+      "Крым",
+      "Республика Крым"
+    ],
+    "inn": "9108126020"
+  }
+}

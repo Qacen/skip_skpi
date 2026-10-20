@@ -1,0 +1,16 @@
+{
+  "winery": {
+    "name": "WINEPARK",
+    "license_active": false,
+    "vineyard_ha": 23.0,
+    "website": "https://winepark.ru",
+    "phone": "+78005002357",
+    "regions": [
+      "Крым",
+      "Крым / Южный берег Крыма",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

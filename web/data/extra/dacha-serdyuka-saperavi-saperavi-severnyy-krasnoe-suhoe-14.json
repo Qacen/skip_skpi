@@ -1,0 +1,51 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 950.0,
+    "max": 2200.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 950.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_dacha_serdyuka_saperavi_0_25_l.html"
+      },
+      {
+        "label": "Каталог виноделен",
+        "price": 1000.0,
+        "url": "https://thewinery.ru/wine_saperavi_dacha_serduka_krasnoe_suhoe.php"
+      },
+      {
+        "label": "RussianVine",
+        "price": 2200.0,
+        "url": "https://russianvine.ru/vino-dacha-serduka-saperavi-2018"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-dacha-serduka-saperavi-2018",
+      "text": "Вино тёмно-рубинового цвета с фиолетовым оттенком. В аромате ягоды и сливочные ноты. Вкус полнотелый, бархатистый, яркий, густой, танины умеренные, с приятной сладостью, с оттенками граната и чернослива."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_saperavi_dacha_serduka_krasnoe_suhoe.php",
+      "text": "Вкус полнотелый, бархатистый, яркий, густой, танины умеренные, с приятной сладостью, с оттенками граната и чернослива."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_saperavi_dacha_serduka_krasnoe_suhoe.php",
+      "text": "В аромате ягоды и сливочные ноты."
+    }
+  ],
+  "vintages": [
+    "2022",
+    "2023"
+  ]
+}

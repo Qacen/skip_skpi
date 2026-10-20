@@ -1,0 +1,51 @@
+{
+  "prices": {
+    "min": 350.0,
+    "max": 350.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 350.0,
+        "url": "https://thewinery.ru/wine_russkoe_shampanskoe_abrau_durso_krasnoe_polusladkoe.php"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_russkoe_shampanskoe_abrau_durso_krasnoe_polusladkoe.php",
+      "text": "Вкус запоминающийся, ягодный, с бархатной текстурой и приятной легкой терпкостью в послевкусии."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_russkoe_shampanskoe_abrau_durso_krasnoe_polusladkoe.php",
+      "text": "Яркий, насыщенный аромат подкупает выразительным тоном свежевыжатого гранатового сока и перетертой черной смородины."
+    }
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/abrau__durso/",
+    "n": 1,
+    "avg": 5.0,
+    "items": [
+      {
+        "author": "Елена",
+        "date": "2021-08-17",
+        "rating": 5,
+        "text": "Отличное вино! Яркий вкус цвет и аромат."
+      }
+    ]
+  },
+  "winery": {
+    "name": "Абрау-Дюрсо",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": null,
+    "phone": null,
+    "regions": [],
+    "inn": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1490.0,
+    "max": 1490.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1490.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_beloe_sukhoe_loco_cimbali_viognier.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2022",
+    "2023",
+    "2025"
+  ]
+}

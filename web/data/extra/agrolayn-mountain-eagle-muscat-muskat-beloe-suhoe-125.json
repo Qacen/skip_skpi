@@ -1,0 +1,21 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "Агролайн",
+    "license_active": true,
+    "vineyard_ha": 102.09,
+    "website": "https://oooagrolain.ru",
+    "phone": "+7 (988) 293-88-89",
+    "regions": [
+      "Дагестан",
+      "Кавказ / Дагестан",
+      "Республика Дагестан"
+    ],
+    "inn": "0522013971"
+  }
+}

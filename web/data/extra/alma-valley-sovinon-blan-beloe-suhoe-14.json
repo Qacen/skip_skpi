@@ -1,0 +1,61 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 550.0,
+    "max": 1150.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 550.0,
+        "url": "https://thewinery.ru/wine_sovinon_blan_alma_valley_beloe_suhoe.php"
+      },
+      {
+        "label": "RussianVine",
+        "price": 1150.0,
+        "url": "https://russianvine.ru/vino-Alma-Valley-sovignon-blan-2016"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Alma-Valley-sovignon-blan-2016",
+      "text": "Вино имеет светло-золотистый цвет, характерный для сорта Совиньон Блан, свежий аромат с оттенками полевых цветов и лугового разнотравья, а также гармоничный, освежающий плодовый вкус с умеренной кислотностью."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_sovinon_blan_alma_valley_beloe_suhoe.php",
+      "text": "Гармоничный, освежающий плодовый вкус с умеренной кислотностью."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_sovinon_blan_alma_valley_beloe_suhoe.php",
+      "text": "Свежий аромат с оттенками полевых цветов и лугового разнотравья."
+    }
+  ],
+  "vintages": [
+    "2016",
+    "2022"
+  ],
+  "winery": {
+    "name": "Alma Valley",
+    "license_active": false,
+    "vineyard_ha": 405.0,
+    "website": "https://alma-valley.ru",
+    "phone": "+7 (36554) 9–19–79",
+    "regions": [
+      "Западно-Предгорный Крым",
+      "Крым",
+      "Крым / Бахчисарайский район / Долина реки Альма",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

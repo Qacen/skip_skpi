@@ -1,0 +1,106 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 159.0,
+    "max": 650.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 159.0,
+        "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/fanagoria_white_brut_0_2l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 205.0,
+        "url": "https://fortwine.ru/product/igristoe-vino-fanagoria-brut-white-2024-0-2/"
+      },
+      {
+        "label": "Красностоп",
+        "price": 500.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/fanagoriya-bryut-beloe-igristoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://fortwine.ru/product/igristoe-vino-fanagoria-brut-white-2024-0-75/",
+      "text": "Цвет светло-соломенный с зеленоватым оттенком. Аромат гармоничный с тоном цветущего подсолнуха и спелых белых фруктов. Вкус свежий, с богатой гаммой фруктово-цитрусовых оттенков и хорошим уровнем кислотности."
+    },
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/kuban_tamanskiy_poluostrov/",
+      "text": "Гармоничный свежий вкус с нотами орехов и цитрусовых, цветочной пыльцы, яблок и груш. Продолжительное послевкусие, легкое, свежее, без резкой кислинки."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/kuban_tamanskiy_poluostrov/",
+      "text": "Приятный аромат с выраженной минеральностью, травяными и цитрусовыми акцентами, свежестью морского бриза."
+    }
+  ],
+  "vintages": [
+    "2014",
+    "2016",
+    "2024",
+    "2025"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/fanagoria_bryut/",
+    "n": 8,
+    "avg": 4.88,
+    "items": [
+      {
+        "author": "Анна",
+        "date": "2025-10-26",
+        "rating": 5,
+        "text": "Лёгкий брют! Можно выпить вечером бутылку и на утро как огурец 😊"
+      },
+      {
+        "author": "Зинаида Рудакова",
+        "date": "2024-12-19",
+        "rating": 5,
+        "text": "Вкусное шампанское)) легкое и освежающее"
+      },
+      {
+        "author": "Ирина Кочубей",
+        "date": "2024-12-05",
+        "rating": 5,
+        "text": "Мне нравится. Считаю, что очень достойный продукт. Хочется ожидать, что качество не ухудшится."
+      },
+      {
+        "author": "Алёна",
+        "date": "2024-02-14",
+        "rating": 5,
+        "text": "Я люблю вина и шампанское. Считаю среди наших это лучшее! Уровень Мондоро Брют . Не отличить. Голова никогда не болит после этого шампанского!"
+      },
+      {
+        "author": "Вячеслав К",
+        "date": "2023-09-18",
+        "rating": 4,
+        "text": "К сожалению не оправдало ожиданий. Обычное шампанское уровня запить оливье или бесплатно к годовщине в кафе. Также очень сладкое для брют. Видимо если бы было меньше сахара то было бы еще хуже."
+      }
+    ]
+  },
+  "winery": {
+    "name": "Фанагория",
+    "license_active": true,
+    "vineyard_ha": 3342.0,
+    "website": "https://www.fanagoria.ru",
+    "phone": "+7 86148 38747",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "2352002170"
+  }
+}

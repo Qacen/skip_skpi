@@ -1,0 +1,44 @@
+{
+  "awards": [
+    "Золото"
+  ],
+  "prices": {
+    "min": 1650.0,
+    "max": 1650.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1650.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/villa-urkusta-kaberne-sovinon-rezerva-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/villa-urkusta-kaberne-sovinon-rezerva-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Вино полнотелое, полнотелое, элегантное, со сбалансированными танинами кислотностью, с тонами черной смородины, эвкалипта, пряностей, табачного листа и горького шоколада."
+    }
+  ],
+  "vintages": [
+    "2022",
+    "2023"
+  ],
+  "winery": {
+    "name": "Вилла Уркуста",
+    "license_active": true,
+    "vineyard_ha": 6.04,
+    "website": "https://urkusta.ru",
+    "phone": "+7 (916) 578-59-07",
+    "regions": [
+      "Город федерального значения Севастополь",
+      "Крым",
+      "Крым / Севастополь",
+      "Севастополь",
+      "г. Севастополь"
+    ],
+    "inn": "9200003284"
+  }
+}

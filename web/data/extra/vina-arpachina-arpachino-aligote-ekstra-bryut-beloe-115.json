@@ -1,0 +1,40 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 3900.0,
+    "max": 3900.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "RussianVine",
+        "price": 3900.0,
+        "url": "https://russianvine.ru/vino-arpachin-igristoe-aligote-2017"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-arpachin-igristoe-aligote-2017",
+      "text": "Цвет вина светло-соломенный. В аромате полевые цветы, акация и мускатные тона. Вкус яркий, насыщенный, с леденцовыми оттенками, слегка сладковатый и с лёгкой пикантной горчинкой в послевкусии."
+    }
+  ],
+  "vintages": [
+    "2019"
+  ],
+  "winery": {
+    "name": "Вина Арпачина",
+    "license_active": false,
+    "vineyard_ha": 30.0,
+    "website": "https://vinaarpachina.ru",
+    "phone": "+7 499 7034436",
+    "regions": [
+      "Долина Дона",
+      "Ростовская область"
+    ],
+    "inn": null
+  }
+}

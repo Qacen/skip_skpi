@@ -1,0 +1,58 @@
+{
+  "awards": [
+    "TOP100 2023 #35, Золото",
+    "TOP100 2022 #51, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 3000.0,
+    "max": 4500.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 3000.0,
+        "url": "https://top100wines.ru/top100_22"
+      },
+      {
+        "label": "Красностоп",
+        "price": 4500.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/legato-kaberne-fran-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/legato-kaberne-fran-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Тело вина выше среднего, кислотность яркая, вино сочное, фруктовое, танины мягкие, во вкусе ягоды, вишня, ваниль, кофе, карамель"
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/legato-kaberne-fran-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Букет ягодный, соткан из ароматов черники, сливы, ежевики, красной черешни с тонами подлеска, смолы, черного перца, дыма."
+    }
+  ],
+  "vintages": [
+    "2019",
+    "2020",
+    "2022",
+    "2023"
+  ],
+  "winery": {
+    "name": "LeGato",
+    "license_active": false,
+    "vineyard_ha": 10.5,
+    "website": "https://legatowine.ru/",
+    "phone": "+7(985) 193-31-10",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Крымск",
+      "Крымск",
+      "Кубань"
+    ],
+    "inn": null
+  }
+}

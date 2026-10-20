@@ -1,0 +1,67 @@
+{
+  "awards": [
+    "TOP100 2021 #75, Золото",
+    "Лучший красностоп"
+  ],
+  "prices": {
+    "min": 1800.0,
+    "max": 8990.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1800.0,
+        "url": "https://top100wines.ru/top100"
+      },
+      {
+        "label": "Красностоп",
+        "price": 8700.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/imenie-sikory-krasnostop-zolotovskiy-na-terrasah-2019-krasnoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 8990.0,
+        "url": "https://swn.ru/best-wines/2025-2026/krasnostop-na-terrasakh-red/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/2025-2026/krasnostop-na-terrasakh-red/",
+      "text": "Вино насыщенного рубинового цвета. Аромат раскрывается ярко выраженными оттенками фиалки, горького шоколада, черешни, терна и тутовника. Это мощное, хорошо сложенное и сбалансированное вино с яркой индивидуальностью, демонстрирующее округлые танины, сочную кислотность и продолжительное фруктовое послевкусие."
+    },
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/imenie-sikory-krasnostop-zolotovskiy-na-terrasah-2019-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Во вкусе — округлые, мощные танины, сочная кислотность и долгий фруктовый финиш. Это вино с яркой индивидуальностью и плотным телом."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/imenie-sikory-krasnostop-zolotovskiy-na-terrasah-2019-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Букет яркий, различимы ароматы фиалки, горького шоколада, черешни, тёрна и тутовника."
+    }
+  ],
+  "vintages": [
+    "2018",
+    "2019",
+    "2022"
+  ],
+  "winery": {
+    "name": "Имение Сикоры",
+    "license_active": true,
+    "vineyard_ha": 47.2,
+    "website": "https://sikory.ru",
+    "phone": "8 (8617) 301-956",
+    "regions": [
+      "Краснодарский край",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": "2315167328"
+  }
+}

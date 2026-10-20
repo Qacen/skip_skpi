@@ -1,0 +1,63 @@
+{
+  "awards": [
+    "Серебро",
+    "Золото"
+  ],
+  "prices": {
+    "min": 2450.0,
+    "max": 25000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 2450.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/zolotaya-balka-kyuve-de-vitmer-bryut-beloe-igristoe-vino-0-75-l/"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 2690.0,
+        "url": "https://swn.ru/best-wines/sparkling-2025-2026/cuvee-de-vitmer-brut/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 2700.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/kollektsionnoe_igristoe_vino_bryut_beloe_cuvee_de_vitmer.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/igristoe-vino/p/cuvee-de-vitmer-490/",
+      "text": "Тон акации, яркие белые фрукты: яблоко, груша, спелая желтая слива. Медовые нотки на финише. Легкий оттенок свежего штруделя. Во вкусе среднетелое, с продолжением сочных тонов белой черешни, сливы, белой шелковицы, молодого персика, зеленоватого абрикоса. Послевкусие очень свежее, долгое, фруктовое."
+    },
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/sparkling-2025-2026/cuvee-de-vitmer-brut/",
+      "text": "Вино светло-соломенного цвета с золотистым оттенком. В изящном, слегка сливочном аромате раскрываются нюансы цитрусов, цветов акации, миндаля и хлебных тостов. Вкус отличается свежей кислотностью и ярким, продолжительным финишем."
+    }
+  ],
+  "vintages": [
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022"
+  ],
+  "winery": {
+    "name": "Золотая Балка",
+    "license_active": false,
+    "vineyard_ha": 1400.0,
+    "website": "https://zolotaiabalka.ru",
+    "phone": "+7 (8692) 45-52-72",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Балаклава",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

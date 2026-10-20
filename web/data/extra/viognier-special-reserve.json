@@ -1,0 +1,15 @@
+{
+  "winery": {
+    "name": "Kalos Limen",
+    "license_active": false,
+    "vineyard_ha": 30.0,
+    "website": "https://kalos-limen.ru",
+    "phone": "+7 (978) 0681939",
+    "regions": [
+      "Крым",
+      "Крым / Черноморский район",
+      "Республика Крым"
+    ],
+    "inn": null
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 600.0,
+    "max": 1199.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 600.0,
+        "url": "https://thewinery.ru/wine_krasnostop_zolotovskij_vedernikov_krasnoe_suhoe.php"
+      },
+      {
+        "label": "AMWINE",
+        "price": 1199.0,
+        "url": "https://amwine.ru/catalog/vino/krasnostop_zolotovskiy_vedernikov/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_krasnostop_zolotovskij_viderzhannoe_vedernikov_krasnoe_suhoe.php",
+      "text": "Во вкусе вино полнотелое, танинное, округлое, ощущается всей полостью рта, умеренно-свежее с нотами сушеной вишни, тутовника, табака, кожи, корочки ржаного хлеба, ванили и легкой копченой нотой. Очень длительное послевкусие с джемовыми тонами черной смородины и ежевики."
+    },
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/krasnostop_zolotovskiy_vedernikov/",
+      "text": "Вкус яркий, с хорошим балансом, тонами варенья из чёрной смородины, шелковицы и вишни. Продолжительное послевкусие с нотками чёрных ягод."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_krasnostop_zolotovskij_viderzhannoe_vedernikov_krasnoe_suhoe.php",
+      "text": "Нос вина умеренно-интенсивный с большой комплексностью, с нюансами вишневого джема, ежевики, чернослива, дымка, лакричника, ванили, чернил и легкими ментольными тонами."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/krasnostop_zolotovskiy_vedernikov/",
+      "text": "Аромат вина средней интенсивности, с нюансами смородины, сливок, шоколада и пряностей, а также лёгкими землистыми нотами."
+    }
+  ],
+  "vintages": [
+    "2018",
+    "2019",
+    "2024"
+  ],
+  "winery": {
+    "name": "Винодельня Ведерниковъ",
+    "license_active": false,
+    "vineyard_ha": 215.56,
+    "website": "https://vedernikovwine.ru",
+    "phone": "+78632504540",
+    "regions": [
+      "Долина Дона",
+      "Ростовская область"
+    ],
+    "inn": "6116008465"
+  }
+}

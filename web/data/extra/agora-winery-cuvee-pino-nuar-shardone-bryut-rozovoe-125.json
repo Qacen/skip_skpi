@@ -1,0 +1,30 @@
+{
+  "prices": {
+    "min": 1050.0,
+    "max": 1050.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1050.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/vino_igristoe_rozovoe_bryut_zgu_krym_fotisal_agora_kyuve_pino_nuar_shardone_v_podarochnoy_upakovke.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2025"
+  ],
+  "winery": {
+    "name": "Agora Winery",
+    "license_active": false,
+    "vineyard_ha": 1550.0,
+    "website": "https://www.agora-group.ru",
+    "phone": "+74997829489",
+    "regions": [
+      "Крым",
+      "Крым / Бахчисарайский район",
+      "Республика Крым"
+    ],
+    "inn": null
+  }
+}

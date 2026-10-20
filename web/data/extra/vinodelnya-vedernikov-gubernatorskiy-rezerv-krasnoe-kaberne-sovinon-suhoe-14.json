@@ -1,0 +1,40 @@
+{
+  "awards": [
+    "TOP100 2022 #36, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1300.0,
+    "max": 1800.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1300.0,
+        "url": "https://top100wines.ru/top100_22"
+      },
+      {
+        "label": "Красностоп",
+        "price": 1700.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/gubernatorskoe-rezerv-vinodelnya-vedernikov-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2017",
+    "2020",
+    "2021"
+  ],
+  "winery": {
+    "name": "Винодельня Ведерниковъ",
+    "license_active": false,
+    "vineyard_ha": 215.56,
+    "website": "https://vedernikovwine.ru",
+    "phone": "+78632504540",
+    "regions": [
+      "Долина Дона",
+      "Ростовская область"
+    ],
+    "inn": "6116008465"
+  }
+}

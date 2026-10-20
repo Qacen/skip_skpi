@@ -1,0 +1,33 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 2050.0,
+    "max": 2050.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 2050.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/koktebel-pino-nuar-bryut-rozovoe-igristoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "Коктебель",
+    "license_active": true,
+    "vineyard_ha": 1100.0,
+    "website": "https://kd-koktebel.ru/",
+    "phone": "+7 (36562) 38-280",
+    "regions": [
+      "Крым",
+      "Крым / Коктебель",
+      "Республика Крым"
+    ],
+    "inn": "9108002169"
+  }
+}

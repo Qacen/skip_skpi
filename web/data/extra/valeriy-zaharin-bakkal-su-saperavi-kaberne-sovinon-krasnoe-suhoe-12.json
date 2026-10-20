@@ -1,0 +1,62 @@
+{
+  "awards": [
+    "Бронза",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 500.0,
+    "max": 1000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 500.0,
+        "url": "https://thewinery.ru/wine_saperavi_kaberne_sovinon_bakkal_su_krasnoe_suhoe.php"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 985.0,
+        "url": "https://swn.ru/best-wines/2025-2026/bakkal-su-saperavi-kaberne-sovinon/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1000.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_krasnoe_sukhoe_valeriy_zakharin_bakkal_su_saperavi_kaberne_sovinon.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_saperavi_kaberne_sovinon_bakkal_su_krasnoe_suhoe.php",
+      "text": "Мягкий, с круглыми танинами, бархатистой текстурой."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_saperavi_kaberne_sovinon_bakkal_su_krasnoe_suhoe.php",
+      "text": "Фруктовый с тонами спелых слив, вишни, шелковицы."
+    }
+  ],
+  "vintages": [
+    "2022",
+    "2023"
+  ],
+  "winery": {
+    "name": "Валерий Захарьин",
+    "license_active": true,
+    "vineyard_ha": 1.62,
+    "website": "https://akchurinwinery.ru",
+    "phone": "+ 7 (499) 703-44-36",
+    "regions": [
+      "Анапа",
+      "Волгоградская область",
+      "Город федерального значения Севастополь",
+      "Дагестан",
+      "Долина Дона",
+      "Кавказ / Дагестан"
+    ],
+    "inn": "0000000"
+  }
+}

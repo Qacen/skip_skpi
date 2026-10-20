@@ -1,0 +1,34 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1550.0,
+    "max": 1550.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1550.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino-tz-dva-serdtsa-seriya-arinarnoakaberne-sovinon-stolovoe-sukhoe-krasnoe-075-l-14.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2018"
+  ],
+  "winery": {
+    "name": "Два Сердца",
+    "license_active": false,
+    "vineyard_ha": 10.0,
+    "website": "https://twohearts.wine",
+    "phone": null,
+    "regions": [
+      "Крым",
+      "Крым / Сакский район",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": "9200008518"
+  }
+}

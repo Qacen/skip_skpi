@@ -1,0 +1,56 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 650.0,
+    "max": 17000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 650.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/balaklava_bryut_reserve_0_375.html"
+      },
+      {
+        "label": "RussianVine",
+        "price": 690.0,
+        "url": "https://russianvine.ru/vino-Balaklava-reserv-beloe-brut-2016"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1000.0,
+        "url": "https://online.metro-cc.ru/products/vyderzhannoe-balaklava-beloe-bryut-075-l?utm_source=top100&amp"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Balaklava-reserv-beloe-brut-2016",
+      "text": "Цвет вина соломенный. В тонком аромате переплетаются луговые и полевые цветы, цукаты, белые пряности и бриошь. Обладает свежим, округлым, слегка минеральным вкусом и шелковистой структурой с нотками тостов и ванили."
+    }
+  ],
+  "vintages": [
+    "2016",
+    "2017",
+    "2021",
+    "2024",
+    "2025"
+  ],
+  "winery": {
+    "name": "Золотая Балка",
+    "license_active": false,
+    "vineyard_ha": 1400.0,
+    "website": "https://zolotaiabalka.ru",
+    "phone": "+7 (8692) 45-52-72",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Балаклава",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

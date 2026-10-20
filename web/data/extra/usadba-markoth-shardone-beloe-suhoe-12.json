@@ -1,0 +1,53 @@
+{
+  "awards": [
+    "TOP100 2023 #59, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1250.0,
+    "max": 1399.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "RussianVine",
+        "price": 1250.0,
+        "url": "https://russianvine.ru/vino-usadba-markoth-chardonay-2018"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1399.0,
+        "url": "https://top100wines.ru/2023"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-usadba-markoth-chardonay-2018",
+      "text": "Вино светло-соломенного цвета. В аромате карамель, белые фрукты, тосты, сливки, акация и зелёная груша. Во вкусе маслянистая структура, с оттенками лимонника, карамели и лесного ореха. Долгое послевкусие с оттенками цитрусовых."
+    }
+  ],
+  "vintages": [
+    "2018",
+    "2021",
+    "2023",
+    "2024"
+  ],
+  "winery": {
+    "name": "Усадьба Маркотх",
+    "license_active": false,
+    "vineyard_ha": 8.2,
+    "website": "https://t.me/chateau_marko",
+    "phone": "+7 (962) 4280391",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Краснодарский край / Геленджик",
+      "Кубань",
+      "Ставрополь",
+      "Ставрополье"
+    ],
+    "inn": "233101832573"
+  }
+}

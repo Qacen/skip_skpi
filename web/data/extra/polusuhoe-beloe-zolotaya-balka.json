@@ -1,0 +1,77 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 520.0,
+    "max": 629.99,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 520.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/polusukhoe_beloe.html"
+      },
+      {
+        "label": "AMWINE",
+        "price": 629.99,
+        "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zolotaya_balka_beloe_polusukhoe/"
+      }
+    ]
+  },
+  "vintages": [
+    "2022"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zolotaya_balka_beloe_polusukhoe/",
+    "n": 278,
+    "avg": 4.26,
+    "items": [
+      {
+        "author": "Sergey PT",
+        "date": "2026-08-20",
+        "rating": 4,
+        "text": "Перепутал в магазине с брютом)), но само по себе для тех кто хочет именно полусладкое очень хорошо, не приторное, ароматное, в балансе"
+      },
+      {
+        "author": "Ирина Шишкина",
+        "date": "2026-08-20",
+        "rating": 5,
+        "text": "Приятное, не приторное и с лёгкой кислинкой."
+      },
+      {
+        "author": "EveR",
+        "date": "2026-08-17",
+        "rating": 3,
+        "text": "В ароматике персики, ромашки, дыня. Показалось излишне сладким для полусухого, но все-таки приятное."
+      },
+      {
+        "author": "Всеволод Бухаров",
+        "date": "2026-08-17",
+        "rating": 3,
+        "text": "Ну такое. Вроде базовое вино, есть клубничные мотивы, яблочки, но при этом довольно неприятная горчинка, которая все портит"
+      },
+      {
+        "author": "Denis Panchenko",
+        "date": "2026-08-15",
+        "rating": 3,
+        "text": "Нежно-золотистый цвет. Полусухое игристое с ощутимой сладостью и приятными пузырьками."
+      }
+    ]
+  },
+  "winery": {
+    "name": "Золотая Балка",
+    "license_active": false,
+    "vineyard_ha": 1400.0,
+    "website": "https://zolotaiabalka.ru",
+    "phone": "+7 (8692) 45-52-72",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Балаклава",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

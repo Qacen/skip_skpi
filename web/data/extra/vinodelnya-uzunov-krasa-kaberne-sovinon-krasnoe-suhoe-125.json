@@ -1,0 +1,71 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1800.0,
+    "max": 2400.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 1800.0,
+        "url": "https://swn.ru/best-wines/2025-2026/krasa-krasnoe-sukhoe/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1900.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_uzunov_krasa.html"
+      },
+      {
+        "label": "RussianVine",
+        "price": 2200.0,
+        "url": "https://russianvine.ru/vino-uzunov-krasa"
+      },
+      {
+        "label": "Красностоп",
+        "price": 2400.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/vinodelnya-uzunov-krasa-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-uzunov-krasa",
+      "text": "Цвет сыетло-рубиновый. В аромате интенсивный и яркий. Вкус мягкий, бархатистый, пряный, с нюансами \"дымки\" и длительным фруктовым послевкусием."
+    },
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/vinodelnya-uzunov-krasa-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Вино среднетельное, сочное, сбалансированное, вкус сладковатый фруктовый, завершение длительное ягодное."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/vinodelnya-uzunov-krasa-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Букет интенсивный, наполнен яркими ягодными ароматами."
+    }
+  ],
+  "vintages": [
+    "2023",
+    "2024"
+  ],
+  "winery": {
+    "name": "Винодельня Узунов",
+    "license_active": true,
+    "vineyard_ha": 7.75,
+    "website": "https://uzunov.ru",
+    "phone": "+7 (918)260-92-01",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "235210004630"
+  }
+}

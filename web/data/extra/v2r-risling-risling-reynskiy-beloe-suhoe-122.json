@@ -1,0 +1,20 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "В2Р",
+    "license_active": false,
+    "vineyard_ha": 3.0,
+    "website": "https://www.в2р.рф",
+    "phone": "+79284331334",
+    "regions": [
+      "Анапа",
+      "Кубань"
+    ],
+    "inn": null
+  }
+}

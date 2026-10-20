@@ -1,0 +1,49 @@
+{
+  "awards": [
+    "TOP100 2022 #99, Золото",
+    "Бронза"
+  ],
+  "prices": {
+    "min": 800.0,
+    "max": 800.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 800.0,
+        "url": "https://top100wines.ru/top100_22"
+      }
+    ]
+  },
+  "vintages": [
+    "2021",
+    "2024"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/vino/chateau_pinot_pinot_grigio/",
+    "n": 1,
+    "avg": 5.0,
+    "items": [
+      {
+        "author": "Яна Ванюшкина",
+        "date": "2026-06-22",
+        "rating": 5,
+        "text": "Отличное наше, Пино Гриджи! В отличии от итальянских представителей , которые имеют во вкусе ярко выраженную горчинку, наше вино очень деликатное, питкое, не кислотное. Очень понравилось."
+      }
+    ]
+  },
+  "winery": {
+    "name": "Шато Пино",
+    "license_active": true,
+    "vineyard_ha": 95.0,
+    "website": "https://chateau-pinot.ru/",
+    "phone": "+7 499 7034436",
+    "regions": [
+      "Краснодарский Край",
+      "Кубань",
+      "Новороссийск"
+    ],
+    "inn": "2315211390"
+  }
+}

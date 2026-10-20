@@ -1,0 +1,146 @@
+[
+ {
+  "key": "semisweet_red",
+  "title": "Полусладкое красное",
+  "plain": "Знакомо и безопасно: сладость как у компота, без кислинки",
+  "rule": "color=red, sweetness=semi_sweet",
+  "wines": [
+   {
+    "slug": "inkermanskiy-zmv-winemakers-selection-saperavi-krasnoe-polusladkoe-12",
+    "role": "primary"
+   },
+   {
+    "slug": "abrau-dyurso-victor-dravigny-krasnoe-polusladkoe-kaberne-sovinon-125",
+    "role": "alt"
+   },
+   {
+    "slug": "derbent-vino-di-kaspiko-merlo-krasnoe-polusladkoe-11",
+    "role": "alt"
+   },
+   {
+    "slug": "soyuz-vino-lavetti-krasnoe-polusladkoe-krasnye-sorta-vinograda-11",
+    "role": "alt"
+   }
+  ]
+ },
+ {
+  "key": "light_red",
+  "title": "Красное сухое лёгкое",
+  "plain": "Не сладкое, лёгкое, ягодное, почти не вяжет",
+  "rule": "color=red, sweetness=dry, сорт Пино Нуар (или Мерло без дуба), алкоголь < 14%",
+  "wines": [
+   {
+    "slug": "abrau-dyurso-pino-nuar-krasnoe-suhoe-12",
+    "role": "primary"
+   },
+   {
+    "slug": "fanagoriya-100-ottenkov-krasnogo-pino-nuar-krasnoe-suhoe-135",
+    "role": "alt"
+   },
+   {
+    "slug": "golubitskoe-estate-pino-nuar-rezerv-krasnoe-suhoe-132",
+    "role": "alt"
+   },
+   {
+    "slug": "belbek-belbek-pino-nuar-krasnoe-suhoe-13",
+    "role": "alt"
+   }
+  ]
+ },
+ {
+  "key": "bold_red",
+  "title": "Красное сухое насыщенное",
+  "plain": "Не сладкое, густое, тёмные ягоды, вяжет как крепкий чай",
+  "rule": "color=red, sweetness=dry, Каберне Совиньон / Саперави / Красностоп / Сира",
+  "wines": [
+   {
+    "slug": "fanagoriya-formula-q-kaberne-sovinon-krasnoe-suhoe-135",
+    "role": "primary"
+   },
+   {
+    "slug": "imenie-sikory-kaberne-sovinon-semeynyy-rezerv-krasnoe-suhoe-14",
+    "role": "alt"
+   },
+   {
+    "slug": "pomeste-golubitskoe-kaberne-sovinon-rezerv-krasnoe-suhoe-143",
+    "role": "alt"
+   },
+   {
+    "slug": "fanagoriya-cru-lermont-saperavi-saperavi-krasnoe-suhoe-135",
+    "role": "alt"
+   }
+  ]
+ },
+ {
+  "key": "fresh_white",
+  "title": "Белое сухое свежее",
+  "plain": "Не сладкое, с кислинкой, как зелёное яблоко или лимон",
+  "rule": "color=white, sweetness=dry, Рислинг / Совиньон Блан / Алиготе, без дуба",
+  "wines": [
+   {
+    "slug": "abrau-dyurso-risling-beloe-suhoe-13",
+    "role": "primary"
+   },
+   {
+    "slug": "golubitskoe-estate-sovinon-blan-beloe-suhoe-11",
+    "role": "alt"
+   },
+   {
+    "slug": "solnechnaya-dolina-meganom-beloe-aligote-suhoe-13",
+    "role": "alt"
+   },
+   {
+    "slug": "imenie-sikory-sovinon-blan-sikory-beloe-suhoe-13",
+    "role": "alt"
+   }
+  ]
+ },
+ {
+  "key": "soft_white",
+  "title": "Белое полусухое",
+  "plain": "Чуть сладкое, мягкое, фруктовое — середина между сухим и сладким",
+  "rule": "color=white, sweetness=semi_dry, тихое",
+  "wines": [
+   {
+    "slug": "polusuhoe-beloe-zolotaya-balka",
+    "role": "primary"
+   },
+   {
+    "slug": "vinodelnya-myshako-risling-mode-kabinett-beloe-polusuhoe-126",
+    "role": "alt"
+   },
+   {
+    "slug": "fanagoriya-zelyonoe-vino-risling-tsitronnyy-magaracha-beloe-polusuhoe-11",
+    "role": "alt"
+   },
+   {
+    "slug": "esse-nectar-muscat-muskat-belyy-beloe-polusuhoe-12",
+    "role": "alt"
+   }
+  ]
+ },
+ {
+  "key": "brut",
+  "title": "Игристое брют",
+  "plain": "Пузырьки, не сладкое, свежее — для праздника",
+  "rule": "sweetness=brut, color=white|rose",
+  "wines": [
+   {
+    "slug": "abrau-dyurso-victor-dravigny-bryut",
+    "role": "primary"
+   },
+   {
+    "slug": "abrau-dyurso-brut-dor-blanc-de-blancs-shardone-beloe-bryut-12",
+    "role": "alt"
+   },
+   {
+    "slug": "fanagoriya-blanc-de-blancs-shardone-beloe-bryut-12",
+    "role": "alt"
+   },
+   {
+    "slug": "inkermanskiy-zmv-inkerman-bryut-shardone-beloe-135",
+    "role": "alt"
+   }
+  ]
+ }
+]

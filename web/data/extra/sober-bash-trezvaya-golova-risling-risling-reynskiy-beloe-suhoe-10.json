@@ -1,0 +1,26 @@
+{
+  "prices": {
+    "min": 550.0,
+    "max": 550.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 550.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_sukhoe_beloe_zgu_kuban_sober_bash_trezvaya_golova_risling.html"
+      }
+    ]
+  },
+  "winery": {
+    "name": "Собер Баш",
+    "license_active": true,
+    "vineyard_ha": 61.21,
+    "website": "https://soberbashvino.ru/",
+    "phone": "+7 (988) 2420880",
+    "regions": [
+      "Долина реки Афипс",
+      "Краснодарский край"
+    ],
+    "inn": "2348032982"
+  }
+}

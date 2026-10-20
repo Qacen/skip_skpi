@@ -1,0 +1,28 @@
+{
+  "prices": {
+    "min": 2300.0,
+    "max": 2300.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 2300.0,
+        "url": "https://swn.ru/best-wines/2025-2026/dubrovskiy-bordeaux-blend/"
+      }
+    ]
+  },
+  "vintages": [
+    "2020"
+  ],
+  "winery": {
+    "name": "Cloudy Winery",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": null,
+    "phone": null,
+    "regions": [
+      "Краснодарский край"
+    ],
+    "inn": null
+  }
+}

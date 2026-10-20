@@ -1,0 +1,47 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1650.0,
+    "max": 1650.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1650.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/shato-pino-shary-kolduna-glyu-glyu-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/shato-pino-shary-kolduna-glyu-glyu-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Тело вина легкое, питкое, сочное, богатая палитра ягод и фруктов."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/shato-pino-shary-kolduna-glyu-glyu-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Букет яркий плодово-ягодный."
+    }
+  ],
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "Шато Пино",
+    "license_active": true,
+    "vineyard_ha": 95.0,
+    "website": "https://chateau-pinot.ru/",
+    "phone": "+7 499 7034436",
+    "regions": [
+      "Краснодарский Край",
+      "Кубань",
+      "Новороссийск"
+    ],
+    "inn": "2315211390"
+  }
+}

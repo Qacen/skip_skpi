@@ -1,0 +1,25 @@
+{
+  "prices": {
+    "min": 1990.0,
+    "max": 1990.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 1990.0,
+        "url": "https://swn.ru/best-wines/summer-2026-2027/festeliya-nikolaev-i-synovya/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/summer-2026-2027/festeliya-nikolaev-i-synovya/",
+      "text": "Цвет рубиново-красный. В аромате преобладают тона красных ягод, ежевики и черной смородины, дополненные оттенками горького шоколада, табака и специй. Вкус насыщенный, с бархатистыми танинами, нюансами пряностей и продолжительным послевкусием."
+    }
+  ],
+  "vintages": [
+    "2025"
+  ]
+}

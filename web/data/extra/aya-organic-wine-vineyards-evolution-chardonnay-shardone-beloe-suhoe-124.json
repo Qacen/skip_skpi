@@ -1,0 +1,29 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2350.0,
+    "max": 2350.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 2350.0,
+        "url": "https://swn.ru/best-wines/summer-2026-2027/evolution-chardonnay-aya-organic-winery/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/summer-2026-2027/evolution-chardonnay-aya-organic-winery/",
+      "text": "Аромат с нотами печеного яблока, айвового джема и спелого абрикоса. Вкус мягкий, со средним телом, выраженными оттенками желтых фруктов и легкой медовой нотой. Послевкусие с приятной кислотностью."
+    }
+  ],
+  "vintages": [
+    "2023",
+    "2025"
+  ]
+}

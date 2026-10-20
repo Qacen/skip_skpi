@@ -1,0 +1,73 @@
+{
+  "awards": [
+    "TOP100 2025 #10, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 800.0,
+    "max": 5600.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 800.0,
+        "url": "https://thewinery.ru/wine_renessans_raevskoe_beloe_polusuhoe.php"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 1400.0,
+        "url": "https://swn.ru/best-wines/2025-2026/renessans-beloe/"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 3900.0,
+        "url": "https://top100wines.ru/2025"
+      },
+      {
+        "label": "Красностоп",
+        "price": 5600.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/raevskoe-renessans-beloe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Raevskoe-Renessans-beloe-2014",
+      "text": "Вино золотисто-янтарного цвета. Насыщенный и яркий аромат с нотами спелых абрикосов, жёлтых груш, айвы, дыни и белой садовой земляники. Тело вина плотное, маслянистое с нотами сладеого ананаса и белого изюма. Высокая кислотность сбалансирована медовыми нотами. Вино обладает длительным послевкусием с нотами цитрусовых."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_renessans_raevskoe_beloe_polusuhoe.php",
+      "text": "Вкус вина щедрый, округлый, гармоничный, с бархатистой текстурой, цитрусово-фруктовыми оттенками и легкими медовыми нюансами в продолжительном послевкусии."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_renessans_raevskoe_beloe_polusuhoe.php",
+      "text": "Вино демонстрирует изысканный, свежий аромат, сотканный из нот персика, абрикоса, груши, айвы и цветов."
+    }
+  ],
+  "vintages": [
+    "2014",
+    "2021",
+    "2022"
+  ],
+  "winery": {
+    "name": "Винодельня Раевское",
+    "license_active": true,
+    "vineyard_ha": 94.57,
+    "website": "https://raevskoe.com",
+    "phone": "+7 (8617) 300370",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": "2312303156"
+  }
+}

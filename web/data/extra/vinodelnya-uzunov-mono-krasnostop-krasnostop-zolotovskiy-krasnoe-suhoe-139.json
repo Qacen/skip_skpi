@@ -1,0 +1,40 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2100.0,
+    "max": 2500.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 2100.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino-gn-uzunov-mono-krasnostop-vyderzhannoe-krasnoe-sukhoe-14-075l.html"
+      },
+      {
+        "label": "Красностоп",
+        "price": 2500.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/mono-krasnostop-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "Винодельня Узунов",
+    "license_active": true,
+    "vineyard_ha": 7.75,
+    "website": "https://uzunov.ru",
+    "phone": "+7 (918)260-92-01",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "235210004630"
+  }
+}

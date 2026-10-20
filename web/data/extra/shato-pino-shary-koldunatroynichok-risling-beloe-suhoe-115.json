@@ -1,0 +1,39 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1700.0,
+    "max": 2200.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1700.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/shato-pino-shary-kolduna-troynichok-beloe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 2200.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_beloe_sukhoe_zgu_kuban_shato_pino_shary_kolduna_troynichok_2021.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2021",
+    "2024"
+  ],
+  "winery": {
+    "name": "Шато Пино",
+    "license_active": true,
+    "vineyard_ha": 95.0,
+    "website": "https://chateau-pinot.ru/",
+    "phone": "+7 499 7034436",
+    "regions": [
+      "Краснодарский Край",
+      "Кубань",
+      "Новороссийск"
+    ],
+    "inn": "2315211390"
+  }
+}

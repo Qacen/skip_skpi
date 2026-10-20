@@ -1,0 +1,87 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 929.0,
+    "max": 929.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 929.0,
+        "url": "https://amwine.ru/catalog/vino/uroki_frantsuzskogo_krasnostop/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/uroki_frantsuzskogo_krasnostop/",
+      "text": "Сочная кислотность, черные и красные ягоды в послевкусии, горчинка вишневой косточки, средней длинны послевкусие."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/uroki_frantsuzskogo_krasnostop/",
+      "text": "Вишневый джем, шоколадный бисквит, черная смородина, красные спелые фрукты."
+    }
+  ],
+  "vintages": [
+    "2022",
+    "2023"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/vino/uroki_frantsuzskogo_krasnostop/",
+    "n": 104,
+    "avg": 4.11,
+    "items": [
+      {
+        "author": "Andrey Adushkin",
+        "date": "2026-09-18",
+        "rating": 4,
+        "text": "Простой, бюджетный, но питкий Красностоп. Спелая вишня и её косточка, чернослив, шоколад."
+      },
+      {
+        "author": "Илья Ч",
+        "date": "2026-08-15",
+        "rating": 4,
+        "text": "Неплохой легкий красностоп с сильным ароматом"
+      },
+      {
+        "author": "felix_vent",
+        "date": "2026-08-05",
+        "rating": 4,
+        "text": "Вишня, слива и чёрная смородина; черника, лещина и табачные ноты; гвоздика, арония и горький шоколад."
+      },
+      {
+        "author": "Mc Polubas",
+        "date": "2026-08-05",
+        "rating": 4,
+        "text": "Очень интересное вино. Яркое,напористое.. Во вкусе масса тёмных ягод,табак, специи. Танины решительные,но уместные... Как говорится-когда хорошо,тогда хорошо)"
+      },
+      {
+        "author": "Marat",
+        "date": "2026-07-26",
+        "rating": 4,
+        "text": "Слива, вишня, соль, перец. Много дуба, замша, капля лимона. Очень терпкое и вяжущее."
+      }
+    ]
+  },
+  "winery": {
+    "name": "Chateau de Talu",
+    "license_active": true,
+    "vineyard_ha": 196.28,
+    "website": "https://chateaudetalu.ru",
+    "phone": "+7 (86141) 36330",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Краснодарский край / Геленджик",
+      "Кубань"
+    ],
+    "inn": "2308108667"
+  }
+}

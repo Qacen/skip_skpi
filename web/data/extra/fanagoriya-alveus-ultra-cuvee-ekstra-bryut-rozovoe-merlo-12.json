@@ -1,0 +1,63 @@
+{
+  "awards": [
+    "Серебро",
+    "Золото"
+  ],
+  "prices": {
+    "min": 1150.0,
+    "max": 1360.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1150.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/fanagoriya-alveus-ultra-kyuve-ekstra-bryut-rozovoe-igristoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1360.0,
+        "url": "https://fortwine.ru/product/igristoe-vino-fanagoria-alveus-ultra-cuvee-extra-brut-2022-0-75/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://fortwine.ru/product/igristoe-vino-fanagoria-alveus-ultra-cuvee-rose-extra-brut-2022-0-75/",
+      "text": "Красивый цвет мякоти розового персика, золотистый блеск, долгая мелко-дисперсная игра пузырьков. Изящный аромат запоминается оттенками семечковых плодов (груши, красного яблока), тоном спелой красной сливы, цветочными оттенками (вербы, клевера) и нежной сливочной нотой. Освежающий вкус радует приятной гаммой плодовых оттенков, бодрой кислотностью и хорошим насыщением CO2. Длительное послевкусие наполнено минеральными оттенками."
+    },
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/igristye-vina/fanagoriya-alveus-ultra-kyuve-bryut-rozovoe-igristoe-vino-0-75-l/",
+      "text": "Вкус свежий, чистый, гармоничный, доминирует яркая ягодная палитра с легкими травянистые нотками, которые переходят в освежающее, длительное завершение."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/igristye-vina/fanagoriya-alveus-ultra-kyuve-ekstra-bryut-beloe-igristoe-vino-0-75-l/",
+      "text": "Букет яркий, соткан из ароматов из цветочно-плодовых ароматов, где доминирует спелая айва, зеленое яблоко, лайм. Вино легковесной, кислотность яркая, плодовая, вкус прекрасно дополняет букет, в завершении минеральные ноты."
+    }
+  ],
+  "vintages": [
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "winery": {
+    "name": "Фанагория",
+    "license_active": true,
+    "vineyard_ha": 3342.0,
+    "website": "https://www.fanagoria.ru",
+    "phone": "+7 86148 38747",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "2352002170"
+  }
+}

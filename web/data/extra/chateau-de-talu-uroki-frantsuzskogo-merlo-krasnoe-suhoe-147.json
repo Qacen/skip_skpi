@@ -1,0 +1,86 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 562.49,
+    "max": 562.49,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 562.49,
+        "url": "https://amwine.ru/catalog/vino/uroki_frantsuzskogo_merlo/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/uroki_frantsuzskogo_merlo/",
+      "text": "Мягкий, сочный, обволакивающий. Танин бархатистый, кислотность средняя."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/uroki_frantsuzskogo_merlo/",
+      "text": "Средней интенсивности, с обилием темных ягод и фруктов: смородина, черная вишня, спелая слива."
+    }
+  ],
+  "vintages": [
+    "2023"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/vino/uroki_frantsuzskogo_merlo/",
+    "n": 175,
+    "avg": 4.06,
+    "items": [
+      {
+        "author": "Аноним",
+        "date": "2026-09-08",
+        "rating": 5,
+        "text": "Интересное вино, приятный насыщенный вкус. Глубокий цвет. Ягодное послевкусие."
+      },
+      {
+        "author": "Alex Bond",
+        "date": "2026-09-07",
+        "rating": 4,
+        "text": "Это разочарование, даже для базового столового вина очень слабо!"
+      },
+      {
+        "author": "Valeriy Kolchanov",
+        "date": "2026-08-31",
+        "rating": 4,
+        "text": "Не фанат Мерло, но это очень достойный бюджетный вариант"
+      },
+      {
+        "author": "Anton Kozhurin",
+        "date": "2026-08-31",
+        "rating": 4,
+        "text": "В аромате лёгкие тона ежевики, голубики и черной смородины. Во вкусе не слепые черные ягоды с горчинкой на послевкусие."
+      },
+      {
+        "author": "Егор Кононов",
+        "date": "2026-08-31",
+        "rating": 4,
+        "text": "Уверенный вариант Мерло до 1500руб. Урожай 2024 года."
+      }
+    ]
+  },
+  "winery": {
+    "name": "Chateau de Talu",
+    "license_active": true,
+    "vineyard_ha": 196.28,
+    "website": "https://chateaudetalu.ru",
+    "phone": "+7 (86141) 36330",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Краснодарский край / Геленджик",
+      "Кубань"
+    ],
+    "inn": "2308108667"
+  }
+}

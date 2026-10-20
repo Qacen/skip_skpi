@@ -1,0 +1,38 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2000.0,
+    "max": 2100.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 2000.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/vino_igristoe_beloe_bryut_vyderzhannoe_zgu_krym_solnechnaya_dolina_meganom_kokur.html"
+      },
+      {
+        "label": "Красностоп",
+        "price": 2100.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/solnechnaya-dolina-meganom-kokur-bryut-beloe-igristoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2021"
+  ],
+  "winery": {
+    "name": "Солнечная Долина",
+    "license_active": true,
+    "vineyard_ha": 555.0,
+    "website": "https://sunvalley1888.ru",
+    "phone": "+7(36566)3-53-30",
+    "regions": [
+      "Крым",
+      "Крым / Судак",
+      "Республика Крым"
+    ],
+    "inn": "0031173285"
+  }
+}

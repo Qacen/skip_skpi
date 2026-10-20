@@ -1,0 +1,14 @@
+{
+  "winery": {
+    "name": "Шато Ай-Даниль",
+    "license_active": false,
+    "vineyard_ha": 20.5,
+    "website": "https://saintdaniel.wine",
+    "phone": "+7(499) 906-34-29",
+    "regions": [
+      "Крым",
+      "Республика Крым"
+    ],
+    "inn": null
+  }
+}

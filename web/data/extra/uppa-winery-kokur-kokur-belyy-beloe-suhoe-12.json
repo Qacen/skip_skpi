@@ -1,0 +1,36 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 5300.0,
+    "max": 6900.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Сайт винодельни",
+        "price": 5300.0,
+        "url": "https://uppawinery.ru/catalog/wine/27"
+      }
+    ]
+  },
+  "vintages": [
+    "2021",
+    "2022",
+    "2024"
+  ],
+  "winery": {
+    "name": "Uppa Winery",
+    "license_active": false,
+    "vineyard_ha": 12.5,
+    "website": "https://uppawinery.ru",
+    "phone": "+7 (499) 703 44 36",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Село Родное",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

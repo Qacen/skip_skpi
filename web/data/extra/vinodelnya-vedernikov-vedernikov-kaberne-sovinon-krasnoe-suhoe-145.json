@@ -1,0 +1,53 @@
+{
+  "awards": [
+    "TOP100 2023 #56, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1000.0,
+    "max": 1890.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 1000.0,
+        "url": "https://thewinery.ru/wine_kaberne_viderzhannoe_vedernikov_krasnoe_suhoe.php"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1890.0,
+        "url": "https://top100wines.ru/2023"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_kaberne_viderzhannoe_vedernikov_krasnoe_suhoe.php",
+      "text": "Во вкусе вино полнотелое, танинное, округлое, ощущается всей полостью рта, умеренно-свежее с нотами чернослива, вишневого варенья, черной смородины, пряностей и кожи. Очень длительное послевкусие с тонами ягодного конфитюра и специй."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_kaberne_viderzhannoe_vedernikov_krasnoe_suhoe.php",
+      "text": "Нос вина интенсивный, комплексный, с нюансами черной смородины, сушеной вишни, выделанной кожи, яркой животной составляющей, копченостей, кедра, розмарина, черного перца и ванильной выпечки."
+    }
+  ],
+  "vintages": [
+    "2018",
+    "2020"
+  ],
+  "winery": {
+    "name": "Винодельня Ведерниковъ",
+    "license_active": false,
+    "vineyard_ha": 215.56,
+    "website": "https://vedernikovwine.ru",
+    "phone": "+78632504540",
+    "regions": [
+      "Долина Дона",
+      "Ростовская область"
+    ],
+    "inn": "6116008465"
+  }
+}

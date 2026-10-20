@@ -1,0 +1,44 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1500.0,
+    "max": 2750.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 1500.0,
+        "url": "https://swn.ru/best-wines/2025-2026/logovo-saperavi/"
+      },
+      {
+        "label": "Красностоп",
+        "price": 1550.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/zhakov-logovo-saperavi-krasnoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1550.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_zhakov_logovo_saperavi.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/2025-2026/logovo-saperavi/",
+      "text": "Вино глубокого, темно-рубинового цвета с ярким фиолетовым ободком по краю бокала. Аромат многогранный и чистый, раскрывается нотами спелой вишни, ежевики и сочной черной шелковицы, которые дополняются тонкими нюансами пряностей. Вкус сочный, с хорошей структурой, которую формируют бархатистые танины и выразительная кислотность. В нем продолжаются ноты темных фруктов и пряностей, ведущие к долгому, свежему послевкусию."
+    },
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/zhakov-logovo-saperavi-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Тело вина среднее, кислотность выразительная, танины бархатистые, во вкусе тона тёмных фруктов с пряными нюансами в продолжительном завершении."
+    }
+  ],
+  "vintages": [
+    "2022"
+  ]
+}

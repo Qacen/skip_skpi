@@ -1,0 +1,21 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "Agora Winery",
+    "license_active": false,
+    "vineyard_ha": 1550.0,
+    "website": "https://www.agora-group.ru",
+    "phone": "+74997829489",
+    "regions": [
+      "Крым",
+      "Крым / Бахчисарайский район",
+      "Республика Крым"
+    ],
+    "inn": null
+  }
+}

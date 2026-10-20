@@ -1,0 +1,36 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1550.0,
+    "max": 1550.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1550.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_beloe_sukhoe_gay_kodzor_sovinon_blan.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2025"
+  ],
+  "winery": {
+    "name": "Виноградники Гай-Кодзора",
+    "license_active": true,
+    "vineyard_ha": 78.63,
+    "website": "https://gai-kodzor.ru",
+    "phone": "+ 7 (981) 814-88-30",
+    "regions": [
+      "Анапа",
+      "Волгоградская обл.",
+      "Волгоградская область",
+      "Город федерального значения Севастополь",
+      "Кабардино-Балкарская Республика",
+      "Чеченская Республика"
+    ],
+    "inn": "0000412754"
+  }
+}

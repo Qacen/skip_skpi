@@ -1,0 +1,53 @@
+{
+  "awards": [
+    "Золото",
+    "Платина"
+  ],
+  "prices": {
+    "min": 5000.0,
+    "max": 5000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 5000.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/vinodelnya-vedernikov-rezerv-krasnostop-zolotovskiy-2020-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/vino/p/krasnostop-zolotovskii-rezerv-1700/",
+      "text": "Спелые, слегка подвяленные ягоды: ежевика, красная шелковица, слива, черешня, кон фитюр из черники. Во вкусе мощное, структурированное, полнотелое, с продолжением ягодных оттенков, тоном королевского финика. Молодые мощные танины. Послевкусие длительное, с оттенком спелой хурмы-ко ролька, ежевики, черники, голубики и вишнево-шоколадным финише"
+    },
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/vinodelnya-vedernikov-rezerv-krasnostop-zolotovskiy-2020-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Вино тельное, насыщенное, текстура плотная, танины бархатистые, во вкусе черные ягоды, финики, ежевика, увяленная вишня, завершение продолжительное с легими нотками спелой жимолости."
+    },
+    {
+      "kind": "aroma",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/vino/p/krasnostop-zolotovskii-rezerv-3111/",
+      "text": "Аромат интенсивный, густой, комплексный, с тонами черных ягод и ягодных джемов. Аромат леса после дождя, смолистые нотки."
+    }
+  ],
+  "vintages": [
+    "2020"
+  ],
+  "winery": {
+    "name": "Винодельня Ведерниковъ",
+    "license_active": false,
+    "vineyard_ha": 215.56,
+    "website": "https://vedernikovwine.ru",
+    "phone": "+78632504540",
+    "regions": [
+      "Долина Дона",
+      "Ростовская область"
+    ],
+    "inn": "6116008465"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "awards": [
+    "Бронза",
+    "Серебро"
+  ],
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "Nesterov Winery",
+    "license_active": false,
+    "vineyard_ha": 6.0,
+    "website": "https://vinoterria.com",
+    "phone": "+ 7 967 650 65 85",
+    "regions": [
+      "Краснодарский край",
+      "Новороссийск"
+    ],
+    "inn": null
+  }
+}

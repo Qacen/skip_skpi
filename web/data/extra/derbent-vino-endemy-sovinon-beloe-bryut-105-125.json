@@ -1,0 +1,77 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 649.99,
+    "max": 700.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 649.99,
+        "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zgu_dagestan_bryut_beloe_endemy_sovinon/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 700.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/igristoe-rossiyskoe-vino-zgu-dagestan-endemy-sovinon-beloe-bryut-11-075l.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zgu_dagestan_bryut_beloe_endemy_sovinon/",
+      "text": "Вкус чистый с нотами ягод черной смородины, крыжовника, дыни и персика."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zgu_dagestan_bryut_beloe_endemy_sovinon/",
+      "text": "Аромат вина тонкий, развитый, фруктово-ягодный с оттенками крыжовника и белого персика."
+    }
+  ],
+  "vintages": [
+    "2024"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zgu_dagestan_bryut_beloe_endemy_sovinon/",
+    "n": 300,
+    "avg": 4.11,
+    "items": [
+      {
+        "author": "Анастасия Носкова",
+        "date": "2026-09-22",
+        "rating": 4,
+        "text": "Любимая линейка игристого на каждый день, когда душа просто просит пузырьков) Белое, прозрачное, блестящее, игристое! В аромате: тропические фрукты, ананас, крыжовник, лимон Во вкусе: средняя плюс кислотность, зеленое яблоко, травянистые ноты. Совсем базовые моносортовые игристые. Хороший выбор себе на вечер, чтобы игристое лилось рекой!"
+      },
+      {
+        "author": "Алексей Батраков",
+        "date": "2026-09-22",
+        "rating": 4,
+        "text": "Добротно, не слишком прихотливо, но в целом хорошо. В аромате красный грейпфрут, личи, медовые оттенки, карамельки «дюшес». Перляж мелкий и быстро проходящий. Хороший баланс кислотности и свежести, с сыром и оливками идет под руку."
+      },
+      {
+        "author": "Михаил Лукьянов",
+        "date": "2026-08-31",
+        "rating": 4,
+        "text": "Отличное бюджетное отечественное игристое. Легкое, универсальное, похоже не просеко. Лимонное, зеленое яблоко, дюшесное"
+      },
+      {
+        "author": "Кирилл Белоусов",
+        "date": "2026-07-23",
+        "rating": 2,
+        "text": "Жиденькое вино, напоминающее простенькое игристое. Лимонник, слабый аромат."
+      },
+      {
+        "author": "Hellodia",
+        "date": "2026-07-14",
+        "rating": 2,
+        "text": "На дегустации игристых вин поставила ему единицу Абсолютно пустой СБ Из Данной линейки лучше брать Пино Нуар или Рислинг"
+      }
+    ]
+  }
+}

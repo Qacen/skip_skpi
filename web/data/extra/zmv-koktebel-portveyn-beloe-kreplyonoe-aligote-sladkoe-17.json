@@ -1,0 +1,34 @@
+{
+  "awards": [
+    "TOP100 2024 #31, Золото"
+  ],
+  "prices": {
+    "min": 800.0,
+    "max": 800.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 800.0,
+        "url": "https://top100wines.ru/2024"
+      }
+    ]
+  },
+  "vintages": [
+    "2019",
+    "2021"
+  ],
+  "winery": {
+    "name": "Коктебель",
+    "license_active": true,
+    "vineyard_ha": 1100.0,
+    "website": "https://kd-koktebel.ru/",
+    "phone": "+7 (36562) 38-280",
+    "regions": [
+      "Крым",
+      "Крым / Коктебель",
+      "Республика Крым"
+    ],
+    "inn": "9108002169"
+  }
+}

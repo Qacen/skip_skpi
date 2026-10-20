@@ -1,0 +1,15 @@
+{
+  "winery": {
+    "name": "Винодельня Братьев Мельниковых",
+    "license_active": false,
+    "vineyard_ha": 11.5,
+    "website": null,
+    "phone": null,
+    "regions": [
+      "Крым",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

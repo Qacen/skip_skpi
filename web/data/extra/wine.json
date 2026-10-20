@@ -1,0 +1,61 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 650.0,
+    "max": 17000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 650.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/balaklava_bryut_rozovyy_reserve_0_375.html"
+      },
+      {
+        "label": "RussianVine",
+        "price": 690.0,
+        "url": "https://russianvine.ru/vino-Balaklava-reserv-rose-brut-2016"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1000.0,
+        "url": "https://online.metro-cc.ru/products/vyderzhannoe-balaklava-rozovoe-bryut-075-l?utm_source=top100&amp"
+      },
+      {
+        "label": "Красностоп",
+        "price": 2150.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/balaklava-rezerv-bryut-rozovoe-igristoe-vino-0-75-l-clone/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Balaklava-reserv-rose-brut-2016",
+      "text": "Цвет вина благородный розовый с персиковыми оттенками. В аромате тонкие специи, малина, клубника, оттенки сухих цветов и трав, лёгкий тон ржаных хлебцев. Отличная структура, вкус ясный, стройный, развитый, с минерально-пряным послевкусием."
+    }
+  ],
+  "vintages": [
+    "2016",
+    "2021",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "winery": {
+    "name": "Золотая Балка",
+    "license_active": false,
+    "vineyard_ha": 1400.0,
+    "website": "https://zolotaiabalka.ru",
+    "phone": "+7 (8692) 45-52-72",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Балаклава",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

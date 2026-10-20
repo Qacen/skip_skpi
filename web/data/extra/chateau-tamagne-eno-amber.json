@@ -1,0 +1,13 @@
+{
+  "winery": {
+    "name": "Кубань-Вино Chateau Tamagne",
+    "license_active": false,
+    "vineyard_ha": 7750.0,
+    "website": null,
+    "phone": null,
+    "regions": [
+      "Кубань. Темрюк"
+    ],
+    "inn": null
+  }
+}

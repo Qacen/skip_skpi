@@ -1,0 +1,45 @@
+{
+  "awards": [
+    "Бронза",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1410.0,
+    "max": 1640.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 1410.0,
+        "url": "https://swn.ru/best-wines/2025-2026/kokur-1636735905/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/summer-2026-2027/kokur-alma-valley/",
+      "text": "Аромат раскрывается нотами желтого яблока, спелого нектарина, пчелиного воска и легкими минеральными оттенками. Во вкусе вино демонстрирует умеренную кислотность, округлое и мягкое фруктово-минеральное тело."
+    }
+  ],
+  "vintages": [
+    "2024",
+    "2025"
+  ],
+  "winery": {
+    "name": "Alma Valley",
+    "license_active": false,
+    "vineyard_ha": 405.0,
+    "website": "https://alma-valley.ru",
+    "phone": "+7 (36554) 9–19–79",
+    "regions": [
+      "Западно-Предгорный Крым",
+      "Крым",
+      "Крым / Бахчисарайский район / Долина реки Альма",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

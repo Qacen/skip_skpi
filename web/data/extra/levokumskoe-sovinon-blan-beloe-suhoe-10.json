@@ -1,0 +1,21 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "Левокумское",
+    "license_active": true,
+    "vineyard_ha": 605.75,
+    "website": "https://levokumskoewine.ru",
+    "phone": "+78652448880",
+    "regions": [
+      "Ставрополь",
+      "Ставрополье",
+      "Ставропольский край"
+    ],
+    "inn": "2613002843"
+  }
+}

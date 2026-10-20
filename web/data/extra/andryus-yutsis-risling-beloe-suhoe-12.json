@@ -1,0 +1,20 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 4100.0,
+    "max": 4100.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 4100.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino-risling-andryus-yutsis-beloe-sukhoe-11-075l.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2023"
+  ]
+}

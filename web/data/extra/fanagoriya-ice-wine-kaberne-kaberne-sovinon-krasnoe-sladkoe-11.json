@@ -1,0 +1,48 @@
+{
+  "prices": {
+    "min": 950.0,
+    "max": 2000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 950.0,
+        "url": "https://thewinery.ru/wine_ice_wine_kaberne_fanagoria_krasnoe_ledjanoe.php"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 2000.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino-ice-wine-kaberne-desertnoe-krasnoe-13-0375l.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_ice_wine_kaberne_fanagoria_krasnoe_ledjanoe.php",
+      "text": "Вкус мягкий с богатой палитрой ягодных нот, среди которых солирует спелая черешня; тоном чернослива, изюма и шоколада. Послевкусие длительное, обволакивающее, с переплетающимися оттенками черешни и чернослива."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_ice_wine_kaberne_fanagoria_krasnoe_ledjanoe.php",
+      "text": "Аромат насыщенный с оттенками черных ягод, чернослива и изюма."
+    }
+  ],
+  "winery": {
+    "name": "Фанагория",
+    "license_active": true,
+    "vineyard_ha": 3342.0,
+    "website": "https://www.fanagoria.ru",
+    "phone": "+7 86148 38747",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "2352002170"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 3000.0,
+    "max": 3550.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 3000.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/bogovich-wine-faina-beloe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 3550.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_beloe_sukhoe_vyderzhannoe_av_bogovich_faina.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2022"
+  ]
+}

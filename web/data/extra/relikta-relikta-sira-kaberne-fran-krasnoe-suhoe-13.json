@@ -1,0 +1,22 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "vintages": [
+    "2024"
+  ],
+  "winery": {
+    "name": "Реликта",
+    "license_active": false,
+    "vineyard_ha": 31.5,
+    "website": "https://www.relictawine.ru",
+    "phone": "+7 (916) 5617855",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Новороссийск",
+      "Кубань",
+      "Новороссийск"
+    ],
+    "inn": null
+  }
+}

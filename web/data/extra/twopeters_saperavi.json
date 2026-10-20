@@ -1,0 +1,26 @@
+{
+  "prices": {
+    "min": 1250.0,
+    "max": 1250.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Сайт винодельни",
+        "price": 1250.0,
+        "url": "https://two-peters.ru/collection/1/%D0%A1%D0%90%D0%9F%D0%95%D0%A0%D0%90%D0%92%D0%98"
+      }
+    ]
+  },
+  "winery": {
+    "name": "Два Петра",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": "https://two-peters.ru/",
+    "phone": "+7(978) 896-61-88",
+    "regions": [
+      "Крым",
+      "Республика Крым"
+    ],
+    "inn": "9108126020"
+  }
+}

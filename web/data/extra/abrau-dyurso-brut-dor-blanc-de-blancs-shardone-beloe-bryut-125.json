@@ -1,0 +1,45 @@
+{
+  "awards": [
+    "TOP100 2021 #46, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1200.0,
+    "max": 1800.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1200.0,
+        "url": "https://top100wines.ru/top100"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 1800.0,
+        "url": "https://swn.ru/best-wines/sparkling-2025-2026/brut-d-or-blanc-de-blancs/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/sparkling-2025-2026/brut-d-or-blanc-de-blancs/",
+      "text": "Игристое вино золотистого цвета с соломенными отблесками. Аромат свежий и насыщенный, вначале раскрывается нотами бриоши и сливочного масла, а затем дополняется тонами белых цветов и фруктов. Вкус мягкий, с отчетливой минеральностью в послевкусии."
+    }
+  ],
+  "vintages": [
+    "2018",
+    "2021",
+    "2022"
+  ],
+  "winery": {
+    "name": "Абрау-Дюрсо",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": null,
+    "phone": null,
+    "regions": [],
+    "inn": null
+  }
+}

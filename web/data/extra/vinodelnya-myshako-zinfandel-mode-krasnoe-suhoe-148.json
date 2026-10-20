@@ -1,0 +1,50 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 699.0,
+    "max": 699.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 699.0,
+        "url": "https://amwine.ru/catalog/vino/zinfandel_mode/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/zinfandel_mode/",
+      "text": "Полный, насыщенный, с приятным послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/zinfandel_mode/",
+      "text": "Сложный, многогранный."
+    }
+  ],
+  "vintages": [
+    "2021",
+    "2022"
+  ],
+  "winery": {
+    "name": "Винодельня Мысхако",
+    "license_active": true,
+    "vineyard_ha": 594.37,
+    "website": "https://myskhako.ru",
+    "phone": "+7 (8617) 72-98-00",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Новороссийск",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": "2315005310"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "prices": {
+    "min": 2500.0,
+    "max": 2500.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 2500.0,
+        "url": "https://swn.ru/best-wines/2025-2026/koffmann-orange/"
+      }
+    ]
+  },
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "WineMafia",
+    "license_active": false,
+    "vineyard_ha": 7.0,
+    "website": "https://winemafia.ru",
+    "phone": "+ 7 (925) 3301333",
+    "regions": [
+      "Анапа",
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань"
+    ],
+    "inn": null
+  }
+}

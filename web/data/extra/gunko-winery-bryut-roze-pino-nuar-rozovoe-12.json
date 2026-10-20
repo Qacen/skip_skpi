@@ -1,0 +1,22 @@
+{
+  "awards": [
+    "Серебро",
+    "Золото"
+  ],
+  "prices": {
+    "min": 2900.0,
+    "max": 2900.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 2900.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/gunko-vayneri-roze-bryut-2024-vyderzhannoe-igristoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2021",
+    "2024"
+  ]
+}

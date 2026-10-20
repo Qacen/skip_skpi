@@ -1,0 +1,52 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 6900.0,
+    "max": 10200.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Сайт винодельни",
+        "price": 6900.0,
+        "url": "https://uppawinery.ru/catalog/wine/29"
+      },
+      {
+        "label": "RussianVine",
+        "price": 8500.0,
+        "url": "https://russianvine.ru/vino-uppa-nebbiolo-2019"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-uppa-nebbiolo-2019",
+      "text": "В аромате яркое, фруктовое, с нотками специй, ванили, шоколада, фруктового джема и розы. Во вкусе элегантное, с бархатистыми танинами, средней полноты. Долгое фруктовое послевкусие."
+    }
+  ],
+  "vintages": [
+    "2016",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "winery": {
+    "name": "Uppa Winery",
+    "license_active": false,
+    "vineyard_ha": 12.5,
+    "website": "https://uppawinery.ru",
+    "phone": "+7 (499) 703 44 36",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Село Родное",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

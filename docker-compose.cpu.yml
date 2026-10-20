@@ -1,0 +1,9 @@
+# CPU override: docker compose -f docker-compose.yml -f docker-compose.cpu.yml up --build
+services:
+  ml:
+    environment:
+      DEVICE: cpu
+    deploy: !reset {}
+  web:
+    environment:
+      NUXT_ML_TIMEOUT_MS: "30000"

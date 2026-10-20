@@ -1,0 +1,72 @@
+{
+  "awards": [
+    "Золото"
+  ],
+  "prices": {
+    "min": 2000.0,
+    "max": 2100.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 2000.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_krasnoe_sukhoe_zgu_kuban_fanagoriya_101_ottenok_krasnogo_saperavi.html"
+      },
+      {
+        "label": "Каталог виноделен",
+        "price": 2000.0,
+        "url": "https://thewinery.ru/wine_101_ottenok_krasnogo_saperavi_fanagoria_krasnoe_suhoe.php"
+      },
+      {
+        "label": "RussianVine",
+        "price": 2100.0,
+        "url": "https://russianvine.ru/vino-fanagoria-101-saperavi-2017"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/vino/p/101-ottenok-krasnogo-saperavi-1130/",
+      "text": "Спелый кизил, вишня, черешня, красная спелая слива, конфютюр из лесных ягод. Легкие оттенки леса после дождя, дубового мха. Во вкусе сбалансированное, гармоничное, с продолжением спелых ягодных оттенков в черно-красной палитре. Сочное длительное послевкусие с мягким танином и фруктовым финишем."
+    },
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-fanagoria-101-saperavi-2017",
+      "text": "Цвет вина тёмно-рубиновый. В букете развитые тона выдержки в дубе с оттенками чернослива, терна, шоколада и ванили. Вкус – экстрактивный, бархатистый, свежий с интенсивным фруктовым послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_101_ottenok_krasnogo_saperavi_fanagoria_krasnoe_suhoe.php",
+      "text": "В букете развитые тона выдержки в дубе с оттенками чернослива, терна, шоколада и ванили."
+    },
+    {
+      "kind": "aroma",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/vino/p/101-ottenok-krasnogo-saperavi-1130/",
+      "text": "Аромат яркий, ягодный, интенсивный."
+    }
+  ],
+  "vintages": [
+    "2017",
+    "2023"
+  ],
+  "winery": {
+    "name": "Фанагория",
+    "license_active": true,
+    "vineyard_ha": 3342.0,
+    "website": "https://www.fanagoria.ru",
+    "phone": "+7 86148 38747",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "2352002170"
+  }
+}

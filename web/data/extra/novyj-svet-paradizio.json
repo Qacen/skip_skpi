@@ -1,0 +1,28 @@
+{
+  "prices": {
+    "min": 2100.0,
+    "max": 3300.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 2100.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/paradizio-novyy-svet-bryut-beloe-igristoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2012",
+    "2018",
+    "2019"
+  ],
+  "winery": {
+    "name": "Новый Свет. Дом шампанских вин",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": null,
+    "phone": null,
+    "regions": [],
+    "inn": null
+  }
+}

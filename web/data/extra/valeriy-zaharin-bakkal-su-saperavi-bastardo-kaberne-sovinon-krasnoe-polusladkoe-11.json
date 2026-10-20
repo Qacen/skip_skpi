@@ -1,0 +1,37 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1000.0,
+    "max": 1000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1000.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_stolovoe_valeriy_zakharin_saperavi_bastardo_kaberne_sovinon_iz_serii_bakkal_su_polusladkoe_kras.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2015",
+    "2025"
+  ],
+  "winery": {
+    "name": "Валерий Захарьин",
+    "license_active": true,
+    "vineyard_ha": 1.62,
+    "website": "https://akchurinwinery.ru",
+    "phone": "+ 7 (499) 703-44-36",
+    "regions": [
+      "Анапа",
+      "Волгоградская область",
+      "Город федерального значения Севастополь",
+      "Дагестан",
+      "Долина Дона",
+      "Кавказ / Дагестан"
+    ],
+    "inn": "0000000"
+  }
+}

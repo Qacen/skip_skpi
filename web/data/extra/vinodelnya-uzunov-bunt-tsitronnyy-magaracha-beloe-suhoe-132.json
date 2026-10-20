@@ -1,0 +1,37 @@
+{
+  "awards": [
+    "Серебро",
+    "Бронза"
+  ],
+  "prices": {
+    "min": 2000.0,
+    "max": 2000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 2000.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_beloe_sukhoe_uzunov_bunt.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2022",
+    "2024"
+  ],
+  "winery": {
+    "name": "Винодельня Узунов",
+    "license_active": true,
+    "vineyard_ha": 7.75,
+    "website": "https://uzunov.ru",
+    "phone": "+7 (918)260-92-01",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "235210004630"
+  }
+}

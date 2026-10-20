@@ -1,0 +1,55 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 900.0,
+    "max": 1600.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 900.0,
+        "url": "https://thewinery.ru/wine_shardone_burnie_beloe_suhoe.php"
+      },
+      {
+        "label": "RussianVine",
+        "price": 1600.0,
+        "url": "https://russianvine.ru/vino-Burnie-chardonnay-2013"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Burnie-chardonnay-2013",
+      "text": "Вино золотистого цвета. Гармоничное, хорошо сбалансированное, сложное, с фруктово-цветочными оттенками мёда, персика, груши, ананаса, грейпфрута, цветка апельсина и белой акации. Приятное длительное послевкусие."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_shardone_burnie_beloe_suhoe.php",
+      "text": "Поражает своим ярким вкусом тропических фруктов: грейпфрут, лайм, лимон с нежным сливочным послевкусием."
+    }
+  ],
+  "vintages": [
+    "2020",
+    "2022"
+  ],
+  "winery": {
+    "name": "Винодельня Бюрнье",
+    "license_active": false,
+    "vineyard_ha": 48.0,
+    "website": "https://burnier.vin/",
+    "phone": "+7 (86133) 2-89-57",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": null
+  }
+}

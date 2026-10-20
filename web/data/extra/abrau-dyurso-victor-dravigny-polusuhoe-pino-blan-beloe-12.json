@@ -1,0 +1,25 @@
+{
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/abrau_dyurso_viktor_dravini_polusukhoe/",
+      "text": "Вкус вина отличается прекрасным балансом между живой природной кислотностью и приятной ликерной сладостью, а также обладает долгим, запоминающимся послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/abrau_dyurso_viktor_dravini_polusukhoe/",
+      "text": "Яркий, насыщенный аромат вина сочетает оттенки цитрусовых цукатов, яблочного конфитюра и яблочного пирога."
+    }
+  ],
+  "winery": {
+    "name": "Абрау-Дюрсо",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": null,
+    "phone": null,
+    "regions": [],
+    "inn": null
+  }
+}

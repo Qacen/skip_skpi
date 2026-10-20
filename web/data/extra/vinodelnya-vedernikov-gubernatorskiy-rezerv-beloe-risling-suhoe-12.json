@@ -1,0 +1,33 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1200.0,
+    "max": 1200.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1200.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/gubernatorskoe-rezerv-vinodelnya-vedernikov-beloe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2019",
+    "2021"
+  ],
+  "winery": {
+    "name": "Винодельня Ведерниковъ",
+    "license_active": false,
+    "vineyard_ha": 215.56,
+    "website": "https://vedernikovwine.ru",
+    "phone": "+78632504540",
+    "regions": [
+      "Долина Дона",
+      "Ростовская область"
+    ],
+    "inn": "6116008465"
+  }
+}

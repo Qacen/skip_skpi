@@ -1,0 +1,26 @@
+{
+  "awards": [
+    "TOP100 2022 #83, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 3900.0,
+    "max": 4100.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 3900.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/bogovich-wine-merlo-krasnoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 4100.0,
+        "url": "https://top100wines.ru/top100_22"
+      }
+    ]
+  },
+  "vintages": [
+    "2020"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/traminer_vaynkraft/",
+      "text": "Вкус питкий, яркий, освежающий, фруктовый, с легким дрожжевым оттенком, сочной кислотностью и стойким, живым послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/traminer_vaynkraft/",
+      "text": "Аромат вина насыщенный и многогранный, с яркими нотами спелых фруктов, чайной розы, акации и пряностей."
+    }
+  ],
+  "vintages": [
+    "2024"
+  ],
+  "winery": {
+    "name": "ВайнКрафт",
+    "license_active": true,
+    "vineyard_ha": 22.0,
+    "website": null,
+    "phone": "8 978 725-22-27",
+    "regions": [
+      "Крым",
+      "Республика Крым"
+    ],
+    "inn": "9102246553"
+  }
+}

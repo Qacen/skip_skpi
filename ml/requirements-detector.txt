@@ -1,0 +1,13 @@
+# Optional real-detector dependencies (RF-DETR-Seg Small). Not needed for the
+# stub pipeline / tests (DETECTOR=stub) or for /predict-only deployments.
+#
+# Local install (macOS/Linux, CPU or MPS):
+#   pip install -r requirements-detector.txt
+#
+# Docker (Linux, CPU-only torch, smaller image):
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+#   pip install -r requirements-detector.txt
+# (the Dockerfile does this automatically with --build-arg WITH_DETECTOR=1)
+torch>=2.2.0
+torchvision>=0.17.0
+rfdetr>=1.11.0

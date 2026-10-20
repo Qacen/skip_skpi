@@ -1,0 +1,28 @@
+{
+  "prices": {
+    "min": 550.0,
+    "max": 550.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 550.0,
+        "url": "https://krasnostop.ru/katalog/likernye-vina/massandra-portveyn-belyy-gurzuf-kreplenoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/likernye-vina/massandra-portveyn-belyy-gurzuf-kreplenoe-vino-0-75-l/",
+      "text": "Вино среднетельное, кислотность и сладость сбалансированы, вкус плодовый средней продолжительности."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/likernye-vina/massandra-portveyn-belyy-gurzuf-kreplenoe-vino-0-75-l/",
+      "text": "Букет незатейливый, плодовый с лекгими спиртуозными нотками."
+    }
+  ]
+}

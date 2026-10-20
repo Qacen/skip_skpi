@@ -1,0 +1,50 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2150.0,
+    "max": 2150.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 2150.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/fanagoriya-100-ottenkov-pino-nuar-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/fanagoriya-100-ottenkov-pino-nuar-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Вино полнотелое, округлое, сбалансированное, танины мягкие, вино сочное с некоторыми перечными нотками в завершении."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/fanagoriya-100-ottenkov-pino-nuar-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Букет яркий, многослойный, собран из ароматов ягод, доминирует вишня и малина, дополненные тонами табачного листа и осеннего леса."
+    }
+  ],
+  "vintages": [
+    "2022",
+    "2023"
+  ],
+  "winery": {
+    "name": "Фанагория",
+    "license_active": true,
+    "vineyard_ha": 3342.0,
+    "website": "https://www.fanagoria.ru",
+    "phone": "+7 86148 38747",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "2352002170"
+  }
+}

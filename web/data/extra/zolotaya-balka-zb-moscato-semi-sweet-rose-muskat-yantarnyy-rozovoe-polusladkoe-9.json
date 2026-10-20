@@ -1,0 +1,91 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 700.0,
+    "max": 799.99,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 700.0,
+        "url": "https://online.metro-cc.ru/products/zb-wine-moscato-rozovoe-polusladkoe-075-l?utm_source=top100&amp"
+      },
+      {
+        "label": "AMWINE",
+        "price": 799.99,
+        "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zb_wine_moscato/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zb_wine_moscato/",
+      "text": "Гармоничный, сочный, изысканный, освежающий, с ненавязчивой сладостью и богатой палитрой мускатных нот."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zb_wine_moscato/",
+      "text": "Тона из свежего винограда, клубники и нотами розы."
+    }
+  ],
+  "vintages": [
+    "2022"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zb_wine_moscato/",
+    "n": 17,
+    "avg": 4.71,
+    "items": [
+      {
+        "author": "Анна Сманцер",
+        "date": "2026-01-18",
+        "rating": 5,
+        "text": "Взяли на свадьбу, для \"Горки\", не пожалели. Вкусное шампанское и приятно пьется"
+      },
+      {
+        "author": "Светлана  Блескина",
+        "date": "2025-12-04",
+        "rating": 5,
+        "text": "Отзыв о шампанском \"Золотая Балка Розовое\": Шампанское \"Золотая Балка Розовое\" — это отличный выбор для тех, кто ищет легкий и освежающий напиток. Вкус этого игристого вина отличается приятной сладостью и фруктовыми нотками, такими как клубника и малина. Аромат также радует свежестью и цветочными оттенками. Послевкусие легкое и приятное, без лишней кислотности. Пробка у бутылки изготовлена качественно, что добавляет уверенности в подлинности продукта. Подавать это шампанское рекомендуется…"
+      },
+      {
+        "author": "Татьяна",
+        "date": "2025-07-10",
+        "rating": 5,
+        "text": "Отличное игристое, оригинальный вкус, значительно лучше импортных аналогов."
+      },
+      {
+        "author": "Александр",
+        "date": "2025-05-07",
+        "rating": 4,
+        "text": "Хорошая альтернатива по цене и качеству импортным аналогам.Супруге понравилось. Рекомендую."
+      },
+      {
+        "author": "Дарья Илл",
+        "date": "2024-11-06",
+        "rating": 5,
+        "text": "Слишком много спирта во вкусе. Но это для меня."
+      }
+    ]
+  },
+  "winery": {
+    "name": "Золотая Балка",
+    "license_active": false,
+    "vineyard_ha": 1400.0,
+    "website": "https://zolotaiabalka.ru",
+    "phone": "+7 (8692) 45-52-72",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Балаклава",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

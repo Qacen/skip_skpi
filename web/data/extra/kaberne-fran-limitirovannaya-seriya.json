@@ -1,0 +1,40 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1950.0,
+    "max": 1950.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1950.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/usadba-perovskih-limitirovannaya-seriya-kaberne-fran-krasnoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1950.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_krasnoe_sukhoe_usadba_perovskikh_kaberne_fran_limitirovannaya_seriya.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2019",
+    "2025"
+  ],
+  "winery": {
+    "name": "Усадьба Перовских",
+    "license_active": false,
+    "vineyard_ha": 215.0,
+    "website": "https://perovskywinery.ru",
+    "phone": "+7 985 773 97 92",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Долина реки Бельбек",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

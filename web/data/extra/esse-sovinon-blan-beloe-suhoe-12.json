@@ -1,0 +1,41 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1334.0,
+    "max": 1334.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 1334.0,
+        "url": "https://swn.ru/best-wines/summer-2026-2027/sovinon-blan-esse/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/summer-2026-2027/sovinon-blan-esse/",
+      "text": "Вино светло-соломенного цвета. Яркий аромат раскрывается характерными оттенками крыжовника и нотами сочных тропических фруктов. Вкус свежий, со средним телом и гармоничной кислотностью."
+    }
+  ],
+  "vintages": [
+    "2024",
+    "2025"
+  ],
+  "winery": {
+    "name": "Винодельня Esse",
+    "license_active": false,
+    "vineyard_ha": 164.0,
+    "website": "https://essewine.com",
+    "phone": "+79780001921",
+    "regions": [
+      "Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

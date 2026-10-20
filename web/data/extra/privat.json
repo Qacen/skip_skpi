@@ -1,0 +1,57 @@
+{
+  "prices": {
+    "min": 300.0,
+    "max": 850.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 300.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/likernoe-vino-zgu-krym-privat-krasnoe-155-025l.html"
+      },
+      {
+        "label": "AMWINE",
+        "price": 499.0,
+        "url": "https://amwine.ru/catalog/vino/solnechnaya_dolina_privat/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://krymwine.ru/catalog/vino/tikhie-vina/privat_krasnoe_desertnoe.html",
+      "text": "Цвет рубиновый или гранатовый. Аромат чистый, с плодовыми тонами, с легкой мускатной ноткой. Вкус полный, гармоничный, с приятной терпкостью, с тонами шоколада. Отличается мягкой плодовой бархатистостью. Оставляет долгое приятное запоминающееся послевкусие"
+    }
+  ],
+  "vintages": [
+    "2022"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/vino/solnechnaya_dolina_privat/",
+    "n": 1,
+    "avg": 5.0,
+    "items": [
+      {
+        "author": "Татьяна",
+        "date": "2024-03-14",
+        "rating": 5,
+        "text": "Очень приятное вино ликёрное, любителям портвейна будет по вкусу)"
+      }
+    ]
+  },
+  "winery": {
+    "name": "Солнечная Долина",
+    "license_active": true,
+    "vineyard_ha": 555.0,
+    "website": "https://sunvalley1888.ru",
+    "phone": "+7(36566)3-53-30",
+    "regions": [
+      "Крым",
+      "Крым / Судак",
+      "Республика Крым"
+    ],
+    "inn": "0031173285"
+  }
+}

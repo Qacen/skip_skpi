@@ -1,0 +1,30 @@
+{
+  "prices": {
+    "min": 1950.0,
+    "max": 1950.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1950.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/semiray-shardone-beloe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2024",
+    "2025"
+  ],
+  "winery": {
+    "name": "Шато Семирай",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": "https://semiray.ru/",
+    "phone": "+7 (925) 601-52-79",
+    "regions": [
+      "Краснодарский край",
+      "Кубань"
+    ],
+    "inn": null
+  }
+}

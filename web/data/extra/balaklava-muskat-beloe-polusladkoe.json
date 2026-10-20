@@ -1,0 +1,61 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 690.0,
+    "max": 5035.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "RussianVine",
+        "price": 690.0,
+        "url": "https://russianvine.ru/vino-Balaklava-muscat-beloe-2016"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 839.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/muskat_polusladkoe.html"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 1040.0,
+        "url": "https://swn.ru/best-wines/summer-2026-2027/balaklava-muscat-polusladkoe-zolotaya-balka/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Balaklava-muscat-beloe-2016",
+      "text": "Цвет вина соломенный. Округлое, полнотелое и очень сложное вино с ярким мускатным ароматом, с тончайшими фруктовыми оттенками абрикоса и персика, в дополнении нотки лепестков чайной розы с лёгкими цитрусовыми тонами и капелькой мёда."
+    },
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/summer-2026-2027/balaklava-muscat-polusladkoe-zolotaya-balka/",
+      "text": "Белое полусладкое игристое вино. Обладает благородным и ярким мускатным ароматом с тонкими фруктовыми оттенками абрикоса и персика, которые дополняются ноткой лепестков чайной розы и легкими цитрусовыми тонами."
+    }
+  ],
+  "vintages": [
+    "2016",
+    "2022",
+    "2024",
+    "2025"
+  ],
+  "winery": {
+    "name": "Золотая Балка",
+    "license_active": false,
+    "vineyard_ha": 1400.0,
+    "website": "https://zolotaiabalka.ru",
+    "phone": "+7 (8692) 45-52-72",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Балаклава",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

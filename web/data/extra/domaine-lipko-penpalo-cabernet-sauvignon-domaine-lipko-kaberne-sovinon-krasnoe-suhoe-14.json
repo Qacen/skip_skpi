@@ -1,0 +1,35 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 4400.0,
+    "max": 4400.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 4400.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_krasnoe_sukhoe_domain_lipko_penpalo_cabernet_sauvignon.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2021",
+    "2023"
+  ],
+  "winery": {
+    "name": "Domaine Lipko",
+    "license_active": false,
+    "vineyard_ha": 43.0,
+    "website": "https://domainelipko.com",
+    "phone": "+7 (978) 000-17-38",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Балаклава",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

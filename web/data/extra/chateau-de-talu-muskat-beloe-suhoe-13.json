@@ -1,0 +1,39 @@
+{
+  "awards": [
+    "TOP100 2022 #89, Золото",
+    "Бронза",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1150.0,
+    "max": 1150.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1150.0,
+        "url": "https://top100wines.ru/top100_22"
+      }
+    ]
+  },
+  "vintages": [
+    "2021",
+    "2022",
+    "2024",
+    "2025"
+  ],
+  "winery": {
+    "name": "Chateau de Talu",
+    "license_active": true,
+    "vineyard_ha": 196.28,
+    "website": "https://chateaudetalu.ru",
+    "phone": "+7 (86141) 36330",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Краснодарский край / Геленджик",
+      "Кубань"
+    ],
+    "inn": "2308108667"
+  }
+}

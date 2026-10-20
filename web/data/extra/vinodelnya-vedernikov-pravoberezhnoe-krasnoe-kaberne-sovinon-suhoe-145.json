@@ -1,0 +1,66 @@
+{
+  "prices": {
+    "min": 400.0,
+    "max": 646.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Глобус Винофан",
+        "price": 400.0,
+        "url": "https://www.vinofan.ru/winecatalogue/region_rostovskaya-oblast/wine_vedernikov-pravoberejnoe-krasnoe/"
+      },
+      {
+        "label": "Каталог виноделен",
+        "price": 600.0,
+        "url": "https://thewinery.ru/wine_pravoberezhnoe_vedernikov_krasnoe_suhoe.php"
+      },
+      {
+        "label": "Красностоп",
+        "price": 646.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/vinodelnya-vedernikov-pravoberezhnoe-krasnoe-suhoe-vino-urozhaya-2014-goda/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/vino_pravoberezhnoe_krasnoe_sukhoe/",
+      "text": "Интенсивный, округлый вкус вина создается яркими фруктовыми нотами вишни, смородины, сливы, черноплодной рябины и интересными оттенками специй, лакрицы, кедра. Присутствуют хорошая кислотность, сдержанная танинность и длительное приятное послевкусие."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_pravoberezhnoe_vedernikov_krasnoe_suhoe.php",
+      "text": "Интенсивный, округлый вкус вина создается яркими фруктовыми нотами вишни, смородины, сливы, черноплодной рябины и интересными оттенками специй, лакрицы, кедра. Присутствуют хорошая кислотность, сдержанная танинность и длительное приятное послевкусие."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/vino_pravoberezhnoe_krasnoe_sukhoe/",
+      "text": "Концентрированный аромат вина составлен из оттенков черной смородины, вишни, сливы, черного перца, свежескошенной травы, легких нюансов кедра, дыма и деликатных бальзамических ноток."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_pravoberezhnoe_vedernikov_krasnoe_suhoe.php",
+      "text": "Концентрированный аромат вина составлен из оттенков черной смородины, вишни, сливы, черного перца, свежескошенной травы, легких нюансов кедра, дыма и деликатных бальзамических ноток."
+    }
+  ],
+  "vintages": [
+    "2012",
+    "2013"
+  ],
+  "winery": {
+    "name": "Винодельня Ведерниковъ",
+    "license_active": false,
+    "vineyard_ha": 215.56,
+    "website": "https://vedernikovwine.ru",
+    "phone": "+78632504540",
+    "regions": [
+      "Долина Дона",
+      "Ростовская область"
+    ],
+    "inn": "6116008465"
+  }
+}

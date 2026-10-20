@@ -1,0 +1,63 @@
+{
+  "prices": {
+    "min": 520.0,
+    "max": 520.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 520.0,
+        "url": "https://swn.ru/best-wines/summer-2026-2027/di-caspico-fiori-di-mare-verde-derbent-vino/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/summer-2026-2027/di-caspico-fiori-di-mare-verde-derbent-vino/",
+      "text": "Вино бледно-желтого цвета с жемчужным отливом. Аромат свежий, в букете представлены ноты зеленого яблока и белых цветов. Вкус яркий, с выраженной кислотностью, которая переходит в легкое послевкусие."
+    }
+  ],
+  "vintages": [
+    "2025"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/vino/vino_polusukhoe_beloe_di_kaspiko_fiori_di_mare_verde_di_caspico_fiori_di_mare_verde/",
+    "n": 305,
+    "avg": 4.24,
+    "items": [
+      {
+        "author": "Евгеша Safonch1k",
+        "date": "2026-09-24",
+        "rating": 4,
+        "text": "Год урожая: 2025 Дата розлива: 16.07.2026 Распито: 28.08.2026 Очень порадовало."
+      },
+      {
+        "author": "Rostislav Koshel",
+        "date": "2026-09-08",
+        "rating": 3,
+        "text": "Девушке понравился. Отдаленно напоминает Винью Верде, но с поправками на Дагестан. За свою цену прекрасно, конечно."
+      },
+      {
+        "author": "Вадим Вадим",
+        "date": "2026-09-04",
+        "rating": 4,
+        "text": "Голова и жкт не болит, Дагестан. Пьётся норм, даёт незаметно."
+      },
+      {
+        "author": "Андрей К",
+        "date": "2026-08-31",
+        "rating": 4,
+        "text": "Хорошее вино. Прекрасный заменитель Verde. И пусть португальцы от.....т (отдохнут)"
+      },
+      {
+        "author": "Vladimir X",
+        "date": "2026-08-31",
+        "rating": 4,
+        "text": "Хотели видимо в вино верде, но вышла невнятная кислятина, вылил"
+      }
+    ]
+  }
+}

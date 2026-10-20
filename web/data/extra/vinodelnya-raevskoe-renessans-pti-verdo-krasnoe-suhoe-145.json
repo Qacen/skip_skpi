@@ -1,0 +1,45 @@
+{
+  "awards": [
+    "TOP100 2024 #84, Золото",
+    "TOP100 2022 #84, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1200.0,
+    "max": 1700.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1200.0,
+        "url": "https://top100wines.ru/top100_22"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1700.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_krasnoe_sukhoe_zgu_kuban_raevskoe_renessans_pti_verdo.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "winery": {
+    "name": "Винодельня Раевское",
+    "license_active": true,
+    "vineyard_ha": 94.57,
+    "website": "https://raevskoe.com",
+    "phone": "+7 (8617) 300370",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": "2312303156"
+  }
+}

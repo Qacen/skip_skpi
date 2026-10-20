@@ -1,0 +1,58 @@
+{
+  "awards": [
+    "Серебро",
+    "Золото"
+  ],
+  "prices": {
+    "min": 3650.0,
+    "max": 3690.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 3650.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/skalistyy-bereg-kaberne-sovinon-krasnoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 3690.0,
+        "url": "https://swn.ru/best-wines/2025-2026/kaberne-sovinon-1983545676/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/2025-2026/kaberne-sovinon-1983545676/",
+      "text": "Вино насыщенного рубинового цвета. Аромат – яркий и глубокий, раскрывается нотами черешни, чернослива и земляники, которые дополняются оттенками графита, жареного ореха и шоколада. Вкус – объемный, сочный и полный, с тонами чернил, древесной коры, сливы, лакрицы и легкими дымными нюансами. Послевкусие – длительное и насыщенное."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/skalistyy-bereg-kaberne-sovinon-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Тело вина выше среднего, сбалансированное, бархатистое, с правильной кислотностью, мягкими танинами, вкус дополняет ароматический профиль, завершение продолжительное с тонами черных ягод."
+    }
+  ],
+  "vintages": [
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "winery": {
+    "name": "Скалистый Берег",
+    "license_active": true,
+    "vineyard_ha": 36.0,
+    "website": "https://skbereg.ru",
+    "phone": "+7 (86133) 27131",
+    "regions": [
+      "Анапа",
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Республика Крым"
+    ],
+    "inn": "7709858507"
+  }
+}

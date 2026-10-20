@@ -1,0 +1,41 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1334.0,
+    "max": 1334.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 1334.0,
+        "url": "https://swn.ru/best-wines/summer-2026-2027/rkatsiteli-esse/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/summer-2026-2027/rkatsiteli-esse/",
+      "text": "Вино привлекательного светло-золотистого цвета. Ароматический букет сочетает в себе нежные цветочные и пряные ноты, гармонично обогащенные медовыми оттенками. Вкус полный и гармоничный, с мягкими округлыми тонами, которые плавно перетекают в послевкусие с характерной для сорта пикантной горчинкой."
+    }
+  ],
+  "vintages": [
+    "2024",
+    "2025"
+  ],
+  "winery": {
+    "name": "Винодельня Esse",
+    "license_active": false,
+    "vineyard_ha": 164.0,
+    "website": "https://essewine.com",
+    "phone": "+79780001921",
+    "regions": [
+      "Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

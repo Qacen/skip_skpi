@@ -1,0 +1,33 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2100.0,
+    "max": 2300.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 2100.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_nesterov_solyaris.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2023",
+    "2024"
+  ],
+  "winery": {
+    "name": "Nesterov Winery",
+    "license_active": false,
+    "vineyard_ha": 6.0,
+    "website": "https://vinoterria.com",
+    "phone": "+ 7 967 650 65 85",
+    "regions": [
+      "Краснодарский край",
+      "Новороссийск"
+    ],
+    "inn": null
+  }
+}

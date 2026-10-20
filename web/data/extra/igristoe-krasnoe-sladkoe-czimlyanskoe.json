@@ -1,0 +1,46 @@
+{
+  "awards": [
+    "TOP100 2023 #40, Золото"
+  ],
+  "prices": {
+    "min": 450.0,
+    "max": 450.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 450.0,
+        "url": "https://top100wines.ru/2023"
+      }
+    ]
+  },
+  "vintages": [
+    "2021"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/tsymlyanskoe_igristoe_krasnoe/",
+    "n": 1,
+    "avg": 5.0,
+    "items": [
+      {
+        "author": "Влад",
+        "date": "2021-08-17",
+        "rating": 5,
+        "text": "Мы очень любим это вино и не можем понять, почему его перестали поставлять в Москву. Очень хотелось бы купить его к Новому году!!!"
+      }
+    ]
+  },
+  "winery": {
+    "name": "Цимлянские вина",
+    "license_active": true,
+    "vineyard_ha": 885.0,
+    "website": "https://tsimlawines.com/",
+    "phone": "+78639156000",
+    "regions": [
+      "Долина Дона",
+      "Ростовская область"
+    ],
+    "inn": "6137007102"
+  }
+}

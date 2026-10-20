@@ -1,0 +1,77 @@
+{
+  "awards": [
+    "TOP100 2025 #28, Золото",
+    "Платина"
+  ],
+  "prices": {
+    "min": 7400.0,
+    "max": 9990.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 7400.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_zgu_semigore_imenie_sikory_semeynoe_nasledie.html"
+      },
+      {
+        "label": "Красностоп",
+        "price": 7800.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/imenie-sikory-semeynoe-nasledie-2019-krasnoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 9000.0,
+        "url": "https://top100wines.ru/2025"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 9990.0,
+        "url": "https://swn.ru/best-wines/2025-2026/semeynoe-naslednie/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/2025-2026/semeynoe-naslednie/",
+      "text": "Вино темно-рубинового цвета. В ярком фруктовом аромате раскрываются оттенки черной смородины, черешни, кофейных зерен и хорошо выделанной кожи. Вкус – сбалансированный и деликатный, с мягкими танинами, сочной кислотностью и свежим, длительным послевкусием."
+    },
+    {
+      "kind": "taste",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/vino/p/semeinoe-nasledie-978/",
+      "text": "Во вкусе мощное, плотное, с яркой атакой красный и черных ягод и довольно молодых, но интеллигентных танинов. Долгое пряное послевкусие с оттенком спелого чернослива и ежевики."
+    },
+    {
+      "kind": "aroma",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/vino/p/semeinoe-nasledie-978/",
+      "text": "В интенсивном аромате яркая палитра фруктов и ягод, которым еще предстоит полностью созреть: терновая слива, вишня, кизил, ежевика, шелковица, шиповник."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/imenie-sikory-semeynoe-nasledie-2019-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Букет фруктовый, дополнен ароматами черной смородины, спелой красной черешни, с тонами кофейных зёрен, сафьяна."
+    }
+  ],
+  "vintages": [
+    "2019",
+    "2020"
+  ],
+  "winery": {
+    "name": "Имение Сикоры",
+    "license_active": true,
+    "vineyard_ha": 47.2,
+    "website": "https://sikory.ru",
+    "phone": "8 (8617) 301-956",
+    "regions": [
+      "Краснодарский край",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": "2315167328"
+  }
+}

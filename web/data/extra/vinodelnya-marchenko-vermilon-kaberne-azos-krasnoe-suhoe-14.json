@@ -1,0 +1,20 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 2100.0,
+    "max": 2100.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 2100.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_krasnoe_sukhoe_stolovoe_marchenko_vermilon.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2021"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "prices": {
+    "min": 1300.0,
+    "max": 1300.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1300.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_rozovoe_sukhoe_zgu_kuban_raevskoe_renessans.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "Винодельня Раевское",
+    "license_active": true,
+    "vineyard_ha": 94.57,
+    "website": "https://raevskoe.com",
+    "phone": "+7 (8617) 300370",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": "2312303156"
+  }
+}

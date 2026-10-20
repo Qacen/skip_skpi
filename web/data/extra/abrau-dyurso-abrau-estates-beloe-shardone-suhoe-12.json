@@ -1,0 +1,29 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 700.0,
+    "max": 700.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 700.0,
+        "url": "https://online.metro-cc.ru/products/075-l-abrau-estejts-bl-sh?utm_source=top100&amp"
+      }
+    ]
+  },
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "Абрау-Дюрсо",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": null,
+    "phone": null,
+    "regions": [],
+    "inn": null
+  }
+}

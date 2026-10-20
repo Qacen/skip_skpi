@@ -1,0 +1,51 @@
+{
+  "awards": [
+    "TOP100 2024 #88, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2300.0,
+    "max": 5000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 2300.0,
+        "url": "https://top100wines.ru/2024"
+      },
+      {
+        "label": "Красностоп",
+        "price": 5000.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/legato-pino-nuar-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/legato-pino-nuar-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Букет яркий, собран из ароматов черных и красных ягод, различимы клубника, малина, ежевика, черника, дополнен тонами подлеска, можжевельника, фиалки, нотками древесины."
+    }
+  ],
+  "vintages": [
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "winery": {
+    "name": "LeGato",
+    "license_active": false,
+    "vineyard_ha": 10.5,
+    "website": "https://legatowine.ru/",
+    "phone": "+7(985) 193-31-10",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Крымск",
+      "Крымск",
+      "Кубань"
+    ],
+    "inn": null
+  }
+}

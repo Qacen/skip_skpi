@@ -1,0 +1,36 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1250.0,
+    "max": 1250.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1250.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino-zgu-krym-tz-vinodelnya-belbek-pino-mene-sukhoe-krasnoe-075-l-128-2020.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2020"
+  ],
+  "winery": {
+    "name": "Бельбек",
+    "license_active": true,
+    "vineyard_ha": 16.75,
+    "website": "https://belbekwine.com",
+    "phone": "+7 978 769 62 27",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Долина реки Бельбек",
+      "Республика Крым",
+      "Севастополь",
+      "г. Севастополь",
+      "город федерального значения Севастополь"
+    ],
+    "inn": "9203545623"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 700.0,
+    "max": 700.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 700.0,
+        "url": "https://swn.ru/best-wines/2025-2026/desono-saperavi/"
+      }
+    ]
+  },
+  "vintages": [
+    "2023"
+  ]
+}

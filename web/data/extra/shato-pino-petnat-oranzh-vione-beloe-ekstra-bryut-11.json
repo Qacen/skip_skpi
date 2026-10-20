@@ -1,0 +1,38 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1650.0,
+    "max": 1700.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1650.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/vino_igristoe_zgu_kuban_shato_pino_petnat_pino_oranzh.html"
+      },
+      {
+        "label": "Красностоп",
+        "price": 1700.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/shary-kolduna-petnat-oranzh-ekstra-bryut-oranzhevoe-igristoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "Шато Пино",
+    "license_active": true,
+    "vineyard_ha": 95.0,
+    "website": "https://chateau-pinot.ru/",
+    "phone": "+7 499 7034436",
+    "regions": [
+      "Краснодарский Край",
+      "Кубань",
+      "Новороссийск"
+    ],
+    "inn": "2315211390"
+  }
+}

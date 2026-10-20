@@ -1,0 +1,61 @@
+{
+  "prices": {
+    "min": 3500.0,
+    "max": 26000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 3500.0,
+        "url": "https://thewinery.ru/wine_phantom_50_50_vedernikov_krasnoe_suhoe.php"
+      },
+      {
+        "label": "Красностоп",
+        "price": 11500.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/vinodelnya-vedernikov-fantom-50-50-krasnoe-suhoe-vino-urozhaya-2012-goda/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_phantom_50_50_vedernikov_krasnoe_suhoe.php",
+      "text": "Вкус вина свежий, элегантный, с фруктово-минеральными тонами и долгим, теплым, угольно-пряным послевкусием."
+    },
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/fantom-50-50-krasnoe-suhoe-vino-2014-god-1-5-l-butylka-magnum/",
+      "text": "тело вина плотное, во вкусе доминируют тона чёрной смородины с пряными нотками"
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_phantom_50_50_vedernikov_krasnoe_suhoe.php",
+      "text": "Вино демонстрирует сложный, пряно-ягодный, слегка конфитюрный аромат, сотканный из нот кирша, темных слив, кожи, тлеющих угольков и палисандра, с оттенками черемухи, розмарина, ментола, полыни и канифоли."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/fantom-50-50-krasnoe-suhoe-vino-2014-god-1-5-l-butylka-magnum/",
+      "text": "букет наполнен ароматами вишни, граната, красной сливы"
+    }
+  ],
+  "vintages": [
+    "2014",
+    "2018"
+  ],
+  "winery": {
+    "name": "Винодельня Ведерниковъ",
+    "license_active": false,
+    "vineyard_ha": 215.56,
+    "website": "https://vedernikovwine.ru",
+    "phone": "+78632504540",
+    "regions": [
+      "Долина Дона",
+      "Ростовская область"
+    ],
+    "inn": "6116008465"
+  }
+}

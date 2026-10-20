@@ -1,0 +1,41 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2050.0,
+    "max": 2050.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 2050.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/uva-vallis-shardone-beloe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/uva-vallis-shardone-beloe-suhoe-vino-0-75-l/",
+      "text": "Тело вина среднее, текстура маслянистая, кислотность сбалансированная, во вкусе айва, слива, спелая шелковица, легкая терпкость в завершении тона карамели."
+    }
+  ],
+  "vintages": [
+    "2021",
+    "2022"
+  ],
+  "winery": {
+    "name": "Uva Vallis",
+    "license_active": false,
+    "vineyard_ha": 20.0,
+    "website": null,
+    "phone": "+7 (342) 293-33-02",
+    "regions": [
+      "Крым",
+      "Республика Крым"
+    ],
+    "inn": null
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "awards": [
+    "TOP100 2024 #54, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 800.0,
+    "max": 5600.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 800.0,
+        "url": "https://thewinery.ru/wine_merlo_limitirovannaja_serija_usadba_perovsky_krasnoe_suhoe.php"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1500.0,
+        "url": "https://top100wines.ru/2024"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1950.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_stolovoe_sukhoe_krasnoe_merlo_limitirovannaya_seriya_tz_usadba_perovskikh.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_stolovoe_sukhoe_krasnoe_merlo_limitirovannaya_seriya_tz_usadba_perovskikh.html",
+      "text": "Насыщенный рубиновый цвет с ароматами чёрных ягод и спелой вишни. Лёгкий, сбалансированный вкус с преобладающей вишней и округлыми танинами. Продолжительное послевкусие с джемовыми оттенками."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_merlo_limitirovannaja_serija_usadba_perovsky_krasnoe_suhoe.php",
+      "text": "Лёгкий, сбалансированный вкус с преобладающей вишней и округлыми танинами. Продолжительное послевкусие с джемовыми оттенками."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_merlo_limitirovannaja_serija_usadba_perovsky_krasnoe_suhoe.php",
+      "text": "С ароматами чёрных ягод и спелой вишни."
+    }
+  ],
+  "vintages": [
+    "2015",
+    "2021",
+    "2022",
+    "2026"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/vino/merlo_usadbaperovskikh/",
+    "n": 266,
+    "avg": 4.14,
+    "items": [
+      {
+        "author": "Alexander Anikeyev",
+        "date": "2026-09-24",
+        "rating": 4,
+        "text": "3,75* Мерло? Да ну! Скорее КС. Сочные ягоды, обтесанные бочкой, аппетитная кислотность. Полнотелое. Черешня, слива, джем из черной смородины..."
+      },
+      {
+        "author": "dégustateur débutant",
+        "date": "2026-09-08",
+        "rating": 4,
+        "text": "Усадьба Перовских. Мерло. 2022. Хорошее Мерло. Но раскрывается вино не сразу - надо дать подышать. Довольно прозрачный цвет, но ароматика и букет (спелых черных ягод) - на месте. Не перенасыщенное, поэтому хорошо идёт и само по себе. Цена вполне приемлемая."
+      },
+      {
+        "author": "Roman Ovesik",
+        "date": "2026-09-01",
+        "rating": 5,
+        "text": "Очень хорошее сбалансированное Российское вино! Обязательно дать подышать,каждые 15 минут вино раскрывается! Чёрные ягоды,шоколад,кожа,дым,дуб."
+      },
+      {
+        "author": "Darksider",
+        "date": "2026-08-15",
+        "rating": 3,
+        "text": "Одно из немногих их достойных вин на каждый день среди \"наших\". Можно пить и даже чувствовать лёгкие намеки в сторону \"зинфандельности\". Досматриваем \"Born to die\""
+      },
+      {
+        "author": "* **",
+        "date": "2026-08-15",
+        "rating": 3,
+        "text": "Не плохое, но и не отличное. Простое хорошее вино. В аромате черешня и слива. Очень ровный вкус, словно скучная история без развития действия, кульминации и развязки. Нет послевкусия. Немного водянистое. Не требует никакого сопровождения."
+      }
+    ]
+  },
+  "winery": {
+    "name": "Усадьба Перовских",
+    "license_active": false,
+    "vineyard_ha": 215.0,
+    "website": "https://perovskywinery.ru",
+    "phone": "+7 985 773 97 92",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Долина реки Бельбек",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

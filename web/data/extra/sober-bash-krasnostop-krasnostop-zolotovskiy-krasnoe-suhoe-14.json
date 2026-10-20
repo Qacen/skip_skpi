@@ -1,0 +1,54 @@
+{
+  "awards": [
+    "TOP100 2022 #48, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1100.0,
+    "max": 1400.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1100.0,
+        "url": "https://top100wines.ru/top100_22"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 1200.0,
+        "url": "https://swn.ru/best-wines/2025-2026/krasnostop-1461555477/"
+      },
+      {
+        "label": "RussianVine",
+        "price": 1400.0,
+        "url": "https://russianvine.ru/vino-Sober-bash-krasnostop-2016"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Sober-bash-krasnostop-2016",
+      "text": "Вино ярко-гранатового цвета. С ароматом копчёностей, чернослива, шелковицы, пряностей. Вкус богатый, плотный, с пряным древесным оттенком."
+    }
+  ],
+  "vintages": [
+    "2016",
+    "2019",
+    "2022",
+    "2023"
+  ],
+  "winery": {
+    "name": "Собер Баш",
+    "license_active": true,
+    "vineyard_ha": 61.21,
+    "website": "https://soberbashvino.ru/",
+    "phone": "+7 (988) 2420880",
+    "regions": [
+      "Долина реки Афипс",
+      "Краснодарский край"
+    ],
+    "inn": "2348032982"
+  }
+}

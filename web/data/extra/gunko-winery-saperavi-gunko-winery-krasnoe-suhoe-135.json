@@ -1,0 +1,20 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 3100.0,
+    "max": 3100.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 3100.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_rossiyskoe_zgu_kuban_gunko_winery_saperavi_sukhoe_krasnoe.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2021"
+  ]
+}

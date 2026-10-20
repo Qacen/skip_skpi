@@ -1,0 +1,17 @@
+{
+  "prices": {
+    "min": 1900.0,
+    "max": 1900.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1900.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_denisov_winery_krasnaya_strelka_pino_nuar.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2024"
+  ]
+}

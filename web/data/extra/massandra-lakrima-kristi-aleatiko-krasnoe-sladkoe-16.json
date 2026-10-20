@@ -1,0 +1,18 @@
+{
+  "prices": {
+    "min": 630.0,
+    "max": 1100.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 630.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_krasnoe_sladkoe_vyderzhannoe_zgu_krym_massandra_lakrima_kristi.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2014",
+    "2021"
+  ]
+}

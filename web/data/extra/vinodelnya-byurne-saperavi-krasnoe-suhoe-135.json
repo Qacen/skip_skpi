@@ -1,0 +1,41 @@
+{
+  "awards": [
+    "TOP100 2024 #17, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 3950.0,
+    "max": 4900.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 3950.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/byurne-saperavi-krasnoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 4900.0,
+        "url": "https://top100wines.ru/2024"
+      }
+    ]
+  },
+  "vintages": [
+    "2019"
+  ],
+  "winery": {
+    "name": "Винодельня Бюрнье",
+    "license_active": false,
+    "vineyard_ha": 48.0,
+    "website": "https://burnier.vin/",
+    "phone": "+7 (86133) 2-89-57",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": null
+  }
+}

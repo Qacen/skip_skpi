@@ -1,0 +1,48 @@
+{
+  "awards": [
+    "TOP100 2023 #17, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 900.0,
+    "max": 2250.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 900.0,
+        "url": "https://top100wines.ru/2023"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 1800.0,
+        "url": "https://swn.ru/best-wines/2025-2026/rash-beloe-sukhoe/"
+      },
+      {
+        "label": "Красностоп",
+        "price": 2250.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/vinodelnya-uzunov-rash-beloe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2021",
+    "2022",
+    "2024"
+  ],
+  "winery": {
+    "name": "Винодельня Узунов",
+    "license_active": true,
+    "vineyard_ha": 7.75,
+    "website": "https://uzunov.ru",
+    "phone": "+7 (918)260-92-01",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "235210004630"
+  }
+}

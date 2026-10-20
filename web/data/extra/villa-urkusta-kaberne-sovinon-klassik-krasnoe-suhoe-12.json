@@ -1,0 +1,44 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1450.0,
+    "max": 1450.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1450.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/villa-urkusta-kaberne-sovinon-klassik-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/villa-urkusta-kaberne-sovinon-klassik-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Вино полнотелое, экстрактивное, с выраженными танинами и сбалансированной кислотностью, с тонами черной смородины, спелых красных ягод, красной сливы и черного перца"
+    }
+  ],
+  "vintages": [
+    "2023",
+    "2024"
+  ],
+  "winery": {
+    "name": "Вилла Уркуста",
+    "license_active": true,
+    "vineyard_ha": 6.04,
+    "website": "https://urkusta.ru",
+    "phone": "+7 (916) 578-59-07",
+    "regions": [
+      "Город федерального значения Севастополь",
+      "Крым",
+      "Крым / Севастополь",
+      "Севастополь",
+      "г. Севастополь"
+    ],
+    "inn": "9200003284"
+  }
+}

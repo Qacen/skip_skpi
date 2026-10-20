@@ -1,0 +1,51 @@
+{
+  "awards": [
+    "Серебро",
+    "Бронза"
+  ],
+  "prices": {
+    "min": 600.0,
+    "max": 600.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 600.0,
+        "url": "https://thewinery.ru/wine_pino_nuar_rezerv_golubitskoe_estate_krasnoe_suhoe.php"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_pino_nuar_rezerv_golubitskoe_estate_krasnoe_suhoe.php",
+      "text": "Тонкий, с бархатистыми танинами и долгим послевкусием.Гастрономическое сочетание: легкие мясные закуски, телятина, теплые салаты, сыры."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_pino_nuar_rezerv_golubitskoe_estate_krasnoe_suhoe.php",
+      "text": "Изящный букет раскрывается нотками красных ягод, подлеска и земли."
+    }
+  ],
+  "vintages": [
+    "2020",
+    "2023"
+  ],
+  "winery": {
+    "name": "Golubitskoe Estate",
+    "license_active": true,
+    "vineyard_ha": 349.91,
+    "website": "https://golubitskoe-estate.ru",
+    "phone": "+7 861 204 08 50",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Тамань",
+      "Тамань"
+    ],
+    "inn": "2352029975"
+  }
+}

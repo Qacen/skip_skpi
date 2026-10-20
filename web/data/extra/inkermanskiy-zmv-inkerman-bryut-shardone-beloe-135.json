@@ -1,0 +1,47 @@
+{
+  "prices": {
+    "min": 300.0,
+    "max": 750.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 300.0,
+        "url": "https://thewinery.ru/wine_inkerman_beloe_brut.php"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 750.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/igristoe_vino_beloe_bryut_inkerman_1961.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_inkerman_beloe_brut.php",
+      "text": "Информация на бутылке отсутствует."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_inkerman_beloe_brut.php",
+      "text": "Информация на бутылке отсутствует."
+    }
+  ],
+  "winery": {
+    "name": "Инкерман",
+    "license_active": false,
+    "vineyard_ha": 3250.0,
+    "website": "https://inkerman.ru",
+    "phone": "+7 8692 722282",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

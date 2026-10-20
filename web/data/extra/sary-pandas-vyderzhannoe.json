@@ -1,0 +1,18 @@
+{
+  "vintages": [
+    "2010"
+  ],
+  "winery": {
+    "name": "Солнечная Долина",
+    "license_active": true,
+    "vineyard_ha": 555.0,
+    "website": "https://sunvalley1888.ru",
+    "phone": "+7(36566)3-53-30",
+    "regions": [
+      "Крым",
+      "Крым / Судак",
+      "Республика Крым"
+    ],
+    "inn": "0031173285"
+  }
+}

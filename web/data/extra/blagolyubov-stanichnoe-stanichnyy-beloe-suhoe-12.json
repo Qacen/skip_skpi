@@ -1,0 +1,19 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "vintages": [
+    "2024"
+  ],
+  "winery": {
+    "name": "Благолюбов",
+    "license_active": false,
+    "vineyard_ha": 5.0,
+    "website": "https://blagolubov.ru",
+    "phone": "+79185303372",
+    "regions": [
+      "Долина Дона"
+    ],
+    "inn": null
+  }
+}

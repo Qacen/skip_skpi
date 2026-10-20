@@ -1,0 +1,30 @@
+{
+  "prices": {
+    "min": 2000.0,
+    "max": 2000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 2000.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/vinodelnya-krinica-syracuse-rozovoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "Винодельня Криница",
+    "license_active": false,
+    "vineyard_ha": 84.8,
+    "website": "https://krinitsa.wine",
+    "phone": "+7 (499) 7034436",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Кубань"
+    ],
+    "inn": null
+  }
+}

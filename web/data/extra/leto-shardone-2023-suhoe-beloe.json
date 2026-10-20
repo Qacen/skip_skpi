@@ -1,0 +1,19 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "vintages": [
+    "2024"
+  ],
+  "winery": {
+    "name": "LETO",
+    "license_active": false,
+    "vineyard_ha": 24.0,
+    "website": "https://letowinery.ru/",
+    "phone": null,
+    "regions": [
+      "Кубань"
+    ],
+    "inn": null
+  }
+}

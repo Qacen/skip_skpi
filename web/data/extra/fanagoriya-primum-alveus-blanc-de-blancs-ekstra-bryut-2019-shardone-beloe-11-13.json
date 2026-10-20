@@ -1,0 +1,41 @@
+{
+  "prices": {
+    "min": 2485.0,
+    "max": 4385.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 2485.0,
+        "url": "https://fortwine.ru/product/igristoe-vino-fanagoria-primum-alveus-blanc-de-blancs-brut-aged-2019-0-75/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://fortwine.ru/product/igristoe-vino-fanagoria-primum-alveus-blanc-de-blancs-brut-aged-2017-0-75/",
+      "text": "Игра мелкодисперсная, среднеинтенсивная, с выраженной насыщенностью. Наблюдается неразрывное «ожерелье». Букет закрытый, раскрывается тонкими сливочно-кремовыми нотами, цветами шиповника, акации, оттенками спелого персика, ананаса и сдобной булочки с маслом. Вкус мягкий, округлый, гастрономичный, со сливочно-фруктовым послевкусием."
+    }
+  ],
+  "vintages": [
+    "2017",
+    "2019"
+  ],
+  "winery": {
+    "name": "Фанагория",
+    "license_active": true,
+    "vineyard_ha": 3342.0,
+    "website": "https://www.fanagoria.ru",
+    "phone": "+7 86148 38747",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "2352002170"
+  }
+}

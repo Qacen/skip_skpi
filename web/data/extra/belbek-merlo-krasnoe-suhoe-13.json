@@ -1,0 +1,74 @@
+{
+  "awards": [
+    "TOP100 2022 #12, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1200.0,
+    "max": 1900.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1200.0,
+        "url": "https://top100wines.ru/top100_22"
+      },
+      {
+        "label": "Каталог виноделен",
+        "price": 1200.0,
+        "url": "https://thewinery.ru/wine_merlo_belbek_krasnoe_suhoe.php"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1340.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_merlo_belbek_krasnoe_sukhoe_stolovoe_2015.html"
+      },
+      {
+        "label": "RussianVine",
+        "price": 1900.0,
+        "url": "https://russianvine.ru/vino-Belbek-merlo-2018"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Belbek-merlo-2018",
+      "text": "Вино красного цвета с лёгким медным отсветом. Округлый аромат со спелой ежевикой, вишней и сливой в букете, с угадывающимися нотами сигар и старой выделанной кожи. Во вкусе преобладают те же сортовые оттенки, что и в аромате, а так же ноты ванили и горького шоколада."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_merlo_belbek_krasnoe_suhoe.php",
+      "text": "Танины объёмные, почти вязкая текстура и чрезвычайно долгое послевкусие. Во вкусе тона ягодного джема, хлебная корочка и нотка какао. Желательно декантировать."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_merlo_belbek_krasnoe_suhoe.php",
+      "text": "В аромате мощные тона вишни, сливы и бочковая ваниль."
+    }
+  ],
+  "vintages": [
+    "2020",
+    "2021",
+    "2023"
+  ],
+  "winery": {
+    "name": "Бельбек",
+    "license_active": true,
+    "vineyard_ha": 16.75,
+    "website": "https://belbekwine.com",
+    "phone": "+7 978 769 62 27",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Долина реки Бельбек",
+      "Республика Крым",
+      "Севастополь",
+      "г. Севастополь",
+      "город федерального значения Севастополь"
+    ],
+    "inn": "9203545623"
+  }
+}

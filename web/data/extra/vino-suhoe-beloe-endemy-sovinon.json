@@ -1,0 +1,25 @@
+{
+  "prices": {
+    "min": 699.0,
+    "max": 699.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 699.0,
+        "url": "https://swn.ru/best-wines/summer-2026-2027/endemy-sovinon-derbent-vino/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/summer-2026-2027/endemy-sovinon-derbent-vino/",
+      "text": "Цвет светло-золотистый. В аромате выражены цитрусовые ноты, оттенки крыжовника, зеленого яблока и легкие травянистые нюансы. Вкус яркий, с высокой кислотностью и минеральными тонами."
+    }
+  ],
+  "vintages": [
+    "2025"
+  ]
+}

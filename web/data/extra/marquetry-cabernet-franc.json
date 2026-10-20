@@ -1,0 +1,21 @@
+{
+  "awards": [
+    "Серебро",
+    "Золото"
+  ],
+  "prices": {
+    "min": 3390.0,
+    "max": 3390.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 3390.0,
+        "url": "https://swn.ru/best-wines/2025-2026/marquetry-cabernet-franc/"
+      }
+    ]
+  },
+  "vintages": [
+    "2023"
+  ]
+}

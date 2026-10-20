@@ -1,0 +1,35 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 3990.0,
+    "max": 3990.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 3990.0,
+        "url": "https://swn.ru/best-wines/2025-2026/pino-nuar-sklon-dzhavaga/"
+      }
+    ]
+  },
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "Галицкий и Галицкий",
+    "license_active": false,
+    "vineyard_ha": 68.0,
+    "website": "https://galitskiy-galitskiy.ru",
+    "phone": "+74957773883",
+    "regions": [
+      "Анапа",
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Кубань. Анапа"
+    ],
+    "inn": null
+  }
+}

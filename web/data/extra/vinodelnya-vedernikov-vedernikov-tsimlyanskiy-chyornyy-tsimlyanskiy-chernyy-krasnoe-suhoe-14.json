@@ -1,0 +1,58 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 900.0,
+    "max": 2600.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 900.0,
+        "url": "https://thewinery.ru/wine_cimljanskij_cernij_vedernikov_krasnoe_suhoe.php"
+      },
+      {
+        "label": "RussianVine",
+        "price": 2600.0,
+        "url": "https://russianvine.ru/vino-Vedernikov-Tsimlynski-Chorny-krasnoe-2014"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Vedernikov-Tsimlynski-Chorny-krasnoe-2014",
+      "text": "Вино глубокого рубинового-красного цвета, маслянистое с выраженными пурпурными бликами. Нос вина интенсивный, комплексный, с нюансами чёрной смородины, вишни, черноплодной рябины, сливок, табака, копченостей и специй. Во вкусе вино полнотелое, танинное, округлое, умеренно-свежее с яркими тонами вишни, чернослива, копченостей, шоколада, чёрного перца с табачной горчинкой и розмарином. Послевкусие длительное с тонами вишневого варенья и эвкалипта."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_cimljanskij_chernij_viderzhannoe_vedernikov_krasnoe_suhoe.php",
+      "text": "Вкус интенсивный, умеренно-свежий, полнотелый с выраженными танинами, округлый с яркими нотами вишни, чернослива, копченостей, шоколада, черного перца с табачной горчинкой и розмарином. Послевкусие длительное с тонами вишневого варенья и эвкалипта."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_cimljanskij_cernij_vedernikov_krasnoe_suhoe.php",
+      "text": "Нос вина умеренно-интенсивный, но комплексный, с нюансами чернослива, ягод протертых с сахаром, черноплодной рябины, вишни и мягкими сливочными нотами."
+    }
+  ],
+  "vintages": [
+    "2019",
+    "2020"
+  ],
+  "winery": {
+    "name": "Винодельня Ведерниковъ",
+    "license_active": false,
+    "vineyard_ha": 215.56,
+    "website": "https://vedernikovwine.ru",
+    "phone": "+78632504540",
+    "regions": [
+      "Долина Дона",
+      "Ростовская область"
+    ],
+    "inn": "6116008465"
+  }
+}

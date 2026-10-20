@@ -1,0 +1,55 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "vintages": [
+    "2023"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/abrau_dyurso_rezerv_rb/",
+    "n": 15,
+    "avg": 3.93,
+    "items": [
+      {
+        "author": "Evgeniy",
+        "date": "2026-08-17",
+        "rating": 3,
+        "text": "Дрожжи, немного резковато. В целом неплохо, но не интересно"
+      },
+      {
+        "author": "Павел ?",
+        "date": "2026-08-17",
+        "rating": 3,
+        "text": "В аромате зелёное яблоко и груша Во вкусе все плохо. Чуть лучше, чем базовый Абрау, гораздо хуже Дравинье. Фестиваль мавт"
+      },
+      {
+        "author": "Бен Зорин",
+        "date": "2026-08-03",
+        "rating": 4,
+        "text": "Неплохое. Легкое. Мягкое. Тонизирующее. ."
+      },
+      {
+        "author": "Бен Зорин",
+        "date": "2026-08-03",
+        "rating": 4,
+        "text": "Неплохое. Свежее. Бодрящее. ."
+      },
+      {
+        "author": "Sergey X",
+        "date": "2026-08-03",
+        "rating": 4,
+        "text": "Аромат персика, лимона. Вкус лимона,персика.Перляж нормальный."
+      }
+    ]
+  },
+  "winery": {
+    "name": "Абрау-Дюрсо",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": null,
+    "phone": null,
+    "regions": [],
+    "inn": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 3400.0,
+    "max": 4100.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 3400.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino-andryus-yutsis-pino-nuar-krasnoe-sukhoe-13-075l.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2021",
+    "2023"
+  ]
+}

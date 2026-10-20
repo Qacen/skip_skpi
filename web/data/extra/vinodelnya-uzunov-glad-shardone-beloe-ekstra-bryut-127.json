@@ -1,0 +1,40 @@
+{
+  "prices": {
+    "min": 2255.0,
+    "max": 2255.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 2255.0,
+        "url": "https://fortwine.ru/product/igristoe-vino-winery-uzunov-glad-white-2025-0-75/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://fortwine.ru/product/igristoe-vino-winery-uzunov-glad-white-2025-0-75/",
+      "text": "Вино светло-соломенного цвета. Игра мелкодисперсная, среднеинтенсивная. Аромат яркий и гармоничный, с фруктовыми оттенками. Вкус свежий, сочный, с длительным послевкусием"
+    }
+  ],
+  "vintages": [
+    "2025"
+  ],
+  "winery": {
+    "name": "Винодельня Узунов",
+    "license_active": true,
+    "vineyard_ha": 7.75,
+    "website": "https://uzunov.ru",
+    "phone": "+7 (918)260-92-01",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "235210004630"
+  }
+}

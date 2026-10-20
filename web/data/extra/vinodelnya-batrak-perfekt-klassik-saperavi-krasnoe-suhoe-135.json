@@ -1,0 +1,20 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1400.0,
+    "max": 1400.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1400.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_vinodelnya_batrak_gn_perfekt_klassik_saperavi_krasnoe_sukhoe_13_5_0_75l.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2020"
+  ]
+}

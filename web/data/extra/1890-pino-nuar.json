@@ -1,0 +1,66 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 500.0,
+    "max": 5200.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 500.0,
+        "url": "https://thewinery.ru/wine_pino_nuar_usadba_perovsky_krasnoe_suhoe.php"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 750.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/pino_nuar.html"
+      },
+      {
+        "label": "Красностоп",
+        "price": 3400.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/pino-nuar-1890-usadba-perovskih-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://krymwine.ru/catalog/vino/tikhie-vina/pino_nuar.html",
+      "text": "Вино ненасыщенного рубинового цвета. В аромате мощное, фруктовое, в букете ярко выражены красные ягоды и спелая малина. Вкус легкий, элегантный, ягодный, с мягкими танинами и длительным послевкусием."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_pino_nuar_usadba_perovsky_krasnoe_suhoe.php",
+      "text": "Вкус легкий, элегантный, ягодный, с мягкими танинами и длительным послевкусием.Подавать к блюдам из мяса, блюдам на гриле, выдержанным сырам и фруктовым десертам."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_pino_nuar_usadba_perovsky_krasnoe_suhoe.php",
+      "text": "В аромате мощное, фруктовое, в букете ярко выражены красные ягоды и спелая малина."
+    }
+  ],
+  "vintages": [
+    "2019",
+    "2021",
+    "2022"
+  ],
+  "winery": {
+    "name": "Усадьба Перовских",
+    "license_active": false,
+    "vineyard_ha": 215.0,
+    "website": "https://perovskywinery.ru",
+    "phone": "+7 985 773 97 92",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Долина реки Бельбек",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "awards": [
+    "Золото"
+  ],
+  "prices": {
+    "min": 3000.0,
+    "max": 6000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 3000.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/tempelhof-cimlyanskiy-chernyy-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/vino/p/tsimlianskii-chernyi-1695/",
+      "text": "Во вкусе мягкое, гармоничное, с продолжением микса черных лесных и садовых ягод, нотой красной шелковицы. В длительном ягодном послевкусии оттенок вишневого конфитюра и пикантый финиш."
+    },
+    {
+      "kind": "aroma",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/vino/p/tsimlianskii-chernyi-1695/",
+      "text": "Аромат интенсивный, комплексный, ягодно-фруктовый, с оттенками черной смородины, голубики, черничного йогурта, спелой вишни."
+    }
+  ],
+  "vintages": [
+    "2023"
+  ]
+}

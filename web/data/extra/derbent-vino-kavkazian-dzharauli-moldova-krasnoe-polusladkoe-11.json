@@ -1,0 +1,14 @@
+{
+  "prices": {
+    "min": 800.0,
+    "max": 800.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 800.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_zgu_dagestan_derbent_vino_kavkazian_dzharauli.html"
+      }
+    ]
+  }
+}

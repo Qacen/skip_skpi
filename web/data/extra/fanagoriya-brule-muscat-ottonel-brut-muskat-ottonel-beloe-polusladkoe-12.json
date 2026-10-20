@@ -1,0 +1,45 @@
+{
+  "prices": {
+    "min": 800.0,
+    "max": 1075.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 800.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/fanagoriya-brule-muskat-ottonel-polusladkoe-beloe-igristoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1075.0,
+        "url": "https://fortwine.ru/product/igristoe-vino-fanagoria-brule-muscat-ottonel-semi-sweet-2025-0-75/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://fortwine.ru/product/igristoe-vino-fanagoria-brule-muscat-ottonel-semi-sweet-2025-0-75/",
+      "text": "Цвет светло-соломенный с зеленоватыми бликами. Игра мелкодисперсная, среднеинтенсивная, с выраженной насыщенностью. Аромат яркий, с хорошо выраженными сортовыми особенностями винограда. Вкус свежий, сочный, фруктовый. Послевкусие приятное, длительное."
+    }
+  ],
+  "vintages": [
+    "2025"
+  ],
+  "winery": {
+    "name": "Фанагория",
+    "license_active": true,
+    "vineyard_ha": 3342.0,
+    "website": "https://www.fanagoria.ru",
+    "phone": "+7 86148 38747",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "2352002170"
+  }
+}

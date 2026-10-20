@@ -1,0 +1,53 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2700.0,
+    "max": 3190.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 2700.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_zgu_semigore_imenie_sikory_gerts.html"
+      },
+      {
+        "label": "Красностоп",
+        "price": 2900.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/sikory-gerc-krasnoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 3190.0,
+        "url": "https://swn.ru/best-wines/2025-2026/gerts/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/2025-2026/gerts/",
+      "text": "Насыщенное вино с ароматами черники, шелковицы и черной смородины, которые со временем раскрываются яркими нотами красной сливы, сладких специй и шоколада. Вкус очень деликатный, с бархатистыми танинами и мягким, слегка пряным послевкусием."
+    }
+  ],
+  "vintages": [
+    "2019",
+    "2022"
+  ],
+  "winery": {
+    "name": "Имение Сикоры",
+    "license_active": true,
+    "vineyard_ha": 47.2,
+    "website": "https://sikory.ru",
+    "phone": "8 (8617) 301-956",
+    "regions": [
+      "Краснодарский край",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": "2315167328"
+  }
+}

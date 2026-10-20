@@ -1,0 +1,28 @@
+{
+  "prices": {
+    "min": 600.0,
+    "max": 600.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 600.0,
+        "url": "https://thewinery.ru/wine_pino_gri_massandra_beloe_sladkoe.php"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_pino_gri_massandra_beloe_sladkoe.php",
+      "text": "Вкус полный, гармоничный, мягкий, с лёгким оттенком чёрного инжира и с приятным долгим послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_pino_gri_massandra_beloe_sladkoe.php",
+      "text": "Букет сортовой, с тонами выдержки, десертного характера."
+    }
+  ]
+}

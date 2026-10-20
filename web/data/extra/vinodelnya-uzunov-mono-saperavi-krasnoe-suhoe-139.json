@@ -1,0 +1,57 @@
+{
+  "awards": [
+    "TOP100 2024 #76, Золото",
+    "TOP100 2023 #80, Золото",
+    "TOP100 2022 #3, Золото",
+    "TOP100 2021 #55, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1000.0,
+    "max": 2100.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1000.0,
+        "url": "https://top100wines.ru/top100"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1150.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_vyderzhannoe_sukhoe_krasnoe_mono_saperavi.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_vyderzhannoe_sukhoe_krasnoe_mono_saperavi.html",
+      "text": "Вино насыщенного тёмно-рубинового цвета с фиолетовым оттенком. Букет интенсивный, яркий с нотами красных ягод, сливового джема едва уловимыми ванилью и сливками. Это вино с хорошей кислотностью и фруктовым вкусом."
+    }
+  ],
+  "vintages": [
+    "2016",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "winery": {
+    "name": "Винодельня Узунов",
+    "license_active": true,
+    "vineyard_ha": 7.75,
+    "website": "https://uzunov.ru",
+    "phone": "+7 (918)260-92-01",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "235210004630"
+  }
+}

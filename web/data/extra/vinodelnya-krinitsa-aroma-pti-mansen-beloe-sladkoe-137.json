@@ -1,0 +1,35 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 3650.0,
+    "max": 3650.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 3650.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/vinodelnya-krinica-aroma-beloe-sladkoe-vino-0-5-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2020",
+    "2022",
+    "2024"
+  ],
+  "winery": {
+    "name": "Винодельня Криница",
+    "license_active": false,
+    "vineyard_ha": 84.8,
+    "website": "https://krinitsa.wine",
+    "phone": "+7 (499) 7034436",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Кубань"
+    ],
+    "inn": null
+  }
+}

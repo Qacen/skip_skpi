@@ -1,0 +1,40 @@
+{
+  "prices": {
+    "min": 1260.0,
+    "max": 1260.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1260.0,
+        "url": "https://fortwine.ru/product/igristoe-vino-fanagoria-brule-cabernet-sauvignon-semi-sweet-red-2024-0-75/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://fortwine.ru/product/igristoe-vino-fanagoria-brule-cabernet-sauvignon-semi-sweet-red-2024-0-75/",
+      "text": "Цвет рубиновый. Игра мелкодисперсная, среднеинтенсивная, с выраженной насыщенностью. Аромат гармоничный, с нотами свежей вишни и вяленой красной черешни.Вкус свежий, ягодно-фруктовый. Послевкусие длительное."
+    }
+  ],
+  "vintages": [
+    "2024"
+  ],
+  "winery": {
+    "name": "Фанагория",
+    "license_active": true,
+    "vineyard_ha": 3342.0,
+    "website": "https://www.fanagoria.ru",
+    "phone": "+7 86148 38747",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "2352002170"
+  }
+}

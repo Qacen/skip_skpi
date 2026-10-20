@@ -1,0 +1,67 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1100.0,
+    "max": 3450.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 1100.0,
+        "url": "https://thewinery.ru/wine_pino_blan_reserve_alma_valley_beloe_suhoe.php"
+      },
+      {
+        "label": "RussianVine",
+        "price": 3300.0,
+        "url": "https://russianvine.ru/vino-Alma-valley-pino-blan-reserv-2013"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 3450.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/alma_valley_vino_sukhoe_beloe_pino_blan_rezerv.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Alma-valley-pino-blan-reserv-2013",
+      "text": "Золотистый цвет с красивым блеском. Насыщенный аромат с тонами спелой алычи, семечковых и тропических плодов, а также с ванильными и сливочными оттенками. Вкус чистый, плодово-кремовый, с умеренной кислотностью и лёгкой пряностью в послевкусии. Вино готово к потреблению, но рекомендуется для дальнейшей выдержки в течение 2-3 лет."
+    },
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://krymwine.ru/catalog/vino/tikhie-vina/alma_valley_vino_sukhoe_beloe_pino_blan_rezerv.html",
+      "text": "Золотистый цвет с красивым блеском. Насыщенный аромат с тонами спелой алычи, семечковых и тропических плодов, а также с ванильными и сливочными оттенками. Вкус чистый, плодово-кремовый, с умеренной кислотностью и легкой пряностью в послевкусии."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_pino_blan_reserve_alma_valley_beloe_suhoe.php",
+      "text": "Насыщенный аромат с тонами спелой алычи, семечковых и тропических плодов, а также с ванильными и сливочными оттенками."
+    }
+  ],
+  "vintages": [
+    "2014",
+    "2020",
+    "2022"
+  ],
+  "winery": {
+    "name": "Alma Valley",
+    "license_active": false,
+    "vineyard_ha": 405.0,
+    "website": "https://alma-valley.ru",
+    "phone": "+7 (36554) 9–19–79",
+    "regions": [
+      "Западно-Предгорный Крым",
+      "Крым",
+      "Крым / Бахчисарайский район / Долина реки Альма",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

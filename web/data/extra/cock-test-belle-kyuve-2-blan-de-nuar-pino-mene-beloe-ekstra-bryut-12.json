@@ -1,0 +1,15 @@
+{
+  "winery": {
+    "name": "Cock t'est belle",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": null,
+    "phone": null,
+    "regions": [
+      "Крым",
+      "Крым / Коктебель",
+      "Республика Крым"
+    ],
+    "inn": null
+  }
+}

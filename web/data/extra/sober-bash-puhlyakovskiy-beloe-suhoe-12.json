@@ -1,0 +1,38 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1050.0,
+    "max": 1200.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1050.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/sober-bash-puhlyakovskiy-beloe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 1200.0,
+        "url": "https://swn.ru/best-wines/2025-2026/pukhlyakovskiy/"
+      }
+    ]
+  },
+  "vintages": [
+    "2022",
+    "2024"
+  ],
+  "winery": {
+    "name": "Собер Баш",
+    "license_active": true,
+    "vineyard_ha": 61.21,
+    "website": "https://soberbashvino.ru/",
+    "phone": "+7 (988) 2420880",
+    "regions": [
+      "Долина реки Афипс",
+      "Краснодарский край"
+    ],
+    "inn": "2348032982"
+  }
+}

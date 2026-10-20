@@ -1,0 +1,59 @@
+{
+  "awards": [
+    "TOP100 2024 #63, Золото",
+    "TOP100 2022 #10, Золото",
+    "TOP100 2021 #39, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 4600.0,
+    "max": 55000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 4600.0,
+        "url": "https://top100wines.ru/top100"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 6000.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino-rebo-divnomorskoe-sukhoe-krasnoe-2015g.html"
+      },
+      {
+        "label": "RussianVine",
+        "price": 55000.0,
+        "url": "https://russianvine.ru/vino-divnomorskoe-rebo-2012"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-divnomorskoe-rebo-2012",
+      "text": "Цвет вина глубокий рубиновый. В аромате спелые ягоды, нотки тутовника, ежевики, вишни, ежевики, табака, лакрицы. Во вкусе округлое, полное, танинное, со средней кислотностью и с богатым ягодным послевкусием."
+    }
+  ],
+  "vintages": [
+    "2012",
+    "2016",
+    "2017",
+    "2019"
+  ],
+  "winery": {
+    "name": "Усадьба Дивноморское",
+    "license_active": true,
+    "vineyard_ha": 83.94,
+    "website": "https://usadbadivnomorskoe.ru",
+    "phone": "+7 (86141) 3-55-18",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Краснодарский край / Геленджик",
+      "Кубань",
+      "Кубань. Геленджик"
+    ],
+    "inn": "2304072064"
+  }
+}

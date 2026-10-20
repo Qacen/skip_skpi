@@ -1,0 +1,37 @@
+{
+  "prices": {
+    "min": 499.0,
+    "max": 499.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 499.0,
+        "url": "https://swn.ru/best-wines/young-2026-2027/cantiani-riesling-brut/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/young-2026-2027/cantiani-riesling-brut/",
+      "text": "Вино светло-соломенного цвета. В тонком и сбалансированном аромате доминируют выраженные оттенки лайма и зеленого яблока. Вкус чистый, развитый и фруктовый, в полной мере раскрывающий характерные сортовые особенности рислинга."
+    }
+  ],
+  "vintages": [
+    "2025"
+  ],
+  "winery": {
+    "name": "Шато АЛВИСА",
+    "license_active": true,
+    "vineyard_ha": null,
+    "website": "https://www.alvisa.ru/",
+    "phone": "+74957999700",
+    "regions": [
+      "Дагестан",
+      "Республика Дагестан"
+    ],
+    "inn": "7730614662"
+  }
+}

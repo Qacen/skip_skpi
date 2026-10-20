@@ -1,0 +1,83 @@
+{
+  "awards": [
+    "TOP100 2022 #47, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1000.0,
+    "max": 2290.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 1000.0,
+        "url": "https://thewinery.ru/wine_sovinon_blan_sikory_beloe_suhoe.php"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1300.0,
+        "url": "https://top100wines.ru/top100_22"
+      },
+      {
+        "label": "AMWINE",
+        "price": 1899.0,
+        "url": "https://amwine.ru/catalog/vino/sikory_sovinon_blan/"
+      },
+      {
+        "label": "RussianVine",
+        "price": 1900.0,
+        "url": "https://russianvine.ru/vino-sikory-sovignon-blan-2015"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 2290.0,
+        "url": "https://swn.ru/best-wines/2025-2026/sovinon-blan-1845539274/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/2025-2026/sovinon-blan-1845539274/",
+      "text": "Вино светло-соломенного цвета. В ярком аромате преобладают тона грейпфрута, белого персика и маракуйи, дополненные нежной растительной ноткой почки черной смородины. Вкус хорошо сбалансирован, с выраженным минеральным тоном, хрустящей кислотностью и продолжительным послевкусием."
+    },
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-sikory-sovignon-blan-2015",
+      "text": "Ароматика вина изобилует нотами душистой липы, почек чёрной смородины и цветущего персика. Сложный ароматический комплекс завершают тона тропических фруктов. Вкус вина насыщенный, округлый, с ярко выраженной кислотностью, с продолжителым минеральным послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/sikory_sovinon_blan/",
+      "text": "Ароматика вина изобилует нотами душистой липы, почек черной смородины и цветущего персика. Сложный ароматический комплекс завершают тона тропических фруктов."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_sovinon_blan_sikory_beloe_suhoe.php",
+      "text": "С освежающими ароматами грейпфрута, белого персика и маракуйи, с нежной растительной ноткой почки черной смородины."
+    }
+  ],
+  "vintages": [
+    "2015",
+    "2020",
+    "2024"
+  ],
+  "winery": {
+    "name": "Имение Сикоры",
+    "license_active": true,
+    "vineyard_ha": 47.2,
+    "website": "https://sikory.ru",
+    "phone": "8 (8617) 301-956",
+    "regions": [
+      "Краснодарский край",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": "2315167328"
+  }
+}

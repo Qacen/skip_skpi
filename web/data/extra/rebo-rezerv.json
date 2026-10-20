@@ -1,0 +1,31 @@
+{
+  "awards": [
+    "TOP100 2025 #82, Золото"
+  ],
+  "prices": {
+    "min": 3900.0,
+    "max": 3900.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 3900.0,
+        "url": "https://top100wines.ru/2025"
+      }
+    ]
+  },
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "Cellar Master",
+    "license_active": false,
+    "vineyard_ha": 16.0,
+    "website": "https://cellarmaster.ru/",
+    "phone": null,
+    "regions": [
+      "Крым"
+    ],
+    "inn": null
+  }
+}

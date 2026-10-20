@@ -1,0 +1,77 @@
+{
+  "awards": [
+    "TOP100 2024 #67, Золото",
+    "TOP100 2023 #21, Золото",
+    "TOP100 2022 #33, Золото",
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1200.0,
+    "max": 2350.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 1200.0,
+        "url": "https://thewinery.ru/wine_saperavi_dva_serdca_krasnoe_suhoe.php"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1250.0,
+        "url": "https://top100wines.ru/top100_22"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1550.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/saperavi_dva_serdtsa.html"
+      },
+      {
+        "label": "RussianVine",
+        "price": 1800.0,
+        "url": "https://russianvine.ru/vino-dva-serdsca-saperavi-2020"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-dva-serdsca-saperavi-2020",
+      "text": "Цвет вина рубиновый. Аромат насыщенный, с нотами перца, копчёностей и чёрных ягод. Вкус свежий, с приятными танинами и сбалансированной кислотностью. В послевкусии лёгкие нотки дуба, ванили и кокоса."
+    },
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://krymwine.ru/catalog/vino/tikhie-vina/saperavi_dva_serdtsa.html",
+      "text": "Насыщенное, терпкое вино с ярким вкусом вишни, красных ягод и сливы. В аромате выражены специи, травы и фруктовые нотки."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_saperavi_dva_serdca_krasnoe_suhoe.php",
+      "text": "Аромат насыщенный, с нотами перца, копчёностей и чёрных ягод."
+    }
+  ],
+  "vintages": [
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "winery": {
+    "name": "Два Сердца",
+    "license_active": false,
+    "vineyard_ha": 10.0,
+    "website": "https://twohearts.wine",
+    "phone": null,
+    "regions": [
+      "Крым",
+      "Крым / Сакский район",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": "9200008518"
+  }
+}

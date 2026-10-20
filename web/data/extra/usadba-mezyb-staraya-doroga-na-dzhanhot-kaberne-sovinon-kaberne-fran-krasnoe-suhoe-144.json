@@ -1,0 +1,48 @@
+{
+  "awards": [
+    "TOP100 2025 #75, Золото",
+    "Платина"
+  ],
+  "prices": {
+    "min": 4000.0,
+    "max": 4000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 4000.0,
+        "url": "https://top100wines.ru/2025"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/vino/p/staraia-doroga-na-dzhankhot-kaberne-sovinon-kaberne-fran-829/",
+      "text": "Во вкусе среднетелое, обволакивающее, с мягкими танинами, продолжением богатой спелой ягодной палитры. Длительное послевкусие с мягким фруктовым оттенком."
+    },
+    {
+      "kind": "aroma",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/vino/p/staraia-doroga-na-dzhankhot-kaberne-sovinon-kaberne-fran-829/",
+      "text": "Ароматический профиль яркий, ягодно-фруктовый: красная черешня, вишня, кизил, черная смородина, ежевика, голубика, немного клубники. Аромат постоянно раскрывается в бокале."
+    }
+  ],
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "Усадьба Мезыбь",
+    "license_active": true,
+    "vineyard_ha": 58.12,
+    "website": "http://www.mezyb.ru/",
+    "phone": "+7 (499) 703-44-36",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Краснодарский край / Геленджик"
+    ],
+    "inn": "2304067346"
+  }
+}

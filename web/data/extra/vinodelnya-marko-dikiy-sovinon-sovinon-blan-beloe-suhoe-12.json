@@ -1,0 +1,36 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1500.0,
+    "max": 1500.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1500.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/marko-dikiy-sovinon-beloe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "Усадьба Маркотх",
+    "license_active": false,
+    "vineyard_ha": 8.2,
+    "website": "https://t.me/chateau_marko",
+    "phone": "+7 (962) 4280391",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Краснодарский край / Геленджик",
+      "Кубань",
+      "Ставрополь",
+      "Ставрополье"
+    ],
+    "inn": "233101832573"
+  }
+}

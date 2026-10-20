@@ -1,0 +1,25 @@
+{
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/summer-2026-2027/mont-blanc-blanc-de-blancs-brut-chateau-alvisa/",
+      "text": "Игристое вино светло-соломенного цвета с золотистым оттенком. В аромате присутствуют ноты белых цветов, лайма и легкие медовые нюансы. Вкус утонченный и элегантный, с продолжительным послевкусием."
+    }
+  ],
+  "vintages": [
+    "2025"
+  ],
+  "winery": {
+    "name": "Шато АЛВИСА",
+    "license_active": true,
+    "vineyard_ha": null,
+    "website": "https://www.alvisa.ru/",
+    "phone": "+74957999700",
+    "regions": [
+      "Дагестан",
+      "Республика Дагестан"
+    ],
+    "inn": "7730614662"
+  }
+}

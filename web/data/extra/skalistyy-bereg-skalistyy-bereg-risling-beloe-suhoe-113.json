@@ -1,0 +1,60 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2499.0,
+    "max": 3690.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 2499.0,
+        "url": "https://amwine.ru/catalog/vino/skalistyy_bereg_risling/"
+      },
+      {
+        "label": "Красностоп",
+        "price": 2900.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/skalistyy-bereg-risling-beloe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 3690.0,
+        "url": "https://swn.ru/best-wines/2025-2026/risling-1527472264/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/skalistyy_bereg_risling/",
+      "text": "Вкус полный, объёмный, с хорошей плотностью и балансом, мягкой кислотностью, продолжительным медово-лаймовым послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/skalistyy_bereg_risling/",
+      "text": "Аромат сложный, богатый, экспрессивный, с оттенками акации, меда, груши, цитрусовыми и айвовыми нотками."
+    }
+  ],
+  "vintages": [
+    "2021",
+    "2024"
+  ],
+  "winery": {
+    "name": "Скалистый Берег",
+    "license_active": true,
+    "vineyard_ha": 36.0,
+    "website": "https://skbereg.ru",
+    "phone": "+7 (86133) 27131",
+    "regions": [
+      "Анапа",
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Республика Крым"
+    ],
+    "inn": "7709858507"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "winery": {
+    "name": "Mantra Estate",
+    "license_active": false,
+    "vineyard_ha": 13.32,
+    "website": "https://mantra-estate.ru/",
+    "phone": "+7 (993) 351-41-41",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Геленджик",
+      "Крымск",
+      "Кубань"
+    ],
+    "inn": "2304070821"
+  }
+}

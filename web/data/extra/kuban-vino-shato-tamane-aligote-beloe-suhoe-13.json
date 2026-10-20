@@ -1,0 +1,33 @@
+{
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/vino/shato_taman_aligote/",
+    "n": 3,
+    "avg": 5.0,
+    "items": [
+      {
+        "author": "Аноним",
+        "date": "2025-02-05",
+        "rating": 5,
+        "text": "неожиданное и очень приятное открытие года)"
+      },
+      {
+        "author": "Ирина Шашлова",
+        "date": "2025-02-03",
+        "rating": 5,
+        "text": "Легкое сухое вино , приятное на вкус . Рекомендую !!"
+      }
+    ]
+  },
+  "winery": {
+    "name": "Кубань-Вино Chateau Tamagne",
+    "license_active": false,
+    "vineyard_ha": 7750.0,
+    "website": null,
+    "phone": null,
+    "regions": [
+      "Кубань. Темрюк"
+    ],
+    "inn": null
+  }
+}

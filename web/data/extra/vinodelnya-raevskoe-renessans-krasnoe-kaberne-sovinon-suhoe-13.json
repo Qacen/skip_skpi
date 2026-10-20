@@ -1,0 +1,65 @@
+{
+  "awards": [
+    "Серебро",
+    "Бронза",
+    "Золото"
+  ],
+  "prices": {
+    "min": 1000.0,
+    "max": 5600.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 1000.0,
+        "url": "https://thewinery.ru/wine_renessans_raevskoe_krasnoe_suhoe.php"
+      },
+      {
+        "label": "Красностоп",
+        "price": 5600.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/raevskoe-renessans-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Raevskoe-Renessans-2012",
+      "text": "Сложное вино. Благородный тёмно-вишнёвый цвет. Роскошный букет из спелой сливы и ежевики с оттенками чёрной смородины и шоколада. Послевкусие мягкое, долгое."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_renessans_raevskoe_krasnoe_suhoe.php",
+      "text": "Вкус вина мягкий, элегантный и шелковистый, с тонами черной смородины, вишни, табака и трав, со сбалансированной кислотностью и долгим, сухим послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_renessans_raevskoe_krasnoe_suhoe.php",
+      "text": "Щедрый, сложный аромат вина раскрывается оттенками ежевики, сливы, вишни, смородины, черного перца и трав."
+    }
+  ],
+  "vintages": [
+    "2012",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "winery": {
+    "name": "Винодельня Раевское",
+    "license_active": true,
+    "vineyard_ha": 94.57,
+    "website": "https://raevskoe.com",
+    "phone": "+7 (8617) 300370",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": "2312303156"
+  }
+}

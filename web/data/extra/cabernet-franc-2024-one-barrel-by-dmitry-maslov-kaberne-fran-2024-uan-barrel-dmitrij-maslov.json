@@ -1,0 +1,14 @@
+{
+  "winery": {
+    "name": "One Barrel By Dmitry Maslov",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": "https://mancopia.ru",
+    "phone": "+7 (499) 703-44-36",
+    "regions": [
+      "Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

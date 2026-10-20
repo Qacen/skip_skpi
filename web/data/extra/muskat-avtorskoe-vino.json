@@ -1,0 +1,33 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 600.0,
+    "max": 850.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 600.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_beloe_sukhoe_ordinarnoe_zgu_krym_massandra_muskat.html"
+      },
+      {
+        "label": "Красностоп",
+        "price": 650.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/massandra-avtorskoe-muskat-beloe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/massandra-avtorskoe-muskat-beloe-suhoe-vino-0-75-l/",
+      "text": "Букет яркий сортовой, дополнен ароматами щербета, мускуса, цитрусовых с аккуратными нюансами тропических фруктов. Тело вина ниже среднего, кислотность сбалансированная, вкус \"не проваливается\", дополняет букет хорошей фруктовой структурой со средним по продолжительности завершением."
+    }
+  ],
+  "vintages": [
+    "2022"
+  ]
+}

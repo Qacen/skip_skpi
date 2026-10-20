@@ -1,0 +1,44 @@
+{
+  "awards": [
+    "TOP100 2021 #98, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 850.0,
+    "max": 1900.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 850.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_uzunov_sovinon_blan.html"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1100.0,
+        "url": "https://top100wines.ru/top100"
+      }
+    ]
+  },
+  "vintages": [
+    "2020",
+    "2021",
+    "2022",
+    "2024"
+  ],
+  "winery": {
+    "name": "Винодельня Узунов",
+    "license_active": true,
+    "vineyard_ha": 7.75,
+    "website": "https://uzunov.ru",
+    "phone": "+7 (918)260-92-01",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "235210004630"
+  }
+}

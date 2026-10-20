@@ -1,0 +1,50 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1800.0,
+    "max": 1800.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 1800.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/lefkadiya-malbek-roze-rozovoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/lefkadiya-malbek-roze-rozovoe-suhoe-vino-0-75-l/",
+      "text": "Тело вина среднее, кислотность правильная, вкус мягкий ягодный, завершение длительное."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/lefkadiya-malbek-roze-rozovoe-suhoe-vino-0-75-l/",
+      "text": "Букет тонкий, соткан из ароматов красных ягод и сливочных нюансов."
+    }
+  ],
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "Лефкадия",
+    "license_active": true,
+    "vineyard_ha": 79.0,
+    "website": "https://lefkadia.ru",
+    "phone": "8 (800) 200-30-33",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Крымск",
+      "Крымск",
+      "Кубань",
+      "Кубань. Крымск",
+      "г. Краснодар"
+    ],
+    "inn": "2311252325"
+  }
+}

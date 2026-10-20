@@ -1,0 +1,55 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1200.0,
+    "max": 1350.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 1200.0,
+        "url": "https://thewinery.ru/wine_saperavi_belbek_krasnoe_suhoe.php"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1350.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_saperavi_belbek_tz_vinnyy_klub_belbek_krasnoe_sukhoe_stolovoe.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_saperavi_belbek_krasnoe_suhoe.php",
+      "text": "Тело вина близится к полному. Во вкусе больше проявляются тона выдержки — кожа, пряности для выпечки, дымная нотка. А в продолжительном послевкусии выделяется ягодный джем и лёгкая кислинка."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_saperavi_belbek_krasnoe_suhoe.php",
+      "text": "В аромате прежде всего проявляется спелая слива, чёрная смородина, лакрица и сливочная ваниль."
+    }
+  ],
+  "vintages": [
+    "2021"
+  ],
+  "winery": {
+    "name": "Бельбек",
+    "license_active": true,
+    "vineyard_ha": 16.75,
+    "website": "https://belbekwine.com",
+    "phone": "+7 978 769 62 27",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Долина реки Бельбек",
+      "Республика Крым",
+      "Севастополь",
+      "г. Севастополь",
+      "город федерального значения Севастополь"
+    ],
+    "inn": "9203545623"
+  }
+}

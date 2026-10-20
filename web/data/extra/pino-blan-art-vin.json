@@ -1,0 +1,38 @@
+{
+  "prices": {
+    "min": 1200.0,
+    "max": 1200.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "RussianVine",
+        "price": 1200.0,
+        "url": "https://russianvine.ru/vine-artvin-pino-blan-2017"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vine-artvin-pino-blan-2017",
+      "text": "Вино золотистого цвета. В аромате спелый абрикос, персик, цитрусовая нотка. Во вкусе гармоничное, с фруктовыми оттенками и минеральными акцентами. В продолжительном послевкусии нотки белых цветов."
+    }
+  ],
+  "vintages": [
+    "2017"
+  ],
+  "winery": {
+    "name": "Артвин",
+    "license_active": true,
+    "vineyard_ha": 780.0,
+    "website": "https://артвин.рф",
+    "phone": "+7 (499) 7034436",
+    "regions": [
+      "Крым",
+      "Севастополь",
+      "город федерального значения Севастополь"
+    ],
+    "inn": "9203008298"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 300.0,
+    "max": 300.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 300.0,
+        "url": "https://thewinery.ru/wine_pino_nuar_rose_vinabani_rozovoe_suhoe.php"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_pino_nuar_rose_vinabani_rozovoe_suhoe.php",
+      "text": "Воспоминания о клубнике со сливками с лёгкой кислинкой."
+    }
+  ],
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "VinaBani",
+    "license_active": false,
+    "vineyard_ha": 136.5,
+    "website": "https://vinabani.ru",
+    "phone": "+7 (999) 9778060",
+    "regions": [
+      "Долина Дона",
+      "Ростовская область"
+    ],
+    "inn": null
+  }
+}

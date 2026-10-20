@@ -1,0 +1,43 @@
+{
+  "awards": [
+    "TOP100 2023 #63, Золото",
+    "TOP100 2022 #66, Золото",
+    "Бронза"
+  ],
+  "prices": {
+    "min": 550.0,
+    "max": 650.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 550.0,
+        "url": "https://top100wines.ru/top100_22"
+      },
+      {
+        "label": "Красностоп",
+        "price": 650.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/myshako-tempranilio-suhoe-krasnoe-vino-0-75/"
+      }
+    ]
+  },
+  "vintages": [
+    "2020",
+    "2021"
+  ],
+  "winery": {
+    "name": "Винодельня Мысхако",
+    "license_active": true,
+    "vineyard_ha": 594.37,
+    "website": "https://myskhako.ru",
+    "phone": "+7 (8617) 72-98-00",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Новороссийск",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": "2315005310"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "prices": {
+    "min": 1400.0,
+    "max": 1400.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1400.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_rozovoe_sladkoe_zgu_krym_koktebel_muskat.html"
+      }
+    ]
+  },
+  "winery": {
+    "name": "Коктебель",
+    "license_active": true,
+    "vineyard_ha": 1100.0,
+    "website": "https://kd-koktebel.ru/",
+    "phone": "+7 (36562) 38-280",
+    "regions": [
+      "Крым",
+      "Крым / Коктебель",
+      "Республика Крым"
+    ],
+    "inn": "9108002169"
+  }
+}

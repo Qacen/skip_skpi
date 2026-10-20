@@ -1,0 +1,40 @@
+{
+  "prices": {
+    "min": 4700.0,
+    "max": 4700.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 4700.0,
+        "url": "https://fortwine.ru/product/vino-fanagoria-decanter-chardonnay-collection-2020-0-75/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://fortwine.ru/product/vino-fanagoria-decanter-chardonnay-collection-2020-0-75/",
+      "text": "Цвет вина соломенный с лимонным оттенком. В первых нотах аромата минеральность, позже открываются белые фрукты: груша, персик, свежий виноград, ананас, лёгкие тона лимонной цедры в сочетании с кремово-ванильными оттенками. Вкус сложный, фруктовый с длительным минеральным послевкусием."
+    }
+  ],
+  "vintages": [
+    "2020"
+  ],
+  "winery": {
+    "name": "Фанагория",
+    "license_active": true,
+    "vineyard_ha": 3342.0,
+    "website": "https://www.fanagoria.ru",
+    "phone": "+7 86148 38747",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "2352002170"
+  }
+}

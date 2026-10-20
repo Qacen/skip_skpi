@@ -1,0 +1,32 @@
+{
+  "prices": {
+    "min": 4550.0,
+    "max": 4550.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 4550.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/irina-bogovich-liniya-klassika-pino-nuar-krasnoe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/irina-bogovich-liniya-klassika-pino-nuar-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Вино среднетельное, вкус полный с бархатистой текстурой с тонами диких ягод и длительным послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/irina-bogovich-liniya-klassika-pino-nuar-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Букет щедрый, раскрывается яркими ароматами красных ягод, граната, вишни с аккуратыми тонами специй."
+    }
+  ],
+  "vintages": [
+    "2021",
+    "2022"
+  ]
+}

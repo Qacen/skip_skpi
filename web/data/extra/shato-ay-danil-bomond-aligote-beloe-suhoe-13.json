@@ -1,0 +1,71 @@
+{
+  "awards": [
+    "TOP100 2025 #67, Золото"
+  ],
+  "prices": {
+    "min": 3050.0,
+    "max": 4434.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 3050.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/ay-danil-bomond-beloe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 3500.0,
+        "url": "https://top100wines.ru/2025"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 3850.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/sukhoe_beloe_beau_monde.html"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 4434.0,
+        "url": "https://swn.ru/best-wines/2025-2026/bomond/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/2025-2026/bomond/",
+      "text": "Вино блестящего, бледно-золотистого цвета. В интенсивном аромате раскрываются тона спелой груши, белого перца, айвы, меда и сухих трав, дополненные нотками ванили и легкой минеральностью. Вкус мягкий, хорошо сбалансированный, с оттенками груши и спелого яблока."
+    },
+    {
+      "kind": "taste",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/vino/p/bomond-386/",
+      "text": "В продолжении теплые желтые фрукты, акация. Во вкусе среднетелое, фруктовое, мягкое, с продолжением желтой фруктовой палитры. Немного груши, тропические фрукты, сок ананаса. В длительном послевкусии оттенок тоста с маслом и пряными травами."
+    },
+    {
+      "kind": "aroma",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/vino/p/bomond-386/",
+      "text": "Комплексный обволакивающий аромат встречает яркой нотой деревенского хлеба со ливочным маслом."
+    }
+  ],
+  "vintages": [
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2024"
+  ],
+  "winery": {
+    "name": "Шато Ай-Даниль",
+    "license_active": false,
+    "vineyard_ha": 20.5,
+    "website": "https://saintdaniel.wine",
+    "phone": "+7(499) 906-34-29",
+    "regions": [
+      "Крым",
+      "Республика Крым"
+    ],
+    "inn": null
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2150.0,
+    "max": 2450.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 2150.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/raevskoe-genezis-beloe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 2450.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_beloe_sukhoe_zgu_kuban_raevskoe_genezis.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2021",
+    "2022",
+    "2024"
+  ],
+  "winery": {
+    "name": "Винодельня Раевское",
+    "license_active": true,
+    "vineyard_ha": 94.57,
+    "website": "https://raevskoe.com",
+    "phone": "+7 (8617) 300370",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": "2312303156"
+  }
+}

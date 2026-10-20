@@ -1,0 +1,61 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 650.0,
+    "max": 1600.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 650.0,
+        "url": "https://thewinery.ru/wine_merlo_burnie_krasnoe_suhoe.php"
+      },
+      {
+        "label": "RussianVine",
+        "price": 1600.0,
+        "url": "https://russianvine.ru/vino-burnie-merlo-2016"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-burnie-merlo-2016",
+      "text": "Цвет тёмно-красный. Полное, гибкое вино с присутсвием танинов и с хорошей структурой. Во вкусе присутствуют ароматы вишни и жареных зёрен какао. Имеет ярко выраженнный сортовой вкус."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_merlo_burnie_krasnoe_suhoe.php",
+      "text": "Во вкусе присутствуют ароматы вишни и жареных зерен какао. Имеет ярко выраженный сортовой вкус."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_merlo_burnie_krasnoe_suhoe.php",
+      "text": "Ароматы вишни и жареных зерен какао."
+    }
+  ],
+  "vintages": [
+    "2019",
+    "2020"
+  ],
+  "winery": {
+    "name": "Винодельня Бюрнье",
+    "license_active": false,
+    "vineyard_ha": 48.0,
+    "website": "https://burnier.vin/",
+    "phone": "+7 (86133) 2-89-57",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": null
+  }
+}

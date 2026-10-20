@@ -1,0 +1,40 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1680.0,
+    "max": 2500.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1680.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/igristoe-vino-zgu-kubannovorossiysk-shato-pinopino-nuar-roze-ekstra-bryut-rozovoe.html"
+      },
+      {
+        "label": "Красностоп",
+        "price": 2500.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/pino-nuar-roze-shato-pino-ekstra-bryut-rozovoe-igristoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2019",
+    "2020",
+    "2021"
+  ],
+  "winery": {
+    "name": "Шато Пино",
+    "license_active": true,
+    "vineyard_ha": 95.0,
+    "website": "https://chateau-pinot.ru/",
+    "phone": "+7 499 7034436",
+    "regions": [
+      "Краснодарский Край",
+      "Кубань",
+      "Новороссийск"
+    ],
+    "inn": "2315211390"
+  }
+}

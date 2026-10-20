@@ -1,0 +1,17 @@
+{
+  "prices": {
+    "min": 550.0,
+    "max": 700.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 550.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/vino_igristoe_beloe_polusladkoe_zgu_dagestan_derbent_vino_di_kaspiko.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2024"
+  ]
+}

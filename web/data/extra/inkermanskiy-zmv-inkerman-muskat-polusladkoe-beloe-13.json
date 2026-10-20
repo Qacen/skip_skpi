@@ -1,0 +1,45 @@
+{
+  "prices": {
+    "min": 432.0,
+    "max": 800.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 432.0,
+        "url": "https://ladogawine.ru/catalog/champagne/muskat/"
+      },
+      {
+        "label": "Красностоп",
+        "price": 500.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/kokur-belyy-zero-dozazh-inkerman-ekstra-bryut-beloe-iristoe-vino-0-75-l-clone/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "aroma",
+      "label": "Винный магазин",
+      "url": "https://ladogawine.ru/catalog/champagne/muskat/",
+      "text": "абрикос, айва, акация, ананас, инжир, лимон, цветы"
+    }
+  ],
+  "vintages": [
+    "2023",
+    "2024"
+  ],
+  "winery": {
+    "name": "Инкерман",
+    "license_active": false,
+    "vineyard_ha": 3250.0,
+    "website": "https://inkerman.ru",
+    "phone": "+7 8692 722282",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

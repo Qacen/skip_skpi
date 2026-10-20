@@ -1,0 +1,35 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 625.0,
+    "max": 3187.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 625.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/zb_spumante_semidry.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2022",
+    "2023"
+  ],
+  "winery": {
+    "name": "Золотая Балка",
+    "license_active": false,
+    "vineyard_ha": 1400.0,
+    "website": "https://zolotaiabalka.ru",
+    "phone": "+7 (8692) 45-52-72",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Балаклава",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

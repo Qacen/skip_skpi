@@ -1,0 +1,40 @@
+{
+  "prices": {
+    "min": 4700.0,
+    "max": 4700.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 4700.0,
+        "url": "https://fortwine.ru/product/vino-fanagoria-decanter-riesling-collection-2020-0-75/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://fortwine.ru/product/vino-fanagoria-decanter-riesling-collection-2020-0-75/",
+      "text": "Золотистый цвет. В аромате тонкие петрольные ноты, тон засахаренного лайма, абрикосов, липового цвета, вяленой маракуйи, мёда и медовых сот. Во вкусе гармоничное, с тонами леденцов и фруктов и долгим цитрусовым послевкусием."
+    }
+  ],
+  "vintages": [
+    "2020"
+  ],
+  "winery": {
+    "name": "Фанагория",
+    "license_active": true,
+    "vineyard_ha": 3342.0,
+    "website": "https://www.fanagoria.ru",
+    "phone": "+7 86148 38747",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "2352002170"
+  }
+}

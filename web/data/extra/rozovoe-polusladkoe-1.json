@@ -1,0 +1,85 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 499.0,
+    "max": 560.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 499.0,
+        "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zolotaya_balka_rozovoe_polusladkoe/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 560.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/polusladkoe_rozovoe.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Zolotay-balka-rozovoe-polusladkoe2016",
+      "text": "Цвет вина розовый. Яркое, сочное, хорошо сбалансированное вино, с редким красивым оттенком и свежим ароматом слегка засахаренных ягод малины, красной смородины. Обладает слегка освежающим вкусом в сочетании с приятной деликатной сладостью."
+    }
+  ],
+  "vintages": [
+    "2016"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/zolotaya_balka_rozovoe_polusladkoe/",
+    "n": 6,
+    "avg": 4.67,
+    "items": [
+      {
+        "author": "Марина Лопатина",
+        "date": "2024-01-04",
+        "rating": 5,
+        "text": "Отличное игристое! К покупке советую!"
+      },
+      {
+        "author": "Елена",
+        "date": "2023-07-02",
+        "rating": 5,
+        "text": "Любимое игристое. Заказ собрали быстро. Уже через час забрала в ближайшем к моему местоположению магазине АМ."
+      },
+      {
+        "author": "Дима",
+        "date": "2022-12-22",
+        "rating": 4,
+        "text": "Неплохое вино, лучшее из линейки Золотая Балка полусладкое!"
+      },
+      {
+        "author": "Дима",
+        "date": "2021-12-18",
+        "rating": 5,
+        "text": "лёгкая горчинка, оно как бы не очень сладкое из-за этой горчинки и \"просит\" сладенькой закуски - для девочек"
+      },
+      {
+        "author": "Сергей",
+        "date": "2019-12-22",
+        "rating": 4,
+        "text": "Свежее такое,приятное.Пьёшь и ещё хочется."
+      }
+    ]
+  },
+  "winery": {
+    "name": "Золотая Балка",
+    "license_active": false,
+    "vineyard_ha": 1400.0,
+    "website": "https://zolotaiabalka.ru",
+    "phone": "+7 (8692) 45-52-72",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Балаклава",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

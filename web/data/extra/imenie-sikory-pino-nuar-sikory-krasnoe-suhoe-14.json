@@ -1,0 +1,73 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1250.0,
+    "max": 5000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "RussianVine",
+        "price": 1250.0,
+        "url": "https://russianvine.ru/vino-sikory-pino-noir-2016"
+      },
+      {
+        "label": "AMWINE",
+        "price": 1279.0,
+        "url": "https://amwine.ru/catalog/vino/sikory_pino_nuar/"
+      },
+      {
+        "label": "Каталог виноделен",
+        "price": 1300.0,
+        "url": "https://thewinery.ru/wine_pino_nuar_sikory_krasnoe_suhoe.php"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-sikory-pino-noir-2016",
+      "text": "Цвет вина рубиновый с малиновым блеском. Богатый аромат с тонами красных ягод и фруктов, оттенками ванили и нотками подлеска. Полный, сочный и освежающий вкус с доминирующими нотами черешни, с шелковистыми танинами, в финале с перечными нотками и фруктовыми нюансами."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_pino_nuar_sikory_krasnoe_suhoe.php",
+      "text": "В сбалансированном вкусе с тонкой кислотностью и мягкими танинами ароматные нотки шиповника, клюквы, малины и подлеска элегантно переходят в продолжительное ягодное послевкусие."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/sikory_pino_nuar/",
+      "text": "Ароматический букет изобилует нотами спелой вишни и ежевики, элегантно дополненными тонами шиповника пряностей и специй."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_pino_nuar_sikory_krasnoe_suhoe.php",
+      "text": "Изобилует ароматами черешни, клубники и ежевики с тонами пряностей и специй."
+    }
+  ],
+  "vintages": [
+    "2016",
+    "2017",
+    "2018",
+    "2023"
+  ],
+  "winery": {
+    "name": "Имение Сикоры",
+    "license_active": true,
+    "vineyard_ha": 47.2,
+    "website": "https://sikory.ru",
+    "phone": "8 (8617) 301-956",
+    "regions": [
+      "Краснодарский край",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": "2315167328"
+  }
+}

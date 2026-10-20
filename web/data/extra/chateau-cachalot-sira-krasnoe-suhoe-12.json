@@ -1,0 +1,20 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "Chateau Cachalot",
+    "license_active": false,
+    "vineyard_ha": 18.0,
+    "website": "https://chateaucachalot.ru/",
+    "phone": "+7 (978) 233-31-34",
+    "regions": [
+      "Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

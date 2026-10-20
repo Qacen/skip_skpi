@@ -1,0 +1,48 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1950.0,
+    "max": 3050.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 1950.0,
+        "url": "https://swn.ru/best-wines/2025-2026/petit-verdot/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 3050.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_domaine_lipko_pti_verdo.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/2025-2026/petit-verdot/",
+      "text": "Вино глубокого, насыщенного рубинового цвета с фиолетовыми отблесками. В аромате доминируют тона темных ягод – ежевики и черноплодной рябины, которые дополняются нотами спелой сливы и легкими пряными нюансами. Вкус яркий, сбалансированный, с бархатистыми танинами и свежей кислотностью. В нем раскрываются оттенки сливы, ежевики и пряностей, переходящие в долгое, элегантное послевкусие."
+    }
+  ],
+  "vintages": [
+    "2022",
+    "2024"
+  ],
+  "winery": {
+    "name": "Domaine Lipko",
+    "license_active": false,
+    "vineyard_ha": 43.0,
+    "website": "https://domainelipko.com",
+    "phone": "+7 (978) 000-17-38",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Балаклава",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

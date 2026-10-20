@@ -1,0 +1,21 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "Усадьба Родное Гнездо",
+    "license_active": false,
+    "vineyard_ha": 15.5,
+    "website": "https://rodnoegnezdo.ru/",
+    "phone": "+7 (978) 534 98 90",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Село Родное",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

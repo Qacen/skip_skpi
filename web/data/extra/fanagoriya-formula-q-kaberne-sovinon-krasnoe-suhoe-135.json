@@ -1,0 +1,66 @@
+{
+  "awards": [
+    "Золото"
+  ],
+  "prices": {
+    "min": 1762.49,
+    "max": 2925.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 1762.49,
+        "url": "https://amwine.ru/catalog/vino/fanagoriya_formula_q/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 2925.0,
+        "url": "https://fortwine.ru/product/vino-fanagoria-formula-q-0-75-1/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/vino/p/formula-q-1120/",
+      "text": "Ягодные, джемовые ноты. Спелая вишня, черная смородина, лёгкий тон подлеска, оттенок сафьяна, сигарной коробки. Во вкусе элегантное, мягкое, округлое. Черешня, ежевика, кизил, черная смородина. Послевкусие средней продолжительности, ягодное, с оттенком красной сливы."
+    },
+    {
+      "kind": "taste",
+      "label": "Винный магазин",
+      "url": "https://fortwine.ru/product/vino-fanagoria-formula-q-0-75-1/",
+      "text": "Вино темно-рубинового цвета. В букете тона черники, черной смородины, вишни, тёрна и сливочные оттенки. Вкус экстрактивный, полный с длительным пряным послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/fanagoriya_formula_q/",
+      "text": "В аромате тона черники, черной смородины, вишни, тёрна и сливочные оттенки."
+    },
+    {
+      "kind": "aroma",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/vino/p/formula-q-1120/",
+      "text": "Аромат сложный, комплексный."
+    }
+  ],
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "Фанагория",
+    "license_active": true,
+    "vineyard_ha": 3342.0,
+    "website": "https://www.fanagoria.ru",
+    "phone": "+7 86148 38747",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "2352002170"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 3500.0,
+    "max": 3500.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "RussianVine",
+        "price": 3500.0,
+        "url": "https://russianvine.ru/vino-galisckoe-sovignon-blan-2018"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-galisckoe-sovignon-blan-2018",
+      "text": "Вино светло-соломенного цвета. В аромате белая спаржа, смородиновый лист и зелёный крыжовник, дополнены нотками маракуйи и спелого нектарина. Во вкусе освежающее, сбалансированное, хорошо структурированное, минеральное, с яркой кислотностью."
+    }
+  ],
+  "vintages": [
+    "2021",
+    "2023"
+  ],
+  "winery": {
+    "name": "Галицкий и Галицкий",
+    "license_active": false,
+    "vineyard_ha": 68.0,
+    "website": "https://galitskiy-galitskiy.ru",
+    "phone": "+74957773883",
+    "regions": [
+      "Анапа",
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Кубань. Анапа"
+    ],
+    "inn": null
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "prices": {
+    "min": 499.0,
+    "max": 600.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 499.0,
+        "url": "https://swn.ru/best-wines/young-2026-2027/cantiani-cabernet-sauvignon-merlot/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/young-2026-2027/cantiani-cabernet-sauvignon-merlot/",
+      "text": "Вино обладает интенсивным цветом, играющим оттенками от рубинового до темно-вишневого. Насыщенный букет щедро раскрывается выразительными тонами красной и черной смородины. Во вкусе вино демонстрирует элегантность и отличный баланс. Мягкая и сочная фруктовая структура подчеркивается яркими нотами спелых лесных ягод и темных фруктов."
+    }
+  ],
+  "vintages": [
+    "2024",
+    "2025"
+  ],
+  "winery": {
+    "name": "Шато АЛВИСА",
+    "license_active": true,
+    "vineyard_ha": null,
+    "website": "https://www.alvisa.ru/",
+    "phone": "+74957999700",
+    "regions": [
+      "Дагестан",
+      "Республика Дагестан"
+    ],
+    "inn": "7730614662"
+  }
+}

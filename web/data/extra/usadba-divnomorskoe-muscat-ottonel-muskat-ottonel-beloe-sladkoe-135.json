@@ -1,0 +1,59 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 3000.0,
+    "max": 3900.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 3000.0,
+        "url": "https://thewinery.ru/wine_muskat_ottonel_usadba_divnomorskoe_beloe_sladkoe.php"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 3150.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_beloe_sladkoe_znmp_divnomorskoe_muskat_ottonel.html"
+      },
+      {
+        "label": "Красностоп",
+        "price": 3900.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/muskat-ottonel-usadba-divnomorskoe-beloe-sladkoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_muskat_ottonel_usadba_divnomorskoe_beloe_sladkoe.php",
+      "text": "Полнотелое, гармоничное, сладкое во вкусе, с великолепным балансом кислотности и нотками кураги и сухофруктов в устойчивом, продолжительном послевкусии."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_muskat_ottonel_usadba_divnomorskoe_beloe_sladkoe.php",
+      "text": "Яркий, мощный, типичный мускатный аромат притягивает тонами цитрусовых (мандарин, лимон), белого шоколада, фиников, сухого инжира, кураги, цукатов."
+    }
+  ],
+  "vintages": [
+    "2020"
+  ],
+  "winery": {
+    "name": "Усадьба Дивноморское",
+    "license_active": true,
+    "vineyard_ha": 83.94,
+    "website": "https://usadbadivnomorskoe.ru",
+    "phone": "+7 (86141) 3-55-18",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Краснодарский край / Геленджик",
+      "Кубань",
+      "Кубань. Геленджик"
+    ],
+    "inn": "2304072064"
+  }
+}

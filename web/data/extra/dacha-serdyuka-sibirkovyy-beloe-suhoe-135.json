@@ -1,0 +1,34 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1050.0,
+    "max": 2650.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1050.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_dacha_serdyuka_sibirkovyy_beloe_sukhoe_stolovoe_gn.html"
+      },
+      {
+        "label": "RussianVine",
+        "price": 1900.0,
+        "url": "https://russianvine.ru/vino-dacha-serduka-sibirek-2019"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-dacha-serduka-sibirek-2019",
+      "text": "Цвет вина светло-серебристый. Аромат деликатный, с приятными ярко выраженными оттенками цветов, фруктов и леденцов. Вкус освежающий, с нотами яблока и цитрусовых."
+    }
+  ],
+  "vintages": [
+    "2022",
+    "2023"
+  ]
+}

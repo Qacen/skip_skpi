@@ -1,0 +1,38 @@
+{
+  "prices": {
+    "min": 1334.0,
+    "max": 1400.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 1334.0,
+        "url": "https://swn.ru/best-wines/summer-2026-2027/rose-esse/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/summer-2026-2027/rose-esse/",
+      "text": "Вино нежно-розового цвета. Фруктовый аромат раскрывается оттенками земляники и сливок. Вкус свежий, с нотами красных ягод и пикантной свежестью в долгом послевкусии."
+    }
+  ],
+  "vintages": [
+    "2024",
+    "2025"
+  ],
+  "winery": {
+    "name": "Винодельня Esse",
+    "license_active": false,
+    "vineyard_ha": 164.0,
+    "website": "https://essewine.com",
+    "phone": "+79780001921",
+    "regions": [
+      "Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 650.0,
+    "max": 650.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 650.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/massandra-avtorskoe-roze-rozovoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 650.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_rozovoe_sukhoe_zgu_krym_massandra_avtorskoe_vino_roze.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/massandra-avtorskoe-roze-rozovoe-suhoe-vino-0-75-l/",
+      "text": "Тело вина среднее, округлое, кислотность яркая освежающая, во вкусе яркая ягодная палитра."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/massandra-avtorskoe-roze-rozovoe-suhoe-vino-0-75-l/",
+      "text": "Букет богатый, соткан из ароматов садовой клубники, красной и белой смородины со легкими сливочными нотками."
+    }
+  ],
+  "vintages": [
+    "2022",
+    "2024"
+  ]
+}

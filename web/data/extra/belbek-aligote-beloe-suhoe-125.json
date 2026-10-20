@@ -1,0 +1,62 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 799.0,
+    "max": 1600.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 799.0,
+        "url": "https://amwine.ru/catalog/vino/belbek_aligote/"
+      },
+      {
+        "label": "RussianVine",
+        "price": 1600.0,
+        "url": "https://russianvine.ru/vino-belbek-aligote-2020"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-belbek-aligote-2020",
+      "text": "Блестящий, светло-жёлтый цвет с малахитово-зеленоватым оттенком. Выделяется индивидуальным и самобытным ароматом с преобладанием светлых фруктов, айвы и свежих луговых трав. Ярко выраженный вкус соответсвующий аромату, с гармоничной кислотностью и тонкой горчинкой лайма."
+    },
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/belbek_aligote/",
+      "text": "Вкус продолжает тона цитрусовых и дюшеса со свежей кислотностью и лёгким телом."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/belbek_aligote/",
+      "text": "Интенсивный цветочно-цитрусовый аромат с тонами дюшеса и зеленого яблока."
+    }
+  ],
+  "vintages": [
+    "2021",
+    "2023"
+  ],
+  "winery": {
+    "name": "Бельбек",
+    "license_active": true,
+    "vineyard_ha": 16.75,
+    "website": "https://belbekwine.com",
+    "phone": "+7 978 769 62 27",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Долина реки Бельбек",
+      "Республика Крым",
+      "Севастополь",
+      "г. Севастополь",
+      "город федерального значения Севастополь"
+    ],
+    "inn": "9203545623"
+  }
+}

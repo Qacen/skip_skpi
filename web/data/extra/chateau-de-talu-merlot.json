@@ -1,0 +1,30 @@
+{
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/vino/shato_de_talyu_merlo/",
+    "n": 2,
+    "avg": 5.0,
+    "items": [
+      {
+        "author": "Станислав Теплов",
+        "date": "2026-01-01",
+        "rating": 5,
+        "text": "Очень приятный вкус, терпкий и и тоже время насыщенный. Послевкусие имеет дубовые нотки. Рекомендуется к жаренной птице, типа утки или гуся."
+      }
+    ]
+  },
+  "winery": {
+    "name": "Chateau de Talu",
+    "license_active": true,
+    "vineyard_ha": 196.28,
+    "website": "https://chateaudetalu.ru",
+    "phone": "+7 (86141) 36330",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Краснодарский край / Геленджик",
+      "Кубань"
+    ],
+    "inn": "2308108667"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "prices": {
+    "min": 599.99,
+    "max": 599.99,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 599.99,
+        "url": "https://amwine.ru/catalog/vino/caucasian_dzharag/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/caucasian_dzharag/",
+      "text": "Оттенки косточковых фруктов и айвы раскрывают аромат."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/caucasian_dzharag/",
+      "text": "Интенсивный, с яркими цветочно-медовыми нотками."
+    }
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/vino/caucasian_dzharag/",
+    "n": 24,
+    "avg": 4.38,
+    "items": [
+      {
+        "author": "Tirina",
+        "date": "2026-09-18",
+        "rating": 4,
+        "text": "Приятное чистое вино. Сладковато, но сладость не доминирует. Чуть охлажденное пьется легко и освежает. Небольшая приятная горечь в послевкусии. Весьма достойно для свежего вина, хороший баланс."
+      },
+      {
+        "author": "Надежда Белоногова",
+        "date": "2026-09-07",
+        "rating": 4,
+        "text": "Аромат специй, какие-то хмели сунели. Но сладкое ессно"
+      },
+      {
+        "author": "Mr. Petrovich",
+        "date": "2026-09-07",
+        "rating": 4,
+        "text": "Урожай 2024, кому компот, а кому достойный вариант терпкого. И этикетка красного, а не белого."
+      },
+      {
+        "author": "Дмитрий Незвинский",
+        "date": "2026-08-16",
+        "rating": 4,
+        "text": "Вкус чернослива. Мягкое не горькое в меру терпкое."
+      },
+      {
+        "author": "Максим К",
+        "date": "2026-08-06",
+        "rating": 5,
+        "text": "На удивление отличное, лёгкое фруктовое вино."
+      }
+    ]
+  }
+}

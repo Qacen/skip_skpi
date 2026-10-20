@@ -1,0 +1,68 @@
+{
+  "awards": [
+    "TOP100 2021 #58, Золото",
+    "Платина"
+  ],
+  "prices": {
+    "min": 2000.0,
+    "max": 2300.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 2000.0,
+        "url": "https://thewinery.ru/wine_west_hill_blend_usadba_divnomorskoe_krasnoe_suhoe.php"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 2300.0,
+        "url": "https://top100wines.ru/top100"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/vino/p/west-hill-blend-805/",
+      "text": "Спелые красные ягоды: ежевика, черная и красная смородина, слива. Прелая листва, землистые нотки, табачный лист, древесные оттенки. Во вкусе полнотелое, фруктово-ягодное, сочное: черешня, ежевика, кизил, шиповник, черная смородина. Послевкусие длительное, сочное, с молодыми чуть шероховатыми танинами."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_west_hill_blend_usadba_divnomorskoe_krasnoe_suhoe.php",
+      "text": "Не указано на бутылке."
+    },
+    {
+      "kind": "aroma",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/vino/p/west-hill-blend-805/",
+      "text": "Ароматика яркая, пышная, ягодно-фруктовая."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_west_hill_blend_usadba_divnomorskoe_krasnoe_suhoe.php",
+      "text": "Не указано на бутылке."
+    }
+  ],
+  "vintages": [
+    "2017",
+    "2022"
+  ],
+  "winery": {
+    "name": "Усадьба Дивноморское",
+    "license_active": true,
+    "vineyard_ha": 83.94,
+    "website": "https://usadbadivnomorskoe.ru",
+    "phone": "+7 (86141) 3-55-18",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Краснодарский край / Геленджик",
+      "Кубань",
+      "Кубань. Геленджик"
+    ],
+    "inn": "2304072064"
+  }
+}

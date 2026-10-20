@@ -1,0 +1,20 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2900.0,
+    "max": 2900.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 2900.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_zgu_kuban_gunko_winery_kaberne_fran.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2021"
+  ]
+}

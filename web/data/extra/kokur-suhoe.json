@@ -1,0 +1,28 @@
+{
+  "prices": {
+    "min": 400.0,
+    "max": 400.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 400.0,
+        "url": "https://thewinery.ru/wine_kokur_massandra_beloe_suhoe.php"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_kokur_massandra_beloe_suhoe.php",
+      "text": "Вкус гармоничный, легкий, освежающий."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_kokur_massandra_beloe_suhoe.php",
+      "text": "Аромат вина сортовой, цветочный с легкими медовыми оттенками."
+    }
+  ]
+}

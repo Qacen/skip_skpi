@@ -1,0 +1,28 @@
+{
+  "prices": {
+    "min": 950.0,
+    "max": 950.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 950.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/vino_igristoe_rozovoe_ekstra_bryut_zgu_kuban_relikta_petnat.html"
+      }
+    ]
+  },
+  "winery": {
+    "name": "Реликта",
+    "license_active": false,
+    "vineyard_ha": 31.5,
+    "website": "https://www.relictawine.ru",
+    "phone": "+7 (916) 5617855",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Новороссийск",
+      "Кубань",
+      "Новороссийск"
+    ],
+    "inn": null
+  }
+}

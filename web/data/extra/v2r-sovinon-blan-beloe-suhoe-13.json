@@ -1,0 +1,33 @@
+{
+  "awards": [
+    "TOP100 2024 #81, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1400.0,
+    "max": 1400.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1400.0,
+        "url": "https://top100wines.ru/2024"
+      }
+    ]
+  },
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "В2Р",
+    "license_active": false,
+    "vineyard_ha": 3.0,
+    "website": "https://www.в2р.рф",
+    "phone": "+79284331334",
+    "regions": [
+      "Анапа",
+      "Кубань"
+    ],
+    "inn": null
+  }
+}

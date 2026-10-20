@@ -1,0 +1,49 @@
+{
+  "prices": {
+    "min": 600.0,
+    "max": 600.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 600.0,
+        "url": "https://thewinery.ru/wine_victor_dravigny_abrau_durso_beloe_polusladkoe.php"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/abrau_dyurso_viktor_dravini_polusladkoe/",
+      "text": "Игристое вино демонстрирует яркий, насыщенный вкус с нотами сочного граната и миндаля, плавно переходящими в гармоничное, продолжительное послевкусие."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_victor_dravigny_abrau_durso_beloe_polusladkoe.php",
+      "text": "Вкус яркий и насыщенный, с прекрасно сбалансированной сладостью."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/abrau_dyurso_viktor_dravini_polusladkoe/",
+      "text": "Вино очаровывает живым, элегантным ароматом, сотканным из нот цитрусовых, миндаля и граната."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_victor_dravigny_abrau_durso_beloe_polusladkoe.php",
+      "text": "В аромате доминируют фруктовые тона: абрикосы, персики, тропические фрукты, личи, гуава."
+    }
+  ],
+  "winery": {
+    "name": "Абрау-Дюрсо",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": null,
+    "phone": null,
+    "regions": [],
+    "inn": null
+  }
+}

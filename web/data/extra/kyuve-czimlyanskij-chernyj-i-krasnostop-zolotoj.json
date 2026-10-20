@@ -1,0 +1,26 @@
+{
+  "prices": {
+    "min": 950.0,
+    "max": 950.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 950.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/cimlyanskoe-kyuve-cimlyanskiy-chernyy-krasnostop-zolotovskiy-sladkoe-krasnoe-igristoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "winery": {
+    "name": "Цимлянские вина",
+    "license_active": true,
+    "vineyard_ha": 885.0,
+    "website": "https://tsimlawines.com/",
+    "phone": "+78639156000",
+    "regions": [
+      "Долина Дона",
+      "Ростовская область"
+    ],
+    "inn": "6137007102"
+  }
+}

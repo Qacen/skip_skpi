@@ -1,0 +1,28 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-orlov-sovignon-blan-2017",
+      "text": "Цвет светло-золотистый. Аромат вина изобилует нотами душистой липы и цветущего персика, в завершении тона тропических фруктов. Вкус вина насыщенный, округлый, с ярко выраженной кислотностью, с продолжителым минеральным послевкусием."
+    }
+  ],
+  "vintages": [
+    "2017",
+    "2024"
+  ],
+  "winery": {
+    "name": "Chateau Andre",
+    "license_active": false,
+    "vineyard_ha": 8.0,
+    "website": null,
+    "phone": "+79283344482",
+    "regions": [
+      "Кубань"
+    ],
+    "inn": null
+  }
+}

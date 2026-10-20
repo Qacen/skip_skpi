@@ -1,0 +1,68 @@
+{
+  "awards": [
+    "TOP100 2025 #62, Золото",
+    "TOP100 2024 #21, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2000.0,
+    "max": 3690.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 2000.0,
+        "url": "https://top100wines.ru/2024"
+      },
+      {
+        "label": "AMWINE",
+        "price": 2099.0,
+        "url": "https://amwine.ru/catalog/vino/skalistyy_bereg_shardone/"
+      },
+      {
+        "label": "Красностоп",
+        "price": 3650.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/skalistyy-bereg-shardone-beloe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 3690.0,
+        "url": "https://swn.ru/best-wines/2025-2026/shardone-1168534736/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/skalistyy_bereg_shardone/",
+      "text": "Вкус интенсивный, полный, обволакивающий, маслянистый, с фруктовыми оттенками, нотками бриоши и пряностей с приятным продолжительным ванильным послевкусием и мягкой кислотностью."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/skalistyy_bereg_shardone/",
+      "text": "Аромат элегантный, объёмный, ванильно-фруктовый. В первом носе отчётливо чувствуются леденцовые и дюшесные оттенки, далее проявляются нотки кокосовой мякоти, банана, ананаса, манго, ванили, бриоши и оттенки выдержки в бочке."
+    }
+  ],
+  "vintages": [
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "winery": {
+    "name": "Скалистый Берег",
+    "license_active": true,
+    "vineyard_ha": 36.0,
+    "website": "https://skbereg.ru",
+    "phone": "+7 (86133) 27131",
+    "regions": [
+      "Анапа",
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Республика Крым"
+    ],
+    "inn": "7709858507"
+  }
+}

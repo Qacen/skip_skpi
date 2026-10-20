@@ -1,0 +1,29 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1690.0,
+    "max": 1690.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 1690.0,
+        "url": "https://swn.ru/best-wines/summer-2026-2027/flamingo-nikolaev-i-synovya/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/summer-2026-2027/flamingo-nikolaev-i-synovya/",
+      "text": "Цвет вина – розовый. В ягодном аромате преобладают оттенки клубники, ежевики, красной смородины и леденцов. Вкус фруктовый, с доминирующими тонами малины и клубники. Послевкусие продолжительное, с нюансами земляники и сливок."
+    }
+  ],
+  "vintages": [
+    "2024",
+    "2025"
+  ]
+}

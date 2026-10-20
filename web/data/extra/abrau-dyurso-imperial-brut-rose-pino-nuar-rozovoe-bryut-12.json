@@ -1,0 +1,50 @@
+{
+  "awards": [
+    "TOP100 2021 #59, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1000.0,
+    "max": 1750.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 1000.0,
+        "url": "https://thewinery.ru/wine_imperial_abrau_durso_beloe_brut_rose.php"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1750.0,
+        "url": "https://top100wines.ru/top100"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_imperial_abrau_durso_beloe_brut_rose.php",
+      "text": "Игристое вино обладает плотным структурированным вкусом и идеальным балансом кислотности и имеет потенциал к выдержке. Послевкусие ― продолжительное, минеральное, с выраженными мягкими танинами."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_imperial_abrau_durso_beloe_brut_rose.php",
+      "text": "Тонкий, сдержанный аромат наполнен ягодными оттенками, среди которых наиболее отчетливо угадывается малина в сочетании с лавровым листом."
+    }
+  ],
+  "vintages": [
+    "2015",
+    "2020"
+  ],
+  "winery": {
+    "name": "Абрау-Дюрсо",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": null,
+    "phone": null,
+    "regions": [],
+    "inn": null
+  }
+}

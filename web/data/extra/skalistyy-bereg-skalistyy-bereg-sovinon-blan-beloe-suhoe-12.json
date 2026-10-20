@@ -1,0 +1,66 @@
+{
+  "awards": [
+    "TOP100 2023 #43, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1590.0,
+    "max": 3690.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1590.0,
+        "url": "https://top100wines.ru/2023"
+      },
+      {
+        "label": "AMWINE",
+        "price": 2499.0,
+        "url": "https://amwine.ru/catalog/vino/skalistyy_bereg_sovinon_blan/"
+      },
+      {
+        "label": "Красностоп",
+        "price": 2900.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/skalistyy-bereg-sovinon-blan-beloe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Simple Wine News",
+        "price": 3690.0,
+        "url": "https://swn.ru/best-wines/2025-2026/sovinon-blan-1649448561/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/skalistyy_bereg_sovinon_blan/",
+      "text": "Вкус сочный, фруктовый, свежий, хрустящий, с хорошим объёмом и яркими нотками маракуйи и грейпфрута, с продолжительной гастрономичной кислотностью и долгим послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/skalistyy_bereg_sovinon_blan/",
+      "text": "Аромат чистый, в первом носе сдержанный с нотками самшита и крыжовника. Раскрывается оттенками тропических фруктов и цитрусовых: манго, маракуйи, грейпфрута, помело, лайма."
+    }
+  ],
+  "vintages": [
+    "2021",
+    "2024"
+  ],
+  "winery": {
+    "name": "Скалистый Берег",
+    "license_active": true,
+    "vineyard_ha": 36.0,
+    "website": "https://skbereg.ru",
+    "phone": "+7 (86133) 27131",
+    "regions": [
+      "Анапа",
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Республика Крым"
+    ],
+    "inn": "7709858507"
+  }
+}

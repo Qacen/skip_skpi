@@ -1,0 +1,26 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1600.0,
+    "max": 2400.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1600.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/vino_igristoe_beloe_ekstra_bryut_denisov_winery_tsitron_risling.html"
+      },
+      {
+        "label": "Красностоп",
+        "price": 2050.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/denisov-winery-petnat-citron-risling-beloe-igristoe-zhemchuzhnoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "vintages": [
+    "2022",
+    "2023"
+  ]
+}

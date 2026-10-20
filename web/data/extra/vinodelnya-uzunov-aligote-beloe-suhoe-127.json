@@ -1,0 +1,51 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1700.0,
+    "max": 1800.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1700.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_uzunov_mono_aligote.html"
+      },
+      {
+        "label": "RussianVine",
+        "price": 1800.0,
+        "url": "https://russianvine.ru/vino-uzunov-aligote-2020"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-uzunov-aligote-2020",
+      "text": "Цвет вина светло-соломенный. Аромат изящный, минеральный, со сладковатыми нотами белых фруктов и цветущего луга. Вкус минеральный, мягкий, сбалансированный с приятным фруктовым послевкусием."
+    }
+  ],
+  "vintages": [
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "winery": {
+    "name": "Винодельня Узунов",
+    "license_active": true,
+    "vineyard_ha": 7.75,
+    "website": "https://uzunov.ru",
+    "phone": "+7 (918)260-92-01",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Тамань",
+      "Кубань",
+      "Кубань. Темрюк",
+      "Тамань"
+    ],
+    "inn": "235210004630"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "prices": {
+    "min": 2000.0,
+    "max": 2000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 2000.0,
+        "url": "https://swn.ru/best-wines/2025-2026/kaberne-sovinon-302657553/"
+      }
+    ]
+  },
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "Винодельня Манкопия",
+    "license_active": true,
+    "vineyard_ha": 1.4,
+    "website": "https://krasnostop.ru/",
+    "phone": "+7 (499) 703-44-36",
+    "regions": [
+      "Крым",
+      "Крым / Бахчисарайский район",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": "9104028913"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "awards": [
+    "TOP100 2022 #44, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2000.0,
+    "max": 4800.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 2000.0,
+        "url": "https://thewinery.ru/wine_marselan_usadba_divnomorskoe_krasnoe_suhoe.php"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 3300.0,
+        "url": "https://top100wines.ru/top100_22"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 3450.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino-znmp-divnomorskoe-marselan-sukhoe-krasnoe-145-075l.html"
+      },
+      {
+        "label": "RussianVine",
+        "price": 3500.0,
+        "url": "https://russianvine.ru/vino-divnomorskoe-marselan-2018"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-divnomorskoe-marselan-2018",
+      "text": "Цвет вина глубокий красный с чернильными оттенками. В аромате доминируют нюансы лесной фиалки, черники, ежевики, какао. Вкус яркий, интенсивный, округлый, сбалансированный, маслянистый со \"сладкими\" шёлковыми, мягкими, но ощутимыми танинами. В послевкусии прослеживается приятный оттенок черничного джема."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_marselan_usadba_divnomorskoe_krasnoe_suhoe.php",
+      "text": "Вкус яркий, интенсивный, округлый, сбалансированный, маслянистый со \"сладкими\", \"шелковыми\", \"мягкими\", но ощутимыми танинами. В послевкусии прослеживается приятный оттенок черничного джема."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_marselan_usadba_divnomorskoe_krasnoe_suhoe.php",
+      "text": "В аромате доминируют нюансы лесной фиалки, черники, ежевики, какао."
+    }
+  ],
+  "vintages": [
+    "2018",
+    "2020",
+    "2022"
+  ],
+  "winery": {
+    "name": "Усадьба Дивноморское",
+    "license_active": true,
+    "vineyard_ha": 83.94,
+    "website": "https://usadbadivnomorskoe.ru",
+    "phone": "+7 (86141) 3-55-18",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Краснодарский край / Геленджик",
+      "Кубань",
+      "Кубань. Геленджик"
+    ],
+    "inn": "2304072064"
+  }
+}

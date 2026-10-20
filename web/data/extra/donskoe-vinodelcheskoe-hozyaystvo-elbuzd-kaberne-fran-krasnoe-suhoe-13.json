@@ -1,0 +1,46 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1300.0,
+    "max": 1300.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 1300.0,
+        "url": "https://thewinery.ru/wine_kaberne_fran_elbuzd_krasnoe_suhoe.php"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_kaberne_fran_elbuzd_krasnoe_suhoe.php",
+      "text": "Вкус многогранный, сочный, с великолепной структурой и шелковистыми танинами. Полнотелое, бархатистое с долгим приятным послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_kaberne_fran_elbuzd_krasnoe_suhoe.php",
+      "text": "Аромат: яркий, интенсивный, стонами малины, черники, фиалки, зеленого перца, табака, черного шоколада и жареного кофе."
+    }
+  ],
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "Эльбузд",
+    "license_active": true,
+    "vineyard_ha": 25.0,
+    "website": "https://elbuzd-wine.ru",
+    "phone": "+7 988 565 38 65",
+    "regions": [
+      "Долина Дона",
+      "Ростовская область"
+    ],
+    "inn": "6140030493"
+  }
+}

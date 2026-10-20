@@ -1,0 +1,68 @@
+{
+  "awards": [
+    "TOP100 2024 #48, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1100.0,
+    "max": 2900.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 1100.0,
+        "url": "https://thewinery.ru/wine_shardone_reserve_alma_valley_beloe_suhoe.php"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 2700.0,
+        "url": "https://top100wines.ru/2024"
+      },
+      {
+        "label": "RussianVine",
+        "price": 2900.0,
+        "url": "https://russianvine.ru/vino-Alma-Valley-chardonnay-reserv-2014"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Alma-Valley-chardonnay-reserv-2014",
+      "text": "Золотистый цвет с красивым блеском. Насыщенный аромат с тонами жёлтых яблок, цитрусовых и других тропических плодов, а также с ванильными и сливочными оттенками. Вкус чистый, плодово-кремовый, с умеренной кислотностью и лёгкой пряностью в послевкусии. Вино готово к потреблению, но рекомендуется для дальнейшей выдержки в течение 2-3 лет."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_shardone_reserve_alma_valley_beloe_suhoe.php",
+      "text": "Вкус чистый, плодово-кремовый, с умеренной кислотностью и легкой пряностью в послевкусии."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_shardone_reserve_alma_valley_beloe_suhoe.php",
+      "text": "Насыщенный аромат с тонами желтых яблок, цитрусовых и других тропических плодов, а также с ванильными и сливочными оттенками."
+    }
+  ],
+  "vintages": [
+    "2014",
+    "2020",
+    "2021"
+  ],
+  "winery": {
+    "name": "Alma Valley",
+    "license_active": false,
+    "vineyard_ha": 405.0,
+    "website": "https://alma-valley.ru",
+    "phone": "+7 (36554) 9–19–79",
+    "regions": [
+      "Западно-Предгорный Крым",
+      "Крым",
+      "Крым / Бахчисарайский район / Долина реки Альма",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

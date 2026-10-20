@@ -1,0 +1,85 @@
+{
+  "awards": [
+    "TOP100 2025 #27, Золото",
+    "Бронза"
+  ],
+  "prices": {
+    "min": 789.99,
+    "max": 1500.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 789.99,
+        "url": "https://amwine.ru/catalog/vino/shato_pino_koldun_belyy/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1250.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_beloe_sukhoe_zgu_kuban_shato_pino_koldun_belyy.html"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 1500.0,
+        "url": "https://top100wines.ru/2025"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/shato_pino_koldun_belyy/",
+      "text": "Вино фруктовое, округлое с великолепным вкусом. Легко и приятно пьется."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/vino/shato_pino_koldun_belyy/",
+      "text": "Яркий аромат тропических фруктов, с грушево-цитрусовым продолжением и тонкими ванильно-медовыми нотами в послевкусии."
+    }
+  ],
+  "vintages": [
+    "2022",
+    "2024"
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/vino/shato_pino_koldun_belyy/",
+    "n": 3,
+    "avg": 5.0,
+    "items": [
+      {
+        "author": "ЮРИЙ К",
+        "date": "2026-09-26",
+        "rating": 5,
+        "text": "Южно-российский стиль. Очень интересное сочетание Шардоне и рислинга. Вкус кисло-сладкого сочного яблока."
+      },
+      {
+        "author": "Юля",
+        "date": "2026-07-06",
+        "rating": 5,
+        "text": "Хорошее, лёгкое, питкое вино"
+      },
+      {
+        "author": "Марк Савичев",
+        "date": "2026-06-12",
+        "rating": 5,
+        "text": "Сочетание Шардоне и Рислинга почувствовал, Пино гри не ощутил. Подавал при температуре 10 градусов к белой рыбе с голландским соусом. Приятное, сбалансированное. По шкале от 1 до 5: ароматичность — 3, кислотность — 3 (Рислинг хорошо сглажен Шардоне), тело — 3 (как у выдержанного Шардоне). Однозначно возьму еще."
+      }
+    ]
+  },
+  "winery": {
+    "name": "Шато Пино",
+    "license_active": true,
+    "vineyard_ha": 95.0,
+    "website": "https://chateau-pinot.ru/",
+    "phone": "+7 499 7034436",
+    "regions": [
+      "Краснодарский Край",
+      "Кубань",
+      "Новороссийск"
+    ],
+    "inn": "2315211390"
+  }
+}

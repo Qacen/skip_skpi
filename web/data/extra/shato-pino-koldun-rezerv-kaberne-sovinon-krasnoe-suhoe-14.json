@@ -1,0 +1,67 @@
+{
+  "awards": [
+    "TOP100 2022 #79, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2150.0,
+    "max": 2700.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Красностоп",
+        "price": 2150.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/shato-pino-koldun-rezerv-krasnoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 2700.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_krasnoe_sukhoe_vyderzhannoe_zgu_kuban_shato_pino_koldun_rezerv_1_5_l.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/vino/p/koldun-krasnyi-rezerv-997/",
+      "text": "Спелые тона красной сливы, сочной черешни, вишни, ежевики, отвар шиповника, спелый кизил. Послевкусие мягкое, фруктовое, с горчинкой вишневой косточки на финише."
+    },
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/shato-pino-koldun-rezerv-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Вино тельное, структурированное, округлое, танины мягкие, вкусовой профиль фруктовый"
+    },
+    {
+      "kind": "aroma",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/vino/p/koldun-krasnyi-rezerv-997/",
+      "text": "Аромат яркий, сложный, фруктовый. Во вкусе структурное, сбалансированное, с вишневым началом и продолжением красных фруктовых тонов аромата – ежевики, сливы, черешни, кизила."
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/shato-pino-koldun-rezerv-krasnoe-suhoe-vino-0-75-l/",
+      "text": "Букет яркий, наполненный ароматами ежевики, сливы, вишни, красной смородины."
+    }
+  ],
+  "vintages": [
+    "2020",
+    "2021",
+    "2022"
+  ],
+  "winery": {
+    "name": "Шато Пино",
+    "license_active": true,
+    "vineyard_ha": 95.0,
+    "website": "https://chateau-pinot.ru/",
+    "phone": "+7 499 7034436",
+    "regions": [
+      "Краснодарский Край",
+      "Кубань",
+      "Новороссийск"
+    ],
+    "inn": "2315211390"
+  }
+}

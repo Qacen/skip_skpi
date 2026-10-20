@@ -1,0 +1,52 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1749.0,
+    "max": 2000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 1749.0,
+        "url": "https://swn.ru/best-wines/2025-2026/azur/"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 1890.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino-rossiyskoe-znmp-gelendzhik-krinitsa-betta-azyur-sukhoe-beloe-136-075l.html"
+      },
+      {
+        "label": "Красностоп",
+        "price": 2000.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/vinodelnya-krinica-azur-beloe-suhoe-vino-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/2025-2026/azur/",
+      "text": "Вино светло-золотистого цвета. Обладает ярким экзотическим ароматом, в котором сплетаются ноты лепестков розы, личи (характерные для гевюрцтраминера) и спелого персика с оттенками апельсинового цвета (от муската). Благодаря выдержке на осадке и в дубе букет обретает глубину с легкими сливочными и пряными тонами. Вкус сухой, но при этом сочный и объемный, хорошо структурированный, с отличным балансом между фруктовой насыщенностью, округлой текстурой и свежей кислотностью. Послевкусие долгое, с пряно-цветочным шлейфом."
+    }
+  ],
+  "vintages": [
+    "2020",
+    "2023"
+  ],
+  "winery": {
+    "name": "Винодельня Криница",
+    "license_active": false,
+    "vineyard_ha": 84.8,
+    "website": "https://krinitsa.wine",
+    "phone": "+7 (499) 7034436",
+    "regions": [
+      "Геленджик",
+      "Краснодарский край",
+      "Кубань"
+    ],
+    "inn": null
+  }
+}

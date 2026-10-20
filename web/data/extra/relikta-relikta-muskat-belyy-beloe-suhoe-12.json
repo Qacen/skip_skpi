@@ -1,0 +1,34 @@
+{
+  "awards": [
+    "TOP100 2024 #59, Золото"
+  ],
+  "prices": {
+    "min": 850.0,
+    "max": 850.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 850.0,
+        "url": "https://top100wines.ru/2024"
+      }
+    ]
+  },
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "Реликта",
+    "license_active": false,
+    "vineyard_ha": 31.5,
+    "website": "https://www.relictawine.ru",
+    "phone": "+7 (916) 5617855",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Новороссийск",
+      "Кубань",
+      "Новороссийск"
+    ],
+    "inn": null
+  }
+}

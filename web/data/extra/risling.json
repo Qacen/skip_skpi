@@ -1,0 +1,44 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 1990.0,
+    "max": 1990.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "RussianVine",
+        "price": 1990.0,
+        "url": "https://russianvine.ru/vino-Galisckoe-risling-2018"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Galisckoe-risling-2018",
+      "text": "Минеральное, с богатым цветочно-цитрусовым ароматом, нотками бриоша, карамели и легкими нюансами имбиря. Во вкусе округлое, с джемовыми фруктами, корочкой белого хлеба, ноткой белого перца в долгом послевкусии."
+    }
+  ],
+  "vintages": [
+    "2018",
+    "2020"
+  ],
+  "winery": {
+    "name": "Галицкий и Галицкий",
+    "license_active": false,
+    "vineyard_ha": 68.0,
+    "website": "https://galitskiy-galitskiy.ru",
+    "phone": "+74957773883",
+    "regions": [
+      "Анапа",
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Кубань. Анапа"
+    ],
+    "inn": null
+  }
+}

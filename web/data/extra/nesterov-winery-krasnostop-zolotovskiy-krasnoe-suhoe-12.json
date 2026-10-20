@@ -1,0 +1,32 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1800.0,
+    "max": 2300.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 1800.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino_tikhoe_sukhoe_krasnoe_zgu_nesterov_krasnostop_zolotovskiy_2019.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "Nesterov Winery",
+    "license_active": false,
+    "vineyard_ha": 6.0,
+    "website": "https://vinoterria.com",
+    "phone": "+ 7 967 650 65 85",
+    "regions": [
+      "Краснодарский край",
+      "Новороссийск"
+    ],
+    "inn": null
+  }
+}

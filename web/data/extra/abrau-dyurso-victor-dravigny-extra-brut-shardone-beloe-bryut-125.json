@@ -1,0 +1,75 @@
+{
+  "awards": [
+    "TOP100 2022 #39, Золото",
+    "TOP100 2021 #44, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 600.0,
+    "max": 1149.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 600.0,
+        "url": "https://thewinery.ru/wine_victor_dravigny_abrau_durso_beloe_brut.php"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 760.0,
+        "url": "https://top100wines.ru/top100"
+      },
+      {
+        "label": "Красностоп",
+        "price": 850.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/abrau-dyurso-viktor-dravini-bryut-beloe-igristoe-vino-0-375-l/"
+      },
+      {
+        "label": "Глобус Винофан",
+        "price": 1149.0,
+        "url": "https://www.vinofan.ru/winecatalogue/region_krasnodarsky/wine_brut-abrau-durso-victor-dravigny/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "РБК Вино",
+      "url": "http://wine.rbc.ru/igristoe-vino/p/victor-dravigny-brut-magnum-912/",
+      "text": "Груша, желтая слива, черешня, луговые цветы, акация, сливочные нотки. Во вкусе интенсивное, хорошо структурированное, с насыщенной фруктовой палитрой ягод, спелых фруктов и луговых трав. В продолжительном послевкусии корочка бородинского хлеба с медовым финишем."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_victor_dravigny_abrau_durso_beloe_brut_d_or.php",
+      "text": "Прекрасный баланс и легкая минеральность органично сочетаются с яркой кислотностью. Вкус полный, приятный с тонами хлеба и оттенками цитруса."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/abrau_dyurso_viktor_dravini_ekstra_bryut/",
+      "text": "Насыщенный аромат вина обладает сложным букетом, в котором различаются нюансы абрикосов, лимона, горького апельсина и характерные тона какао и свежей хлебной корочки."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_victor_dravigny_abrau_durso_beloe_brut.php",
+      "text": "В ярком фруктовом аромате вина доминируют благородные тона яблочного варенья, корочки черного хлеба, семян подсолнечника, цветочного нектара и сливочного масла."
+    }
+  ],
+  "vintages": [
+    "2018",
+    "2019",
+    "2021",
+    "2022"
+  ],
+  "winery": {
+    "name": "Абрау-Дюрсо",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": null,
+    "phone": null,
+    "regions": [],
+    "inn": null
+  }
+}

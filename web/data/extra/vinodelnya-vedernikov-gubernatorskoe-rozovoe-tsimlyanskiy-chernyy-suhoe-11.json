@@ -1,0 +1,51 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 700.0,
+    "max": 1000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 700.0,
+        "url": "https://online.metro-cc.ru/products/075-l-vedern-rz-sh?utm_source=top100&amp"
+      },
+      {
+        "label": "Красностоп",
+        "price": 850.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/gubernatorskoe-rozovoe-vinodelnya-vedernikov-vino-suhoe-0-75-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/vinodelnya-vedernikov-rozovoe-suhoe-vino-0-75-l/",
+      "text": "Телов вина среднее, вкус гармоничный, кислотность яркая, во вкусе, спелая малина, кизил, гранат, в завершении тона садовой клубники"
+    },
+    {
+      "kind": "aroma",
+      "label": "Красностоп",
+      "url": "https://krasnostop.ru/katalog/tihie-vina/vinodelnya-vedernikov-rozovoe-suhoe-vino-0-75-l/",
+      "text": "В букете раскрываются нежные ароматы фруктов, клубники со сливками, мармелада, кизила, алычёвой пастилы."
+    }
+  ],
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "Винодельня Ведерниковъ",
+    "license_active": false,
+    "vineyard_ha": 215.56,
+    "website": "https://vedernikovwine.ru",
+    "phone": "+78632504540",
+    "regions": [
+      "Долина Дона",
+      "Ростовская область"
+    ],
+    "inn": "6116008465"
+  }
+}

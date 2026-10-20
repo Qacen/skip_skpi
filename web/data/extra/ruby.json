@@ -1,0 +1,22 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "vintages": [
+    "2021"
+  ],
+  "winery": {
+    "name": "WineMafia",
+    "license_active": false,
+    "vineyard_ha": 7.0,
+    "website": "https://winemafia.ru",
+    "phone": "+ 7 (925) 3301333",
+    "regions": [
+      "Анапа",
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань"
+    ],
+    "inn": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 1000.0,
+    "max": 1000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "RussianVine",
+        "price": 1000.0,
+        "url": "https://russianvine.ru/vino-Soberbash-pino-gri-2016"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Soberbash-pino-gri-2016",
+      "text": "Вино золотисто-соломенного цвета. С ярким ароматом белого перца, абрикоса, груши и зефира. Вкус вина обладает восхитительной структурой и замечательной, яркой округлостью. Его сладкие ноты сбалансированы приятной свежестью."
+    }
+  ],
+  "vintages": [
+    "2016",
+    "2022"
+  ],
+  "winery": {
+    "name": "Собер Баш",
+    "license_active": true,
+    "vineyard_ha": 61.21,
+    "website": "https://soberbashvino.ru/",
+    "phone": "+7 (988) 2420880",
+    "regions": [
+      "Долина реки Афипс",
+      "Краснодарский край"
+    ],
+    "inn": "2348032982"
+  }
+}

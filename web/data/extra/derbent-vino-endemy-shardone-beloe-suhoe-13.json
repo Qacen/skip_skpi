@@ -1,0 +1,31 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 699.0,
+    "max": 1841.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Simple Wine News",
+        "price": 699.0,
+        "url": "https://swn.ru/best-wines/summer-2026-2027/endemy-shardone-derbent-vino/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Simple Wine News",
+      "url": "https://swn.ru/best-wines/summer-2026-2027/endemy-shardone-derbent-vino/",
+      "text": "Цвет светло-соломенный. В аромате гармонично переплетаются ноты спелого яблока, груши и персика, дополненные легкими цитрусовыми оттенками. Вкус округлый и сбалансированный, с деликатной свежестью и приятным, чистым послевкусием."
+    }
+  ],
+  "vintages": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 850.0,
+    "max": 850.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 850.0,
+        "url": "https://thewinery.ru/wine_cimljanskij_cernij_vedernikov_rozovoe_suhoe.php"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_cimljanskij_cernij_vedernikov_rozovoe_suhoe.php",
+      "text": "Во вкусе вино полнотелое, округлое, свежее с яркой гаммой красных ягод и барбариса. Умеренно-длительное послевкусие с тонами клубники."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_cimljanskij_cernij_vedernikov_rozovoe_suhoe.php",
+      "text": "Нос вина умеренно-интенсивный, умеренно-комплексный, очень свежий с нюансами малины, клубники, розы, сливочной ноткой и выраженной минеральностью."
+    }
+  ],
+  "vintages": [
+    "2015"
+  ],
+  "winery": {
+    "name": "Винодельня Ведерниковъ",
+    "license_active": false,
+    "vineyard_ha": 215.56,
+    "website": "https://vedernikovwine.ru",
+    "phone": "+78632504540",
+    "regions": [
+      "Долина Дона",
+      "Ростовская область"
+    ],
+    "inn": "6116008465"
+  }
+}

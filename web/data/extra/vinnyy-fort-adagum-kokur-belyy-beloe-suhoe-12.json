@@ -1,0 +1,21 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "vintages": [
+    "2023"
+  ],
+  "winery": {
+    "name": "Винный форт Адагум",
+    "license_active": false,
+    "vineyard_ha": 18.0,
+    "website": "https://fortadagum.ru",
+    "phone": "+7 (918) 0880153",
+    "regions": [
+      "Краснодарский край",
+      "Крымск",
+      "Кубань"
+    ],
+    "inn": null
+  }
+}

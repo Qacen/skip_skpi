@@ -1,0 +1,20 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 850.0,
+    "max": 850.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 850.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/vino_igristoe_beloe_ekstra_bryut_zgu_dagestan_derbent_vino_desono_sovinon.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2024"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "awards": [
+    "Бронза"
+  ],
+  "prices": {
+    "min": 850.0,
+    "max": 850.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 850.0,
+        "url": "https://krymwine.ru/catalog/vino/tikhie-vina/vino-zgu-krym-chetyre-tsveta-bastardo-red-vzakharin-krasnoe-sukhoe-1012-075l.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "Валерий Захарьин",
+    "license_active": true,
+    "vineyard_ha": 1.62,
+    "website": "https://akchurinwinery.ru",
+    "phone": "+ 7 (499) 703-44-36",
+    "regions": [
+      "Анапа",
+      "Волгоградская область",
+      "Город федерального значения Севастополь",
+      "Дагестан",
+      "Долина Дона",
+      "Кавказ / Дагестан"
+    ],
+    "inn": "0000000"
+  }
+}

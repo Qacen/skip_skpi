@@ -1,0 +1,51 @@
+{
+  "prices": {
+    "min": 680.0,
+    "max": 680.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 680.0,
+        "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/abrau_dyurso_imperatorskoe/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/abrau_dyurso_imperatorskoe/",
+      "text": "Вкус вина тонкий, с нежной текстурой, яркой минеральностью, выразительной, но сбалансированной кислотностью, тонами грейпфрута, зеленого яблока, фейхоа и продолжительным, насыщенным послевкусием."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/abrau_dyurso_imperatorskoe/",
+      "text": "В аромате вина присутствуют ноты белых цветов, цитрусовых и садовых фруктов."
+    }
+  ],
+  "reviews": {
+    "source": "AMWINE",
+    "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/abrau_dyurso_imperatorskoe/",
+    "n": 2,
+    "avg": 5.0,
+    "items": [
+      {
+        "author": "Ольга Ивановская",
+        "date": "2026-04-13",
+        "rating": 5,
+        "text": "Неожиданно, , вкус приятный, нежный без резкой кислоты, хотя -брют!"
+      }
+    ]
+  },
+  "winery": {
+    "name": "Абрау-Дюрсо",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": null,
+    "phone": null,
+    "regions": [],
+    "inn": null
+  }
+}

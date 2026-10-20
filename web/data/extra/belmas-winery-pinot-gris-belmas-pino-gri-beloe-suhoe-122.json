@@ -1,0 +1,36 @@
+{
+  "awards": [
+    "TOP100 2025 #45, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 3000.0,
+    "max": 3000.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Топ-100 российских вин",
+        "price": 3000.0,
+        "url": "https://top100wines.ru/2025"
+      }
+    ]
+  },
+  "vintages": [
+    "2022"
+  ],
+  "winery": {
+    "name": "Belmas Winery",
+    "license_active": false,
+    "vineyard_ha": 7.04,
+    "website": "https://belmaswinery.com",
+    "phone": "+7(499) 703-44-36",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Село Родное",
+      "Республика Крым",
+      "Севастополь",
+      "город федерального значения Севастополь"
+    ],
+    "inn": "9200006976"
+  }
+}

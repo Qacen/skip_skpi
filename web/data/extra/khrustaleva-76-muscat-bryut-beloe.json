@@ -1,0 +1,20 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 2150.0,
+    "max": 2150.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Винный магазин",
+        "price": 2150.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/vino_igristoe_aya_organic_wine_khrustaleva_76_muskat.html"
+      }
+    ]
+  },
+  "vintages": [
+    "2024"
+  ]
+}

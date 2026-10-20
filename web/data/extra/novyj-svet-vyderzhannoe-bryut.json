@@ -1,0 +1,59 @@
+{
+  "prices": {
+    "min": 529.0,
+    "max": 3950.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "AMWINE",
+        "price": 529.0,
+        "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/igristoe_vino_shampanskoe_kollektsionnoe_artemovskoe_08_09/"
+      },
+      {
+        "label": "Каталог виноделен",
+        "price": 600.0,
+        "url": "https://thewinery.ru/wine_novij_svet_beloe_brut.php"
+      },
+      {
+        "label": "Красностоп",
+        "price": 3950.0,
+        "url": "https://krasnostop.ru/katalog/igristye-vina/novyy-svet-vyderzhannoe-magnum-bryut-beloe-igristoe-vino-1-5-l/"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_novij_svet_beloe_brut.php",
+      "text": "Изобилие слегка сладковатых тонов сбалансировано изумительной свежестью. Великолепное питкое вино с легкими тонами дикой черешни."
+    },
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/rossiyskoe_bryut/",
+      "text": "Шампанское обладает мягким и гармоничным вкусом."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_novij_svet_beloe_brut.php",
+      "text": "Шардоне подарил шампанскому узнаваемый аромат весеннего цветения сада, к которому подключаются нотки полевого разнотравья."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/rossiyskoe_bryut/",
+      "text": "Аромат шампанского раскрывается нежными цветочными оттенками."
+    }
+  ],
+  "winery": {
+    "name": "Новый Свет. Дом шампанских вин",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": null,
+    "phone": null,
+    "regions": [],
+    "inn": null
+  }
+}

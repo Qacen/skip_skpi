@@ -1,0 +1,72 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "prices": {
+    "min": 450.0,
+    "max": 4560.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 450.0,
+        "url": "https://thewinery.ru/wine_pino_nuar_balaklava_rozovoe_brut.php"
+      },
+      {
+        "label": "RussianVine",
+        "price": 690.0,
+        "url": "https://russianvine.ru/vino-Balaklava-pino-noir-rose-brut-2016"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 700.0,
+        "url": "https://online.metro-cc.ru/products/pino-nuar-balaklava-rozovoe-bryut-075-l?utm_source=top100&amp"
+      },
+      {
+        "label": "Винный магазин",
+        "price": 760.0,
+        "url": "https://krymwine.ru/catalog/igristye-vina/bryut_pino.html"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-Balaklava-pino-noir-rose-brut-2016",
+      "text": "Цвет вина нежно розовый. В аромате специи, клубника, малина, оттенки цветов и трав, лёгкий ненавязчивый тон сливочной карамели. Отличная структура, вкус чистый, стройный, развитый, с длительным приятным послевкусием."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_pino_nuar_balaklava_rozovoe_brut.php",
+      "text": "Нежный и одновременно насыщенный вкус с тонами бисквита и сливочным оттенком садовых фруктов."
+    },
+    {
+      "kind": "aroma",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_pino_nuar_balaklava_rozovoe_brut.php",
+      "text": "С ароматом фруктов и полевых цветов с тонами грушевого и яблочного ликера плюс экзотические ноты свежих грибов в зрелом «дымном» букете."
+    }
+  ],
+  "vintages": [
+    "2016",
+    "2022",
+    "2024",
+    "2025"
+  ],
+  "winery": {
+    "name": "Золотая Балка",
+    "license_active": false,
+    "vineyard_ha": 1400.0,
+    "website": "https://zolotaiabalka.ru",
+    "phone": "+7 (8692) 45-52-72",
+    "regions": [
+      "Крым",
+      "Крым / Севастополь / Балаклава",
+      "Республика Крым",
+      "Севастополь"
+    ],
+    "inn": null
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "awards": [
+    "TOP100 2021 #41, Золото",
+    "Серебро"
+  ],
+  "prices": {
+    "min": 4000.0,
+    "max": 6700.0,
+    "currency": "RUB",
+    "offers": [
+      {
+        "label": "Каталог виноделен",
+        "price": 4000.0,
+        "url": "https://thewinery.ru/wine_krasnostop_burnie_krasnoe_suhoe.php"
+      },
+      {
+        "label": "Топ-100 российских вин",
+        "price": 4700.0,
+        "url": "https://top100wines.ru/top100"
+      },
+      {
+        "label": "Красностоп",
+        "price": 5100.0,
+        "url": "https://krasnostop.ru/katalog/tihie-vina/byurne-krasnostop-2015-krasnoe-suhoe-vino-0-75-l/"
+      },
+      {
+        "label": "RussianVine",
+        "price": 6500.0,
+        "url": "https://russianvine.ru/vino-burnie-krasnostop-2016"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "RussianVine",
+      "url": "https://russianvine.ru/vino-burnie-krasnostop-2016",
+      "text": "Цвет глубокий, тёмно-рубиновый. Богатый вкус с хорошей сахаристостью и ароматами спелых фруктов, тонами изюма, чернослива."
+    },
+    {
+      "kind": "taste",
+      "label": "Каталог виноделен",
+      "url": "https://thewinery.ru/wine_krasnostop_burnie_krasnoe_suhoe.php",
+      "text": "Богатый вкус с хорошей сахаристостью и ароматами спелых фруктов, тонами изюма, чернослива."
+    }
+  ],
+  "vintages": [
+    "2014",
+    "2015",
+    "2016"
+  ],
+  "winery": {
+    "name": "Винодельня Бюрнье",
+    "license_active": false,
+    "vineyard_ha": 48.0,
+    "website": "https://burnier.vin/",
+    "phone": "+7 (86133) 2-89-57",
+    "regions": [
+      "Краснодарский край",
+      "Краснодарский край / Анапа",
+      "Кубань",
+      "Кубань. Новороссийск",
+      "Новороссийск"
+    ],
+    "inn": null
+  }
+}

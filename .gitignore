@@ -1,0 +1,42 @@
+# «Свои вина» — only the service lives in this repository. Research, raw scrapes, datasets and model weights stay outside
+# (see README.md and deploy/ guides for where they come from).
+/*
+!/.gitignore
+!/README.md
+!/ARCHITECTURE.md
+!/docker-compose.yml
+!/docker-compose.cpu.yml
+!/web/
+!/ml/
+!/deploy/
+!/docs/
+
+# build / runtime
+node_modules/
+.nuxt/
+.output/
+.data/
+.nitro/
+.cache/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.log
+.DS_Store
+.env
+!.env.example
+
+# large or local-only artefacts (downloaded / built by the guides)
+ml/weights/
+ml/index/index_naflex1024_with_video.npz
+deploy/vast/wine-deploy.tar.gz
+web/public/__test/
+web/ml-url.txt
+web/data/_*.json
+
+# training materials are kept out of the public repo
+ml/training/
+
+# deploy bundle built from this repo (scp to the server), not source
+deploy/vast_rt/wine_rt.zip

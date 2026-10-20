@@ -1,0 +1,31 @@
+{
+  "awards": [
+    "Серебро"
+  ],
+  "notes": [
+    {
+      "kind": "taste",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/abrau_dyurso_imperial_bryut_l_art_nuvo/",
+      "text": "Вкус вина свежий, гармоничный, прекрасно сложенный, преимущественно фруктовый, с приятным и долгим послевкусием с нюансами минералов."
+    },
+    {
+      "kind": "aroma",
+      "label": "AMWINE",
+      "url": "https://amwine.ru/catalog/igristoe_vino_i_shampanskoe/igristoe_vino/abrau_dyurso_imperial_bryut_l_art_nuvo/",
+      "text": "Сложный аромат вина раскрывается тонким сочетанием плодовых тонов (зеленого яблока, лайма), постепенно дополняется мятными нюансами и богатыми оттенками яблочного конфитюра, меда и сладкой сдобы."
+    }
+  ],
+  "vintages": [
+    "2010"
+  ],
+  "winery": {
+    "name": "Абрау-Дюрсо",
+    "license_active": false,
+    "vineyard_ha": null,
+    "website": null,
+    "phone": null,
+    "regions": [],
+    "inn": null
+  }
+}
